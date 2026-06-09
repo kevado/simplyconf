@@ -1,0 +1,39 @@
+/**
+ * SimplyConf Dashboard Block Styles
+ * Ensures the dashboard displays properly on the frontend
+ */
+
+/* Block wrapper - full width alignment */
+.wp-block-simplyconf-dashboard {
+	width: 100%;
+	max-width: 100%;
+	margin: 0;
+	padding: 0;
+}
+
+/* Full-width alignment support */
+.wp-block-simplyconf-dashboard.alignfull {
+	width: 100vw;
+	max-width: 100vw;
+	position: relative;
+	left: 50%;
+	right: 50%;
+	margin-left: -50vw !important;
+	margin-right: -50vw !important;
+}
+
+/* Ensure dashboard container doesn't overflow */
+.wp-block-simplyconf-dashboard .simplyconf-dashboard-container {
+	width: 100%;
+	max-width: 100%;
+	overflow-x: hidden;
+}
+
+/* Editor placeholder styles */
+.simplyconf-dashboard-placeholder {
+	margin: 20px 0;
+}
+
+.simplyconf-dashboard-placeholder .components-placeholder {
+	min-height: 200px;
+}

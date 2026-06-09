@@ -1,0 +1,28 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "simplyconf/register",
+	"version": "1.0.0",
+	"title": "SimplyConf Register",
+	"category": "widgets",
+	"icon": "admin-users",
+	"description": "Registration form for new conference participants to create an account.",
+	"keywords": ["simplyconf", "register", "conference", "signup"],
+	"textdomain": "simplyconf",
+	"supports": {
+		"align": ["full", "wide"],
+		"reusable": false,
+		"html": false,
+		"customClassName": false
+	},
+	"attributes": {
+		"eventId": {
+			"type": "number",
+			"default": 1
+		},
+		"hideTitle": {
+			"type": "boolean",
+			"default": false
+		}
+	}
+}

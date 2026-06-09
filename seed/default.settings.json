@@ -1,0 +1,290 @@
+[
+	{
+		"category": "abstract",
+		"name": "submission_mode",
+		"label": "Submission Mode",
+		"type": "select",
+		"default_value": "wizard",
+		"description": "Choose between wizard (step-by-step) or single page submission mode."
+	},
+	{
+		"category": "abstract",
+		"name": "chars_count",
+		"label": "Character Count Limit",
+		"type": "number",
+		"default_value": 250,
+		"description": "Maximum number of characters allowed in an abstract."
+	},
+	{
+		"category": "abstract",
+		"name": "upload_limit",
+		"label": "Upload Limit",
+		"type": "number",
+		"default_value": 3,
+		"description": "Maximum number of files allowed per submission."
+	},
+	{
+		"category": "abstract",
+		"name": "max_attach_size",
+		"label": "Max Attachment Size",
+		"type": "number",
+		"default_value": 10,
+		"description": "Maximum attachment size in bytes."
+	},
+	{
+		"category": "abstract",
+		"name": "allowed_file_types",
+		"label": "Allowed File Types",
+		"type": "text",
+		"default_value": "[\"pdf\",\"doc\",\"ppt\",\"xls\",\"jpg\",\"png\"]",
+		"description": "Allowed file types for abstract submissions."
+	},
+	{
+		"category": "abstract",
+		"name": "show_attachments",
+		"label": "Show Attachments Step",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Display uploaded attachments."
+	},
+	{
+		"category": "abstract",
+		"name": "show_author",
+		"label": "Show Author Step",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Display author names in the abstract view."
+	},
+	{
+		"category": "abstract",
+		"name": "show_description",
+		"label": "Show Abstract Description",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Display abstract descriptions in the frontend."
+	},
+	{
+		"category": "abstract",
+		"name": "attachment_pref",
+		"label": "Attachment Preference",
+		"type": "text",
+		"default_value": "optional",
+		"description": "Set attachment preference as optional or required"
+	},
+	{
+		"category": "abstract",
+		"name": "accepted_status",
+		"label": "Accepted Status",
+		"type": "number",
+		"default_value": 3,
+		"description": "Status indicating an accepted abstract."
+	},
+	{
+		"category": "abstract",
+		"name": "edit_status",
+		"label": "Editable Statuses",
+		"type": "text",
+		"default_value": "[1]",
+		"description": "Statuses where editing abstracts is allowed."
+	},
+	{
+		"category": "abstract",
+		"name": "default_status",
+		"label": "Default Abstract Status",
+		"type": "number",
+		"default_value": 1,
+		"description": "Default status assigned to newly submitted abstracts."
+	},
+	{
+		"category": "abstract",
+		"name": "submit_limit",
+		"label": "Submission Limit",
+		"type": "number",
+		"default_value": 2,
+		"description": "Maximum number of submissions allowed per author."
+	},
+	{
+		"category": "abstract",
+		"name": "editor_media",
+		"label": "Enable Media in Editor",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Allow media uploads in the text editor."
+	},
+	{
+		"category": "email",
+		"name": "enable_submission_emails",
+		"label": "Enable Submission Emails",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Enable email notifications for abstract submissions."
+	},
+	{
+		"category": "email",
+		"name": "enable_revision_emails",
+		"label": "Enable Revision Emails",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Enable email notifications for abstract revisions."
+	},
+	{
+		"category": "email",
+		"name": "enable_status_change_emails",
+		"label": "Enable Status Change Emails",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Enable email notifications for status changes."
+	},
+	{
+		"category": "email",
+		"name": "enable_assignment_emails",
+		"label": "Enable Assignment Emails",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Enable email notifications for reviewer assignments."
+	},
+	{
+		"category": "email",
+		"name": "enable_review_submission_emails",
+		"label": "Enable Review Submission Emails",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Enable email notifications for review submissions."
+	},
+	{
+		"category": "email",
+		"name": "email_footer_branding",
+		"label": "Show \"Powered by SimplyConf\" in Email Footer",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Display \"Powered by SimplyConf\" branding in the email footer."
+	},
+	{
+		"category": "email",
+		"name": "admin_notification_users",
+		"label": "Admin Notification Users",
+		"type": "text",
+		"default_value": "",
+		"description": "Comma-separated list of admin user IDs to receive admin notifications."
+	},
+	{
+		"category": "event",
+		"name": "sync_status",
+		"label": "Sync Status",
+		"type": "boolean",
+		"default_value": 0,
+		"description": "Enable syncing of status across events."
+	},
+	{
+		"category": "review",
+		"name": "blind_review",
+		"label": "Blind Review",
+		"type": "boolean",
+		"default_value": 0,
+		"description": "Enable blind review (hide author details from reviewers)."
+	},
+	{
+		"category": "review",
+		"name": "show_reviews",
+		"label": "Show Reviews to Authors",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Allow authors to view reviews."
+	},
+	{
+		"category": "user",
+		"name": "enable_user_registration",
+		"label": "Enable User Registration",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Enable user registration on the site."
+	},
+	{
+		"category": "user",
+		"name": "enable_captcha",
+		"label": "Enable CAPTCHA",
+		"type": "boolean",
+		"default_value": 0,
+		"description": "Enable Google reCAPTCHA v3 for login and registration forms."
+	},
+	{
+		"category": "user",
+		"name": "recaptcha_site_key",
+		"label": "reCAPTCHA Site Key",
+		"type": "text",
+		"default_value": "",
+		"description": "Google reCAPTCHA v3 site key."
+	},
+	{
+		"category": "user",
+		"name": "recaptcha_secret_key",
+		"label": "reCAPTCHA Secret Key",
+		"type": "text",
+		"default_value": "",
+		"description": "Google reCAPTCHA v3 secret key. Never exposed to the frontend."
+	},
+	{
+		"category": "user",
+		"name": "login_redirect",
+		"label": "Login Redirect URL",
+		"type": "text",
+		"default_value": "/dashboard",
+		"description": "URL to redirect users after login."
+	},
+	{
+		"category": "user",
+		"name": "password_min_length",
+		"label": "Minimum Password Length",
+		"type": "number",
+		"default_value": 8,
+		"description": "Minimum number of characters required for passwords."
+	},
+	{
+		"category": "user",
+		"name": "password_max_length",
+		"label": "Maximum Password Length",
+		"type": "number",
+		"default_value": 32,
+		"description": "Maximum number of characters allowed for passwords."
+	},
+	{
+		"category": "user",
+		"name": "password_require_uppercase",
+		"label": "Require Uppercase Letters",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Require at least one uppercase letter in passwords."
+	},
+	{
+		"category": "user",
+		"name": "password_require_lowercase",
+		"label": "Require Lowercase Letters",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Require at least one lowercase letter in passwords."
+	},
+	{
+		"category": "user",
+		"name": "password_require_numbers",
+		"label": "Require Numbers",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Require at least one number in passwords."
+	},
+	{
+		"category": "user",
+		"name": "password_require_symbols",
+		"label": "Require Special Symbols",
+		"type": "boolean",
+		"default_value": 0,
+		"description": "Require at least one special symbol in passwords."
+	},
+	{
+		"category": "author",
+		"name": "auto_link_authors_to_users",
+		"label": "Auto-Link Authors to WordPress Users",
+		"type": "boolean",
+		"default_value": 1,
+		"description": "Automatically link authors to WordPress accounts by matching email addresses."
+	}
+]

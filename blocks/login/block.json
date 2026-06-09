@@ -1,0 +1,28 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "simplyconf/login",
+	"version": "1.0.0",
+	"title": "SimplyConf Login",
+	"category": "widgets",
+	"icon": "lock",
+	"description": "Login form for conference participants to access their dashboard.",
+	"keywords": ["simplyconf", "login", "conference", "authentication"],
+	"textdomain": "simplyconf",
+	"supports": {
+		"align": ["full", "wide"],
+		"reusable": false,
+		"html": false,
+		"customClassName": false
+	},
+	"attributes": {
+		"eventId": {
+			"type": "number",
+			"default": 1
+		},
+		"hideTitle": {
+			"type": "boolean",
+			"default": false
+		}
+	}
+}

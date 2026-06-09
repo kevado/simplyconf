@@ -1,0 +1,15 @@
+# Test artifacts
+test-results/
+playwright-report/
+e2e/report/
+e2e/screenshots/
+e2e/results.json
+
+# Environment files
+.env.test
+
+# Videos
+*.webm
+
+# Traces
+*.zip

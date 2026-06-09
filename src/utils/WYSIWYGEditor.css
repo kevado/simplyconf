@@ -1,0 +1,153 @@
+/* WYSIWYG Editor Styles */
+.wysiwyg-editor-container {
+	position: relative;
+	width: 100%;
+}
+
+/* Draft.js Editor Customization */
+.wysiwyg-editor-container .rdw-editor-wrapper {
+	background: #ffffff;
+	border-radius: 8px;
+	border: 1px solid #d9d9d9;
+	transition: all 0.3s;
+}
+
+.wysiwyg-editor-container .rdw-editor-wrapper:hover {
+	border-color: #40a9ff;
+}
+
+.wysiwyg-editor-container .rdw-editor-wrapper:focus-within {
+	border-color: #40a9ff;
+	box-shadow: 0 0 0 2px rgba(24, 144, 255, 0.2);
+}
+
+/* Toolbar Styling */
+.wysiwyg-editor-container .rdw-editor-toolbar {
+	background: #fafafa;
+	border: none;
+	border-bottom: 1px solid #d9d9d9;
+	border-radius: 8px 8px 0 0;
+	padding: 12px;
+}
+
+/* Toolbar Button Styling */
+.wysiwyg-editor-container .rdw-editor-toolbar button {
+	width: 32px;
+	height: 32px;
+	padding: 4px;
+	margin: 0 2px;
+	border-radius: 4px;
+	transition: all 0.2s;
+}
+
+.wysiwyg-editor-container .rdw-editor-toolbar button:hover {
+	background: #e6f7ff;
+	color: #1890ff;
+}
+
+.wysiwyg-editor-container .rdw-editor-toolbar button.rdw-option-active {
+	background: #1890ff;
+	color: #ffffff;
+}
+
+/* Editor Content Area */
+.wysiwyg-editor-container .rdw-editor-main {
+	border: none;
+	font-family:
+		-apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue",
+		Arial, sans-serif;
+	font-size: 14px;
+	line-height: 1.6;
+	background: #ffffff;
+	color: #000000;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content {
+	padding: 16px;
+	min-height: 400px;
+	max-height: 600px;
+	overflow-y: auto;
+	background: #ffffff;
+	color: #000000;
+}
+
+.wysiwyg-editor-container
+	.rdw-editor-main
+	.public-DraftEditor-content
+	.public-DraftEditorPlaceholder-root {
+	color: #bfbfbf;
+	font-style: italic;
+}
+
+/* Content Styling */
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content h1 {
+	font-size: 2em;
+	font-weight: 600;
+	margin-bottom: 0.5em;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content h2 {
+	font-size: 1.5em;
+	font-weight: 600;
+	margin-bottom: 0.5em;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content h3 {
+	font-size: 1.25em;
+	font-weight: 600;
+	margin-bottom: 0.5em;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content p {
+	margin-bottom: 1em;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content ul,
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content ol {
+	margin-bottom: 1em;
+	padding-left: 1.5em;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content li {
+	margin-bottom: 0.25em;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content a {
+	color: #1890ff;
+	text-decoration: underline;
+}
+
+.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content a:hover {
+	color: #40a9ff;
+}
+
+/* Character Count */
+.wysiwyg-char-count {
+	position: absolute;
+	bottom: 8px;
+	right: 12px;
+	font-size: 12px;
+	color: #8c8c8c;
+	background: rgba(255, 255, 255, 0.9);
+	padding: 4px 8px;
+	border-radius: 4px;
+	pointer-events: none;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+	.wysiwyg-editor-container .rdw-editor-toolbar {
+		padding: 8px;
+	}
+
+	.wysiwyg-editor-container .rdw-editor-toolbar button {
+		width: 28px;
+		height: 28px;
+		margin: 0 1px;
+	}
+
+	.wysiwyg-editor-container .rdw-editor-main .public-DraftEditor-content {
+		padding: 12px;
+		min-height: 300px;
+	}
+}

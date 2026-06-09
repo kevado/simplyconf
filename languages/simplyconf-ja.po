@@ -1,0 +1,5929 @@
+# Japanese translation for SimplyConf
+# Copyright (C) 2025 SimplyConf
+# This file is distributed under the same license as the SimplyConf package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SimplyConf 3.0.0\n"
+"Report-Msgid-Bugs-To: https://simplyconf.com\n"
+"POT-Creation-Date: 2026-04-02T14:02:40+0000\n"
+"PO-Revision-Date: 2025-12-05 17:01-0500\n"
+"Last-Translator: \n"
+"Language-Team: Japanese\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: src/components/shared/attachments/FileList.js:325
+msgid " (%d selected)"
+msgstr "(%d選択)"
+
+#: src/components/admin/abstracts/Authors.js:373
+msgid "—"
+msgstr "—"
+
+#: src/components/frontend/submissions/Submissions.js:295
+msgid "{count} submissions deleted successfully"
+msgstr "ユーザーが成功裏に削除されました"
+
+#: src/components/shared/attachments/DocumentsStep.js:230
+msgid "* At least one file is required"
+msgstr "名前は必須です"
+
+#: src/components/shared/attachments/FilePreview.js:177
+msgid "%d downloads"
+msgstr "%d ダウンロード"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:144
+msgid "%d field(s) deleted successfully"
+msgstr "ユーザーが成功裏に削除されました"
+
+#: src/components/admin/abstracts/Attachments.js:354
+#: src/components/shared/attachments/FileList.js:323
+msgid "%d files"
+msgstr "%d ファイル"
+
+#: src/components/admin/abstracts/Attachments.js:137
+msgid "%d files deleted successfully"
+msgstr "ユーザーが成功裏に削除されました"
+
+#: inc/class-dashboard-setup.php:62
+msgid "%s - Dashboard"
+msgstr "ダッシュボード"
+
+#: src/components/shared/abstracts/AbstractView.js:1084
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#: inc/addons.php:206
+msgid "%s Add-On"
+msgstr "%s アドオン"
+
+#: src/components/shared/abstracts/AbstractView.js:1305
+msgid "%s Created"
+msgstr "作成日"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:216
+#: src/components/shared/abstracts/AbstractWizard.js:264
+msgid "%s Description"
+msgstr "%sの説明"
+
+#: src/hooks/useAbstractFormState.js:550
+msgid "%s description is required"
+msgstr "命令が必要です"
+
+#: inc/addons.php:207
+msgid "%s feature"
+msgstr "特徴%s"
+
+#: src/components/shared/abstracts/AbstractWizard.js:232
+msgid "%s Info"
+msgstr "%sの情報"
+
+#: src/hooks/useAbstractFormState.js:588
+msgid "%s is required"
+msgstr "%s は必須項目です。"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:162
+#: src/components/shared/abstracts/AbstractWizard.js:706
+msgid "%s Locked"
+msgstr "%s Locked"
+
+#: src/components/admin/abstracts/Wrapper.js:42
+msgid "%s Settings"
+msgstr "%s 設定"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:188
+#: src/components/shared/abstracts/AbstractWizard.js:243
+msgid "%s Title"
+msgstr "%sのタイトル"
+
+#: src/hooks/useAbstractFormState.js:541
+msgid "%s title is required"
+msgstr "名前は必須です"
+
+#: src/components/shared/attachments/DocumentsStep.js:190
+msgid "%s uploaded successfully"
+msgstr "画像のアップロードが正常に完了しました"
+
+#: src/components/frontend/auth/Login.js:314
+#: src/components/frontend/auth/Login.js:377
+msgid "← Back to Login"
+msgstr "← ログインに戻る"
+
+#: src/components/admin/abstracts/Authors.js:655
+msgid "⚙️ Custom Fields"
+msgstr "カスタムフィールド"
+
+#: src/components/admin/appearance/Appearance.js:676
+msgid "⚙️ Layout & Spacing"
+msgstr "⚙️ レイアウトと間隔"
+
+#: src/components/admin/appearance/Appearance.js:361
+msgid "🎨 Branding & Organization"
+msgstr "🎨 ブランディングと組織"
+
+#: src/components/admin/appearance/Appearance.js:449
+msgid "🎨 Color Scheme"
+msgstr "🎨 カラースキーム"
+
+#: src/components/admin/abstracts/FormBuilder.js:47
+msgid "👥 Author Fields"
+msgstr "ユーザー カスタムフィールド"
+
+#: src/components/admin/abstracts/Settings.js:426
+msgid "👥 Author Settings"
+msgstr "設定のエクスポート"
+
+#: src/components/admin/abstracts/Authors.js:603
+msgid "📌 Fixed Columns"
+msgstr "固定列"
+
+#: src/components/admin/abstracts/Settings.js:431
+msgid "📎 Attachment Settings"
+msgstr "添付ファイル"
+
+#: src/components/admin/abstracts/FormBuilder.js:44
+msgid "📝 Abstract Fields"
+msgstr "登録設定"
+
+#: src/components/admin/abstracts/Settings.js:421
+msgid "📝 Abstract Settings"
+msgstr "登録設定"
+
+#: src/components/admin/appearance/Appearance.js:500
+msgid "📝 Typography"
+msgstr "タイポグラフィ"
+
+#: src/components/admin/appearance/Appearance.js:689
+msgid "0px"
+msgstr "0 px"
+
+#: src/components/admin/appearance/Appearance.js:552
+#: src/components/admin/appearance/Appearance.js:692
+msgid "12px"
+msgstr "12px"
+
+#: src/components/admin/appearance/Appearance.js:553
+msgid "14px"
+msgstr "14px"
+
+#: src/components/admin/appearance/Appearance.js:554
+#: src/components/admin/appearance/Appearance.js:693
+msgid "16px"
+msgstr "16px"
+
+#: src/components/admin/appearance/Appearance.js:555
+msgid "18px"
+msgstr "18px"
+
+#: src/components/admin/appearance/Appearance.js:690
+msgid "4px"
+msgstr "4px"
+
+#: src/components/admin/appearance/Appearance.js:691
+msgid "8px"
+msgstr "8px"
+
+#: inc/class-dashboard-setup.php:47
+msgid "A dashboard page already exists for this event."
+msgstr "このイベントにはダッシュボード ページがすでに存在します。"
+
+#: src/components/admin/events/TerminologySettings.js:59 inc/functions.php:142
+msgid "Abstract"
+msgstr "要約ファイル"
+
+#: src/Admin.js:305
+msgid "Abstract Book"
+msgstr "要旨書"
+
+#: src/components/admin/abstracts/FormBuilder.js:60
+msgid "Abstract Custom Fields"
+msgstr "ユーザー カスタムフィールド"
+
+#: src/components/admin/abstracts/Abstracts.js:394
+msgid "Abstract deleted successfully"
+msgstr "要旨が正常に削除されました"
+
+#: src/components/shared/attachments/AbstractFileManager.js:66
+msgid "Abstract Documents"
+msgstr "登録設定"
+
+#: src/components/shared/attachments/AbstractFileManager.js:84
+msgid "Abstract PDF"
+msgstr "要約ファイル"
+
+#: src/components/admin/abstracts/Settings.js:555
+msgid "Abstract Settings"
+msgstr "登録設定"
+
+#: src/hooks/useAbstractFormState.js:787 src/hooks/useAbstractFormState.js:800
+msgid "Abstract submitted successfully!"
+msgstr "要旨が正常に削除されました"
+
+#: src/hooks/useAbstractFormState.js:757
+msgid "Abstract updated successfully!"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/admin/abstracts/Abstracts.js:838
+msgid "abstracts"
+msgstr "抄録"
+
+#: src/components/admin/events/TerminologySettings.js:60 inc/functions.php:142
+#: classes/admin-menu.php:49 classes/admin-menu.php:50
+msgid "Abstracts"
+msgstr "抄録"
+
+#: src/components/admin/abstracts/Abstracts.js:523
+msgid "abstracts deleted successfully"
+msgstr "要旨が正常に削除されました"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:462
+msgid "Accept Submissions"
+msgstr "送信"
+
+#: src/components/admin/events/Events.js:810
+msgid ""
+"Accepted authors must complete a paid conference registration managed by the"
+" Payments add-on."
+msgstr "受理者は、Paymentsアドオンが管理する有料会議登録を必ず行わなければなりません。"
+
+#: src/components/shared/attachments/FilePreview.js:217
+msgid "Access:"
+msgstr "アクセス:"
+
+#: src/components/frontend/auth/Register.js:155
+msgid "Account"
+msgstr "アカウント"
+
+#: src/components/frontend/auth/Register.js:308
+#: src/components/frontend/auth/Register.js:500
+msgid "Account Information"
+msgstr "アカウント情報"
+
+#: src/components/admin/abstracts/Abstracts.js:936
+#: src/components/admin/users/Users.js:320
+#: src/components/shared/customFields/CustomFieldsAdmin.js:710
+#: src/hooks/useAbstractColumns.js:376
+msgid "Action"
+msgstr "アクション"
+
+#: src/components/frontend/dashboard/widgets/ActionItems.js:61
+msgid "Action Items"
+msgstr "アクション"
+
+#: src/components/admin/abstracts/Attachments.js:274
+#: src/components/admin/abstracts/Authors.js:442
+#: src/components/admin/events/Events.js:291
+#: src/components/admin/events/StatusManagement.js:243
+#: src/components/admin/tracks/Tracks.js:70
+#: src/components/admin/tracks/Tracks.js:421
+#: src/components/frontend/attachments/Attachments.js:289
+#: src/components/frontend/submissions/Submissions.js:606
+#: src/components/shared/abstracts/AbstractView.js:519
+#: src/components/shared/attachments/FileList.js:451
+#: src/components/shared/customFields/CustomFieldsAdmin.js:292
+msgid "Actions"
+msgstr "アクション"
+
+#: src/components/admin/dashboard/Dashboard.js:689
+msgid "Activate addon licenses to unlock premium features"
+msgstr "高度な機能をアンロックするには、Proライセンスを有効化してください"
+
+#: src/components/admin/licenses/Licenses.js:306
+msgid "Activate License"
+msgstr "ライセンスを有効化"
+
+#: src/components/shared/UpgradePrompt.js:45
+msgid ""
+"Activate or renew your license to access this feature. If you don't have a "
+"license yet, you can purchase one from our website."
+msgstr "購入時に受け取ったライセンス キーを入力します。ライセンスをお持ちでない場合は、当社の Web サイトからライセンスを購入できます。"
+
+#: src/components/admin/licenses/Licenses.js:268
+msgid ""
+"Activate your license key to receive updates, support, and access to premium"
+" features."
+msgstr "高度な機能をアンロックするには、Proライセンスを有効化してください"
+
+#: src/components/admin/licenses/Licenses.js:212
+msgid "Activated"
+msgstr "有効化済み"
+
+#: src/components/admin/licenses/Licenses.js:80
+msgid "Activation failed"
+msgstr "アクティベーションに失敗しました"
+
+#: src/components/admin/licenses/Licenses.js:208
+msgid "Activations"
+msgstr "認証"
+
+#: src/components/admin/dashboard/Dashboard.js:608
+#: src/components/admin/dashboard/Dashboard.js:656
+#: src/components/admin/events/Events.js:287
+#: src/components/admin/events/Events.js:522
+#: src/components/admin/events/Events.js:608
+#: src/components/admin/licenses/Licenses.js:135
+#: src/components/admin/licenses/Licenses.js:140
+msgid "Active"
+msgstr "有効"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:403
+msgid "Add"
+msgstr "追加"
+
+#: src/components/shared/abstracts/AuthorManagement.js:230
+#: src/components/shared/abstracts/AuthorManagement.js:284
+msgid "Add Author"
+msgstr "作成者を追加"
+
+#: src/components/admin/tracks/Tracks.js:381
+msgid "Add Chairs"
+msgstr "議長の割り当て"
+
+#: src/components/admin/appearance/Appearance.js:726
+msgid "Add custom CSS to override theme styles. Use with caution."
+msgstr "カスタム CSS を追加してテーマ スタイルをオーバーライドします。慎重に使用してください。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:587
+msgid "Add custom fields to collect additional information"
+msgstr "カスタムフィールドを追加して追加情報を収集する"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:417
+msgid "Add Field"
+msgstr "フィールドを追加"
+
+#: src/hooks/useAbstractColumns.js:191
+msgid "Add Reviewers"
+msgstr "レビュアーの追加"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:856
+msgid "Add Rule"
+msgstr "ルールの追加"
+
+#: src/components/admin/events/StatusManagement.js:393
+msgid "Add Status"
+msgstr "ステータスを追加。"
+
+#: src/components/admin/tracks/Tracks.js:590
+msgid "Add Track"
+msgstr "全トラック"
+
+#: src/components/shared/UpgradePrompt.js:52
+msgid "Add-On Required"
+msgstr "追加要素が必要です"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:317
+#: src/components/shared/abstracts/AbstractWizard.js:389
+msgid "Additional Details"
+msgstr "組織の詳細"
+
+#: src/components/frontend/auth/Register.js:161
+#: src/components/frontend/auth/Register.js:413
+#: src/components/frontend/auth/Register.js:519
+#: src/components/shared/abstracts/AbstractView.js:757
+msgid "Additional Information"
+msgstr "追加情報"
+
+#: src/components/shared/attachments/AbstractFileManager.js:96
+msgid "Additional supporting documents (figures, tables, etc.)"
+msgstr "追加の補足文書(図、表など)"
+
+#: src/components/admin/users/Settings.js:367
+msgid ""
+"Additional user settings will be available here in future updates. Current "
+"settings focus on registration security and password policies."
+msgstr ""
+"今後のアップデートでは、追加のユーザー設定がここで利用できるようになります。現在の設定は、登録セキュリティとパスワード ポリシーに重点を置いています。"
+
+#: src/components/admin/dashboard/Dashboard.js:281
+#: src/components/admin/dashboard/Dashboard.js:331
+#: src/components/admin/dashboard/Dashboard.js:381
+#: src/components/admin/dashboard/Dashboard.js:431
+msgid "Addon not active"
+msgstr "アドオンが非アクティブ"
+
+#: src/components/admin/events/CreateEvent.js:172
+#: src/components/admin/events/EditEvent.js:218
+msgid "Address Information"
+msgstr "ユーザー情報"
+
+#: src/Frontend.js:524
+msgid "Admin"
+msgstr "管理者のみ"
+
+#: src/components/admin/users/Settings.js:408
+msgid "Advanced Settings"
+msgstr "設定を保存"
+
+#: src/components/admin/abstracts/Authors.js:527
+msgid "All %s"
+msgstr "すべての %s"
+
+#: src/components/shared/attachments/FileList.js:335
+msgid "All Files"
+msgstr "全てのファイル"
+
+#: src/components/admin/users/Users.js:842
+msgid "All Roles"
+msgstr "すべてのルール"
+
+#: src/components/frontend/submissions/Submissions.js:794
+msgid "All Status"
+msgstr "すべてのステータス"
+
+#: src/components/admin/abstracts/Abstracts.js:766
+#: src/components/admin/events/Events.js:521
+msgid "All Statuses"
+msgstr "ステータス一覧"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:309
+msgid "All track chairs have been assigned to this track"
+msgstr "一部のトラックに椅子を割り当てられなかった"
+
+#: src/components/admin/abstracts/Abstracts.js:781
+#: src/components/frontend/submissions/Submissions.js:812
+msgid "All Tracks"
+msgstr "全トラック"
+
+#: src/components/admin/abstracts/Attachments.js:404
+msgid "All Types"
+msgstr "すべてのタイプ"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:465
+msgid "Allow authors to submit abstracts to this event"
+msgstr "ユーザーが説明や要約の内容を入力できるように"
+
+#: src/components/admin/users/Settings.js:123
+msgid "Allow new users to register for accounts on your event"
+msgstr "新規ユーザーがイベントにアカウントを登録できるようにする"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:435
+msgid "Allow Registration"
+msgstr "登録"
+
+#: src/components/admin/abstracts/Settings.js:75
+msgid "Allow rich text formatting in abstract descriptions"
+msgstr "説明にはプレーンテキストエリアではなくリッチテキストエディターを使いましょう"
+
+#: src/components/admin/abstracts/Settings.js:45
+msgid "Allow users to enter a description/abstract content"
+msgstr "ユーザーが説明や要約の内容を入力できるように"
+
+#: src/components/admin/abstracts/Settings.js:256
+msgid "Allow users to upload files with their submissions"
+msgstr "ユーザーが投稿したファイルにアップロードできるようにしましょう"
+
+#: src/components/admin/abstracts/Settings.js:358
+#: src/components/shared/customFields/CustomFieldsAdmin.js:589
+msgid "Allowed File Types"
+msgstr "許可されているタイプ:"
+
+#: src/components/shared/attachments/FileUpload.js:184
+msgid "Allowed types:"
+msgstr "許可されているタイプ:"
+
+#: src/components/frontend/auth/Register.js:434
+msgid "Almost Done!"
+msgstr "もうすぐ終わります!"
+
+#: src/Admin.js:132 src/components/admin/settings/Wrapper.js:59
+msgid "Appearance"
+msgstr "外観"
+
+#: src/components/admin/settings/Wrapper.js:35
+msgid "Appearance Settings"
+msgstr "登録設定"
+
+#: src/components/admin/appearance/Appearance.js:793
+msgid "Apply & Save"
+msgstr "適用して保存"
+
+#: src/components/admin/appearance/Appearance.js:788
+msgid "Apply Theme Preset?"
+msgstr "テーマのプリセットを適用しますか?"
+
+#: src/components/admin/appearance/Appearance.js:805
+msgid ""
+"Applying this preset will override your current theme settings. Any unsaved "
+"changes will be lost."
+msgstr "このプリセットを適用すると、現在のテーマ設定が上書きされます。保存されていない変更は失われます。"
+
+#: src/components/admin/events/Events.js:319
+msgid "Archive"
+msgstr "アーカイブ"
+
+#: src/components/admin/events/Events.js:481
+msgid "Archive Selected"
+msgstr "選択したアイテムを削除"
+
+#: src/components/admin/events/Events.js:419
+msgid "archived"
+msgstr "アーカイブ済み"
+
+#: src/components/admin/events/Events.js:285
+#: src/components/admin/events/Events.js:523
+#: src/components/admin/events/Events.js:601
+msgid "Archived"
+msgstr "アーカイブ"
+
+#: src/components/frontend/submissions/Submissions.js:249
+msgid "Are you sure you want to delete"
+msgstr "本当に削除しますか"
+
+#: src/components/admin/abstracts/Attachments.js:297
+#: src/components/frontend/attachments/Attachments.js:313
+#: src/components/shared/attachments/DocumentsStep.js:340
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "本当に「%s」を削除してもよろしいですか?"
+
+#: src/components/frontend/submissions/Submissions.js:281
+msgid ""
+"Are you sure you want to delete {count} selected submissions? This action "
+"cannot be undone."
+msgstr "このイベントを削除したいのですか?この行動は取り消せない。"
+
+#: src/components/admin/users/Users.js:464
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected {users}?"
+msgstr "選択した{users}を削除したい{selectedRowKeys.length}本当にですか?"
+
+#: src/components/admin/abstracts/Abstracts.js:503
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected abstracts?"
+" This action cannot be undone."
+msgstr "選択した要旨を削除したい{selectedRowKeys.length}本当にありますか?この行動は取り消せない。"
+
+#: src/components/admin/events/Events.js:152
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected events? "
+"This action cannot be undone."
+msgstr "選択したイベントを削除したい{selectedRowKeys.length}本当にですか?この行動は取り消せない。"
+
+#: src/components/admin/tracks/Tracks.js:262
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected tracks? "
+"This action cannot be undone."
+msgstr "選択したトラック{selectedRowKeys.length}削除したいですか?この行動は取り消せない。"
+
+#: src/components/admin/abstracts/Attachments.js:126
+#: src/components/shared/attachments/FileList.js:99
+msgid "Are you sure you want to delete %d selected files?"
+msgstr "このイベントを削除してもよろしいですか？"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:126
+msgid ""
+"Are you sure you want to delete selected field(s)? This action cannot be "
+"undone."
+msgstr "このイベントを削除したいのですか?この行動は取り消せない。"
+
+#: src/components/admin/dashboard/DashboardSetup.js:77
+msgid ""
+"Are you sure you want to delete the existing dashboard page? This action "
+"cannot be undone."
+msgstr "このイベントを削除したいのですか?この行動は取り消せない。"
+
+#: src/components/admin/events/Events.js:989
+msgid "Are you sure you want to delete this event?"
+msgstr "このイベントを削除してもよろしいですか？"
+
+#: src/components/admin/events/Events.js:335
+msgid ""
+"Are you sure you want to delete this event? This action cannot be undone."
+msgstr "このイベントを削除したいのですか?この行動は取り消せない。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:310
+msgid "Are you sure you want to delete this field?"
+msgstr "本当に削除しますか？"
+
+#: src/components/shared/attachments/FileList.js:61
+msgid "Are you sure you want to delete this file?"
+msgstr "このファイルを削除してもよろしいですか？"
+
+#: src/components/admin/tracks/Tracks.js:87
+msgid "Are you sure you want to delete this session?"
+msgstr "本当にこのセッションを削除したいのですか?"
+
+#: src/components/admin/events/StatusManagement.js:255
+msgid "Are you sure you want to delete this status?"
+msgstr "本当にこのステータスを削除しますか？"
+
+#: src/hooks/useAbstractColumns.js:434
+msgid "Are you sure you want to delete this submission?"
+msgstr "この受信内容を本当に削除しますか？"
+
+#: src/components/admin/tracks/Tracks.js:445
+msgid "Are you sure you want to delete this track?"
+msgstr "本当にこのトラックを削除したいのですか?"
+
+#: src/components/admin/users/Users.js:351
+msgid "Are you sure you want to delete this user?"
+msgstr "このユーザーを削除してもよろしいですか？"
+
+#: src/components/shared/abstracts/AuthorManagement.js:158
+msgid "Are you sure you want to remove %s %s?"
+msgstr "本当に「%s」を削除してもよろしいですか?"
+
+#: src/components/admin/appearance/Appearance.js:516
+msgid "Arial"
+msgstr "Arial"
+
+#: src/components/shared/attachments/FileList.js:369
+msgid "Ascending"
+msgstr "昇順"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:330
+#: src/hooks/useAbstractColumns.js:406
+msgid "Assign"
+msgstr "割り当て"
+
+#: src/components/admin/abstracts/Abstracts.js:717
+msgid "Assign Reviewers"
+msgstr "レビュー担当者を割当"
+
+#: src/components/admin/users/Users.js:799
+msgid "Assign Role"
+msgstr "割り当て"
+
+#: src/components/admin/users/Users.js:1300
+msgid "Assign Roles"
+msgstr "レビュー担当者を割当"
+
+#: src/components/admin/users/Users.js:1274
+msgid "Assign Roles to {count} {users}"
+msgstr "{count} {users} に役割を割り当てる"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:200
+#: src/components/admin/tracks/Tracks.js:516
+msgid "Assign Track Chairs"
+msgstr "トラックチェアの割り当て"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:190
+msgid "Assigned"
+msgstr "割り当て"
+
+#: src/components/shared/abstracts/AbstractView.js:290
+msgid "Assigned Session"
+msgstr "編集セッション"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:82
+msgid "At least"
+msgstr "少なくとも"
+
+#: src/hooks/useAbstractFormState.js:563
+msgid "At least one %s is required"
+msgstr "名前は必須です"
+
+#: src/hooks/useAbstractFormState.js:570
+msgid "At least one attachment is required"
+msgstr "名前は必須です"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:97
+msgid "At most"
+msgstr "せいぜい"
+
+#: src/components/admin/abstracts/Settings.js:281
+msgid "Attachment Preference"
+msgstr "添付ファイル"
+
+#: src/components/admin/dashboard/Dashboard.js:201
+msgid "attachments"
+msgstr "添付ファイル"
+
+#: src/Admin.js:187 src/components/admin/abstracts/Wrapper.js:48
+#: src/components/admin/abstracts/Wrapper.js:93
+#: src/components/shared/abstracts/AbstractSinglePage.js:340
+#: src/components/shared/abstracts/AbstractView.js:911
+msgid "Attachments"
+msgstr "添付ファイル"
+
+#: src/components/frontend/attachments/Attachments.js:85
+msgid "Attachments refreshed"
+msgstr "添付ファイル"
+
+#: src/components/admin/events/TerminologySettings.js:101
+#: inc/functions.php:150
+msgid "Attendee"
+msgstr "参加者"
+
+#: src/components/admin/events/TerminologySettings.js:102
+#: inc/functions.php:150
+msgid "Attendees"
+msgstr "参加者"
+
+#: src/components/shared/attachments/FileList.js:341
+msgid "Audio"
+msgstr "オーディオ"
+
+#: src/components/admin/events/TerminologySettings.js:65
+#: src/components/admin/users/Users.js:283
+#: src/components/admin/users/Users.js:675
+#: src/components/admin/users/Users.js:851
+#: src/components/admin/users/Users.js:1326 inc/functions.php:143
+msgid "Author"
+msgstr "投稿者"
+
+#: src/components/admin/abstracts/FormBuilder.js:61
+msgid "Author Custom Fields"
+msgstr "ユーザー カスタムフィールド"
+
+#: src/components/admin/abstracts/Authors.js:218
+msgid "Author linked to WordPress user"
+msgstr "著者がWordPressユーザーにリンクされています"
+
+#: src/components/admin/abstracts/Authors.js:819
+msgid "Author updated successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/admin/dashboard/Dashboard.js:225
+msgid "authors"
+msgstr "投稿者"
+
+#: src/Admin.js:182 src/components/admin/events/TerminologySettings.js:66
+#: inc/functions.php:143
+msgid "Authors"
+msgstr "投稿者"
+
+#: src/components/shared/abstracts/AuthorManagement.js:215
+msgid "Authors (%d)"
+msgstr "投稿者"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:290
+msgid "Authors submit abstracts to your tracks"
+msgstr "自分のトラックに割り当てられた投稿を管理してください"
+
+#: src/components/admin/abstracts/Settings.js:217
+msgid "Auto-link Authors to Users"
+msgstr "WordPressユーザーへの自動リンク"
+
+#: src/components/admin/abstracts/Settings.js:221
+msgid "Automatically link authors to existing WordPress users based on email"
+msgstr "メールアドレスをマッチングすることで、著者をWordPressアカウントに自動的にリンクさせます"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:291
+msgid "Available Track Chairs"
+msgstr "トラックチェアの管理"
+
+#: src/components/shared/abstracts/AbstractWizard.js:352
+#: src/components/shared/abstracts/AbstractWizard.js:423
+#: src/components/shared/abstracts/AbstractWizard.js:484
+#: src/components/shared/attachments/DocumentsStep.js:123
+#: src/components/shared/attachments/DocumentsStep.js:368
+msgid "Back"
+msgstr "戻る"
+
+#: src/components/frontend/auth/Register.js:369
+#: src/components/frontend/auth/Register.js:596
+msgid "Back to Login"
+msgstr "ログイン画面に戻る"
+
+#: src/components/shared/abstracts/AbstractView.js:614
+msgid "Back to Submissions"
+msgstr "投稿に戻る"
+
+#: src/components/admin/appearance/Appearance.js:534
+msgid "Base Font Size"
+msgstr "基本フォントサイズ"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:435
+msgid "Basic Info"
+msgstr "基本情報"
+
+#: src/components/frontend/auth/Register.js:156
+msgid "Basic Information"
+msgstr "基本情報"
+
+#: src/components/admin/appearance/Appearance.js:682
+msgid "Border Radius"
+msgstr "枠線の丸み"
+
+#: src/components/admin/events/StatusManagement.js:463
+msgid "Brief description of this status"
+msgstr "この状況の簡単な説明"
+
+#: src/components/shared/UpgradePrompt.js:58
+msgid "Browse Add-Ons"
+msgstr "アドオンの閲覧"
+
+#: src/Admin.js:292
+msgid "Builder"
+msgstr "ビルダー"
+
+#: src/components/admin/tracks/Tracks.js:532
+#: src/components/frontend/submissions/Submissions.js:896
+#: src/components/shared/customFields/CustomFieldsAdmin.js:379
+msgid "Bulk Actions"
+msgstr "一括操作"
+
+#: src/components/admin/users/Users.js:815
+msgid "Bulk Actions ({count})"
+msgstr "一括操作"
+
+#: src/components/admin/abstracts/Abstracts.js:733
+#: src/components/admin/abstracts/Attachments.js:378
+#: src/components/admin/events/Events.js:497
+msgid "Bulk Actions ({selectedRowKeys.length})"
+msgstr "バルクアクション({selectedRowKeys.length})"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:199
+msgid "Bulk Assign Track Chair"
+msgstr "トラックチェアの割り当て"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:206
+msgid "Bulk Assignment"
+msgstr "現在配属されている:"
+
+#: src/components/admin/abstracts/Abstracts.js:1158
+msgid "Bulk Assignment (%d %s)"
+msgstr "現在配属されている:"
+
+#: src/components/admin/tracks/Tracks.js:668
+msgid "Bulk Assignment (%d tracks)"
+msgstr "トラックチェアの割り当て"
+
+#: src/components/admin/abstracts/Abstracts.js:509
+#: src/components/admin/abstracts/Abstracts.js:1113
+#: src/components/admin/abstracts/Attachments.js:131
+#: src/components/admin/abstracts/Authors.js:781
+#: src/components/admin/appearance/Appearance.js:794
+#: src/components/admin/appearance/Appearance.js:826
+#: src/components/admin/dashboard/DashboardSetup.js:83
+#: src/components/admin/events/Events.js:158
+#: src/components/admin/events/Events.js:994
+#: src/components/admin/events/Events.js:1003
+#: src/components/admin/events/Events.js:1021
+#: src/components/admin/tracks/Tracks.js:268
+#: src/components/admin/tracks/Tracks.js:601
+#: src/components/admin/users/EditUser.js:128
+#: src/components/admin/users/Users.js:467
+#: src/components/admin/users/Users.js:752
+#: src/components/admin/users/Users.js:952
+#: src/components/admin/users/Users.js:1193
+#: src/components/admin/users/Users.js:1292
+#: src/components/frontend/submissions/Submissions.js:252
+#: src/components/frontend/submissions/Submissions.js:287
+#: src/components/shared/abstracts/AuthorManagement.js:164
+#: src/components/shared/customFields/CustomFieldsAdmin.js:132
+#: src/components/shared/customFields/CustomFieldsAdmin.js:315
+#: src/components/shared/customFields/CustomFieldsAdmin.js:424
+#: src/components/shared/users/UserWizard.js:156
+msgid "Cancel"
+msgstr "キャンセル"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:86
+msgid "Cannot upload file: missing entity or event context"
+msgstr "ファイルをアップロードできません: エンティティまたはイベント コンテキストがありません"
+
+#: src/components/admin/abstracts/Abstracts.js:711
+#: src/components/admin/abstracts/Abstracts.js:1074
+#: src/hooks/useAbstractColumns.js:412
+msgid "Change Status"
+msgstr "ステータスを変更"
+
+#: src/components/admin/abstracts/Settings.js:100
+msgid "Character Count Limit"
+msgstr "文字数制限"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:265
+#: src/components/shared/abstracts/AbstractSinglePage.js:306
+#: src/components/shared/abstracts/AbstractWizard.js:306
+#: src/components/shared/abstracts/AbstractWizard.js:344
+#: src/components/shared/auth/PasswordStrengthIndicator.js:83
+#: src/components/shared/auth/PasswordStrengthIndicator.js:98
+msgid "characters"
+msgstr "キャラクター"
+
+#: src/components/shared/abstracts/AuthorManagement.js:313
+msgid "Check if this author will present the abstract"
+msgstr "この著者が要旨を発表するか確認してください"
+
+#: src/components/shared/abstracts/AuthorManagement.js:326
+msgid "Check if this is the corresponding author"
+msgstr "この人が対応著者かどうか確認してください"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:59
+msgid "Checkbox"
+msgstr "チェックボックス"
+
+#: src/components/admin/abstracts/Settings.js:152
+msgid "Choose how users submit abstracts"
+msgstr "ユーザーが要約を送信する方法を選択する"
+
+#: src/components/admin/events/CreateEvent.js:185
+#: src/components/admin/events/EditEvent.js:233
+msgid "City"
+msgstr "市区町村"
+
+#: src/components/admin/abstracts/Attachments.js:418
+msgid "Clear Filters"
+msgstr "絞り込み条件を解除する"
+
+#: src/components/frontend/submissions/Submissions.js:900
+msgid "Clear Selection"
+msgstr "アイコンを選択"
+
+#: src/components/shared/abstracts/AuthorManagement.js:239
+msgid "Click \"Add Author\" to get started"
+msgstr "「著者を追加」をクリックして始めてください"
+
+#: src/components/admin/users/Users.js:1229
+msgid "Click \"Add New\" in WordPress Users"
+msgstr "WordPressユーザーへの自動リンク"
+
+#: src/components/admin/users/Users.js:1226
+msgid "Click \"Go to WordPress Users\" below"
+msgstr "WordPressユーザーへの自動リンク"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:209
+msgid "Click or drag a file to upload"
+msgstr "ファイルをクリックまたはドラッグしてアップロードしてください"
+
+#: src/components/shared/attachments/DocumentsStep.js:251
+msgid "Click or drag files to upload"
+msgstr "ファイルをクリックまたはドラッグしてアップロードしてください"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:534
+msgid ""
+"Click the button below to automatically create a dashboard page with the "
+"SimplyConf shortcode."
+msgstr "下のボタンをクリックすると、SimplyConf ショートコードを含むダッシュボード ページが自動的に作成されます。"
+
+#: src/components/admin/events/Events.js:259
+#: src/components/admin/events/Events.js:887
+msgid "Click to copy shortcode"
+msgstr "ショートコードをコピーするにはクリックしてください"
+
+#: src/components/shared/attachments/FileUpload.js:176
+msgid "Click to select files or drag and drop"
+msgstr "ファイルを選択するかドラッグ&ドロップでクリックします"
+
+#: src/components/admin/abstracts/Authors.js:706
+#: src/components/admin/events/Events.js:619
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:214
+#: src/components/admin/users/Users.js:980
+#: src/components/shared/abstracts/AbstractView.js:615
+#: src/components/shared/attachments/FilePreview.js:195
+msgid "Close"
+msgstr "閉じる"
+
+#: src/components/admin/events/StatusManagement.js:208
+#: src/components/admin/events/StatusManagement.js:469
+msgid "Color"
+msgstr "色"
+
+#: src/components/frontend/submissions/Submissions.js:953
+msgid "Columns"
+msgstr "固定列"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:590
+msgid ""
+"Comma-separated MIME types or extensions. Leave empty to allow all common "
+"document types."
+msgstr "カンマ区切りの MIME タイプまたは拡張子。すべての一般的なドキュメント タイプを許可するには、空のままにします。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:234
+msgid "Conditional"
+msgstr "確認"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:685
+msgid "Conditional Logic"
+msgstr "条件付きロジック"
+
+#: src/Admin.js:310
+msgid "Conference Program"
+msgstr "会議プログラム"
+
+#: src/components/admin/events/Events.js:790
+msgid "Conference Registration Payment"
+msgstr "会議登録費支払い"
+
+#: src/components/admin/events/Events.js:814
+msgid "Conference registration payment is not required for this event."
+msgstr "このイベントでは会議登録料は不要です。"
+
+#: src/components/admin/events/Events.js:829
+#: src/components/shared/customFields/CustomFieldsAdmin.js:501
+msgid "Configuration"
+msgstr "操作"
+
+#: src/components/admin/abstracts/Settings.js:558
+msgid ""
+"Configure abstract submissions, author requirements, and attachment settings"
+" for this event"
+msgstr "このイベントでは会議登録料は不要です。"
+
+#: src/components/admin/abstracts/FormBuilder.js:33
+msgid "Configure custom fields for abstracts and authors"
+msgstr "要約と著者用のカスタムフィールドを設定する"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:412
+msgid ""
+"Configure key settings for your event. All settings can be adjusted later."
+msgstr "イベントの主要な設定を構成します。すべての設定は後で調整できます。"
+
+#: src/components/admin/users/Settings.js:507
+msgid ""
+"Configure user registration, login, and password requirements for this "
+"event."
+msgstr "このイベントでは会議登録料は不要です。"
+
+#: src/components/frontend/auth/Register.js:166
+msgid "Confirm & Submit"
+msgstr "確認して提出する"
+
+#: src/components/admin/events/Events.js:334
+#: src/components/admin/tracks/Tracks.js:86
+#: src/components/admin/tracks/Tracks.js:444
+#: src/components/shared/customFields/CustomFieldsAdmin.js:309
+#: src/hooks/useAbstractColumns.js:433
+msgid "Confirmation"
+msgstr "確認"
+
+#: src/components/admin/licenses/Licenses.js:408
+msgid "Contact support for license-related issues"
+msgstr "ライセンス関連の問題についてはサポートにお問い合わせください"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:804
+msgid "contains"
+msgstr "含まれています"
+
+#: src/components/shared/attachments/DocumentsStep.js:126
+msgid "Continue"
+msgstr "続ける"
+
+#: src/components/admin/abstracts/Abstracts.js:916
+#: src/components/admin/users/Users.js:1022
+msgid "Core Identity Columns (Always Visible)"
+msgstr "コア ID 列 (常に表示)"
+
+#: src/components/shared/abstracts/AuthorManagement.js:324
+msgid "Corresponding Author"
+msgstr "複数の通信著者を許可する"
+
+#: src/components/admin/events/CreateEvent.js:210
+#: src/components/admin/events/EditEvent.js:258
+msgid "Country"
+msgstr "国"
+
+#: src/components/admin/appearance/Appearance.js:528
+msgid "Courier New"
+msgstr "Courier New"
+
+#: src/components/admin/abstracts/Abstracts.js:815
+#: src/components/admin/events/Events.js:541
+#: src/components/admin/events/Events.js:1029
+#: src/components/admin/events/StatusManagement.js:336
+#: src/components/admin/tracks/Tracks.js:552
+#: src/components/admin/users/Users.js:890
+#: src/components/shared/customFields/CustomFieldsAdmin.js:391
+msgid "Create"
+msgstr "作成"
+
+#: src/components/admin/users/Users.js:1184
+msgid "Create {user}"
+msgstr "{user}を作る"
+
+#: src/components/admin/dashboard/DashboardSetup.js:132
+msgid ""
+"Create a dedicated page for your conference participants to access their "
+"dashboard. This page will use the SimplyConf Dashboard block for optimal "
+"display."
+msgstr ""
+"会議参加者がダッシュボードにアクセスできる専用のページを作成します。このページでは、最適な表示のために SimplyConf Dashboard "
+"ブロックを使用します。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:512
+msgid ""
+"Create a frontend dashboard page where authors and reviewers can login, "
+"submit abstracts, and manage their work."
+msgstr "著者と査読者がログインし、要約を送信し、作業を管理できるフロントエンド ダッシュボード ページを作成します。"
+
+#: src/components/frontend/auth/Register.js:560
+msgid "Create Account"
+msgstr "アカウント作成"
+
+#: src/Admin.js:80
+msgid "Create an Event"
+msgstr "イベントを作成する"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:286
+msgid "Create an event with tracks (topics)"
+msgstr "トラック (トピック) を含むイベントを作成する"
+
+#: src/components/admin/dashboard/DashboardSetup.js:146
+#: src/components/admin/onboarding/OnboardingWizard.js:548
+msgid "Create Dashboard Page"
+msgstr "ダッシュボード"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:92
+#: src/components/shared/abstracts/AbstractWizard.js:635
+msgid "Create New %s"
+msgstr "このウィジェットを使用すると、1つまたは2つのサイドバイサイドボタンを作成できます"
+
+#: src/components/frontend/auth/Login.js:248
+msgid "Create one"
+msgstr "このウィジェットを使用すると、1つまたは2つのサイドバイサイドボタンを作成できます"
+
+#: src/components/frontend/auth/Register.js:615
+msgid "Create Your Account"
+msgstr "アカウント作成"
+
+#: src/components/admin/abstracts/Abstracts.js:996
+#: src/components/admin/events/Events.js:944
+#: src/components/frontend/submissions/Submissions.js:684
+#: src/components/frontend/submissions/Submissions.js:974
+#: src/hooks/useAbstractColumns.js:325
+msgid "Created"
+msgstr "作成日"
+
+#: src/components/admin/events/StatusManagement.js:304
+msgid "Current Event"
+msgstr "現在のイベント"
+
+#: src/components/shared/abstracts/AbstractView.js:1359
+msgid "Current Status:"
+msgstr "現在のステータス:"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:238
+msgid "Currently Assigned"
+msgstr "現在配属されている:"
+
+#: src/components/admin/appearance/Appearance.js:724
+msgid "Custom CSS"
+msgstr "カスタムフィールド"
+
+#: src/Admin.js:192 src/Admin.js:210 src/Admin.js:228
+#: src/components/admin/abstracts/Authors.js:731
+#: src/components/admin/abstracts/FormBuilder.js:23
+#: src/components/admin/abstracts/Wrapper.js:44
+#: src/components/admin/abstracts/Wrapper.js:102
+#: src/components/admin/users/ViewUser.js:179
+#: src/components/admin/users/Wrapper.js:66
+#: src/components/frontend/submissions/Submissions.js:992
+#: src/components/shared/customFields/CustomFieldsAdmin.js:47
+msgid "Custom Fields"
+msgstr "カスタムフィールド"
+
+#: src/components/admin/appearance/Appearance.js:293
+msgid "Customize colors, typography, and layout for your conference site"
+msgstr "会議サイトの色、タイポグラフィー、レイアウトをカスタマイズする"
+
+#: src/components/admin/events/TerminologySettings.js:188
+msgid ""
+"Customize how entities are labeled throughout the system. Leave fields blank"
+" to use default translations."
+msgstr "システム全体でエンティティのラベル付け方法をカスタマイズできます。デフォルトの翻訳を使うためにフィールドは空欄にしてください。"
+
+#: src/components/admin/abstracts/Abstracts.js:891
+#: src/components/admin/abstracts/Authors.js:579
+#: src/components/admin/users/Users.js:997
+#: src/components/frontend/submissions/Submissions.js:929
+msgid "Customize which columns are visible in your table view"
+msgstr "テーブルビューでどの列が見えるかをカスタマイズできます"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:580
+msgid "Customize your appearance and branding in Settings"
+msgstr "設定で外観とブランドをカスタマイズする"
+
+#: src/Admin.js:153 src/Frontend.js:184
+#: src/components/admin/onboarding/OnboardingWizard.js:254
+#: classes/admin-menu.php:31 classes/admin-menu.php:32
+msgid "Dashboard"
+msgstr "ダッシュボード"
+
+#: src/components/admin/dashboard/Dashboard.js:154
+#: src/components/frontend/dashboard/Dashboard.js:42
+msgid "Dashboard Overview"
+msgstr "ダッシュボードの概要"
+
+#: src/components/admin/dashboard/DashboardSetup.js:152
+#: src/components/admin/onboarding/OnboardingWizard.js:519
+msgid "Dashboard Page Active"
+msgstr "ダッシュボードの概要"
+
+#: inc/class-dashboard-setup.php:86
+msgid "Dashboard page created successfully!"
+msgstr "ユーザーの作成に成功しました。"
+
+#: inc/class-dashboard-setup.php:115
+msgid "Dashboard page deleted successfully."
+msgstr "要旨が正常に削除されました"
+
+#: blocks/dashboard/index.js:52
+msgid "Dashboard Settings"
+msgstr "設定のエクスポート"
+
+#: src/components/shared/attachments/FileList.js:449
+msgid "Date"
+msgstr "日付"
+
+#: src/components/shared/attachments/FileList.js:352
+msgid "Date Created"
+msgstr "作成日"
+
+#: src/components/admin/dashboard/Dashboard.js:262
+msgid "days to deadline"
+msgstr "締め切りまで数日"
+
+#: src/components/admin/licenses/Licenses.js:229
+msgid "Deactivate License"
+msgstr "ライセンスを無効化"
+
+#: src/components/admin/licenses/Licenses.js:160
+msgid "Deactivated"
+msgstr "無効化する"
+
+#: src/components/admin/licenses/Licenses.js:102
+msgid "Deactivation failed"
+msgstr "非活性化失敗"
+
+#: src/components/admin/events/Events.js:251
+msgid "Deadline"
+msgstr "期限"
+
+#: src/components/admin/events/StatusManagement.js:234
+msgid "Default"
+msgstr "デフォルト"
+
+#: src/components/admin/events/StatusManagement.js:520
+msgid "Default display status"
+msgstr "ステータス（状況）を選択する"
+
+#: src/components/admin/events/StatusManagement.js:514
+msgid "Default Status"
+msgstr "デフォルトステータス"
+
+#: src/components/admin/events/StatusManagement.js:134
+msgid "Default statuses initialized successfully"
+msgstr "要旨が正常に削除されました"
+
+#: src/components/admin/abstracts/Abstracts.js:507
+#: src/components/admin/abstracts/Attachments.js:129
+#: src/components/admin/abstracts/Attachments.js:290
+#: src/components/admin/abstracts/Attachments.js:300
+#: src/components/admin/dashboard/DashboardSetup.js:81
+#: src/components/admin/dashboard/DashboardSetup.js:184
+#: src/components/admin/events/Events.js:156
+#: src/components/admin/events/Events.js:339
+#: src/components/admin/events/Events.js:349
+#: src/components/admin/events/Events.js:993
+#: src/components/admin/events/Events.js:999
+#: src/components/admin/tracks/Tracks.js:91
+#: src/components/admin/tracks/Tracks.js:266
+#: src/components/admin/tracks/Tracks.js:449
+#: src/components/admin/users/Users.js:350
+#: src/components/admin/users/Users.js:355
+#: src/components/admin/users/Users.js:366
+#: src/components/admin/users/Users.js:463
+#: src/components/admin/users/Users.js:465
+#: src/components/frontend/attachments/Attachments.js:316
+#: src/components/frontend/attachments/Attachments.js:321
+#: src/components/frontend/submissions/Submissions.js:247
+#: src/components/frontend/submissions/Submissions.js:285
+#: src/components/frontend/submissions/Submissions.js:574
+#: src/components/shared/attachments/DocumentsStep.js:346
+#: src/components/shared/attachments/DocumentsStep.js:356
+#: src/components/shared/attachments/FileList.js:234
+#: src/components/shared/attachments/FileList.js:295
+#: src/components/shared/customFields/CustomFieldsAdmin.js:130
+#: src/components/shared/customFields/CustomFieldsAdmin.js:314
+#: src/hooks/useAbstractColumns.js:438 src/hooks/useAbstractColumns.js:447
+msgid "Delete"
+msgstr "削除"
+
+#: src/components/admin/abstracts/Abstracts.js:502
+msgid "Delete Abstracts"
+msgstr "要約を削除"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:125
+msgid "Delete Custom Fields"
+msgstr "ユーザー カスタムフィールド"
+
+#: src/components/admin/dashboard/DashboardSetup.js:75
+msgid "Delete Dashboard Page?"
+msgstr "ページを再読み込み"
+
+#: src/components/admin/events/Events.js:988
+msgid "Delete Event"
+msgstr "イベントを削除す"
+
+#: src/components/admin/events/Events.js:151
+msgid "Delete Events"
+msgstr "イベントを削除す"
+
+#: src/components/admin/abstracts/Attachments.js:116
+#: src/components/frontend/attachments/Attachments.js:186
+#: src/components/shared/attachments/FileList.js:74
+msgid "Delete failed. Please try again."
+msgstr "登録に失敗しました。もう一度お試しください。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:325
+msgid "Delete Field"
+msgstr "フィールドを削除"
+
+#: src/components/admin/abstracts/Attachments.js:295
+#: src/components/frontend/attachments/Attachments.js:311
+#: src/components/shared/attachments/DocumentsStep.js:338
+msgid "Delete File"
+msgstr "ファイル削除"
+
+#: src/components/admin/abstracts/Attachments.js:124
+msgid "Delete Files"
+msgstr "ファイルの削除"
+
+#: src/components/admin/abstracts/Abstracts.js:723
+#: src/components/admin/abstracts/Attachments.js:368
+#: src/components/admin/events/Events.js:487
+#: src/components/admin/tracks/Tracks.js:522
+#: src/components/admin/users/Users.js:806
+#: src/components/frontend/submissions/Submissions.js:330
+#: src/components/shared/customFields/CustomFieldsAdmin.js:369
+msgid "Delete Selected"
+msgstr "選択したアイテムを削除"
+
+#: src/components/shared/attachments/FileList.js:411
+msgid "Delete Selected (%d)"
+msgstr "選択したアイテムを削除"
+
+#: src/components/admin/tracks/Tracks.js:101
+msgid "Delete Session"
+msgstr "セッションを削除"
+
+#: src/components/frontend/submissions/Submissions.js:280
+msgid "Delete Submissions"
+msgstr "セッションを削除"
+
+#: src/components/admin/tracks/Tracks.js:459
+msgid "Delete Track"
+msgstr "トラックを削除"
+
+#: src/components/admin/tracks/Tracks.js:261
+msgid "Delete Tracks"
+msgstr "トラックを削除"
+
+#: src/components/shared/attachments/FileList.js:368
+msgid "Descending"
+msgstr "降順"
+
+#: src/components/admin/events/CreateEvent.js:74
+#: src/components/admin/events/CreateEvent.js:77
+#: src/components/admin/events/EditEvent.js:112
+#: src/components/admin/events/EditEvent.js:124
+#: src/components/admin/events/Events.js:643
+#: src/components/admin/events/StatusManagement.js:202
+#: src/components/admin/events/StatusManagement.js:460
+#: src/components/admin/tracks/Tracks.js:349
+#: src/components/admin/tracks/Tracks.js:629
+#: src/components/shared/abstracts/AbstractView.js:728
+msgid "Description"
+msgstr "説明"
+
+#: src/components/shared/attachments/AbstractFileManager.js:145
+msgid "Detailed review notes and comments"
+msgstr "詳細なレビューノートとコメント"
+
+#: src/components/frontend/auth/Register.js:160
+msgid "Details"
+msgstr "詳細"
+
+#: src/Admin.js:269
+msgid "Discount Codes"
+msgstr "割引コード"
+
+#: classes/frontend-dashboard.php:395
+msgid "Dismiss"
+msgstr "却下する"
+
+#: src/components/admin/abstracts/Settings.js:188
+msgid "Display author names and affiliations in abstract listings"
+msgstr "提出時に利用規約を表示する"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:670
+msgid "Display Order"
+msgstr "表示順"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:637
+msgid "Display this field as a column in admin tables"
+msgstr "このフィールドを管理者テーブルの列として表示してください"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:648
+msgid "Display this field as a column in frontend tables"
+msgstr "このフィールドをフロントエンドテーブルの列として表示してください"
+
+#: blocks/login/index.js:91
+msgid ""
+"Displays a login form for conference participants. After login, users are "
+"redirected to the SimplyConf dashboard."
+msgstr "会議参加者用のログインフォームを表示します。ログイン後、ユーザーは SimplyConf ダッシュボードにリダイレクトされます。"
+
+#: blocks/register/index.js:91
+msgid ""
+"Displays a registration form for new conference participants to create an "
+"account."
+msgstr "新しい会議参加者がアカウントを作成するための登録フォームを表示します。"
+
+#: src/components/admin/abstracts/Attachments.js:406
+#: src/components/shared/attachments/FileList.js:337
+msgid "Documents"
+msgstr "ドキュメント"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:798
+msgid "does not equal"
+msgstr "等しくない"
+
+#: src/components/admin/licenses/Licenses.js:312
+msgid "Don't have a license?"
+msgstr "免許を持っていないのですか？"
+
+#: src/components/frontend/auth/Login.js:247
+msgid "Don't have an account?"
+msgstr "アカウントをお持ちでない場合は、"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:255
+msgid "Done"
+msgstr "終わり"
+
+#: src/components/admin/abstracts/Attachments.js:284
+#: src/components/frontend/attachments/Attachments.js:303
+#: src/components/shared/abstracts/AbstractView.js:527
+#: src/components/shared/attachments/FileList.js:226
+#: src/components/shared/attachments/FileList.js:287
+#: src/components/shared/attachments/FilePreview.js:188
+msgid "Download"
+msgstr "ダウンロード"
+
+#: src/components/admin/abstracts/Attachments.js:106
+#: src/components/frontend/attachments/Attachments.js:176
+#: src/components/shared/abstracts/AbstractView.js:478
+#: src/components/shared/attachments/FileList.js:55
+#: src/components/shared/attachments/FilePreview.js:77
+msgid "Download failed. Please try again."
+msgstr "登録に失敗しました。もう一度お試しください。"
+
+#: src/components/shared/attachments/FilePreview.js:117
+msgid "Download to View"
+msgstr "ダウンロード"
+
+#: src/components/admin/abstracts/Attachments.js:252
+#: src/components/shared/attachments/FileList.js:357
+#: src/components/shared/attachments/FileList.js:450
+msgid "Downloads"
+msgstr "ダウンロード"
+
+#: src/hooks/useAbstractFormState.js:234
+msgid "Draft"
+msgstr "下書き"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:113
+#: src/components/shared/abstracts/AbstractWizard.js:656
+msgid "Draft Saved (ID: %d) - Only visible to you until submitted"
+msgstr "下書きを保存しました (ID: %d) - 送信されるまでのみ表示されます"
+
+#: src/hooks/useAbstractFormState.js:653 src/hooks/useAbstractFormState.js:670
+msgid "Draft saved successfully!"
+msgstr "設定が正常に保存されました！"
+
+#: src/hooks/useAbstractFormState.js:625
+msgid ""
+"Draft status not found. Please ensure statuses are configured for this "
+"event."
+msgstr "ドラフトステータスは見つかりません。このイベントのステータス設定を必ずしてください。"
+
+#: src/hooks/useAbstractFormState.js:772
+msgid "Draft submitted successfully!"
+msgstr "設定が正常に保存されました！"
+
+#: src/components/admin/dashboard/Dashboard.js:196
+msgid "drafts"
+msgstr "下書き"
+
+#: src/components/shared/attachments/FileUpload.js:175
+msgid "Drop files here"
+msgstr "ここにファイルをドロップします"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:57
+msgid "Dropdown Select"
+msgstr "ドロップダウン選択"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:339
+msgid "e.g. ICAI25"
+msgstr "例えばICAI25"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:325
+msgid "e.g. International Conference on AI 2025"
+msgstr "例えばAI国際会議2025"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:394
+msgid "e.g. Machine Learning, Natural Language Processing"
+msgstr "例えば機械学習、自然言語処理"
+
+#: src/components/admin/users/Settings.js:162
+msgid "e.g., /dashboard or /profile"
+msgstr "例: /dashboard または /profile"
+
+#: src/components/admin/events/StatusManagement.js:438
+msgid "e.g., draft, submitted"
+msgstr "例:ドラフト、提出"
+
+#: src/components/admin/events/StatusManagement.js:454
+msgid "e.g., Draft, Submitted"
+msgstr "例:ドラフト、提出済み"
+
+#: src/components/admin/abstracts/Authors.js:457
+#: src/components/admin/dashboard/DashboardSetup.js:181
+#: src/components/admin/events/Events.js:310
+#: src/components/admin/events/Events.js:630
+#: src/components/admin/users/Users.js:341
+#: src/components/frontend/submissions/Submissions.js:562
+#: src/hooks/useAbstractColumns.js:398
+msgid "Edit"
+msgstr "編集"
+
+#: src/components/admin/abstracts/Authors.js:775
+#: src/components/shared/abstracts/AbstractSinglePage.js:90
+#: src/components/shared/abstracts/AbstractView.js:692
+#: src/components/shared/abstracts/AbstractWizard.js:633
+msgid "Edit %s"
+msgstr "%sを編集"
+
+#: src/components/shared/abstracts/AuthorManagement.js:283
+msgid "Edit Author"
+msgstr "著者の編集"
+
+#: src/components/admin/events/Events.js:980
+msgid "Edit Event"
+msgstr "イベントを編集"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:300
+#: src/components/shared/customFields/CustomFieldsAdmin.js:416
+msgid "Edit Field"
+msgstr "フィールドを編集"
+
+#: src/components/admin/users/Users.js:310
+msgid "Edit Roles"
+msgstr "ロールの編集"
+
+#: src/components/admin/users/Users.js:1160
+msgid "Edit Roles for"
+msgstr "編集:役割"
+
+#: src/components/admin/tracks/Tracks.js:77
+msgid "Edit Session"
+msgstr "編集セッション"
+
+#: src/components/admin/events/StatusManagement.js:392
+msgid "Edit Status"
+msgstr "ステータスを編集"
+
+#: src/components/admin/users/Users.js:1241
+msgid "Edit the user to add custom fields and assign roles"
+msgstr "ユーザーを編集してカスタムフィールドを追加し、ロールを割り当てます"
+
+#: src/components/admin/tracks/Tracks.js:429
+#: src/components/admin/tracks/Tracks.js:589
+msgid "Edit Track"
+msgstr "編集トラック"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:130
+#: src/components/shared/abstracts/AbstractWizard.js:673
+msgid "Editing Draft (Not yet submitted)"
+msgstr "編集草案（未提出）"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:135
+#: src/components/shared/abstracts/AbstractWizard.js:678
+msgid "Editing Submitted %s"
+msgstr "送信者"
+
+#: src/components/admin/abstracts/Authors.js:349
+#: src/components/admin/abstracts/Authors.js:624
+#: src/components/admin/abstracts/Authors.js:719
+#: src/components/admin/users/Users.js:195
+#: src/components/shared/authors/AuthorForm.js:103
+#: src/components/shared/customFields/CustomFieldsAdmin.js:53
+msgid "Email"
+msgstr "メールアドレス"
+
+#: src/components/frontend/auth/Login.js:285
+msgid "Email address"
+msgstr "メールアドレス"
+
+#: src/components/frontend/auth/Register.js:318
+msgid "Email Address"
+msgstr "メールアドレス"
+
+#: src/components/frontend/auth/Register.js:502
+msgid "Email:"
+msgstr "メールアドレス:"
+
+#: src/Admin.js:240 src/components/admin/dashboard/Dashboard.js:292
+#: src/components/admin/dashboard/Dashboard.js:320 classes/admin-menu.php:76
+#: classes/admin-menu.php:77
+msgid "Emails"
+msgstr "メール"
+
+#: inc/addons.php:200
+msgid "Emails Add-On"
+msgstr "メールアドオン"
+
+#: src/components/admin/abstracts/Settings.js:41
+msgid "Enable Abstract Description"
+msgstr "抽象記述を有効にする"
+
+#: src/components/admin/abstracts/Settings.js:253
+msgid "Enable Attachments"
+msgstr "添付ファイルを有効化"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:690
+msgid "Enable Conditional Logic"
+msgstr "条件付きロジックを有効にする"
+
+#: src/components/admin/users/Settings.js:37
+msgid "Enable reCAPTCHA v3"
+msgstr "reCAPTCHA v3 を有効にする"
+
+#: src/components/admin/abstracts/Settings.js:71
+msgid "Enable Rich Text Editor"
+msgstr "WYSIWYGエディターを有効にする"
+
+#: src/components/admin/users/Settings.js:119
+msgid "Enable User Registration"
+msgstr "イベント登録"
+
+#: src/components/admin/events/CreateEvent.js:105
+#: src/components/admin/events/EditEvent.js:152
+#: src/components/admin/events/Events.js:240
+#: src/components/admin/events/Events.js:697
+#: src/components/admin/onboarding/OnboardingWizard.js:348
+msgid "End Date"
+msgstr "終了日"
+
+#: src/components/admin/tracks/Tracks.js:60
+msgid "End Time"
+msgstr "終了時間"
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:143
+#: src/components/shared/customFields/CustomFieldRenderer.js:158
+#: src/components/shared/customFields/CustomFieldRenderer.js:175
+#: src/components/shared/customFields/CustomFieldRenderer.js:196
+#: src/components/shared/customFields/CustomFieldRenderer.js:333
+msgid "Enter %s"
+msgstr "%s を入力"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:230
+#: src/components/shared/abstracts/AbstractWizard.js:274
+msgid "Enter %s description..."
+msgstr "%sの説明"
+
+#: src/components/admin/events/CreateEvent.js:186
+#: src/components/admin/events/EditEvent.js:234
+msgid "Enter city"
+msgstr "地方を入力してください"
+
+#: src/components/admin/events/CreateEvent.js:211
+#: src/components/admin/events/EditEvent.js:259
+msgid "Enter country"
+msgstr "カントリーの登場"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:450
+msgid "Enter display label for this field"
+msgstr "このフィールドの表示ラベルを入力してください"
+
+#: src/components/shared/authors/AuthorForm.js:117
+msgid "Enter email address"
+msgstr "メールアドレス　入力"
+
+#: src/components/shared/authors/AuthorForm.js:76
+msgid "Enter first name"
+msgstr "名前を入力"
+
+#: src/components/shared/authors/AuthorForm.js:94
+msgid "Enter last name"
+msgstr "名字を入力"
+
+#: src/components/admin/events/CreateEvent.js:206
+#: src/components/admin/events/EditEvent.js:254
+msgid "Enter postal code"
+msgstr "郵便番号 を入力してください"
+
+#: src/components/admin/events/CreateEvent.js:197
+#: src/components/admin/events/EditEvent.js:245
+msgid "Enter state or province"
+msgstr "州または州の入り口"
+
+#: src/components/admin/events/CreateEvent.js:181
+#: src/components/admin/events/EditEvent.js:228
+msgid "Enter street address"
+msgstr "住所を入力してください"
+
+#: src/components/admin/tracks/Tracks.js:633
+msgid "Enter track description (optional)"
+msgstr "%sの説明"
+
+#: src/components/admin/tracks/Tracks.js:621
+msgid "Enter track name"
+msgstr "名字を入力"
+
+#: src/components/frontend/auth/Login.js:148
+msgid "Enter your credentials to access your account"
+msgstr "アカウントにアクセスするには認証情報を入力してください"
+
+#: src/components/frontend/auth/Register.js:310
+msgid "Enter your email address and create a password for your account."
+msgstr "アカウントにアクセスするには認証情報を入力してください"
+
+#: src/components/frontend/auth/Login.js:153
+msgid "Enter your email to receive reset instructions"
+msgstr "リセットの指示を受け取るためにメールアドレスを入力してください"
+
+#: src/components/admin/licenses/Licenses.js:293
+msgid "Enter your license key from simplyconf.com"
+msgstr "Simplyconf.com からライセンス キーを入力してください"
+
+#: src/components/frontend/auth/Login.js:157
+msgid "Enter your new password"
+msgstr "新しいパスワードを入力してください"
+
+#: src/components/admin/abstracts/Attachments.js:225
+msgid "Entity"
+msgstr "エンティティ"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:795
+msgid "equals"
+msgstr "等しい"
+
+#: src/components/frontend/submissions/Submissions.js:264
+msgid "Error"
+msgstr "エラー"
+
+#: src/components/admin/appearance/Appearance.js:486
+msgid "Error Color"
+msgstr "エラーの色"
+
+#: src/components/shared/ErrorBoundary.js:140
+msgid "Error Details (for debugging)"
+msgstr "エラー詳細(デバッグ用)"
+
+#: src/components/shared/ErrorBoundary.js:76
+msgid "Error details copied to clipboard. Please send this to support."
+msgstr "エラーの詳細はクリップボードにコピーしました。サポートに送ってください。"
+
+#: src/components/shared/ErrorBoundary.js:149
+msgid "Error:"
+msgstr "エラー:"
+
+#: src/components/shared/users/UserWizard.js:86
+msgid "Error: User ID is required"
+msgstr "命令が必要です"
+
+#: src/components/admin/abstracts/Attachments.js:240
+#: src/components/admin/onboarding/OnboardingWizard.js:251
+#: src/components/shared/abstracts/AbstractSinglePage.js:362
+#: src/components/shared/abstracts/AbstractView.js:1002
+#: src/components/shared/abstracts/AbstractWizard.js:99
+#: src/components/shared/abstracts/AbstractWizard.js:107
+#: inc/class-dashboard-setup.php:58 blocks/dashboard/index.js:61
+#: blocks/login/index.js:58 blocks/register/index.js:58
+msgid "Event"
+msgstr "イベント"
+
+#: src/components/admin/events/Events.js:415
+msgid "Event {status} successfully"
+msgstr "イベント{status}成功"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:359
+msgid "Event & Track"
+msgstr "編集トラック"
+
+#: src/components/admin/events/TerminologySettings.js:85
+msgid "Event categories"
+msgstr "イベントカテゴリー"
+
+#: src/components/admin/events/CreateEvent.js:84
+#: src/components/admin/events/EditEvent.js:131
+msgid "Event Dates"
+msgstr "イベント開催日"
+
+#: src/components/admin/events/Events.js:586
+msgid "Event Details"
+msgstr "イベントの詳細"
+
+#: blocks/dashboard/index.js:119 blocks/login/index.js:115
+#: blocks/register/index.js:115
+msgid "Event ID: "
+msgstr "イベント開催日"
+
+#: src/components/shared/abstracts/AbstractView.js:974
+msgid "Event Information"
+msgstr "イベント情報"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:333
+msgid "Event Initials"
+msgstr "イベントの詳細"
+
+#: src/components/admin/events/Events.js:215
+#: src/components/admin/onboarding/OnboardingWizard.js:316
+msgid "Event Name"
+msgstr "イベント名"
+
+#: src/Frontend.js:455
+msgid "Event Not Found"
+msgstr "見つかりません"
+
+#: src/components/admin/events/TerminologySettings.js:103
+msgid "Event participants"
+msgstr "イベント参加者"
+
+#: src/components/admin/events/TerminologySettings.js:97
+msgid "Event registrations"
+msgstr "イベント登録"
+
+#: src/components/admin/events/Events.js:660
+msgid "Event Schedule"
+msgstr "イベントスケジュール"
+
+#: src/components/admin/users/Users.js:1101
+msgid "Event-Specific Custom Fields"
+msgstr "ユーザー カスタムフィールド"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:381
+msgid "Event: "
+msgstr "イベント"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:98
+#: src/components/shared/abstracts/AbstractWizard.js:641
+msgid "Event: %s"
+msgstr "イベント"
+
+#: src/components/admin/events/Events.js:557
+msgid "events"
+msgstr "イベント"
+
+#: src/Admin.js:158 src/components/admin/events/Events.js:466
+#: src/components/admin/events/Wrapper.js:38
+#: src/components/admin/events/Wrapper.js:62 classes/admin-menu.php:40
+#: classes/admin-menu.php:41
+msgid "Events"
+msgstr "イベント"
+
+#: src/components/admin/events/Events.js:195
+msgid "events archived successfully"
+msgstr "イベントの削除が成功しました"
+
+#: src/components/admin/events/Events.js:165
+msgid "events deleted successfully"
+msgstr "イベントの削除が成功しました"
+
+#: src/components/admin/abstracts/Settings.js:378
+msgid "Excel (XLS/XLSX)"
+msgstr "エクセル(XLS/XLSX)"
+
+#: src/components/admin/licenses/Licenses.js:145
+msgid "Expired"
+msgstr "期限切れ"
+
+#: src/components/admin/licenses/Licenses.js:204
+msgid "Expires"
+msgstr "期限切れ"
+
+#: src/components/admin/appearance/Appearance.js:331
+msgid "Export"
+msgstr "エクスポート"
+
+#: src/components/shared/abstracts/AbstractView.js:680
+#: src/components/shared/abstracts/AbstractView.js:704
+#: src/hooks/useAbstractColumns.js:424
+msgid "Export PDF"
+msgstr "PDF出力"
+
+#: src/Admin.js:299 classes/admin-menu.php:103 classes/admin-menu.php:104
+msgid "Exports"
+msgstr "エクスポート"
+
+#: inc/addons.php:203
+msgid "Exports Add-On"
+msgstr "エクスポートアドオン"
+
+#: src/components/admin/abstracts/Abstracts.js:349
+msgid "Exports Add-on Required"
+msgstr "エクスポートアドオンが必要"
+
+#: src/components/admin/abstracts/Authors.js:399
+#: src/components/admin/abstracts/Authors.js:405
+msgid "External"
+msgstr "外部"
+
+#: src/components/admin/abstracts/Authors.js:533
+msgid "External Only"
+msgstr "外部のみ"
+
+#: src/components/admin/dashboard/Dashboard.js:313
+msgid "failed"
+msgstr "失敗"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:173
+msgid "Failed to add track."
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/admin/users/Users.js:519
+msgid "Failed to assign roles to some users. Please try again."
+msgstr "投稿を削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:149
+#: src/components/admin/tracks/Tracks.js:226
+msgid "Failed to assign track chair"
+msgstr "トラックチェアの割り当てに失敗"
+
+#: src/components/admin/events/Events.js:125
+#: src/components/admin/events/Events.js:129
+#: src/components/admin/events/Events.js:140
+msgid "Failed to copy shortcode"
+msgstr "ショートコードのコピーに失敗しました"
+
+#: src/components/admin/dashboard/DashboardSetup.js:67
+#: src/components/admin/onboarding/OnboardingWizard.js:207
+msgid "Failed to create dashboard page."
+msgstr "ユーザーの作成に失敗しました"
+
+#: src/components/admin/events/StatusManagement.js:106
+msgid "Failed to create status"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/abstracts/Abstracts.js:397
+msgid "Failed to delete abstract"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/dashboard/DashboardSetup.js:105
+msgid "Failed to delete dashboard page."
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/events/Events.js:437
+msgid "Failed to delete event"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/events/StatusManagement.js:119
+msgid "Failed to delete status"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/frontend/submissions/Submissions.js:265
+msgid "Failed to delete the submission. Please try again."
+msgstr "投稿を削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/tracks/Tracks.js:199
+msgid "Failed to delete track"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:181
+msgid "Failed to delete track."
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/users/Users.js:442
+msgid "Failed to delete user"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:158
+#: src/components/shared/customFields/CustomFieldFileValue.js:62
+msgid "Failed to download file"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/admin/abstracts/Abstracts.js:377
+#: src/components/shared/abstracts/AbstractView.js:146
+msgid "Failed to export PDF"
+msgstr "PDFのエクスポートに失敗しました"
+
+#: src/components/admin/dashboard/DashboardSetup.js:38
+msgid "Failed to fetch dashboard status."
+msgstr "ステータスの更新に失敗しました"
+
+#: routes/features.php:204
+msgid "Failed to grant feature"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/events/StatusManagement.js:138
+msgid "Failed to initialize default statuses"
+msgstr "イベント状況の更新に失敗しました"
+
+#: src/components/admin/abstracts/Authors.js:223
+msgid "Failed to link author. No WordPress user found with this email."
+msgstr "作者へのリンクを示さなかった。このメールアドレスでWordPressユーザーは見つかりませんでした。"
+
+#: src/components/admin/abstracts/Authors.js:237
+#: src/components/admin/abstracts/Authors.js:247
+msgid "Failed to load author details"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/admin/abstracts/Authors.js:187
+msgid "Failed to load authors"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/admin/licenses/Licenses.js:53
+msgid "Failed to load license information"
+msgstr "ライセンス情報の読み込みに失敗しました"
+
+#: src/components/shared/attachments/FilePreview.js:52
+msgid "Failed to load preview"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/shared/abstracts/AbstractView.js:243
+msgid "Failed to load submission details"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:140
+msgid "Failed to remove file"
+msgstr "ユーザーの作成に失敗しました"
+
+#: routes/features.php:228
+msgid "Failed to revoke feature"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/shared/SaveStatusIndicator.js:34
+msgid "Failed to save - Click to retry"
+msgstr "セーブに失敗しました - 再試行をクリックしてください"
+
+#: src/hooks/useAbstractFormState.js:673
+msgid "Failed to save draft. Please try again."
+msgstr "投稿を削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:129
+msgid "Failed to save onboarding status."
+msgstr "用語設定の保存に失敗しました"
+
+#: src/components/admin/abstracts/Settings.js:529
+#: src/components/admin/users/Settings.js:478
+msgid "Failed to save settings. Please try again."
+msgstr "投稿を削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/events/TerminologySettings.js:166
+msgid "Failed to save terminology settings"
+msgstr "用語設定の保存に失敗しました"
+
+#: src/components/admin/appearance/Appearance.js:109
+msgid "Failed to save theme settings"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/admin/tracks/Tracks.js:215
+msgid "Failed to save track"
+msgstr "トラックチェアの更新に失敗しました"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:176
+#: src/components/admin/tracks/Tracks.js:237
+msgid "Failed to unassign track chair"
+msgstr "トラックチェアの割り当て解除に失敗"
+
+#: src/components/admin/abstracts/Authors.js:826
+msgid "Failed to update author"
+msgstr "ユーザーロールの更新に失敗しました"
+
+#: src/components/admin/events/Events.js:424
+msgid "Failed to update event status"
+msgstr "イベント状況の更新に失敗しました"
+
+#: src/components/frontend/auth/Profile.js:86
+msgid "Failed to update profile"
+msgstr "プロフィールの更新に失敗しました"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:235
+msgid "Failed to update setting."
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/abstracts/Abstracts.js:429
+#: src/components/admin/events/StatusManagement.js:105
+msgid "Failed to update status"
+msgstr "ステータスの更新に失敗しました"
+
+#: src/components/admin/abstracts/Abstracts.js:580
+msgid "Failed to update status for some abstracts"
+msgstr "一部の要旨のステータス更新に失敗しました"
+
+#: src/components/admin/users/EditUser.js:87
+#: src/components/shared/users/UserWizard.js:115
+msgid "Failed to update user"
+msgstr "ユーザーロールの更新に失敗しました"
+
+#: src/components/admin/users/Users.js:602
+msgid "Failed to update user roles"
+msgstr "ユーザーロールの更新に失敗しました"
+
+#: src/components/shared/attachments/DocumentsStep.js:194
+msgid "Failed to upload %s"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:117
+msgid "Failed to upload file"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: routes/features.php:203
+msgid "Feature granted successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/shared/UpgradePrompt.js:34
+msgid "Feature Not Available"
+msgstr "利用不可"
+
+#: routes/features.php:227
+msgid "Feature revoked successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/shared/abstracts/AbstractView.js:265
+msgid "Field %s"
+msgstr "「%s」フィールド:"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:216
+msgid "Field created"
+msgstr "ユーザーの作成に失敗しました"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:118
+msgid "Field deleted"
+msgstr "フィールドを削除しました"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:748
+msgid "Field is required"
+msgstr "ラベルは必須です"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:440
+msgid "Field Label"
+msgstr "フィールドラベル"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:458
+msgid "Field Name"
+msgstr "フィールド名"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:477
+msgid "Field Type"
+msgstr "フィールドタイプ"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:209
+msgid "Field updated"
+msgstr "プロフィール更新!"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:472
+msgid "field_name"
+msgstr "フィールド名"
+
+#: src/components/admin/abstracts/Attachments.js:200
+#: src/components/frontend/attachments/Attachments.js:246
+#: src/components/shared/abstracts/AbstractView.js:495
+#: src/components/shared/customFields/CustomFieldFileValue.js:80
+msgid "File"
+msgstr "ファイル"
+
+#: src/components/shared/attachments/DocumentsStep.js:149
+msgid "File \"%s\" exceeds the maximum size of %d MB"
+msgstr "ファイル「%s」は最大サイズ %d MB を超えています"
+
+#: src/components/admin/abstracts/Attachments.js:113
+#: src/components/frontend/attachments/Attachments.js:183
+msgid "File deleted successfully"
+msgstr "ユーザーが成功裏に削除されました"
+
+#: src/components/admin/abstracts/Attachments.js:350
+msgid "File Manager"
+msgstr "ファイルマネージャー"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:138
+msgid "File removed"
+msgstr "はい、削除します"
+
+#: src/components/shared/attachments/FileUpload.js:33
+msgid "File size exceeds"
+msgstr "ファイルサイズが超えています"
+
+#: src/components/shared/attachments/AbstractFileManager.js:292
+msgid "File Summary"
+msgstr "ファイル概要"
+
+#: src/components/admin/abstracts/Attachments.js:398
+msgid "File Type"
+msgstr "ファイルの種類"
+
+#: src/components/shared/attachments/FileUpload.js:44
+msgid "File type not allowed"
+msgstr "このファイルタイプは許可されていません"
+
+#: src/components/shared/attachments/DocumentsStep.js:138
+msgid "File type not allowed. Allowed types: %s"
+msgstr "このファイルタイプは許可されていません"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:65
+msgid "File Upload"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:115
+msgid "File uploaded successfully"
+msgstr "画像のアップロードが正常に完了しました"
+
+#: src/components/admin/abstracts/Attachments.js:441
+#: src/components/frontend/attachments/Attachments.js:403
+#: src/components/shared/attachments/AbstractFileManager.js:317
+#: src/components/shared/attachments/DocumentsStep.js:211
+msgid "files"
+msgstr "ファイル"
+
+#: src/components/admin/users/Users.js:1232
+msgid "Fill in the user information and save"
+msgstr "ユーザー情報を入力して保存します"
+
+#: src/components/admin/users/Users.js:839
+msgid "Filter by role"
+msgstr "ルールでフィルタする"
+
+#: src/components/admin/abstracts/Abstracts.js:763
+#: src/components/frontend/submissions/Submissions.js:791
+msgid "Filter by status"
+msgstr "ステータスで絞り込む"
+
+#: src/components/admin/abstracts/Abstracts.js:778
+#: src/components/frontend/submissions/Submissions.js:808
+msgid "Filter by track"
+msgstr "トラック別フィルター"
+
+#: src/components/admin/events/StatusManagement.js:237
+msgid "Final"
+msgstr "最終"
+
+#: src/components/admin/events/StatusManagement.js:526
+msgid "Final Status"
+msgstr "すべてのステータス"
+
+#: src/components/admin/abstracts/Authors.js:713
+#: src/components/shared/authors/AuthorForm.js:66
+msgid "First Name"
+msgstr "名"
+
+#: src/components/admin/events/StatusManagement.js:225
+msgid "Flags"
+msgstr "フラグ"
+
+#: src/components/admin/appearance/Appearance.js:506
+msgid "Font Family"
+msgstr "フォントファミリー"
+
+#: src/components/admin/appearance/Appearance.js:504
+msgid "Font Settings"
+msgstr "フォント設定"
+
+#: src/components/admin/appearance/Appearance.js:541
+msgid "Font size must be between 12 and 18 pixels"
+msgstr "フォント サイズは 12 ～ 18 ピクセルである必要があります"
+
+#: src/components/admin/appearance/Appearance.js:561
+msgid "Font Weight"
+msgstr "フォント設定"
+
+#: blocks/dashboard/index.js:126
+msgid ""
+"For best results, use a full-width page template. SimplyConf will auto-"
+"adjust if unavailable."
+msgstr "最良の結果を得るには、全幅のページ テンプレートを使用してください。SimplyConf が利用できない場合は自動調整されます。"
+
+#: src/components/admin/users/Users.js:733
+msgid "for full functionality."
+msgstr "完全な機能のために。"
+
+#: src/components/frontend/auth/Login.js:256
+msgid "Forgot your password?"
+msgstr "パスワードをお忘れですか？"
+
+#: src/components/admin/users/Settings.js:68
+msgid "From Google reCAPTCHA admin console"
+msgstr "Google reCAPTCHA 管理コンソールから"
+
+#: blocks/dashboard/index.js:95
+msgid ""
+"Frontend dashboard for conference participants. This block will display the "
+"full SimplyConf dashboard on the frontend."
+msgstr "会議参加者用のフロントエンド ダッシュボード。このブロックは、フロントエンドに完全な SimplyConf ダッシュボードを表示します。"
+
+#: src/components/shared/abstracts/AbstractView.js:140
+msgid "Generating PDF..."
+msgstr "PDF生成中..."
+
+#: src/components/admin/appearance/Appearance.js:525
+msgid "Georgia"
+msgstr "ジョージア"
+
+#: inc/addons.php:217
+msgid "Get %s →"
+msgstr "%s →"
+
+#: src/components/admin/abstracts/Abstracts.js:363
+msgid "Get Exports Add-on"
+msgstr "エクスポートアドオンを入手"
+
+#: src/components/admin/users/Users.js:740
+msgid "Get it here"
+msgstr "こちらから入手できます"
+
+#: src/components/admin/abstracts/Abstracts.js:288
+#: src/components/admin/abstracts/Abstracts.js:323
+msgid "Get Reviews Add-on"
+msgstr "レビューの追加情報を得る"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:634
+msgid "Get Started"
+msgstr "こちらから入手できます"
+
+#: src/Frontend.js:490
+msgid "Go to Admin"
+msgstr "掲載数"
+
+#: src/components/admin/dashboard/Dashboard.js:701
+msgid "Go to Licenses"
+msgstr "免許なしで"
+
+#: src/components/frontend/attachments/Attachments.js:391
+msgid "Go to Submissions"
+msgstr "掲載数"
+
+#: src/components/admin/users/Users.js:1204
+msgid "Go to WordPress Users"
+msgstr "WordPressユーザーへの自動リンク"
+
+#: src/components/shared/attachments/FileList.js:395
+msgid "Grid View"
+msgstr "グリッド表示"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:599
+msgid "Help Text"
+msgstr "ヘルプテキスト"
+
+#: src/components/admin/appearance/Appearance.js:519
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: blocks/dashboard/index.js:73 blocks/login/index.js:70
+#: blocks/register/index.js:70
+msgid "Hide Page Title"
+msgstr "ページタイトルを隠す"
+
+#: blocks/dashboard/index.js:78
+msgid "Hide the page title when displaying the dashboard."
+msgstr "ダッシュボードを表示するときにページタイトルを非表示にします。"
+
+#: blocks/login/index.js:75
+msgid "Hide the page title when displaying the login form."
+msgstr "ログインフォームを表示するときにページタイトルを非表示にします。"
+
+#: blocks/register/index.js:75
+msgid "Hide the page title when displaying the registration form."
+msgstr "この欄をユーザー登録フォームに含めてください"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:721
+msgid "Hide this field when conditions are met"
+msgstr "条件が満たされた場合、このフィールドを非表示にします"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:281
+msgid "How it works:"
+msgstr "仕組み:"
+
+#: src/components/admin/events/StatusManagement.js:474
+msgid "Icon"
+msgstr "アイコン"
+
+#: src/components/admin/abstracts/Abstracts.js:930
+#: src/components/admin/abstracts/Attachments.js:193
+#: src/components/admin/abstracts/Authors.js:319
+#: src/components/admin/events/Events.js:210
+#: src/components/admin/tracks/Tracks.js:328
+#: src/components/admin/users/Users.js:160
+#: src/components/frontend/submissions/Submissions.js:591
+#: src/hooks/useAbstractColumns.js:54
+msgid "ID"
+msgstr "ID"
+
+#: src/components/shared/abstracts/AbstractView.js:654
+msgid "ID:"
+msgstr "ID"
+
+#: src/components/admin/abstracts/Attachments.js:232
+#: src/components/shared/abstracts/AbstractSinglePage.js:141
+#: src/components/shared/abstracts/AbstractWizard.js:684
+msgid "ID: %s"
+msgstr "ID:%s%s"
+
+#: src/components/admin/abstracts/Attachments.js:408
+#: src/components/shared/attachments/FileList.js:339
+msgid "Images"
+msgstr "画像"
+
+#: src/components/admin/appearance/Appearance.js:324
+msgid "Import"
+msgstr "エクスポート"
+
+#: src/components/admin/dashboard/Dashboard.js:657
+msgid "Inactive"
+msgstr "有効"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:660
+msgid "Include this field in user registration forms"
+msgstr "この欄をユーザー登録フォームに含めてください"
+
+#: blocks/login/index.js:120
+msgid "Includes login, forgot password, and password reset forms."
+msgstr "ログイン、パスワードを忘れた場合、およびパスワードのリセット フォームが含まれます。"
+
+#: src/components/admin/events/StatusManagement.js:231
+msgid "Initial"
+msgstr "初期値"
+
+#: src/components/admin/events/StatusManagement.js:502
+msgid "Initial Status"
+msgstr "すべてのステータス"
+
+#: src/components/admin/events/StatusManagement.js:325
+msgid "Initialize Default Statuses"
+msgstr "デフォルトステータスの初期化"
+
+#: src/components/admin/events/CreateEvent.js:60
+#: src/components/admin/events/CreateEvent.js:68
+#: src/components/admin/events/EditEvent.js:93
+#: src/components/admin/events/EditEvent.js:104
+msgid "Initials"
+msgstr "イニシャル"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:600
+msgid "Instructions displayed below the upload field"
+msgstr "このフィールドの表示ラベルを入力してください"
+
+#: src/components/admin/licenses/Licenses.js:155
+msgid "Invalid"
+msgstr "無効"
+
+#: routes/features.php:190
+msgid "Invalid feature slug"
+msgstr "無効な機能スラッグ"
+
+#: src/components/admin/appearance/Appearance.js:257
+msgid "Invalid JSON file. Please check the file format."
+msgstr "無効な JSON ファイルです。ファイル形式を確認してください。"
+
+#: src/components/admin/licenses/Licenses.js:285
+msgid ""
+"Invalid license key format. Please enter a valid 32-character license key."
+msgstr "ライセンスキーの形式が無効です。有効な 32 文字のライセンス キーを入力してください。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:594
+msgid "Invite reviewers and assign them to tracks"
+msgstr "一部のトラックに椅子を割り当てられなかった"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:807
+msgid "is empty"
+msgstr "空です"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:810
+msgid "is not empty"
+msgstr "空ではありません"
+
+#: src/components/shared/UpgradePrompt.js:35
+msgid "is not included in your current plan."
+msgstr "現在のプランには含まれていません。"
+
+#: src/components/frontend/submissions/Submissions.js:892
+msgid "item(s) selected"
+msgstr "(%d選択)"
+
+#: src/components/admin/abstracts/Settings.js:383
+msgid "JPEG Images"
+msgstr "画像"
+
+#: src/components/admin/events/StatusManagement.js:196
+#: src/components/admin/events/StatusManagement.js:445
+#: src/components/shared/customFields/CustomFieldsAdmin.js:230
+msgid "Label"
+msgstr "ラベル"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:444
+msgid "Label is required"
+msgstr "ラベルは必須です"
+
+#: src/components/admin/licenses/Licenses.js:217
+msgid "Last Checked"
+msgstr "最終確認日"
+
+#: src/components/admin/events/Events.js:961
+#: src/components/shared/abstracts/AbstractView.js:1336
+msgid "Last Modified"
+msgstr "最終編集日"
+
+#: src/components/admin/abstracts/Authors.js:716
+#: src/components/shared/authors/AuthorForm.js:84
+msgid "Last Name"
+msgstr "姓"
+
+#: src/components/admin/appearance/Appearance.js:741
+msgid "Layout Preview"
+msgstr "レイアウト プレビュー"
+
+#: src/components/admin/appearance/Appearance.js:680
+msgid "Layout Settings"
+msgstr "レイアウト設定"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:438
+msgid "Let new users register accounts from the frontend"
+msgstr "新しいユーザーがフロントエンドからアカウントを登録できるようにする"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:308
+msgid "Let's configure your first event. You can always change these later."
+msgstr "最初のイベントを設定しましょう。これらは後でいつでも変更できます。"
+
+#: src/components/admin/appearance/Appearance.js:600
+msgid "Letter Spacing (px)"
+msgstr "文字間隔 (px)"
+
+#: src/components/admin/dashboard/Dashboard.js:137
+msgid "License activated successfully!"
+msgstr "ライセンスが正常にアクティブ化されました"
+
+#: src/components/admin/licenses/Licenses.js:242
+msgid "License Expired"
+msgstr "ライセンスキー"
+
+#: src/components/admin/licenses/Licenses.js:392
+msgid "License Information"
+msgstr "ユーザー情報"
+
+#: src/components/admin/licenses/Licenses.js:200
+#: src/components/admin/licenses/Licenses.js:277
+msgid "License Key"
+msgstr "ライセンスキー"
+
+#: src/components/admin/dashboard/Dashboard.js:590
+#: src/components/admin/licenses/Licenses.js:345
+#: src/components/admin/licenses/Licenses.js:364
+msgid "License Management"
+msgstr "ライセンス管理"
+
+#: src/components/admin/licenses/Licenses.js:349
+msgid ""
+"License management is not available in SaaS mode. All premium features are "
+"automatically included with your subscription."
+msgstr "ライセンス管理は SaaS モードでは利用できません。すべてのプレミアム機能は、サブスクリプションに自動的に含まれます。"
+
+#: src/components/shared/UpgradePrompt.js:43
+msgid "License Required"
+msgstr "ライセンスキー"
+
+#: src/components/admin/licenses/Licenses.js:115
+msgid "License validated successfully"
+msgstr "ライセンスの検証が成功しました"
+
+#: src/components/admin/licenses/Licenses.js:118
+msgid "License validation failed"
+msgstr "ライセンス検証に失敗"
+
+#: src/Admin.js:145 src/components/admin/settings/Wrapper.js:33
+#: src/components/admin/settings/Wrapper.js:75
+msgid "Licenses"
+msgstr "ライセンス"
+
+#: src/components/admin/licenses/Licenses.js:396
+msgid "Licenses are validated automatically every 24 hours"
+msgstr "ライセンスは 24 時間ごとに自動的に検証されます"
+
+#: src/components/admin/appearance/Appearance.js:712
+msgid "Light"
+msgstr "ライト"
+
+#: src/components/shared/attachments/FileUpload.js:35
+msgid "limit"
+msgstr "限定"
+
+#: src/components/admin/appearance/Appearance.js:582
+msgid "Line Height"
+msgstr "ライト"
+
+#: src/components/admin/abstracts/Authors.js:467
+msgid "Link User"
+msgstr "ユーザー"
+
+#: src/components/admin/abstracts/Authors.js:393
+msgid "Linked"
+msgstr "ペアリング済み"
+
+#: src/components/admin/abstracts/Authors.js:530
+msgid "Linked to WordPress"
+msgstr "WordPressにリンクされています"
+
+#: src/components/admin/abstracts/Authors.js:404
+msgid "Linked to WP"
+msgstr "WPとのリンク"
+
+#: src/components/admin/abstracts/Authors.js:722
+msgid "Linked User"
+msgstr "リンクされたユーザー"
+
+#: src/components/shared/attachments/FileList.js:386
+msgid "List View"
+msgstr "リスト表示"
+
+#: src/components/shared/attachments/FilePreview.js:106
+msgid "Load Preview"
+msgstr "ロゴのプレビュー"
+
+#: src/components/frontend/auth/Register.js:407
+msgid "Loading additional fields..."
+msgstr "追加フィールドを読み込み中..."
+
+#: src/index.js:380
+msgid "Loading Admin Panel..."
+msgstr "追加フィールドを読み込み中..."
+
+#: src/components/shared/abstracts/AbstractView.js:927
+msgid "Loading attachments..."
+msgstr "テーマ設定を読み込み中..."
+
+#: src/components/admin/users/EditUser.js:94
+#: src/components/frontend/auth/Profile.js:109
+#: src/components/shared/abstracts/AbstractSinglePage.js:320
+#: src/components/shared/abstracts/AbstractWizard.js:398
+#: src/components/shared/users/UserWizard.js:122
+msgid "Loading custom fields..."
+msgstr "カスタムフィールドの読み込み中..."
+
+#: src/components/admin/dashboard/Dashboard.js:172
+msgid "Loading dashboard statistics..."
+msgstr "ダッシュボードの統計を読み込み中..."
+
+#: src/index.js:619
+msgid "Loading Dashboard..."
+msgstr "ダッシュボードの統計を読み込み中..."
+
+#: src/components/shared/attachments/FilePreview.js:86
+msgid "Loading preview..."
+msgstr "プレビューを読み込み中…"
+
+#: src/components/frontend/auth/Profile.js:97
+msgid "Loading profile..."
+msgstr "プロファイルを読み込み中..."
+
+#: src/components/admin/dashboard/Dashboard.js:463
+msgid "Loading recent activity..."
+msgstr "最近のアクティビティ"
+
+#: src/components/shared/abstracts/AbstractView.js:586
+msgid "Loading submission details..."
+msgstr "カスタムフィールドの読み込み中..."
+
+#: src/components/frontend/submissions/Submissions.js:716
+msgid "Loading Submissions..."
+msgstr "テーマ設定を読み込み中..."
+
+#: src/components/admin/appearance/Appearance.js:270
+msgid "Loading theme settings..."
+msgstr "テーマ設定を読み込み中..."
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:297
+msgid "Loading track chairs..."
+msgstr "テーマ設定を読み込み中..."
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:403
+#: src/components/shared/abstracts/AbstractWizard.js:140
+msgid "Loading tracks..."
+msgstr "テーマ設定を読み込み中..."
+
+#: src/components/admin/users/EditUser.js:100
+#: src/components/admin/users/ViewUser.js:86
+msgid "Loading user details..."
+msgstr "カスタムフィールドの読み込み中..."
+
+#: src/Frontend.js:265 src/Frontend.js:275
+#: src/components/admin/abstracts/Abstracts.js:822
+#: src/components/admin/users/Users.js:898
+#: src/components/frontend/dashboard/Dashboard.js:33
+#: src/components/frontend/submissions/Submissions.js:490
+#: src/components/shared/abstracts/AbstractView.js:399
+#: src/components/shared/abstracts/AbstractView.js:1396
+#: src/hooks/useAbstractColumns.js:287 blocks/dashboard/index.js:117
+#: blocks/login/index.js:113 blocks/register/index.js:113
+msgid "Loading..."
+msgstr "読み込み中…"
+
+#: src/components/admin/events/Events.js:840
+#: src/components/admin/tracks/Tracks.js:65
+msgid "Location"
+msgstr "場所"
+
+#: src/components/admin/users/Settings.js:148
+msgid "Login Redirect URL"
+msgstr "ログインリダイレクトURL"
+
+#: blocks/login/index.js:49
+msgid "Login Settings"
+msgstr "フォント設定"
+
+#: src/components/frontend/auth/Login.js:70
+msgid "Login successful!"
+msgstr "ログインしました!"
+
+#: src/components/admin/appearance/Appearance.js:420
+#: src/components/admin/appearance/Appearance.js:427
+msgid "Logo Preview"
+msgstr "ロゴのプレビュー"
+
+#: src/components/admin/appearance/Appearance.js:239
+msgid "Logo uploaded successfully"
+msgstr "画像のアップロードが正常に完了しました"
+
+#: src/components/admin/appearance/Appearance.js:388
+msgid "Logo URL"
+msgstr "ロゴ URL"
+
+#: src/Frontend.js:336
+msgid "Logout"
+msgstr "ログアウト"
+
+#: src/Admin.js:246
+msgid "Mail Log"
+msgstr "メールログ"
+
+#: src/components/shared/attachments/AbstractFileManager.js:85
+msgid "Main abstract document (PDF format)"
+msgstr "メイン要旨文書(PDF形式)"
+
+#: src/components/admin/events/TerminologySettings.js:61
+msgid "Main submission entity"
+msgstr "主な提出団体"
+
+#: src/components/admin/tracks/Tracks.js:411
+msgid "Manage ({chairCount})"
+msgstr "マネジメント({reviewerCount})"
+
+#: src/hooks/useAbstractColumns.js:220
+msgid "Manage ({reviewerCount})"
+msgstr "マネジメント({reviewerCount})"
+
+#: src/components/admin/tracks/Tracks.js:435
+msgid "Manage Chairs"
+msgstr "チェアの管理"
+
+#: src/components/admin/abstracts/Abstracts.js:882
+#: src/components/admin/abstracts/Authors.js:570
+#: src/components/admin/users/Users.js:988
+#: src/components/frontend/submissions/Submissions.js:784
+#: src/components/frontend/submissions/Submissions.js:920
+msgid "Manage Columns"
+msgstr "カラム管理"
+
+#: src/components/frontend/attachments/Attachments.js:353
+msgid "Manage files and attachments for your %s submissions"
+msgstr "%s投稿のファイルや添付ファイルを管理しましょう"
+
+#: src/components/shared/UpgradePrompt.js:49
+msgid "Manage Licenses"
+msgstr "レビュー担当者"
+
+#: src/components/admin/dashboard/Dashboard.js:670
+msgid "Manage Licenses →"
+msgstr "レビュー担当者"
+
+#: src/components/admin/events/StatusManagement.js:303
+msgid "Manage statuses for"
+msgstr "ステータスを変更"
+
+#: src/components/admin/licenses/Licenses.js:366
+msgid ""
+"Manage your SimplyConf add-on licenses. Each add-on requires a separate "
+"license key for updates and support."
+msgstr "SimplyConf アドオン ライセンスを管理します。各アドオンには、更新とサポートのために個別のライセンス キーが必要です。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:870
+msgid "Match ALL rules (AND)"
+msgstr "すべてのルールに一致 (AND)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:873
+msgid "Match ANY rule (OR)"
+msgstr "いずれかのルールに一致 (OR)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:865
+msgid "Match Logic"
+msgstr "メールログ"
+
+#: src/components/shared/attachments/FileUpload.js:179
+msgid "Max file size:"
+msgstr "最大ファイルサイズ:"
+
+#: src/components/admin/abstracts/Settings.js:336
+msgid "Maximum File Size (MB)"
+msgstr "最大ファイルサイズ:"
+
+#: src/components/shared/attachments/DocumentsStep.js:225
+msgid "Maximum file size:"
+msgstr "最大ファイルサイズ:"
+
+#: src/components/admin/abstracts/Settings.js:129
+msgid "Maximum number of abstracts a single user can submit"
+msgstr "1人が提出できる最大抄録数"
+
+#: src/components/admin/users/Settings.js:212
+msgid "Maximum number of characters allowed for passwords"
+msgstr "抽象記述で許される最大文字数"
+
+#: src/components/admin/abstracts/Settings.js:103
+msgid "Maximum number of characters allowed in abstract description"
+msgstr "抽象記述で許される最大文字数"
+
+#: src/components/admin/abstracts/Settings.js:315
+msgid "Maximum number of files allowed per submission"
+msgstr "1回の提出につき許可される最大ファイル数"
+
+#: src/components/shared/attachments/DocumentsStep.js:160
+msgid "Maximum of %d files allowed"
+msgstr "1回の提出につき許可される最大ファイル数"
+
+#: src/components/admin/users/Settings.js:208
+msgid "Maximum Password Length"
+msgstr "パスワードの最大長"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:577
+msgid "Maximum Rating"
+msgstr "最大評価"
+
+#: src/components/admin/abstracts/Settings.js:339
+msgid "Maximum size for each uploaded file in megabytes"
+msgstr "アップロードされた各ファイルの最大サイズ(メガバイト)"
+
+#: src/components/admin/appearance/Appearance.js:715
+msgid "Medium"
+msgstr "中"
+
+#: src/Frontend.js:424
+msgid "Menu"
+msgstr "メニュー"
+
+#: src/components/admin/users/Settings.js:186
+msgid "Minimum number of characters required for passwords"
+msgstr "抽象記述で許される最大文字数"
+
+#: src/components/admin/users/Settings.js:182
+msgid "Minimum Password Length"
+msgstr "パスワードの最小長"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:165
+#: src/components/shared/abstracts/AbstractWizard.js:709
+msgid "Modifications are not permitted at this time."
+msgstr "現時点では変更は許可されていません。"
+
+#: src/components/admin/abstracts/Abstracts.js:1003
+#: src/hooks/useAbstractColumns.js:351
+msgid "Modified"
+msgstr "更新日"
+
+#: src/components/shared/abstracts/AuthorManagement.js:95
+msgid "Move down"
+msgstr "下に移動"
+
+#: src/components/shared/abstracts/AuthorManagement.js:87
+msgid "Move up"
+msgstr "上へ移動"
+
+#: src/components/admin/abstracts/Settings.js:160
+msgid "Multi-Step Wizard"
+msgstr "マルチステップウィザード"
+
+#: src/components/frontend/attachments/Attachments.js:349
+msgid "My Attachments"
+msgstr "添付ファイル"
+
+#: src/Frontend.js:328 src/components/frontend/auth/Profile.js:105
+#: src/components/frontend/auth/Profile.js:117
+msgid "My Profile"
+msgstr "プロフィール"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:63
+msgid "My Submissions"
+msgstr "送信"
+
+#: src/components/shared/abstracts/AbstractView.js:1247
+#: src/hooks/useAbstractColumns.js:99 src/hooks/useAbstractColumns.js:152
+#: src/hooks/useAbstractColumns.js:331 src/hooks/useAbstractColumns.js:357
+msgid "N/A"
+msgstr "該当なし"
+
+#: src/components/admin/abstracts/Authors.js:330
+#: src/components/admin/abstracts/Authors.js:617
+#: src/components/admin/events/CreateEvent.js:44
+#: src/components/admin/events/EditEvent.js:77
+#: src/components/admin/events/StatusManagement.js:190
+#: src/components/admin/events/StatusManagement.js:422
+#: src/components/admin/tracks/Tracks.js:53
+#: src/components/admin/tracks/Tracks.js:335
+#: src/components/admin/users/Users.js:171
+#: src/components/shared/attachments/FileList.js:354
+#: src/components/shared/attachments/FileList.js:446
+#: src/components/shared/customFields/CustomFieldsAdmin.js:231
+msgid "Name"
+msgstr "名前"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:462
+msgid "Name is required"
+msgstr "名前は必須です"
+
+#: src/components/admin/events/StatusManagement.js:430
+msgid "Name must be lowercase letters and underscores only"
+msgstr "名前は小文字で、下線は下線のみでなければなりません"
+
+#: src/components/admin/events/Events.js:1014
+msgid "New Event"
+msgstr "新しいイベント"
+
+#: src/components/frontend/auth/Login.js:348
+msgid "New password"
+msgstr "新しいパスワード"
+
+#: src/components/frontend/auth/Login.js:144
+msgid "New Password"
+msgstr "新しいパスワード"
+
+#: blocks/register/index.js:120
+msgid "New users will be assigned the author role for the selected event."
+msgstr "新しいユーザーには、選択したイベントの作成者の役割が割り当てられます。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:638
+#: src/components/shared/abstracts/AbstractWizard.js:224
+#: src/components/shared/abstracts/AbstractWizard.js:381
+#: src/components/shared/abstracts/AbstractWizard.js:458
+#: src/components/shared/abstracts/AbstractWizard.js:512
+#: src/components/shared/attachments/DocumentsStep.js:378
+msgid "Next"
+msgstr "次のステップ"
+
+#: src/components/frontend/auth/Register.js:377
+#: src/components/frontend/auth/Register.js:450
+msgid "Next Step"
+msgstr "次のステップ"
+
+#: src/components/admin/abstracts/Authors.js:725
+#: src/components/admin/events/StatusManagement.js:261
+#: src/components/admin/users/Users.js:239
+#: src/components/admin/users/ViewUser.js:55
+#: src/components/frontend/submissions/Submissions.js:653
+#: src/components/shared/abstracts/AbstractView.js:855
+#: src/components/shared/abstracts/AbstractView.js:1203
+#: src/components/shared/customFields/CustomFieldsAdmin.js:261
+#: src/components/shared/customFields/CustomFieldsAdmin.js:267
+#: src/components/shared/customFields/CustomFieldsAdmin.js:273
+#: src/components/shared/customFields/CustomFieldsAdmin.js:282
+msgid "No"
+msgstr "いいえ"
+
+#: src/components/admin/dashboard/Dashboard.js:677
+msgid "No Active Licenses"
+msgstr "有効な免許はありません"
+
+#: src/components/shared/abstracts/AbstractWizard.js:403
+msgid "No additional details are required for this event."
+msgstr "このイベントでは会議登録料は不要です。"
+
+#: src/components/frontend/auth/Register.js:436
+msgid ""
+"No additional information required. Click \"Next\" to review your "
+"registration."
+msgstr "追加情報は必要ありません。「次へ」をクリックして登録内容を確認します。"
+
+#: src/components/shared/abstracts/AbstractView.js:935
+msgid "No attachments found for this submission."
+msgstr "添付ファイル"
+
+#: src/components/frontend/attachments/Attachments.js:378
+msgid "No attachments found."
+msgstr "添付ファイル"
+
+#: src/components/shared/abstracts/AuthorManagement.js:237
+msgid "No authors added yet"
+msgstr "まだ著者は追加されていません"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:304
+msgid "No available track chairs found matching your search"
+msgstr "検索に一致する利用可能なトラックチェアは見つかりませんでした"
+
+#: src/components/admin/users/EditUser.js:124
+#: src/components/shared/users/UserWizard.js:146
+msgid "No custom fields available for users."
+msgstr "プロフィールのカスタムフィールドは利用できません。"
+
+#: src/components/frontend/auth/Profile.js:140
+msgid "No custom fields available for your profile."
+msgstr "プロフィールのカスタムフィールドは利用できません。"
+
+#: src/components/admin/abstracts/Abstracts.js:1052
+#: src/components/admin/abstracts/Authors.js:687
+#: src/components/admin/users/Users.js:1146
+msgid "No custom fields have been created for this event"
+msgstr "このイベントのためにカスタムフィールドは作成されていません"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:533
+msgid "No Dashboard Page"
+msgstr "ダッシュボード"
+
+#: src/components/admin/dashboard/DashboardSetup.js:131
+msgid "No Dashboard Page Found"
+msgstr "ステータスが見つかりません"
+
+#: inc/class-dashboard-setup.php:106
+msgid "No dashboard page found for this event."
+msgstr "このイベントでは会議登録料は不要です。"
+
+#: src/components/admin/dashboard/Dashboard.js:263
+msgid "No deadline set"
+msgstr "期限が指定されていません"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:121
+#: src/components/shared/abstracts/AbstractWizard.js:664
+msgid "No Draft Saved"
+msgstr "ドラフト保存なし"
+
+#: src/components/admin/events/StatusManagement.js:277
+msgid "No Event Selected"
+msgstr "選択したアイテムを削除"
+
+#: src/components/shared/abstracts/AbstractView.js:800
+#: src/components/shared/customFields/CustomFieldFileUpload.js:187
+msgid "No file uploaded"
+msgstr "まだファイルはアップロードされていません"
+
+#: src/components/shared/attachments/FileList.js:422
+msgid "No files found"
+msgstr "ファイルが見つかりません"
+
+#: src/components/admin/events/StatusManagement.js:532
+msgid "No further changes allowed"
+msgstr "それ以上の変更は許されません"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:366
+#: src/components/shared/abstracts/AbstractWizard.js:111
+msgid "No global event selected"
+msgstr "世界イベントは選択されていません"
+
+#: src/components/admin/licenses/Licenses.js:165
+msgid "No License"
+msgstr "免許なしで"
+
+#: src/components/admin/appearance/Appearance.js:433
+msgid "No Logo Set"
+msgstr "ロゴセットなし"
+
+#: src/components/admin/dashboard/Dashboard.js:555
+#: src/components/frontend/dashboard/widgets/Timeline.js:83
+msgid "No recent activity"
+msgstr "最近のアクティビティ"
+
+#: src/hooks/useAbstractColumns.js:315
+msgid "No Status"
+msgstr "ステータス"
+
+#: src/components/admin/events/StatusManagement.js:372
+msgid "No Statuses Found"
+msgstr "ステータスが見つかりません"
+
+#: src/hooks/useAbstractFormState.js:736
+msgid "No submitted status found. Please configure statuses for this event."
+msgstr "ドラフトステータスは見つかりません。このイベントのステータス設定を必ずしてください。"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:313
+msgid "No track chairs available for this event"
+msgstr "プロフィールのカスタムフィールドは利用できません。"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:404
+#: src/components/shared/abstracts/AbstractWizard.js:141
+msgid "No tracks available"
+msgstr "利用不可"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:369
+msgid "No tracks yet. Add your first one below."
+msgstr "まだトラックはありません。最初のものを下に追加します。"
+
+#: src/components/admin/appearance/Appearance.js:709
+msgid "None"
+msgstr "なし"
+
+#: src/components/shared/abstracts/AbstractView.js:1322
+msgid "Not available"
+msgstr "利用不可"
+
+#: src/components/shared/NotFound.js:7
+msgid "Not found"
+msgstr "見つかりません"
+
+#: src/components/admin/users/ViewUser.js:49
+#: src/components/frontend/auth/Register.js:535
+#: src/components/shared/abstracts/AbstractView.js:862
+msgid "Not provided"
+msgstr "未提供"
+
+#: src/components/admin/events/Events.js:876
+msgid "Not specified"
+msgstr "指定なし"
+
+#: blocks/dashboard/index.js:124
+msgid "Note:"
+msgstr "注記："
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:54
+msgid "Number"
+msgstr "番号"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:120
+msgid "One lowercase letter"
+msgstr "小文字 1 文字"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:131
+msgid "One number"
+msgstr "番号"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:144
+msgid "One special character"
+msgstr "特殊文字 1 文字"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:109
+msgid "One uppercase letter"
+msgstr "大文字 1 文字"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:789
+msgid "Operator"
+msgstr "オペレーター"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:781
+msgid "Operator is required"
+msgstr "命令が必要です"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:560
+msgid "Option 1\\nOption 2\\nOption 3\\n\\n(Leave empty for single checkbox)"
+msgstr "オプション1\\nオプション2\\nオプション3\\n\\n(単一チェックボックスのために空欄を残す)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:564
+msgid "Option 1\\nOption 2\\nOption 3\\n\\nor\\n\\nOption 1, Option 2, Option 3"
+msgstr "オプション1\\nオプション2\\nオプション3\\n\\nor\\n\\nオプション1、オプション2、オプション3"
+
+#: src/components/admin/abstracts/Settings.js:296
+#: src/components/admin/events/CreateEvent.js:164
+#: src/components/admin/events/EditEvent.js:210
+#: src/components/admin/events/Events.js:800
+msgid "Optional"
+msgstr "オプション"
+
+#: src/components/admin/abstracts/Abstracts.js:954
+#: src/components/admin/users/Users.js:1063
+msgid "Optional Fixed Columns"
+msgstr "固定列"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:537
+msgid "Options (one per line or comma separated)"
+msgstr "オプション(1行に1つ、またはコンマで分けて)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:533
+msgid "Options (optional - leave empty for single checkbox)"
+msgstr "オプション(オプション - 1つのチェックボックス用に空欄にする)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:548
+msgid "Options are required for this field type"
+msgstr "この分野タイプにはオプションが必要です"
+
+#: src/components/admin/events/StatusManagement.js:183
+#: src/components/admin/events/StatusManagement.js:488
+#: src/components/shared/customFields/CustomFieldsAdmin.js:287
+msgid "Order"
+msgstr "注文"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:674
+msgid "Order is required"
+msgstr "命令が必要です"
+
+#: src/components/admin/appearance/Appearance.js:365
+msgid "Organization Details"
+msgstr "組織の詳細"
+
+#: src/components/admin/appearance/Appearance.js:367
+msgid "Organization Name"
+msgstr "寄付の宛先 (組織名)"
+
+#: src/components/admin/appearance/Appearance.js:372
+msgid "Organization name must be less than 100 characters"
+msgstr "ユーザー名は 3 文字以上でなければなりません"
+
+#: src/components/shared/attachments/AbstractFileManager.js:272
+msgid "Other Files"
+msgstr "その他のファイル"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:116
+msgid "Overall Progress"
+msgstr "全体の進捗"
+
+#: src/components/admin/dashboard/DashboardSetup.js:160
+msgid "Page:"
+msgstr "ページ："
+
+#: src/components/frontend/auth/Login.js:201
+#: src/components/frontend/auth/Register.js:342
+msgid "Password"
+msgstr "パスワード"
+
+#: src/components/frontend/auth/Login.js:339
+msgid "Password must be at least 6 characters"
+msgstr "パスワードは最低6文字でなければなりません"
+
+#: src/components/admin/users/Settings.js:398
+msgid "Password Requirements"
+msgstr "著者要件"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:68
+msgid "Password Requirements:"
+msgstr "著者要件"
+
+#: src/components/frontend/auth/Login.js:92
+msgid "Password reset email sent!"
+msgstr "パスワードリセットメール送信!"
+
+#: src/components/frontend/auth/Login.js:104
+msgid "Password reset successful! Please login."
+msgstr "パスワードリセット成功!ログインしてください。"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:47
+msgid "Password Strength:"
+msgstr "パスワード:"
+
+#: src/components/frontend/auth/Register.js:505
+msgid "Password:"
+msgstr "パスワード:"
+
+#: src/components/admin/users/Settings.js:274
+msgid "Passwords must contain at least one lowercase letter (a-z)"
+msgstr "パスワードは最低6文字でなければなりません"
+
+#: src/components/admin/users/Settings.js:305
+msgid "Passwords must contain at least one number (0-9)"
+msgstr "パスワードは最低6文字でなければなりません"
+
+#: src/components/admin/users/Settings.js:338
+msgid "Passwords must contain at least one special character (!@#$%^&*)"
+msgstr "パスワードは最低6文字でなければなりません"
+
+#: src/components/admin/users/Settings.js:241
+msgid "Passwords must contain at least one uppercase letter (A-Z)"
+msgstr "パスワードは最低6文字でなければなりません"
+
+#: src/Admin.js:258 src/components/admin/dashboard/Dashboard.js:342
+#: src/components/admin/dashboard/Dashboard.js:370 classes/admin-menu.php:85
+#: classes/admin-menu.php:86
+msgid "Payments"
+msgstr "支払い"
+
+#: inc/addons.php:202
+msgid "Payments & Registration Add-On"
+msgstr "支払いおよび登録アドオン"
+
+#: src/components/admin/abstracts/Attachments.js:410
+#: src/components/admin/abstracts/Settings.js:364
+msgid "PDF"
+msgstr "PDF"
+
+#: src/components/admin/abstracts/Abstracts.js:374
+#: src/components/shared/abstracts/AbstractView.js:143
+msgid "PDF exported successfully"
+msgstr "PDFのエクスポートが成功しました"
+
+#: src/components/admin/events/TerminologySettings.js:79
+msgid "Peer review entities"
+msgstr "ピアレビュー機関"
+
+#: src/components/admin/dashboard/Dashboard.js:256
+#: src/components/admin/dashboard/Dashboard.js:363
+msgid "pending"
+msgstr "保留中"
+
+#: src/components/shared/attachments/DocumentsStep.js:227
+msgid "per file"
+msgstr "プロフィールを更新"
+
+#: src/state/dashboardSlice.js:51
+msgid "performed an action"
+msgstr "ユーザー情報"
+
+#: src/state/frontendSlice.js:90
+msgid "Performed an Action"
+msgstr "ユーザー情報"
+
+#: src/components/shared/abstracts/AbstractWizard.js:548
+msgid ""
+"Please complete the previous steps to see a preview of your submission."
+msgstr "提出物のプレビューを表示するには、前の手順を完了してください。"
+
+#: src/components/shared/ErrorBoundary.js:84
+msgid ""
+"Please copy the error details from the browser console and send to support."
+msgstr "ブラウザコンソールからエラーの詳細をコピーしてサポートに送信してください。"
+
+#: src/components/admin/events/Events.js:580
+msgid "Please create an event to get started."
+msgstr "イベントを作成してから始めてください。"
+
+#: src/hooks/useAbstractFormState.js:524
+msgid "Please ensure an event is selected globally"
+msgstr "イベントが世界的に選ばれるようにしてください"
+
+#: src/components/admin/events/CreateEvent.js:125
+#: src/components/admin/events/EditEvent.js:172
+msgid "Please enter a deadline"
+msgstr "ユーザー名を入力してください"
+
+#: src/components/admin/events/EditEvent.js:115
+msgid "please enter a event description"
+msgstr "イベントを作成してから始めてください。"
+
+#: src/components/frontend/auth/Register.js:346
+msgid "Please enter a password"
+msgstr "パスワードを入力してください"
+
+#: src/hooks/useAbstractFormState.js:618
+msgid "Please enter a title before saving draft"
+msgstr "有効なメールアドレスを入力してください"
+
+#: src/components/admin/tracks/Tracks.js:617
+msgid "Please enter a track name"
+msgstr "名前（名）を入力してください"
+
+#: src/components/frontend/auth/Login.js:279
+#: src/components/shared/authors/AuthorForm.js:111
+msgid "Please enter a valid email"
+msgstr "有効なEmailアドレスを入力して下さい"
+
+#: src/components/frontend/auth/Register.js:326
+msgid "Please enter a valid email address"
+msgstr "有効なメールアドレスを入力してください"
+
+#: src/components/admin/appearance/Appearance.js:397
+msgid "Please enter a valid URL"
+msgstr "有効なEmailアドレスを入力して下さい"
+
+#: src/components/admin/events/CreateEvent.js:48
+#: src/components/admin/events/CreateEvent.js:53
+#: src/components/admin/events/EditEvent.js:81
+#: src/components/admin/events/EditEvent.js:86
+#: src/components/admin/onboarding/OnboardingWizard.js:320
+msgid "Please enter an event name"
+msgstr "名前（名）を入力してください"
+
+#: src/components/shared/authors/AuthorForm.js:107
+msgid "Please enter email"
+msgstr "Eメールを入力してください"
+
+#: src/components/shared/authors/AuthorForm.js:70
+msgid "Please enter first name"
+msgstr "名前（姓）を入力してください"
+
+#: src/components/shared/authors/AuthorForm.js:88
+msgid "Please enter last name"
+msgstr "名前（名）を入力してください"
+
+#: src/components/admin/events/StatusManagement.js:449
+msgid "Please enter status label"
+msgstr "名前（名）を入力してください"
+
+#: src/components/admin/events/StatusManagement.js:426
+msgid "Please enter status name"
+msgstr "名前（名）を入力してください"
+
+#: src/components/admin/events/CreateEvent.js:109
+#: src/components/admin/events/EditEvent.js:156
+msgid "Please enter the end date"
+msgstr "名前（名）を入力してください"
+
+#: src/components/admin/events/CreateEvent.js:64
+#: src/components/admin/events/EditEvent.js:97
+msgid "Please enter the event initials"
+msgstr "名前（名）を入力してください"
+
+#: src/components/admin/events/CreateEvent.js:95
+#: src/components/admin/events/EditEvent.js:142
+msgid "Please enter the start date"
+msgstr "名前（名）を入力してください"
+
+#: src/components/frontend/auth/Login.js:275
+#: src/components/frontend/auth/Register.js:322
+msgid "Please enter your email"
+msgstr "電子メールアドレスを入力してください"
+
+#: src/components/admin/licenses/Licenses.js:281
+msgid "Please enter your license key"
+msgstr "免許証キーを入力してください"
+
+#: src/components/frontend/auth/Login.js:332
+msgid "Please enter your new password"
+msgstr "新しいパスワードを入力してください"
+
+#: src/components/frontend/auth/Login.js:194
+msgid "Please enter your password"
+msgstr "パスワードを入力してください"
+
+#: src/components/frontend/auth/Login.js:175
+msgid "Please enter your username or email"
+msgstr "メールアドレスを入力してください"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:478
+#: src/components/shared/abstracts/AbstractWizard.js:219
+#: src/components/shared/abstracts/AbstractWizard.js:376
+#: src/components/shared/abstracts/AbstractWizard.js:443
+msgid "Please fill in all required fields"
+msgstr "すべての必須項目に記入してください"
+
+#: src/hooks/useAbstractFormState.js:716
+msgid "Please fix the following errors before submitting."
+msgstr "送信する前に次のエラーを修正してください。"
+
+#: src/components/shared/abstracts/AbstractView.js:131
+msgid ""
+"Please install and activate the Exports Add-on to export Abstracts to PDF."
+msgstr "Exportsアドオンは、要旨をPDFにエクスポートするために必要です。"
+
+#: src/components/admin/abstracts/Abstracts.js:278
+#: src/components/admin/abstracts/Abstracts.js:313
+msgid ""
+"Please install and activate the Reviews Add-on to assign reviewers and "
+"manage reviews."
+msgstr "レビューアドオンをインストールして有効化して、レビュアーの割り当てやレビューの管理をしてください。"
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:105
+msgid "Please provide %s"
+msgstr "ぜひご提供ください%s"
+
+#: src/components/frontend/auth/Register.js:416
+msgid "Please provide some additional details to complete your registration."
+msgstr "登録を完了するために、追加の情報をご提供ください。"
+
+#: src/components/frontend/auth/Register.js:472
+msgid "Please review your information before submitting your registration."
+msgstr "登録を提出する前に、必ず情報をご確認ください。"
+
+#: src/components/admin/abstracts/Abstracts.js:412
+#: src/components/admin/abstracts/Abstracts.js:553
+msgid "Please select a status"
+msgstr "ステータス（状況）を選択してください"
+
+#: src/hooks/useAbstractFormState.js:529
+msgid "Please select a track first"
+msgstr "ステータス（状況）を選択してください"
+
+#: src/components/admin/events/StatusManagement.js:279
+msgid "Please select an event to manage statuses"
+msgstr "イベントを作成してから始めてください。"
+
+#: src/components/admin/abstracts/Abstracts.js:545
+#: src/components/admin/abstracts/Abstracts.js:589
+msgid "Please select at least one abstract"
+msgstr "少なくとも1つの要約を選んでください"
+
+#: src/components/admin/users/Users.js:494
+msgid "Please select at least one role."
+msgstr "少なくとも1つのトラックを選んでください"
+
+#: src/components/admin/tracks/Tracks.js:295
+msgid "Please select at least one track"
+msgstr "少なくとも1つのトラックを選んでください"
+
+#: src/components/shared/attachments/DocumentsStep.js:289
+msgid "Please wait"
+msgstr "こちらから"
+
+#: src/components/admin/events/TerminologySettings.js:216
+msgid "Plural Form"
+msgstr "マルチプルフォーム"
+
+#: src/components/admin/abstracts/Settings.js:388
+msgid "PNG Images"
+msgstr "画像"
+
+#: src/components/admin/events/CreateEvent.js:204
+#: src/components/admin/events/EditEvent.js:252
+msgid "Postal Code"
+msgstr "郵便番号"
+
+#: src/components/admin/abstracts/Settings.js:373
+msgid "PowerPoint (PPT/PPTX)"
+msgstr "パワーポイント（PPT/PPTX）"
+
+#: src/components/shared/attachments/AbstractFileManager.js:112
+msgid "Presentation Files"
+msgstr "プレゼンテーション"
+
+#: src/components/shared/attachments/AbstractFileManager.js:113
+msgid "Presentation slides (if applicable)"
+msgstr "プレゼンテーションスライド(該当する場合)"
+
+#: src/components/shared/abstracts/AuthorManagement.js:311
+msgid "Presenter"
+msgstr "プレゼンテーション"
+
+#: src/components/admin/appearance/Appearance.js:137
+msgid "Preset applied and saved"
+msgstr "プリセットが適用され、保存されました"
+
+#: src/components/admin/appearance/Appearance.js:139
+msgid "Preset applied but failed to save"
+msgstr "プリセットは適用されましたが、保存に失敗しました"
+
+#: src/components/admin/appearance/Appearance.js:799
+msgid "Preset:"
+msgstr "プレゼンテーション"
+
+#: src/components/frontend/attachments/Attachments.js:297
+#: src/components/shared/attachments/AttachmentPreview.js:82
+#: src/components/shared/attachments/FileList.js:218
+#: src/components/shared/attachments/FileList.js:279
+msgid "Preview"
+msgstr "プレビュー"
+
+#: src/components/shared/attachments/FilePreview.js:114
+msgid "Preview not available for this file type"
+msgstr "この分野タイプにはオプションが必要です"
+
+#: src/components/admin/events/TerminologySettings.js:224
+msgid "Preview:"
+msgstr "プレビュー："
+
+#: src/components/admin/onboarding/OnboardingWizard.js:629
+#: src/components/frontend/auth/Register.js:447
+#: src/components/frontend/auth/Register.js:552
+msgid "Previous"
+msgstr "前へ"
+
+#: src/components/admin/appearance/Appearance.js:453
+msgid "Primary Color"
+msgstr "プライマリカラー"
+
+#: src/components/frontend/auth/Profile.js:83
+msgid "Profile updated!"
+msgstr "プロフィール更新!"
+
+#: src/components/admin/users/Settings.js:40
+msgid "Protect login and registration forms with Google reCAPTCHA v3"
+msgstr "Google reCAPTCHA v3 でログインおよび登録フォームを保護する"
+
+#: src/components/admin/licenses/Licenses.js:315
+msgid "Purchase a license for this add-on at"
+msgstr "このアドオンのライセンスを次の場所で購入します。"
+
+#: src/components/shared/UpgradePrompt.js:54
+msgid ""
+"Purchase and install the add-on to unlock this feature and enhance your "
+"conference management capabilities."
+msgstr "アドオンを購入してインストールすると、この機能のロックが解除され、会議管理機能が強化されます。"
+
+#: src/components/frontend/attachments/Attachments.js:277
+#: src/components/shared/attachments/FileList.js:448
+msgid "Purpose"
+msgstr "用途・目的"
+
+#: src/components/shared/attachments/FilePreview.js:213
+msgid "Purpose:"
+msgstr "用途・目的"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:58
+msgid "Radio Buttons"
+msgstr "ラジオボタン"
+
+#: src/components/admin/users/Settings.js:83
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA 秘密キー"
+
+#: src/components/admin/users/Settings.js:403
+msgid "reCAPTCHA Settings"
+msgstr "設定を保存"
+
+#: src/components/admin/users/Settings.js:65
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA サイトキー"
+
+#: src/components/admin/dashboard/Dashboard.js:444
+#: src/components/frontend/dashboard/widgets/Timeline.js:66
+msgid "Recent Activity"
+msgstr "最近のアクティビティ"
+
+#: src/components/admin/abstracts/Abstracts.js:794
+#: src/components/admin/abstracts/Attachments.js:426
+#: src/components/admin/events/Events.js:531
+#: src/components/admin/users/Users.js:863
+#: src/components/frontend/attachments/Attachments.js:367
+#: src/components/frontend/submissions/Submissions.js:773
+msgid "Refresh"
+msgstr "更新"
+
+#: src/components/admin/dashboard/Dashboard.js:454
+msgid "Refresh activity"
+msgstr "最近のアクティビティ"
+
+#: src/components/frontend/attachments/Attachments.js:361
+msgid "Refresh attachments list"
+msgstr "添付ファイル"
+
+#: src/state/dashboardSlice.js:42
+msgid "registered for the event"
+msgstr "ユーザー登録"
+
+#: src/state/frontendSlice.js:81
+msgid "Registered for the Event"
+msgstr "ユーザー登録"
+
+#: src/components/admin/events/TerminologySettings.js:95 inc/functions.php:149
+msgid "Registration"
+msgstr "登録"
+
+#: src/components/frontend/auth/Register.js:588
+msgid "Registration Disabled"
+msgstr "登録数"
+
+#: src/components/frontend/auth/Register.js:265
+#: src/components/frontend/auth/Register.js:268
+msgid "Registration failed. Please try again."
+msgstr "登録に失敗しました。もう一度お試しください。"
+
+#: src/components/admin/events/CreateEvent.js:144
+#: src/components/admin/events/EditEvent.js:191
+#: src/components/admin/events/Events.js:779
+#: src/components/admin/users/Settings.js:393 blocks/register/index.js:49
+msgid "Registration Settings"
+msgstr "登録設定"
+
+#: src/components/frontend/auth/Register.js:253
+msgid "Registration successful! Please login with your new account."
+msgstr "登録成功!ログインしてください。"
+
+#: src/components/frontend/auth/Login.js:85
+msgid "Registration successful! Please login."
+msgstr "登録成功!ログインしてください。"
+
+#: src/Admin.js:264
+msgid "Registration Types"
+msgstr "登録の種類"
+
+#: src/components/admin/dashboard/Dashboard.js:358
+msgid "registrations"
+msgstr "登録"
+
+#: src/components/admin/events/TerminologySettings.js:96 inc/functions.php:149
+msgid "Registrations"
+msgstr "登録数"
+
+#: src/components/shared/ErrorBoundary.js:127
+msgid "Reload Page"
+msgstr "ページを再読み込み"
+
+#: src/components/shared/attachments/AttachmentPreview.js:177
+msgid "Remove"
+msgstr "はい、削除します"
+
+#: src/components/shared/abstracts/AuthorManagement.js:156
+msgid "Remove Author"
+msgstr "投稿者を削除"
+
+#: src/components/admin/licenses/Licenses.js:251
+msgid "renew your license"
+msgstr "ライセンスの更新"
+
+#: src/components/shared/ErrorBoundary.js:131
+msgid "Report Issue"
+msgstr "問題を報告する"
+
+#: src/Admin.js:274
+msgid "Reports"
+msgstr "レポート"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:492
+msgid "Require authors to upload a file with their submission"
+msgstr "ユーザーが投稿したファイルにアップロードできるようにしましょう"
+
+#: src/components/admin/events/CreateEvent.js:151
+#: src/components/admin/events/EditEvent.js:198
+msgid "Require Conference Registration Payment"
+msgstr "会議登録費支払い"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:489
+msgid "Require File Upload"
+msgstr "ファイルのアップロードが必要"
+
+#: src/components/admin/users/Settings.js:270
+msgid "Require Lowercase Letters"
+msgstr "小文字が必要です"
+
+#: src/components/admin/users/Settings.js:302
+msgid "Require Numbers"
+msgstr "必須"
+
+#: src/components/admin/users/Settings.js:334
+msgid "Require Special Characters"
+msgstr "特殊文字が必要"
+
+#: src/components/admin/users/Settings.js:237
+msgid "Require Uppercase Letters"
+msgstr "大文字が必要です"
+
+#: src/components/admin/abstracts/Settings.js:299
+#: src/components/admin/events/CreateEvent.js:163
+#: src/components/admin/events/EditEvent.js:209
+#: src/components/admin/events/Events.js:796
+#: src/components/shared/attachments/AbstractFileManager.js:309
+#: src/components/shared/customFields/CustomFieldsAdmin.js:258
+#: src/components/shared/customFields/CustomFieldsAdmin.js:628
+msgid "Required"
+msgstr "必須"
+
+#: inc/addons.php:154
+msgid "requires"
+msgstr "%s は少なくとも %s個 選択してください"
+
+#: src/components/shared/UpgradePrompt.js:53
+msgid "requires a separate add-on to be installed."
+msgstr "別のアドオンが必要です。"
+
+#: src/components/shared/UpgradePrompt.js:44
+msgid "requires an active license to use."
+msgstr "使用するにはアクティブなライセンスが必要です。"
+
+#: inc/addons.php:212
+msgid "requires the"
+msgstr "以下条件を満たす必要があります。"
+
+#: src/components/admin/appearance/Appearance.js:334
+msgid "Reset"
+msgstr "リセット"
+
+#: src/components/admin/appearance/Appearance.js:825
+msgid "Reset & Save"
+msgstr "デフォルトへリセット"
+
+#: src/components/frontend/auth/Login.js:143
+#: src/components/frontend/auth/Login.js:367
+msgid "Reset Password"
+msgstr "パスワードをリセットする"
+
+#: src/components/admin/events/TerminologySettings.js:238
+msgid "Reset to Defaults"
+msgstr "デフォルトへリセット"
+
+#: src/components/admin/appearance/Appearance.js:820
+msgid "Reset to Factory Defaults?"
+msgstr "デフォルトへリセット"
+
+#: src/components/admin/abstracts/Settings.js:586
+#: src/components/admin/users/Settings.js:534
+msgid "Reset to Saved"
+msgstr "デフォルトへリセット"
+
+#: src/components/admin/users/Users.js:1235
+msgid "Return to this page and click \"Sync Users\""
+msgstr "このページに戻り、「ユーザーを同期」をクリックします。"
+
+#: src/components/admin/events/TerminologySettings.js:77 inc/functions.php:145
+msgid "Review"
+msgstr "レビュー"
+
+#: src/components/admin/events/CreateEvent.js:135
+#: src/components/admin/events/EditEvent.js:182
+#: src/components/admin/events/Events.js:749
+msgid "Review Deadline"
+msgstr "レビュー締め切り"
+
+#: src/components/shared/attachments/AbstractFileManager.js:128
+msgid "Review Documents"
+msgstr "ドキュメント"
+
+#: src/index.js:196 src/index.js:225 src/index.js:273
+msgid "Review functionality requires the Reviews add-on."
+msgstr "レビュー機能にはレビューアドオンが必要です。"
+
+#: src/components/shared/attachments/AbstractFileManager.js:144
+msgid "Review Notes"
+msgstr "レビュー担当者"
+
+#: src/components/admin/events/TerminologySettings.js:73
+msgid "Review system roles"
+msgstr "審査システムの役割"
+
+#: src/index.js:271
+msgid "Review View"
+msgstr "レビュアー"
+
+#: src/components/frontend/auth/Register.js:469
+msgid "Review Your Registration"
+msgstr "登録を見直す"
+
+#: src/components/admin/events/TerminologySettings.js:71 inc/functions.php:144
+msgid "Reviewer"
+msgstr "レビュアー"
+
+#: src/components/admin/dashboard/Dashboard.js:230
+msgid "reviewers"
+msgstr "レビュー担当者"
+
+#: src/components/admin/events/TerminologySettings.js:72 inc/functions.php:144
+msgid "Reviewers"
+msgstr "レビュー担当者"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:294
+msgid "Reviewers evaluate and score submissions"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/admin/events/TerminologySettings.js:78 inc/functions.php:145
+#: classes/admin-menu.php:67 classes/admin-menu.php:68
+msgid "Reviews"
+msgstr "レビュー"
+
+#: src/components/admin/abstracts/Abstracts.js:275
+#: src/components/admin/abstracts/Abstracts.js:310
+#: src/components/admin/users/Users.js:732
+msgid "Reviews Add-on"
+msgstr "レビュー追加情報"
+
+#: inc/addons.php:199
+msgid "Reviews Add-On"
+msgstr "レビュー追加情報"
+
+#: src/utils/addons.js:152
+msgid "Reviews add-on required"
+msgstr "レビューの追加情報が必要です"
+
+#: src/components/admin/abstracts/Abstracts.js:270
+#: src/components/admin/abstracts/Abstracts.js:305
+#: src/components/admin/users/Users.js:728
+msgid "Reviews Add-on Required"
+msgstr "レビューの追加情報が必要です"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:82
+msgid "Reviews Completed"
+msgstr "審査システムの役割"
+
+#: src/utils/addons.js:151
+msgid "Reviews Content"
+msgstr "レビュー追加情報"
+
+#: src/components/admin/users/Users.js:256
+#: src/components/admin/users/Users.js:1084
+msgid "Roles"
+msgstr "権限"
+
+#: src/components/admin/users/Users.js:506
+msgid "Roles updated for {count} {users}"
+msgstr "ユーザー用に更新されたロール{user}"
+
+#: src/components/admin/users/Users.js:593
+msgid "Roles updated for user {user}"
+msgstr "ユーザー用に更新されたロール{user}"
+
+#: src/components/admin/licenses/Licenses.js:348
+msgid "SaaS Mode Active"
+msgstr "SaaS モードがアクティブです"
+
+#: src/components/admin/appearance/Appearance.js:662
+msgid "Sample bold text"
+msgstr "太字のサンプル"
+
+#: src/components/admin/appearance/Appearance.js:768
+msgid "Sample Card"
+msgstr "サンプルカード"
+
+#: src/components/admin/appearance/Appearance.js:653
+msgid "Sample Heading"
+msgstr "見出し例"
+
+#: src/components/admin/appearance/Appearance.js:666
+msgid "Sample secondary text"
+msgstr "二次テキストの例"
+
+#: src/components/admin/abstracts/Authors.js:784
+#: src/components/admin/events/Events.js:1006
+#: src/components/admin/tracks/Tracks.js:600
+#: src/components/admin/users/Users.js:960
+#: src/components/shared/customFields/CustomFieldsAdmin.js:423
+msgid "Save"
+msgstr "保存"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:463
+#: src/components/shared/abstracts/AbstractWizard.js:172
+#: src/components/shared/abstracts/AbstractWizard.js:361
+#: src/components/shared/abstracts/AbstractWizard.js:432
+#: src/components/shared/abstracts/AbstractWizard.js:495
+#: src/components/shared/abstracts/AbstractWizard.js:575
+msgid "Save & Exit"
+msgstr "保存して終了"
+
+#: src/components/admin/appearance/Appearance.js:342
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: src/components/admin/abstracts/Settings.js:595
+#: src/components/admin/users/Settings.js:543
+msgid "Save Settings"
+msgstr "設定を保存"
+
+#: src/components/admin/events/TerminologySettings.js:235
+msgid "Save Terminology"
+msgstr "セーブ用語"
+
+#: src/components/shared/SaveStatusIndicator.js:31
+#: src/components/shared/SaveStatusIndicator.js:32
+msgid "Saved"
+msgstr "保存しました"
+
+#: src/components/shared/SaveStatusIndicator.js:28
+msgid "Saving..."
+msgstr "保存中…"
+
+#: src/components/admin/events/TerminologySettings.js:91
+msgid "Schedule sessions"
+msgstr "セッションのスケジュール"
+
+#: src/components/admin/dashboard/Dashboard.js:412
+msgid "scheduled"
+msgstr "予定済み"
+
+#: src/Admin.js:286 src/components/admin/dashboard/Dashboard.js:392
+#: src/components/admin/dashboard/Dashboard.js:420 classes/admin-menu.php:94
+#: classes/admin-menu.php:95
+msgid "Schedules"
+msgstr "スケジュール"
+
+#: inc/addons.php:201
+msgid "Schedules Builder Add-On"
+msgstr "スケジュールビルダーアドオン"
+
+#: src/components/frontend/submissions/Submissions.js:755
+msgid "Search {abstracts}..."
+msgstr "{abstracts}を捜索..."
+
+#: src/components/admin/abstracts/Abstracts.js:746
+msgid "Search {getTerm('abstract', 2).toLowerCase()}..."
+msgstr "{abstracts}を捜索..."
+
+#: src/components/admin/users/Users.js:825
+msgid "Search {users}..."
+msgstr "{users}を捜索..."
+
+#: src/components/admin/abstracts/Authors.js:515
+msgid "Search by name or email..."
+msgstr "ユーザー名またはメールアドレス"
+
+#: src/components/admin/events/Events.js:509
+msgid "Search events..."
+msgstr "捜索イベント..."
+
+#: src/components/admin/abstracts/Authors.js:207
+msgid "Search failed"
+msgstr "アーカイブ済み"
+
+#: src/components/admin/abstracts/Attachments.js:390
+msgid "Search files..."
+msgstr "ファイル検索..."
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:222
+msgid "Search track chairs by name or email..."
+msgstr "ユーザー名またはメールアドレス"
+
+#: src/components/admin/tracks/Tracks.js:538
+msgid "Search tracks"
+msgstr "捜索線..."
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:215
+msgid "Select %s"
+msgstr "%s を選択"
+
+#: src/components/admin/abstracts/Abstracts.js:1087
+#: src/components/admin/abstracts/Abstracts.js:1126
+msgid "Select a status"
+msgstr "ステータス（状況）を選択する"
+
+#: blocks/dashboard/index.js:35 blocks/login/index.js:33
+#: blocks/register/index.js:33
+msgid "Select an event..."
+msgstr "捜索イベント..."
+
+#: src/components/admin/events/StatusManagement.js:476
+msgid "Select an icon"
+msgstr "アイコンを選択"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:756
+msgid "Select field"
+msgstr "フィールドタイプを選択"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:487
+msgid "Select field type"
+msgstr "フィールドタイプを選択"
+
+#: src/components/admin/appearance/Appearance.js:510
+msgid "Select font family"
+msgstr "選択フォントファミリー"
+
+#: src/components/admin/appearance/Appearance.js:412
+msgid "Select from Media Library"
+msgstr "選択フォントファミリー"
+
+#: src/components/admin/appearance/Appearance.js:215
+msgid "Select Logo"
+msgstr "%s を選択"
+
+#: src/components/admin/appearance/Appearance.js:304
+msgid "Select Preset"
+msgstr "%s を選択"
+
+#: src/components/admin/appearance/Appearance.js:703
+msgid "Select shadow intensity"
+msgstr "影の強度を選択してください"
+
+#: src/components/admin/abstracts/Abstracts.js:1083
+#: src/components/admin/abstracts/Abstracts.js:1122
+msgid "Select Status"
+msgstr "状態を選択"
+
+#: src/components/admin/users/Users.js:704
+msgid "Select the roles for this user:"
+msgstr "このユーザーの役割を選択してください:"
+
+#: src/components/admin/users/Users.js:1314
+msgid "Select the roles to assign:"
+msgstr "このユーザーの役割を選択してください:"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:393
+#: src/components/shared/abstracts/AbstractWizard.js:130
+msgid "Select track"
+msgstr "選択されたトラックチェア"
+
+#: blocks/login/index.js:64
+msgid "Select which event context this login form uses."
+msgstr "このログイン フォームが使用するイベント コンテキストを選択します。"
+
+#: blocks/register/index.js:64
+msgid "Select which event context this registration form uses."
+msgstr "この欄をユーザー登録フォームに含めてください"
+
+#: blocks/dashboard/index.js:67
+msgid ""
+"Select which event this dashboard should display. Defaults to Event ID 1."
+msgstr "このダッシュボードに表示するイベントを選択します。デフォルトはイベント ID 1 です。"
+
+#: src/components/admin/abstracts/Settings.js:359
+msgid "Select which file types users can upload"
+msgstr "ユーザーがアップロードできるファイルの種類を選択します"
+
+#: blocks/dashboard/index.js:114 blocks/login/index.js:110
+#: blocks/register/index.js:110
+msgid "Selected Event:"
+msgstr "イベントを削除す"
+
+#: src/components/frontend/auth/Login.js:304
+msgid "Send Reset Email"
+msgstr "リセットメールを送信"
+
+#: src/state/dashboardSlice.js:45
+msgid "sent an email"
+msgstr "通知メールを送りました"
+
+#: src/state/frontendSlice.js:84
+msgid "Sent an Email"
+msgstr "通知メールを送りました"
+
+#: src/components/admin/users/Settings.js:86
+msgid "Server-side key — never exposed to visitors"
+msgstr "サーバー側のキー - 訪問者に公開されることはありません"
+
+#: src/components/admin/events/TerminologySettings.js:89 inc/functions.php:146
+msgid "Session"
+msgstr "セッション"
+
+#: src/components/admin/events/TerminologySettings.js:90 inc/functions.php:146
+msgid "Sessions"
+msgstr "権限"
+
+#: classes/frontend-dashboard.php:392
+msgid "Set Up Dashboard Page"
+msgstr "ダッシュボード"
+
+#: src/components/admin/abstracts/Settings.js:284
+msgid "Set whether file uploads are optional or required"
+msgstr "ファイルのアップロードを無効にするか、任意か、必須かを設定する"
+
+#: src/Admin.js:197 src/Admin.js:215 src/Admin.js:233 src/Admin.js:251
+#: src/Admin.js:279 src/Admin.js:317
+#: src/components/admin/abstracts/Wrapper.js:111
+#: src/components/admin/onboarding/OnboardingWizard.js:253
+#: src/components/admin/users/Wrapper.js:74
+#: src/components/shared/customFields/CustomFieldsAdmin.js:623
+#: classes/admin-menu.php:112 classes/admin-menu.php:113
+msgid "Settings"
+msgstr "設定"
+
+#: src/components/admin/appearance/Appearance.js:208
+msgid "Settings exported successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/admin/appearance/Appearance.js:254
+msgid "Settings imported successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/admin/appearance/Appearance.js:181
+msgid "Settings reset but failed to save"
+msgstr "設定は保存済みの値にリセットされます。"
+
+#: src/components/admin/appearance/Appearance.js:178
+msgid "Settings reset to factory defaults and saved"
+msgstr "設定は保存済みの値にリセットされます。"
+
+#: src/components/admin/abstracts/Settings.js:539
+#: src/components/admin/users/Settings.js:488
+msgid "Settings reset to saved values."
+msgstr "設定は保存済みの値にリセットされます。"
+
+#: src/components/admin/abstracts/Settings.js:526
+#: src/components/admin/users/Settings.js:475
+msgid "Settings saved successfully!"
+msgstr "設定が正常に保存されました！"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:127
+msgid "Setup complete! Welcome to SimplyConf."
+msgstr "セットアップ完了！SimplyConf へようこそ。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:647
+msgid "Setup Wizard"
+msgstr "セットアップウィザード"
+
+#: src/components/admin/appearance/Appearance.js:699
+msgid "Shadow Intensity"
+msgstr "影の強度"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:334
+msgid "Short abbreviation shown in the interface"
+msgstr "インターフェースに表示される短い略語"
+
+#: src/components/admin/events/Events.js:256
+#: src/components/admin/events/Events.js:885
+msgid "Shortcode"
+msgstr "ショートコード"
+
+#: src/components/admin/events/Events.js:123
+#: src/components/admin/events/Events.js:136
+msgid "Shortcode copied to clipboard!"
+msgstr "ショートコードがクリップボードにコピーされました!"
+
+#: src/components/admin/abstracts/Settings.js:184
+msgid "Show Author Information"
+msgstr "アカウント情報"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:264
+#: src/components/shared/customFields/CustomFieldsAdmin.js:635
+msgid "Show in Admin Table"
+msgstr "管理テーブルに表示"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:270
+#: src/components/shared/customFields/CustomFieldsAdmin.js:646
+msgid "Show in Frontend Table"
+msgstr "フロントエンドテーブルでのショー"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:278
+#: src/components/shared/customFields/CustomFieldsAdmin.js:658
+msgid "Show in Registration"
+msgstr "登録で表示"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:715
+msgid "Show this field when conditions are met"
+msgstr "条件が満たされた場合にこのフィールドを表示します"
+
+#: src/components/frontend/auth/Login.js:235
+msgid "Sign In"
+msgstr "サインイン"
+
+#: classes/admin-menu.php:16
+msgid "SimplyConf"
+msgstr "WP要旨"
+
+#: inc/addons.php:291
+msgid "SimplyConf Add-Ons (%d registered)"
+msgstr "SimplyConf アドオン(%d登録済み)"
+
+#: blocks/dashboard/index.js:94
+msgid "SimplyConf Dashboard"
+msgstr "WP要旨"
+
+#: blocks/dashboard/render.php:30 simplyconf.php:207
+msgid "SimplyConf Dashboard is not available."
+msgstr "WP要約バージョン%s以上。"
+
+#: classes/frontend-dashboard.php:385
+msgid "SimplyConf Dashboard Update"
+msgstr "SimplyConf ダッシュボードの更新"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:265
+msgid ""
+"SimplyConf helps you manage abstract submissions and peer reviews for "
+"academic conferences. This quick setup will get your first event ready in "
+"minutes."
+msgstr ""
+"SimplyConf は、学術会議の抄録提出と査読の管理に役立ちます。この簡単なセットアップにより、最初のイベントの準備が数分で完了します。"
+
+#: blocks/login/index.js:90
+msgid "SimplyConf Login"
+msgstr "WP要旨"
+
+#: blocks/login/render.php:18 simplyconf.php:247
+msgid "SimplyConf Login is not available."
+msgstr "WP要約バージョン%s以上。"
+
+#: blocks/register/index.js:90
+msgid "SimplyConf Register"
+msgstr "WP要旨"
+
+#: blocks/register/render.php:18 simplyconf.php:287
+msgid "SimplyConf Registration is not available."
+msgstr "WP要約バージョン%s以上。"
+
+#: inc/addons.php:155
+msgid "SimplyConf version %s or higher."
+msgstr "WP要約バージョン%s以上。"
+
+#: src/components/admin/abstracts/Settings.js:163
+msgid "Single Page"
+msgstr "単一ページ"
+
+#: src/components/admin/events/TerminologySettings.js:208
+msgid "Singular Form"
+msgstr "単数形"
+
+#: src/components/shared/attachments/FileList.js:355
+#: src/components/shared/attachments/FileList.js:447
+msgid "Size"
+msgstr "サイズ"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:625
+msgid "Skip Setup"
+msgstr "セットアップをスキップ"
+
+#: src/components/admin/abstracts/Abstracts.js:529
+msgid "Some abstracts could not be deleted. Please try again."
+msgstr "一部の要約は削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/events/Events.js:201
+msgid "Some events could not be archived. Please try again."
+msgstr "一部のイベントは削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/events/Events.js:171
+msgid "Some events could not be deleted. Please try again."
+msgstr "一部のイベントは削除できませんでした。もう一度お試しください。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:153
+msgid "Some fields could not be deleted. Please try again."
+msgstr "一部のユーザーは削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/abstracts/Attachments.js:144
+#: src/components/shared/attachments/FileList.js:122
+msgid "Some files could not be deleted. Please try again."
+msgstr "一部のユーザーは削除できませんでした。もう一度お試しください。"
+
+#: src/components/frontend/submissions/Submissions.js:304
+msgid "Some submissions could not be deleted. Please try again."
+msgstr "一部のユーザーは削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/tracks/Tracks.js:283
+msgid "Some tracks could not be deleted. Please try again."
+msgstr "一部のトラックは削除できませんでした。もう一度お試しください。"
+
+#: src/components/admin/users/Users.js:482
+msgid "Some users could not be deleted. Please try again."
+msgstr "一部のユーザーは削除できませんでした。もう一度お試しください。"
+
+#: src/components/shared/ErrorBoundary.js:114
+msgid "Something went wrong"
+msgstr "問題がありました"
+
+#: src/components/shared/attachments/FileList.js:366
+msgid "Sort %s"
+msgstr "%s を選択"
+
+#: src/components/shared/ErrorBoundary.js:152
+msgid "Stack:"
+msgstr "スタック："
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:62
+msgid "Star Rating (1-5)"
+msgstr "スター評価(1-5)"
+
+#: src/components/admin/events/CreateEvent.js:91
+#: src/components/admin/events/EditEvent.js:138
+#: src/components/admin/events/Events.js:229
+#: src/components/admin/events/Events.js:671
+#: src/components/admin/onboarding/OnboardingWizard.js:343
+msgid "Start Date"
+msgstr "開始日"
+
+#: src/components/admin/tracks/Tracks.js:55
+msgid "Start Time"
+msgstr "開始時間"
+
+#: src/utils/WYSIWYGEditor.js:61
+msgid "Start typing..."
+msgstr "保存中…"
+
+#: src/components/admin/events/CreateEvent.js:194
+#: src/components/admin/events/EditEvent.js:242
+msgid "State/Province"
+msgstr "都道府県"
+
+#: src/components/admin/events/Events.js:917
+#: src/components/frontend/dashboard/widgets/Stats.js:50
+msgid "Statistics"
+msgstr "統計"
+
+#: src/components/admin/abstracts/Abstracts.js:989
+#: src/components/admin/events/Events.js:279
+#: src/components/admin/licenses/Licenses.js:197
+#: src/components/frontend/submissions/Submissions.js:673
+#: src/components/frontend/submissions/Submissions.js:967
+#: src/hooks/useAbstractColumns.js:260
+msgid "Status"
+msgstr "ステータス"
+
+#: src/components/admin/events/StatusManagement.js:93
+msgid "Status created successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/admin/events/StatusManagement.js:116
+msgid "Status deleted successfully"
+msgstr "トラックが正常に削除されました"
+
+#: src/components/admin/events/StatusManagement.js:298
+#: src/components/admin/events/Wrapper.js:36
+msgid "Status Management"
+msgstr "ライセンス管理"
+
+#: src/components/admin/abstracts/Abstracts.js:570
+msgid "Status updated for {selectedRowKeys.length} abstracts successfully"
+msgstr "{selectedRowKeys.length}要旨のステータスが正常に更新されました"
+
+#: src/components/admin/abstracts/Abstracts.js:423
+#: src/components/admin/events/StatusManagement.js:90
+msgid "Status updated successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/shared/abstracts/AbstractView.js:663
+msgid "Status:"
+msgstr "ステータス"
+
+#: src/Admin.js:169 src/components/admin/events/Wrapper.js:78
+msgid "Statuses"
+msgstr "ステータス"
+
+#: src/components/admin/users/Users.js:1222
+msgid "Steps to create a user:"
+msgstr "ユーザーの作成に失敗しました"
+
+#: src/components/admin/events/CreateEvent.js:179
+#: src/components/admin/events/EditEvent.js:225
+msgid "Street Address"
+msgstr "番地"
+
+#: src/components/admin/appearance/Appearance.js:718
+msgid "Strong"
+msgstr "強い"
+
+#: src/components/admin/events/TerminologySettings.js:107
+#: inc/functions.php:148
+msgid "Submission"
+msgstr "送信"
+
+#: src/components/admin/events/TerminologySettings.js:67
+msgid "Submission authors"
+msgstr "投稿者"
+
+#: src/components/admin/events/CreateEvent.js:121
+#: src/components/admin/events/EditEvent.js:168
+#: src/components/admin/events/Events.js:723
+msgid "Submission Deadline"
+msgstr "提出期限"
+
+#: src/hooks/useAbstractFormState.js:811
+msgid "Submission failed"
+msgstr "サブミッションの詳細"
+
+#: src/components/admin/events/TerminologySettings.js:109
+msgid "Submission form references"
+msgstr "投稿者"
+
+#: src/components/admin/abstracts/Settings.js:125
+msgid "Submission Limit per User"
+msgstr "投稿者"
+
+#: src/components/admin/abstracts/Settings.js:149
+msgid "Submission Mode"
+msgstr "送信"
+
+#: src/components/shared/abstracts/AbstractView.js:595
+msgid "Submission Not Found"
+msgstr "投稿者"
+
+#: src/index.js:254
+msgid "Submission Review"
+msgstr "レビューを投稿する"
+
+#: src/index.js:256
+msgid "Submission review functionality requires the Reviews add-on."
+msgstr "レビュー機能にはレビューアドオンが必要です。"
+
+#: src/components/admin/events/TerminologySettings.js:108
+#: inc/functions.php:148
+msgid "Submissions"
+msgstr "送信"
+
+#: src/components/frontend/submissions/Submissions.js:825
+msgid "Submissions are closed for this event."
+msgstr "このイベントでは会議登録料は不要です。"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:489
+#: src/components/shared/abstracts/AbstractWizard.js:596
+msgid "Submit Abstract"
+msgstr "要旨を提出しました"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:488
+#: src/components/shared/abstracts/AbstractWizard.js:595
+msgid "Submit Draft"
+msgstr "提出済み"
+
+#: src/index.js:223
+msgid "Submit Review"
+msgstr "レビューを投稿する"
+
+#: src/state/dashboardSlice.js:39
+msgid "submitted a review"
+msgstr "レビューを完了しました"
+
+#: src/state/frontendSlice.js:78
+msgid "Submitted a Review"
+msgstr "レビューを完了しました"
+
+#: src/state/dashboardSlice.js:33
+msgid "submitted an abstract"
+msgstr "要旨を提出しました"
+
+#: src/state/frontendSlice.js:72
+msgid "Submitted an Abstract"
+msgstr "要旨を提出しました"
+
+#: src/components/admin/abstracts/Abstracts.js:982
+#: src/components/shared/abstracts/AbstractView.js:1389
+#: src/hooks/useAbstractColumns.js:234
+msgid "Submitted By"
+msgstr "送信者"
+
+#: src/components/frontend/submissions/Submissions.js:258
+msgid "Success"
+msgstr "成功"
+
+#: src/components/admin/appearance/Appearance.js:464
+msgid "Success Color"
+msgstr "完了色"
+
+#: src/components/shared/attachments/AbstractFileManager.js:95
+msgid "Supporting Documents"
+msgstr "ドクのサポート"
+
+#: src/components/admin/licenses/Licenses.js:150
+msgid "Suspended"
+msgstr "一時停止中"
+
+#: src/components/admin/users/Users.js:872
+msgid "Sync Users"
+msgstr "ユーザー"
+
+#: src/components/admin/users/Users.js:869
+msgid "Sync users from WordPress"
+msgstr "WordPressにリンクされています"
+
+#: src/state/dashboardSlice.js:57 src/state/frontendSlice.js:96
+msgid "System"
+msgstr "システムデフォルト"
+
+#: src/components/admin/appearance/Appearance.js:513
+msgid "System Default"
+msgstr "システムデフォルト"
+
+#: src/Admin.js:137 src/components/admin/settings/Wrapper.js:67
+msgid "Terminology"
+msgstr "用語"
+
+#: src/components/admin/events/TerminologySettings.js:186
+msgid "Terminology Customization"
+msgstr "用語のカスタマイズ"
+
+#: src/components/admin/settings/Wrapper.js:31
+msgid "Terminology Settings"
+msgstr "用語のカスタマイズ"
+
+#: src/components/admin/events/TerminologySettings.js:163
+msgid "Terminology settings saved successfully"
+msgstr "用語設定が正常に保存されました"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:52
+msgid "Text Area"
+msgstr "テキストエリア"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:51
+msgid "Text Input"
+msgstr "テキスト入力"
+
+#: src/components/admin/abstracts/Abstracts.js:353
+msgid "The Exports add-on is required to export abstracts to PDF."
+msgstr "Exportsアドオンは、要旨をPDFにエクスポートするために必要です。"
+
+#: src/components/shared/abstracts/AbstractView.js:596
+msgid "The requested submission could not be found."
+msgstr "依頼された投稿は見つかりませんでした。"
+
+#: src/components/admin/users/Users.js:731
+msgid "The Reviewer role requires the"
+msgstr "レビュアーの役割には"
+
+#: src/components/admin/abstracts/Abstracts.js:598
+msgid ""
+"The Reviews service is not available. Please ensure the Reviews addon is "
+"activated and properly loaded."
+msgstr "レビューサービスは利用できません。レビューアドオンが正しく読み込まれているか必ず確認してください。"
+
+#: src/components/frontend/submissions/Submissions.js:259
+msgid "The submission has been successfully deleted."
+msgstr "投稿は正常に削除されました。"
+
+#: src/hooks/useAbstractFormState.js:434
+msgid ""
+"The track previously assigned to this %s no longer exists. Please select a "
+"valid track."
+msgstr "以前にこの %s に割り当てられていたトラックは存在しません。有効なトラックを選択してください。"
+
+#: src/components/admin/appearance/Appearance.js:288
+msgid "Theme Customization"
+msgstr "テーマのカスタマイズ"
+
+#: src/components/admin/appearance/Appearance.js:107
+msgid "Theme settings saved successfully!"
+msgstr "テーマ設定が正常に保存されました!"
+
+#: src/components/shared/NotFound.js:8
+msgid "There is nothing here!"
+msgstr "ここには何もない!"
+
+#: src/components/admin/abstracts/Abstracts.js:926
+msgid "These columns help you identify abstracts"
+msgstr "これらの列は要約を識別するのに役立ちます"
+
+#: src/components/admin/users/Users.js:1032
+msgid "These columns help you identify users across events"
+msgstr "これらの列は、イベント全体でユーザーを識別するのに役立ちます"
+
+#: src/components/admin/users/Users.js:1111
+msgid ""
+"These fields change based on the current event configuration. Default "
+"visibility is set by event administrators, but you can override these "
+"settings for your personal view."
+msgstr ""
+"これらのフィールドは、現在のイベント構成に基づいて変更されます。デフォルトの表示設定はイベント管理者によって設定されますが、これらの設定を個人用にオーバーライドすることができます。"
+
+#: src/components/admin/users/Users.js:464
+#: src/components/frontend/submissions/Submissions.js:249
+msgid "This action cannot be undone."
+msgstr "この操作を元に戻すことはできません。"
+
+#: src/components/admin/appearance/Appearance.js:771
+msgid ""
+"This card demonstrates your layout settings including border radius and "
+"shadow intensity."
+msgstr "このカードは、境界の半径や影の強度を含むレイアウト設定を示しています。"
+
+#: src/components/shared/attachments/AbstractFileManager.js:233
+msgid "This category requires at least one file"
+msgstr "この機能には"
+
+#: src/Frontend.js:469
+msgid "This event is archived. Submissions are closed."
+msgstr "このイベントはアーカイブされています。投稿は締め切りました。"
+
+#: src/Frontend.js:456
+msgid ""
+"This event is no longer available. It may have been removed by an "
+"administrator."
+msgstr "このイベントはもう利用できません。管理者によって削除された可能性があります。"
+
+#: inc/addons.php:207
+msgid "This feature"
+msgstr "この特徴"
+
+#: src/components/admin/abstracts/Abstracts.js:274
+#: src/components/admin/abstracts/Abstracts.js:309
+msgid "This feature requires the"
+msgstr "この機能には"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:245
+msgid "This field has conditional logic"
+msgstr "このフィールドには条件付きロジックがあります"
+
+#: src/components/admin/appearance/Appearance.js:656
+msgid ""
+"This is a sample paragraph showing how your typography settings will look. "
+"The quick brown fox jumps over the lazy dog."
+msgstr "これはタイポグラフィ設定がどのように見えるかを示すサンプルの段落です。素早い茶色いキツネは怠け者の犬を飛び越えた。"
+
+#: src/components/admin/users/Users.js:1307
+msgid "This will replace the existing roles for all selected users."
+msgstr "これにより、選択したすべてのユーザーの既存のロールが置き換えられます。"
+
+#: src/components/admin/appearance/Appearance.js:831
+msgid ""
+"This will reset ALL theme settings to factory defaults. Any custom "
+"configurations will be lost. This action cannot be undone."
+msgstr ""
+"これにより、すべてのテーマ設定が工場出荷時のデフォルトにリセットされます。カスタム構成はすべて失われます。この操作は元に戻すことができません。"
+
+#: src/components/shared/abstracts/AbstractView.js:1287
+msgid "Timeline"
+msgstr "タイムライン"
+
+#: src/components/admin/appearance/Appearance.js:522
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: src/components/admin/abstracts/Abstracts.js:933
+#: src/components/frontend/submissions/Submissions.js:600
+#: src/hooks/useAbstractColumns.js:62
+msgid "Title"
+msgstr "タイトル"
+
+#: src/components/admin/licenses/Licenses.js:253
+msgid "to continue receiving updates and support."
+msgstr "引き続きアップデートやサポートを受け取るためです。"
+
+#: src/components/admin/users/Users.js:1215
+msgid ""
+"To create a new user, please use the WordPress user management system. "
+"SimplyConf focuses on managing conference-specific user data and custom "
+"fields."
+msgstr ""
+"新しいユーザーを作成するには、WordPress ユーザー管理システムを使用してください。SimplyConf は、会議固有のユーザー データとカスタム"
+" フィールドの管理に重点を置いています。"
+
+#: src/components/admin/abstracts/Authors.js:507
+msgid "total"
+msgstr "合計"
+
+#: src/components/admin/dashboard/Dashboard.js:611
+#: src/components/shared/attachments/AbstractFileManager.js:316
+msgid "Total"
+msgstr "合計"
+
+#: src/components/admin/users/UserStatsCards.js:94
+msgid "Total %s"
+msgstr "合計"
+
+#: src/components/admin/dashboard/Dashboard.js:407
+msgid "total sessions"
+msgstr "掲載数"
+
+#: src/components/admin/events/Events.js:928
+msgid "Total Submissions"
+msgstr "掲載数"
+
+#: src/components/admin/events/TerminologySettings.js:83 inc/functions.php:147
+msgid "Track"
+msgstr "トラック"
+
+#: src/components/admin/users/Users.js:281
+#: src/components/admin/users/Users.js:667
+#: src/components/admin/users/Users.js:845
+#: src/components/admin/users/Users.js:1320
+msgid "Track Chair"
+msgstr "トラックチェア"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:131
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:141
+#: src/components/admin/tracks/Tracks.js:223
+msgid "Track chair assigned successfully"
+msgstr "トラックチェアの割り当てが成功"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:114
+msgid "Track chair assignment not available"
+msgstr "トラックチェアの割り当てが成功"
+
+#: src/index.js:239
+msgid "Track chair management requires the Reviews add-on."
+msgstr "レビュー機能にはレビューアドオンが必要です。"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:167
+#: src/components/admin/tracks/Tracks.js:234
+msgid "Track chair unassigned successfully"
+msgstr "トラックチェアの割り当てが成功しました"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:158
+msgid "Track chair unassignment not available"
+msgstr "トラックチェアの割り当てが成功しました"
+
+#: src/components/admin/tracks/Tracks.js:354
+#: src/components/admin/users/UserStatsCards.js:110
+msgid "Track Chairs"
+msgstr "トラックチェア"
+
+#: src/components/admin/tracks/Tracks.js:606
+msgid "Track Information"
+msgstr "基本情報"
+
+#: src/index.js:237
+msgid "Track Management"
+msgstr "← ログインに戻る"
+
+#: src/components/admin/tracks/Tracks.js:613
+msgid "Track Name"
+msgstr "トラック名"
+
+#: src/hooks/useAbstractFormState.js:557
+msgid "Track selection is required"
+msgstr "ラベルは必須です"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:99
+msgid "Track Submissions"
+msgstr "掲載数"
+
+#: src/components/admin/tracks/Tracks.js:569
+msgid "tracks"
+msgstr "トラック"
+
+#: src/components/admin/events/TerminologySettings.js:84
+#: src/components/admin/onboarding/OnboardingWizard.js:252
+#: inc/functions.php:147
+msgid "Tracks"
+msgstr "トラック"
+
+#: src/components/admin/tracks/Tracks.js:277
+msgid "tracks deleted successfully"
+msgstr "トラックが正常に削除されました"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:360
+msgid ""
+"Tracks organize submissions by topic. Add at least one track for authors to "
+"submit to."
+msgstr "トラックでは、提出物をトピックごとに整理します。著者が投稿するトラックを少なくとも 1 つ追加します。"
+
+#: src/components/admin/dashboard/Dashboard.js:307
+msgid "triggers"
+msgstr "トリガー"
+
+#: src/components/shared/ErrorBoundary.js:124
+msgid "Try Again"
+msgstr "もう一度試してください"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:232
+msgid "Type"
+msgstr "タイプ"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:481
+msgid "Type is required"
+msgstr "タイプは必須です"
+
+#: src/components/shared/attachments/FilePreview.js:209
+msgid "Type:"
+msgstr "タイプ："
+
+#: src/components/admin/appearance/Appearance.js:621
+msgid "Typography Preview"
+msgstr "タイポグラフィプレビュー"
+
+#: src/components/shared/abstracts/AbstractWizard.js:547
+msgid "Unable to load preview"
+msgstr "テーマ設定の保存に失敗しました"
+
+#: src/components/admin/events/Events.js:318
+msgid "Unarchive"
+msgstr "アーカイブ解除"
+
+#: src/components/admin/events/Events.js:418
+msgid "unarchived"
+msgstr "アーカイブなし"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:258
+msgid "Unassign"
+msgstr "割り当て"
+
+#: src/components/frontend/submissions/Submissions.js:499
+#: src/components/shared/abstracts/AbstractView.js:408
+#: src/hooks/useAbstractColumns.js:244 src/hooks/useAbstractColumns.js:314
+msgid "Unknown"
+msgstr "不明"
+
+#: src/components/frontend/submissions/Submissions.js:512
+msgid "Unknown (ID: {status})"
+msgstr "不明(ID: {status})"
+
+#: src/components/shared/abstracts/AbstractView.js:421
+msgid "Unknown (ID: %s)"
+msgstr "不明(ID: {status})"
+
+#: src/components/shared/abstracts/AbstractView.js:295
+#: src/components/shared/abstracts/AbstractView.js:298
+msgid "Unknown Event"
+msgstr "不明"
+
+#: src/components/shared/abstracts/AbstractView.js:281
+#: src/components/shared/abstracts/AbstractView.js:285
+msgid "Unknown Track"
+msgstr "不明"
+
+#: src/components/admin/abstracts/Attachments.js:262
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:273
+#: src/components/shared/abstracts/AbstractView.js:1395
+#: routes/attachments.php:188 routes/attachments.php:226
+msgid "Unknown User"
+msgstr "不明"
+
+#: src/components/frontend/submissions/Submissions.js:616
+msgid "Untitled"
+msgstr "無題"
+
+#: src/components/shared/abstracts/AbstractView.js:648
+msgid "Untitled %s"
+msgstr "無題"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:486
+#: src/components/shared/abstracts/AbstractWizard.js:593
+msgid "Update Abstract"
+msgstr "WP要旨の更新"
+
+#: src/hooks/useAbstractFormState.js:810
+msgid "Update failed"
+msgstr "プロフィールを更新"
+
+#: src/components/frontend/auth/Profile.js:146
+msgid "Update Profile"
+msgstr "プロフィールを更新"
+
+#: src/components/admin/users/Users.js:759
+msgid "Update Roles"
+msgstr "アップデートの役割"
+
+#: inc/addons.php:159
+msgid "Update SimplyConf"
+msgstr "SimplyConf を更新する"
+
+#: src/components/admin/abstracts/Abstracts.js:1112
+msgid "Update Status"
+msgstr "更新ステータス"
+
+#: src/components/admin/users/EditUser.js:131
+#: src/components/shared/users/UserWizard.js:164
+msgid "Update User"
+msgstr "ユーザーを更新"
+
+#: src/state/dashboardSlice.js:38
+msgid "updated a review"
+msgstr "レビューを完了しました"
+
+#: src/state/frontendSlice.js:77
+msgid "Updated a Review"
+msgstr "レビューを完了しました"
+
+#: src/state/dashboardSlice.js:32
+msgid "updated an abstract"
+msgstr "要旨を提出しました"
+
+#: src/state/frontendSlice.js:71
+msgid "Updated an Abstract"
+msgstr "要旨を提出しました"
+
+#: src/components/shared/UpgradePrompt.js:40
+msgid "Upgrade Plan"
+msgstr "アップグレードプラン"
+
+#: src/components/shared/UpgradePrompt.js:36
+msgid ""
+"Upgrade your plan to unlock advanced features like Reviews, Emails, "
+"Schedules, Payments, and more."
+msgstr "レビュー、メール、スケジュール、支払い、分析などの高度な機能を、対応するアドオンをインストールすることで解放できます。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:606
+msgid "Upload a PDF or Word document (max 50MB)"
+msgstr "PDF または Word ドキュメントをアップロードします (最大 50MB)"
+
+#: src/components/shared/attachments/DocumentsStep.js:208
+msgid "Upload Documents"
+msgstr "ドキュメントをアップロード"
+
+#: src/components/shared/attachments/AbstractFileManager.js:129
+msgid "Upload documents related to your review"
+msgstr "レビューに関連する書類をアップロードしてください"
+
+#: src/components/shared/attachments/FileUpload.js:102
+msgid "Upload failed"
+msgstr "アップロードに失敗しました。"
+
+#: src/components/frontend/attachments/Attachments.js:380
+msgid "Upload files when creating or editing your %s."
+msgstr "%sを作成・編集する際にはファイルをアップロードしてください。"
+
+#: src/components/admin/abstracts/Settings.js:312
+msgid "Upload Limit"
+msgstr "アップロード制限"
+
+#: src/components/admin/appearance/Appearance.js:407
+msgid "Upload Logo"
+msgstr "ロゴをアップロード"
+
+#: src/components/admin/appearance/Appearance.js:434
+msgid "Upload or enter a logo URL to see preview"
+msgstr "レビューに関連する書類をアップロードしてください"
+
+#: src/components/admin/appearance/Appearance.js:390
+msgid "Upload or enter the URL of your organization logo"
+msgstr "組織ロゴのURLをアップロードまたは入力してください"
+
+#: src/components/shared/attachments/AbstractFileManager.js:67
+msgid "Upload supporting documents for your abstract submission"
+msgstr "要旨提出のための補足書類をアップロードしてください"
+
+#: src/components/shared/attachments/DocumentsStep.js:219
+msgid "Upload supporting documents for your abstract. Accepted formats: %s."
+msgstr "要旨の補足書類をアップロードしてください。対応可能なフォーマット:PDF、Word、PowerPoint、JPEG、PNG。"
+
+#: src/components/admin/abstracts/Attachments.js:245
+#: src/components/frontend/attachments/Attachments.js:283
+#: src/components/shared/abstracts/AbstractView.js:513
+msgid "Uploaded"
+msgstr "アップロード"
+
+#: src/state/dashboardSlice.js:48
+msgid "uploaded a file"
+msgstr "アップロードされたファイル"
+
+#: src/state/frontendSlice.js:87
+msgid "Uploaded a File"
+msgstr "アップロードされたファイル"
+
+#: src/components/admin/abstracts/Attachments.js:258
+msgid "Uploaded By"
+msgstr "アップロードに失敗しました。"
+
+#: src/components/shared/attachments/DocumentsStep.js:298
+msgid "Uploaded Files"
+msgstr "アップロードされたファイル"
+
+#: src/components/shared/attachments/DocumentsStep.js:286
+msgid "Uploading %s..."
+msgstr "アップロード中..."
+
+#: src/components/shared/attachments/FileUpload.js:167
+#: src/components/shared/customFields/CustomFieldFileUpload.js:201
+msgid "Uploading..."
+msgstr "アップロード中..."
+
+#: src/components/admin/users/Settings.js:151
+msgid "URL where users are redirected after successful login"
+msgstr "ログイン成功後にユーザーがリダイレクトされる URL"
+
+#: src/components/admin/events/StatusManagement.js:375
+msgid "Use \"Initialize Default Statuses\" in the page header to get started"
+msgstr "ページヘッダーの「Initialize Default Statuses」を使って始めてください"
+
+#: src/components/shared/abstracts/AuthorManagement.js:247
+msgid ""
+"Use the up/down buttons to reorder authors. The first author is considered "
+"the lead author."
+msgstr "著者の並べ替えは上下ボタンを使ってください。第一著者は筆頭著者と見なされます。"
+
+#: src/components/admin/appearance/Appearance.js:217
+msgid "Use this image"
+msgstr "この画像を使用してください"
+
+#: src/components/admin/events/StatusManagement.js:508
+msgid "Used for new submissions"
+msgstr "新規投稿のデフォルトステータス"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:465
+msgid "Used internally - should be unique and contain no spaces"
+msgstr "内部で使われる場合 - 一意で、スペースを含まないものが求められます"
+
+#: src/components/admin/events/TerminologySettings.js:113
+#: inc/functions.php:151
+msgid "User"
+msgstr "ユーザー"
+
+#: src/components/admin/events/TerminologySettings.js:115
+msgid "User account references"
+msgstr "添付ファイル"
+
+#: src/components/admin/users/Users.js:1211
+msgid "User Creation in WordPress"
+msgstr "WordPressにリンクされています"
+
+#: src/components/admin/users/FormBuilder.js:14
+#: src/components/admin/users/Wrapper.js:32
+msgid "User Custom Fields"
+msgstr "ユーザー カスタムフィールド"
+
+#: src/components/admin/dashboard/DashboardSetup.js:122
+msgid "User Dashboard"
+msgstr "ダッシュボード"
+
+#: src/components/admin/users/ViewUser.js:105
+msgid "User Information"
+msgstr "ユーザー情報"
+
+#: src/components/frontend/auth/Register.js:590
+msgid ""
+"User registration is currently disabled. Please contact the administrator if"
+" you need an account."
+msgstr "現在、ユーザー登録は停止されております。アカウントが必要な場合は管理者にお問い合わせください。"
+
+#: src/components/admin/users/Settings.js:504
+#: src/components/admin/users/Wrapper.js:30
+msgid "User Settings"
+msgstr "ユーザー設定"
+
+#: src/components/admin/users/EditUser.js:83
+msgid "User updated successfully"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/shared/users/UserWizard.js:108
+msgid "User updated successfully!"
+msgstr "ステータスが正常に更新されました"
+
+#: src/components/admin/users/Users.js:208
+#: src/components/admin/users/Users.js:1077
+msgid "Username"
+msgstr "ユーザー名"
+
+#: src/components/frontend/auth/Login.js:184
+msgid "Username or Email"
+msgstr "ユーザー名またはメールアドレス"
+
+#: src/components/admin/events/TerminologySettings.js:114
+#: inc/functions.php:151 classes/admin-menu.php:58 classes/admin-menu.php:59
+msgid "Users"
+msgstr "ユーザー"
+
+#: src/components/admin/users/Users.js:476
+msgid "users deleted successfully"
+msgstr "ユーザーが成功裏に削除されました"
+
+#: src/components/admin/licenses/Licenses.js:236
+msgid "Validate Now"
+msgstr "今すぐ検証"
+
+#: src/components/admin/licenses/Licenses.js:124
+msgid "Validation failed"
+msgstr "検証失敗"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:833
+msgid "Value"
+msgstr "価値"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:825
+msgid "Value is required"
+msgstr "名前は必須です"
+
+#: src/components/shared/attachments/FilePreview.js:222
+msgid "Version:"
+msgstr "バージョン:"
+
+#: src/components/admin/abstracts/Attachments.js:409
+#: src/components/shared/attachments/FileList.js:340
+msgid "Videos"
+msgstr "動画"
+
+#: src/components/admin/abstracts/Authors.js:451
+#: src/components/admin/dashboard/DashboardSetup.js:174
+#: src/components/admin/events/Events.js:304
+#: src/components/admin/users/Users.js:335
+#: src/components/frontend/submissions/Submissions.js:551
+#: src/hooks/useAbstractColumns.js:388
+msgid "View"
+msgstr "表示"
+
+#: src/components/admin/abstracts/Authors.js:700
+msgid "View %s"
+msgstr "%sを表示"
+
+#: src/components/admin/users/Users.js:284
+#: src/components/admin/users/Users.js:676
+#: src/components/admin/users/Users.js:854
+#: src/components/admin/users/Users.js:1331
+msgid "Viewer"
+msgstr "ビューア"
+
+#: src/components/admin/users/UserStatsCards.js:149
+msgid "Viewers"
+msgstr "ビューア"
+
+#: src/components/admin/appearance/Appearance.js:830
+msgid "Warning"
+msgstr "警告"
+
+#: src/components/admin/appearance/Appearance.js:475
+msgid "Warning Color"
+msgstr "警告"
+
+#: src/components/admin/appearance/Appearance.js:840
+msgid ""
+"We recommend exporting your current settings before resetting, so you can "
+"restore them later if needed."
+msgstr "必要に応じて後で復元できるように、リセットする前に現在の設定をエクスポートすることをお勧めします。"
+
+#: src/components/shared/ErrorBoundary.js:117
+msgid ""
+"We're sorry for the inconvenience. The page will reload automatically or you"
+" can try again."
+msgstr "ご不便をおかけして申し訳ありません。ページは自動的にリロードされますし、再度試すことができます。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:250
+msgid "Welcome"
+msgstr "ようこそ"
+
+#: src/components/frontend/auth/Login.js:141
+msgid "Welcome Back"
+msgstr "お帰りなさい"
+
+#: src/components/admin/dashboard/Dashboard.js:159
+msgid "Welcome to SimplyConf Admin Panel"
+msgstr "WP要旨管理パネルへようこそ"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:263
+msgid "Welcome to SimplyConf!"
+msgstr "WP要旨管理パネルへようこそ"
+
+#: src/components/admin/events/CreateEvent.js:157
+#: src/components/admin/events/EditEvent.js:203
+msgid ""
+"When enabled, accepted authors must complete a paid conference registration "
+"managed by the Payments add-on."
+msgstr "受理者は、Paymentsアドオンが管理する有料会議登録を必ず行わなければなりません。"
+
+#: src/components/admin/users/Users.js:1257
+msgid "Why this approach?"
+msgstr "なぜこのアプローチなのか?"
+
+#: src/components/admin/abstracts/Settings.js:368
+msgid "Word (DOC/DOCX)"
+msgstr "ワード（DOC/DOCX）"
+
+#: src/components/shared/abstracts/AbstractView.js:1375
+msgid "Word Count"
+msgstr "ワードカウント"
+
+#: src/components/admin/appearance/Appearance.js:244
+msgid "WordPress Media Library not available"
+msgstr "WordPress メディア ライブラリは利用できません"
+
+#: src/components/admin/users/Users.js:1259
+msgid ""
+"WordPress provides robust user management with security features, email "
+"notifications, and proper user account handling. SimplyConf enhances this "
+"with conference-specific custom fields and role management."
+msgstr ""
+"WordPress は、セキュリティ機能、電子メール通知、および適切なユーザー "
+"アカウント処理を備えた堅牢なユーザー管理を提供します。SimplyConf は、会議固有のカスタム フィールドとロール管理によってこれを強化します。"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:262
+#: src/components/shared/abstracts/AbstractSinglePage.js:303
+#: src/components/shared/abstracts/AbstractWizard.js:303
+#: src/components/shared/abstracts/AbstractWizard.js:341
+msgid "words"
+msgstr "キーワード"
+
+#: src/components/admin/abstracts/Authors.js:387
+#: src/components/admin/abstracts/Authors.js:631
+msgid "WP Account"
+msgstr "アカウント"
+
+#: src/components/admin/abstracts/Authors.js:724
+#: src/components/admin/events/StatusManagement.js:260
+#: src/components/admin/users/Users.js:238
+#: src/components/admin/users/ViewUser.js:55
+#: src/components/frontend/submissions/Submissions.js:652
+#: src/components/shared/abstracts/AbstractView.js:854
+#: src/components/shared/abstracts/AbstractView.js:1202
+#: src/components/shared/customFields/CustomFieldsAdmin.js:261
+#: src/components/shared/customFields/CustomFieldsAdmin.js:267
+#: src/components/shared/customFields/CustomFieldsAdmin.js:273
+#: src/components/shared/customFields/CustomFieldsAdmin.js:282
+msgid "Yes"
+msgstr "はい"
+
+#: src/components/frontend/submissions/Submissions.js:250
+msgid "Yes, Delete"
+msgstr "はい、削除します"
+
+#: src/components/shared/abstracts/AuthorManagement.js:162
+msgid "Yes, Remove"
+msgstr "はい、削除します"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:298
+msgid "You accept, reject, or request revisions"
+msgstr "承認、拒否、または改訂の要求"
+
+#: inc/addons.php:156
+msgid "You are running version %s."
+msgstr "あなたはバージョン%sを使っています。"
+
+#: src/components/admin/licenses/Licenses.js:402
+msgid "You can deactivate and transfer licenses between sites"
+msgstr "ライセンスを非アクティブ化し、サイト間でライセンスを転送できます。"
+
+#: src/components/admin/appearance/Appearance.js:809
+msgid ""
+"You can export your current settings before applying a preset to restore "
+"them for later."
+msgstr "プリセットを適用する前に現在の設定をエクスポートし、後で使用できるように復元できます。"
+
+#: src/components/shared/attachments/DocumentsStep.js:255
+msgid "You can upload up to %d more file(s)"
+msgstr "さらに%dファイルまでアップロードできます"
+
+#: src/components/admin/abstracts/Abstracts.js:237
+#: src/components/frontend/submissions/Submissions.js:855
+#: src/hooks/useAbstractFormState.js:314
+msgid "You have reached the maximum submission limit of %d %s for this event."
+msgstr "このイベントの送信上限 %d %s に達しました。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:560
+msgid "You're All Set!"
+msgstr "準備は完了です!"
+
+#: src/components/shared/attachments/FilePreview.js:154
+msgid "Your browser does not support audio playback."
+msgstr "ブラウザは音声再生をサポートしていません。"
+
+#: src/components/shared/attachments/FilePreview.js:146
+msgid "Your browser does not support video playback."
+msgstr "ブラウザは動画再生をサポートしていません。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:522
+msgid "Your dashboard page is ready."
+msgstr "ダッシュボード ページの準備ができました。"
+
+#: src/components/admin/dashboard/DashboardSetup.js:155
+msgid "Your dashboard page is set up and ready to use."
+msgstr "ダッシュボード ページがセットアップされ、使用する準備ができました。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:562
+msgid ""
+"Your event is configured and ready to accept submissions. Here are your next"
+" steps:"
+msgstr "イベントが設定され、送信を受け入れる準備ができました。次のステップは次のとおりです。"
+
+#: src/components/admin/licenses/Licenses.js:245
+msgid "Your license has expired. Please"
+msgstr "ライセンスの有効期限が切れています。"
+
+#: src/components/admin/appearance/Appearance.js:380
+msgid "Your Organization Name"
+msgstr "あなたの組織名"
+
+#: src/components/frontend/auth/Register.js:335
+msgid "your.email@example.com"
+msgstr "your.email@example.com"
+
+#~ msgid "{range0}-{range1} of {total} {abstracts}"
+#~ msgstr "{range0}{range1}{total} {abstracts}"
+
+#~ msgid "{range0}-{range1} of {total} {users}"
+#~ msgstr "{range0}{range1}{total} {users}"
+
+#~ msgid "{range0}-{range1} of {total} tracks"
+#~ msgstr "{total}トラックの{range0}{range1}"
+
+#~ msgid "%d-%d of %d files"
+#~ msgstr "%d-% ファイルの%d"
+
+#~ msgid "%d-%d of %d submissions"
+#~ msgstr "%d-% ファイルの%d"
+
+#~ msgid "%s ID: #%s"
+#~ msgstr "ID:%s%s"
+
+#~ msgid ""
+#~ "⚠️ No users with 'track_chair' role found. Please assign the track_chair "
+#~ "role to users in the Users section first."
+#~ msgstr ""
+#~ "⚠️ 「track_chair」ロールを持つユーザーが見つかりません。まず、「ユーザー」セクションで track_chair "
+#~ "ロールをユーザーに割り当ててください。"
+
+#~ msgid "⚠️ Red tags indicate users who no longer have track_chair role"
+#~ msgstr "⚠️ 赤いタグは、もはやtrack_chair役割を持たないユーザーを示します"
+
+#~ msgid "✓ Author Found"
+#~ msgstr "✓ 著者発見"
+
+#~ msgid "📝 Abstract Content Settings"
+#~ msgstr "登録設定"
+
+#~ msgid "Access"
+#~ msgstr "アクセス"
+
+#~ msgid "Access Level"
+#~ msgstr "アクセスレベル"
+
+#~ msgid "Access your submissions, reviews, and conference management tools"
+#~ msgstr "提出物、レビュー、カンファレンス管理ツールにアクセスできます"
+
+#~ msgid "Activate Pro License"
+#~ msgstr "プロライセンスを有効にする"
+
+#~ msgid "Advanced Reviews"
+#~ msgstr "先行レビュー"
+
+#~ msgid "All Access"
+#~ msgstr "すべてのルール"
+
+#~ msgid "All Purposes"
+#~ msgstr "すべてのルール"
+
+#~ msgid "Allow more than one corresponding author per abstract"
+#~ msgstr "1つの要旨に複数の対応著者を認める"
+
+#~ msgid "Allow Multiple Corresponding Authors"
+#~ msgstr "複数の通信著者を許可する"
+
+#~ msgid "Allow users to add author information to their submissions"
+#~ msgstr "ユーザーが投稿に著者情報を追加できるようにしましょう"
+
+#~ msgid ""
+#~ "Are you sure you want to deactivate your pro license? This will disable pro "
+#~ "features."
+#~ msgstr "本当にプロライセンスを無効にしたいですか?これでPro機能が無効になります。"
+
+#~ msgid "Are you sure you want to leave? Your changes will be auto-saved."
+#~ msgstr "本当にプロライセンスを無効にしたいですか?これでPro機能が無効になります。"
+
+#~ msgid "Assign Reviewers to %d %s"
+#~ msgstr "レビュー担当者を割当"
+
+#~ msgid "Assign Track Chairs to {selectedRowKeys.length} Tracks"
+#~ msgstr "トラックチェアをトラックに割り当て{selectedRowKeys.length}"
+
+#~ msgid "Attachment Settings"
+#~ msgstr "KB添付ファイルの設定"
+
+#~ msgid "Attachments (%d)"
+#~ msgstr "添付ファイル"
+
+#~ msgid "Author Management"
+#~ msgstr "ライセンス管理"
+
+#~ msgid "Back to My %s"
+#~ msgstr "ログイン画面に戻る"
+
+#~ msgid "Back to Tracks"
+#~ msgstr "ログイン画面に戻る"
+
+#~ msgid "Branding"
+#~ msgstr "ブランディング"
+
+#~ msgid "Cannot assign users without track_chair role: {invalidUsers}"
+#~ msgstr "track_chairロールなしでユーザーを割り当てられない:{invalidUsers}"
+
+#~ msgid "Choose a unique username"
+#~ msgstr "ユニークなユーザー名を選んでください"
+
+#~ msgid "Click to Upload Logo"
+#~ msgstr "ロゴをアップロードするにはクリック"
+
+#~ msgid "Colors"
+#~ msgstr "色"
+
+#~ msgid "Complete"
+#~ msgstr "完了"
+
+#~ msgid "Conference Registration"
+#~ msgstr "会議登録費支払い"
+
+#~ msgid ""
+#~ "Configure custom fields for author information. All authors will use these "
+#~ "fields to provide additional details like affiliation, ORCID, country, etc. "
+#~ "Default fields (Affiliation, ORCID, Country, Department) are automatically "
+#~ "created for new events."
+#~ msgstr ""
+#~ "著者情報用のカスタムフィールドを設定しましょう。すべての著者は、所属、ORCID、国などの追加情報を提供するためにこれらのフィールドを使用します。新しいイベントに対してデフォルトフィールド(所属、ORCID、国、部門)が自動的に作成されます。"
+
+#~ msgid "Continue to Review"
+#~ msgstr "公開待ち"
+
+#~ msgid "Corresponding"
+#~ msgstr "保留中"
+
+#~ msgid "Create {getTerm('abstract', 1)}"
+#~ msgstr "{getTerm('abstract', 1)} を作成します"
+
+#~ msgid "Create a strong password (min. 6 characters)"
+#~ msgstr "強力なパスワードを作成する(最低6文字)"
+
+#~ msgid "Create Event"
+#~ msgstr "イベント作成"
+
+#~ msgid "Create User"
+#~ msgstr "ユーザーを作成する"
+
+#~ msgid "Created:"
+#~ msgstr "作成日："
+
+#~ msgid "Current Preset:"
+#~ msgstr "現在のプリセット:"
+
+#~ msgid "Customize the appearance of your WordPress Abstracts site"
+#~ msgstr "WordPressの要約サイトの見た目をカスタマイズしましょう"
+
+#~ msgid "CV"
+#~ msgstr "CV"
+
+#~ msgid "Debug Form Values"
+#~ msgstr "デバッグフォームの値"
+
+#~ msgid "Delete Selected ({selectedRowKeys.length})"
+#~ msgstr "削除セレクト({selectedRowKeys.length})"
+
+#~ msgid "Disabled"
+#~ msgstr "無効"
+
+#~ msgid "Document Upload"
+#~ msgstr "ドキュメント"
+
+#~ msgid "Document Upload Disabled"
+#~ msgstr "ドキュメントアップロードが無効化されています"
+
+#~ msgid "Document uploads have been disabled for this event."
+#~ msgstr "このイベントのためにカスタムフィールドは作成されていません"
+
+#~ msgid "Each license can be activated on up to 3 sites (may vary by plan)"
+#~ msgstr "各ライセンスは最大 3 つのサイトでアクティブ化できます (プランによって異なる場合があります)"
+
+#~ msgid "Email Templates"
+#~ msgstr "メールテンプレート"
+
+#~ msgid "Enable Author Fields"
+#~ msgstr "ユーザー カスタムフィールド"
+
+#~ msgid "Enter author email to check if they exist"
+#~ msgstr "リセットの指示を受け取るためにメールアドレスを入力してください"
+
+#~ msgid "Enter your basic account information to get started."
+#~ msgstr "基本的な口座情報を入力して始めてください。"
+
+#~ msgid "Expires:"
+#~ msgstr "有効期限:"
+
+#~ msgid "Export Settings"
+#~ msgstr "設定のエクスポート"
+
+#~ msgid "Failed to assign chairs to some tracks"
+#~ msgstr "一部のトラックに椅子を割り当てられなかった"
+
+#~ msgid "Failed to assign reviewers to some abstracts"
+#~ msgstr "一部の要旨に査読者を割り当てられなかった"
+
+#~ msgid "Failed to load attachments"
+#~ msgstr "テーマ設定の保存に失敗しました"
+
+#~ msgid "Failed to load current reviewers"
+#~ msgstr "テーマ設定の保存に失敗しました"
+
+#~ msgid "Failed to load settings"
+#~ msgstr "テーマ設定の保存に失敗しました"
+
+#~ msgid "Failed to save progress, but you can continue"
+#~ msgstr "進行状況を保存できなかったが、続行は可能です"
+
+#~ msgid "Failed to update reviewers"
+#~ msgstr "ユーザーロールの更新に失敗しました"
+
+#~ msgid "Filter Status:"
+#~ msgstr "ステータスで絞り込む"
+
+#~ msgid "found"
+#~ msgstr "見つけました"
+
+#~ msgid "Go Back"
+#~ msgstr "戻る"
+
+#~ msgid "Image uploaded successfully"
+#~ msgstr "画像のアップロードが正常に完了しました"
+
+#~ msgid "Invalid format. Expected: SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr "ライセンスキーのフォーマットが無効です。予想フォーマット:WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid ""
+#~ "Invalid license key format. Expected format: SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr "ライセンスキーのフォーマットが無効です。予想フォーマット:WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid "Invalid response from server"
+#~ msgstr "サーバーからの無効な応答"
+
+#~ msgid "Layout"
+#~ msgstr "レイアウト"
+
+#~ msgid "License deactivated."
+#~ msgstr "ライセンスが非アクティブ化されました。"
+
+#~ msgid "License:"
+#~ msgstr "ライセンス"
+
+#~ msgid "Live Preview"
+#~ msgstr "ライブ・プレビュー"
+
+#~ msgid "Loading assignments..."
+#~ msgstr "プロファイルを読み込み中..."
+
+#~ msgid "Loading files..."
+#~ msgstr "プロファイルを読み込み中..."
+
+#~ msgid "Manage your"
+#~ msgstr "あなたの管理を行ってください"
+
+#~ msgid "My"
+#~ msgstr "自分の"
+
+#~ msgid "My Track"
+#~ msgstr "トラック"
+
+#~ msgid "My Tracks"
+#~ msgstr "トラック"
+
+#~ msgid "Name:"
+#~ msgstr "名前："
+
+#~ msgid "New installations have a 30-day trial period"
+#~ msgstr "新規インストールには 30 日間の試用期間があります"
+
+#~ msgid "New Track"
+#~ msgstr "新トラック"
+
+#~ msgid "No chairs assigned"
+#~ msgstr "椅子は割り当てられていません"
+
+#~ msgid "No matching users found"
+#~ msgstr "一致するユーザーも見つかりませんでした"
+
+#~ msgid "No reviewers currently assigned."
+#~ msgstr "割り当てる査読者を選ぶ"
+
+#~ msgid "No tracks assigned"
+#~ msgstr "椅子は割り当てられていません"
+
+#~ msgid "No users with track_chair role found."
+#~ msgstr "track_chair役割を持つユーザーは見つかりませんでした。"
+
+#~ msgid "Notification Settings"
+#~ msgstr "通知設定"
+
+#~ msgid "Other"
+#~ msgstr "その他"
+
+#~ msgid "Overview"
+#~ msgstr "レビュー"
+
+#~ msgid "Payments Add-On"
+#~ msgstr "支払い"
+
+#~ msgid "Pending"
+#~ msgstr "保留中"
+
+#~ msgid "Pending %s"
+#~ msgstr "保留中"
+
+#~ msgid "Pending Review"
+#~ msgstr "保留中のレビュー"
+
+#~ msgid "Please assign track_chair role to users first."
+#~ msgstr "まずはtrack_chair役割をユーザーに割り当ててください。"
+
+#~ msgid "Please enable the Reviews add-on to manage reviewers."
+#~ msgstr "レビューアドオンをインストールして有効化して、レビュアーの割り当てやレビューの管理をしてください。"
+
+#~ msgid "Please enter a username"
+#~ msgstr "ユーザー名を入力してください"
+
+#~ msgid "Please select at least one reviewer"
+#~ msgstr "少なくとも1名のレビュアーを選んでください"
+
+#~ msgid "Please select at least one track chair"
+#~ msgstr "トラックチェアは少なくとも1つご選択ください"
+
+#~ msgid "Poster"
+#~ msgstr "ポスター"
+
+#~ msgid "Presentation"
+#~ msgstr "プレゼンテーション"
+
+#~ msgid "Priority Support"
+#~ msgstr "優先サポート"
+
+#~ msgid "Private"
+#~ msgstr "プライベート"
+
+#~ msgid "Pro Features:"
+#~ msgstr "PRO バージョンの機能:"
+
+#~ msgid "Professional"
+#~ msgstr "プロフェッショナル"
+
+#~ msgid "Public"
+#~ msgstr "公開"
+
+#~ msgid "Recently"
+#~ msgstr "最近のアクティビティ"
+
+#~ msgid "Recover unsaved work?"
+#~ msgstr "保存されていない作業を復元できますか?"
+
+#~ msgid "Registration successful! Please check your email to confirm."
+#~ msgstr "登録成功!ご確認の方はメールをお願いします。"
+
+#~ msgid "Rejected"
+#~ msgstr "拒否された"
+
+#~ msgid "Retry"
+#~ msgstr "再試行"
+
+#~ msgid "Review Progress"
+#~ msgstr "レビュー担当者"
+
+#~ msgid "Review submissions as needed"
+#~ msgstr "必要に応じて投稿の審査を行います"
+
+#~ msgid "Reviewer Health"
+#~ msgstr "レビュアー"
+
+#~ msgid "Reviewers Only"
+#~ msgstr "レビュー担当者"
+
+#~ msgid "reviews, and profile from your personalized dashboard."
+#~ msgstr "パーソナライズされたダッシュボードからレビューやプロフィールを掲載できます。"
+
+#~ msgid "Save Theme Settings"
+#~ msgstr "テーマ設定を保存"
+
+#~ msgid "Schedules Add-On"
+#~ msgstr "スケジュールビルダーアドオン"
+
+#~ msgid "Schedules Builder"
+#~ msgstr "スケジュールビルダー"
+
+#~ msgid "Search"
+#~ msgstr "検索"
+
+#~ msgid "Search by Email"
+#~ msgstr "アーカイブ済み"
+
+#~ msgid "Search by title or author..."
+#~ msgstr "ユーザー名またはメールアドレス"
+
+#~ msgid "Select one or more reviewers"
+#~ msgstr "トラックチェアを1つ以上選びます"
+
+#~ msgid "Select one or more track chairs"
+#~ msgstr "トラックチェアを1つ以上選びます"
+
+#~ msgid "Select presentation roles for this author:"
+#~ msgstr "このユーザーの役割を選択してください:"
+
+#~ msgid "Select Reviewers"
+#~ msgstr "レビュー担当者"
+
+#~ msgid "Select reviewers to assign"
+#~ msgstr "割り当てる査読者を選ぶ"
+
+#~ msgid "Select Reviewers:"
+#~ msgstr "レビュー担当者"
+
+#~ msgid "Select track chairs"
+#~ msgstr "選択されたトラックチェア"
+
+#~ msgid "Select Track Chairs"
+#~ msgstr "選定トラックチェア"
+
+#~ msgid ""
+#~ "Select track chairs to assign to all {selectedRowKeys.length} selected "
+#~ "tracks. The selected chairs will be added to all tracks."
+#~ msgstr ""
+#~ "選択したすべてのトラックに割り当てるトラックチェアを選択し{selectedRowKeys.length}。選ばれた椅子はすべてのトラックに追加されます。"
+
+#~ msgid "Select users to assign as track chairs for this track."
+#~ msgstr "このトラックのトラックチェアに割り当てるユーザーを選択します。"
+
+#~ msgid "Server returned invalid response (not JSON)"
+#~ msgstr "サーバーが無効な応答(JSONではなく)を返しました。"
+
+#~ msgid "Showing {trackChairUsers.length} user(s) with track_chair role"
+#~ msgstr "track_chair役割を持つ{trackChairUsers.length}ユーザーの表示"
+
+#~ msgid "SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr "WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid "Submit and manage your abstracts"
+#~ msgstr "要旨を提出し管理してください"
+
+#~ msgid ""
+#~ "Successfully assigned {bulkSelectedChairs.length} chair(s) to "
+#~ "{selectedRowKeys.length} track(s)"
+#~ msgstr "トラックに{bulkSelectedChairs.length}{selectedRowKeys.length}椅子を無事に割り当てました"
+
+#~ msgid ""
+#~ "Successfully assigned {selectedReviewers.length} reviewer(s) to "
+#~ "{selectedRowKeys.length} abstract(s)"
+#~ msgstr "要旨{selectedReviewers.length}{selectedRowKeys.length}レビュアーに成功裏に割り当てました"
+
+#~ msgid "Supporting Doc"
+#~ msgstr "ドクのサポート"
+
+#~ msgid "There was an error updating the settings. Please try again."
+#~ msgstr "投稿を削除できませんでした。もう一度お試しください。"
+
+#~ msgid "Track chairs updated successfully"
+#~ msgstr "トラックチェアの更新が成功しました"
+
+#~ msgid "Track your conference progress"
+#~ msgstr "カンファレンスの進捗を追跡しましょう"
+
+#~ msgid "Try adjusting your search or filters"
+#~ msgstr "検索やフィルターを調整してみてください"
+
+#~ msgid "Unknown Author"
+#~ msgstr "不明"
+
+#~ msgid "Unsaved Changes"
+#~ msgstr "保存されていない変更"
+
+#~ msgid ""
+#~ "Upload documents for your abstract. Your draft has been created and you can "
+#~ "now manage files."
+#~ msgstr "要旨用の書類をアップロードしてください。ドラフトが作成され、これでファイルを管理できるようになります。"
+
+#~ msgid "User %s"
+#~ msgstr "ユーザー%s"
+
+#~ msgid "User created successfully"
+#~ msgstr "ユーザーの作成に成功しました。"
+
+#~ msgid "Username can only contain letters, numbers, and underscores"
+#~ msgstr "ユーザー名は文字、数字、アンダースコアのみを含められます"
+
+#~ msgid "Username:"
+#~ msgstr "ユーザー名:"
+
+#~ msgid "View Details"
+#~ msgstr "詳細"
+
+#~ msgid "We found an unsaved draft. Would you like to recover it?"
+#~ msgstr "保存されていないドラフトを見つけました。取り戻したいか?"
+
+#~ msgid "WPA-PRO-XXXX-XXXX-XXXX"
+#~ msgstr "WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid ""
+#~ "You can upload documents for your abstract. Changes will be saved "
+#~ "automatically."
+#~ msgstr "要旨用の書類をアップロードできます。変更は自動的に保存されます。"
+
+#~ msgid "You do not have permission to assign reviewers"
+#~ msgstr "この投稿に査読者を割り当てる権限はありません"
+
+#~ msgid "You have unsaved changes"
+#~ msgstr "保存されていない変更があります"
+
+#~ msgid "You have unsaved changes. Are you sure you want to leave?"
+#~ msgstr "保存されていない変更がある。本当に離れたいですか？"
+
+#~ msgid "Your logo will appear here in the live preview"
+#~ msgstr "あなたのロゴはライブプレビューでここに表示されます"
+
+#~ msgid "your@email.com"
+#~ msgstr "your.email@example.com"
+
+#~ msgid "%s: Licensed"
+#~ msgstr "%s:ライセンス取得済み"
+
+#~ msgid "Activate your license"
+#~ msgstr "ライセンスをアクティブ化する"
+
+#~ msgid "Activation failed. Please check your license key and try again."
+#~ msgstr "起動に失敗した。ライセンスキーを確認してからもう一度お試しください。"
+
+#~ msgid "Allow submitters to select their preferred presentation format"
+#~ msgstr "提出者が希望するプレゼンテーション形式を選択できるようにしましょう"
+
+#~ msgid "Approved"
+#~ msgstr "承認済み"
+
+#~ msgid "Assign Reviewers - %s"
+#~ msgstr "レビュー担当者を割当"
+
+#~ msgid "Connection error: %s"
+#~ msgstr "接続エラー:%s"
+
+#~ msgid "contact support"
+#~ msgstr "サポートに問い合わせる"
+
+#~ msgid "Current Reviewers:"
+#~ msgstr "レビュー担当者"
+
+#~ msgid "Default Status for New Submissions"
+#~ msgstr "新規投稿のデフォルトステータス"
+
+#~ msgid "Enable Presenter Preferences"
+#~ msgstr "プレゼンターの設定を有効にする"
+
+#~ msgid "Field Configuration"
+#~ msgstr "操作"
+
+#~ msgid "Field Settings"
+#~ msgstr "フィールド設定"
+
+#~ msgid "for assistance."
+#~ msgstr "助けを求めて。"
+
+#~ msgid "Include Co-Authors in Notifications"
+#~ msgstr "通知に共著者を含める"
+
+#~ msgid "Invalid API response"
+#~ msgstr "無効なAPI応答"
+
+#~ msgid "License activated successfully"
+#~ msgstr "ライセンスが正常にアクティブ化されました"
+
+#~ msgid "License deactivated successfully"
+#~ msgstr "ライセンスが正常に非アクティブ化されました"
+
+#~ msgid "Loading user information..."
+#~ msgstr "カスタムフィールドの読み込み中..."
+
+#~ msgid "Make affiliation field mandatory for all authors"
+#~ msgstr "すべての著者に所属欄を必須にする"
+
+#~ msgid "Make ORCID field mandatory for all authors"
+#~ msgstr "すべての著者にORCIDフィールドを必須にする"
+
+#~ msgid "No abstract provided"
+#~ msgstr "未提供"
+
+#~ msgid "No keywords provided"
+#~ msgstr "未提供"
+
+#~ msgid "No license activated"
+#~ msgstr "免許の有効化はありません"
+
+#~ msgid "No license found to deactivate"
+#~ msgstr "無効化のライセンスは見つかりませんでした"
+
+#~ msgid "No license key found"
+#~ msgstr "ライセンスキーは見つかりませんでした"
+
+#~ msgid "No submissions found for your assigned tracks."
+#~ msgstr "割り当てられたトラックの投稿はありません。"
+
+#~ msgid "Once Daily (SimplyConf)"
+#~ msgstr "ワンデイ(WP要約)"
+
+#~ msgid "Renew your license"
+#~ msgstr "ライセンスの更新"
+
+#~ msgid "Require Affiliation"
+#~ msgstr "所属の必要性"
+
+#~ msgid "Require one author to be designated as the presenter"
+#~ msgstr "1人の著者を発表者に指定すること"
+
+#~ msgid "Require ORCID"
+#~ msgstr "必須"
+
+#~ msgid "Require Presenter Designation"
+#~ msgstr "プレゼンター指定の必須"
+
+#~ msgid "Show Terms & Conditions"
+#~ msgstr "利用規約を表示"
+
+#~ msgid "Status automatically assigned to new submissions"
+#~ msgstr "新規投稿には自動的にステータスが割り当てられます"
+
+#~ msgid ""
+#~ "Successfully migrated address data for %d events to new structured format."
+#~ msgstr "%dイベントのアドレスデータを新しい構造化フォーマットに移行することに成功しました。"
+
+#~ msgid "Under Review"
+#~ msgstr "公開待ち"
+
+#~ msgid "Using cached status (API unavailable)"
+#~ msgstr "キャッシュ状態の使用(API不可)"
+
+#~ msgid ""
+#~ "When enabled, all co-authors will receive email notifications about abstract"
+#~ " status changes"
+#~ msgstr "有効化されると、すべての共著者に要旨のステータス変更に関するメール通知が届きます"
+
+#~ msgid "You do not have permission to manage reviewers for this submission"
+#~ msgstr "この投稿のレビュアーを管理する権限はありません"
+
+#~ msgid "You have %d days remaining in your trial period."
+#~ msgstr "試用期間はあと%d日あります。"
+
+#~ msgid "Your license has expired."
+#~ msgstr "ライセンスの有効期限が切れています。"
+
+#~ msgid "Your license is invalid or has been suspended."
+#~ msgstr "免許は無効か停止されています。"
+
+#~ msgid "Your trial period has expired."
+#~ msgstr "試用期間は終了しました。"

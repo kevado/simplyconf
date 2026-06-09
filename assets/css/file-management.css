@@ -1,0 +1,789 @@
+/* File Upload and Document Management Styles */
+
+/* File Upload Component */
+.file-upload-container {
+	margin-bottom: 20px;
+}
+
+.file-upload-area {
+	border: 2px dashed #ddd;
+	border-radius: 8px;
+	padding: 40px 20px;
+	text-align: center;
+	cursor: pointer;
+	transition: all 0.3s ease;
+	background: #fafafa;
+}
+
+.file-upload-area:hover {
+	border-color: #007cba;
+	background: #f0f8ff;
+}
+
+.file-upload-area.drag-over {
+	border-color: #007cba;
+	background: #e6f3ff;
+	transform: scale(1.02);
+}
+
+.file-upload-area.disabled {
+	opacity: 0.6;
+	cursor: not-allowed;
+}
+
+.upload-placeholder {
+	color: #666;
+}
+
+.upload-placeholder i {
+	font-size: 48px;
+	color: #007cba;
+	margin-bottom: 15px;
+}
+
+.upload-placeholder p {
+	font-size: 16px;
+	margin: 10px 0;
+}
+
+.upload-placeholder small {
+	font-size: 12px;
+	color: #999;
+}
+
+.upload-progress {
+	padding: 20px;
+}
+
+.progress-bar {
+	width: 100%;
+	height: 8px;
+	background: #e0e0e0;
+	border-radius: 4px;
+	overflow: hidden;
+	margin-bottom: 10px;
+}
+
+.progress-fill {
+	height: 100%;
+	background: #007cba;
+	transition: width 0.3s ease;
+}
+
+.upload-error {
+	margin-top: 10px;
+	padding: 10px;
+	background: #ffe6e6;
+	border: 1px solid #ff6b6b;
+	border-radius: 4px;
+	color: #cc0000;
+}
+
+.upload-error i {
+	margin-right: 8px;
+}
+
+/* File Manager Component */
+.file-manager {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	background: white;
+}
+
+.file-manager-header {
+	display: flex;
+	justify-content: between;
+	align-items: center;
+	padding: 15px 20px;
+	border-bottom: 1px solid #eee;
+	background: #f8f9fa;
+}
+
+.file-manager-header h4 {
+	margin: 0;
+	color: #333;
+}
+
+.file-manager-actions {
+	display: flex;
+	gap: 10px;
+}
+
+.file-upload-section {
+	padding: 20px;
+	border-bottom: 1px solid #eee;
+}
+
+.files-list {
+	padding: 20px;
+}
+
+.files-grid {
+	display: grid;
+	grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+	gap: 15px;
+}
+
+.file-item {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 15px;
+	background: white;
+	transition: all 0.2s ease;
+	position: relative;
+}
+
+.file-item:hover {
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+	transform: translateY(-2px);
+}
+
+.file-item.selected {
+	border-color: #007cba;
+	background: #f0f8ff;
+}
+
+.file-checkbox {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+}
+
+.file-icon {
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+.file-icon i {
+	font-size: 32px;
+	color: #666;
+}
+
+.file-info {
+	margin-bottom: 10px;
+}
+
+.file-name {
+	font-weight: bold;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	margin-bottom: 5px;
+}
+
+.file-meta {
+	font-size: 12px;
+	color: #666;
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+
+.file-purpose {
+	font-size: 11px;
+	color: #007cba;
+	text-transform: capitalize;
+}
+
+.file-actions {
+	display: flex;
+	gap: 5px;
+	justify-content: center;
+}
+
+.download-count {
+	font-size: 11px;
+	color: #999;
+}
+
+.no-files {
+	text-align: center;
+	padding: 40px;
+	color: #666;
+}
+
+.no-files i {
+	font-size: 48px;
+	margin-bottom: 15px;
+	color: #ccc;
+}
+
+.loading,
+.error {
+	text-align: center;
+	padding: 40px;
+}
+
+.loading i {
+	font-size: 24px;
+	margin-right: 10px;
+}
+
+.error {
+	color: #cc0000;
+}
+
+/* File Preview Modal */
+.file-preview-modal {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	z-index: 9999;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+
+.modal-backdrop {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 100%;
+	background: rgba(0, 0, 0, 0.8);
+}
+
+.modal-content {
+	position: relative;
+	background: white;
+	border-radius: 8px;
+	max-width: 90vw;
+	max-height: 90vh;
+	display: flex;
+	flex-direction: column;
+	overflow: hidden;
+}
+
+.modal-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 15px 20px;
+	border-bottom: 1px solid #eee;
+	background: #f8f9fa;
+}
+
+.modal-header .file-info h4 {
+	margin: 0;
+	margin-bottom: 5px;
+}
+
+.modal-header .file-meta {
+	font-size: 12px;
+	color: #666;
+	display: flex;
+	gap: 15px;
+}
+
+.modal-actions {
+	display: flex;
+	gap: 10px;
+}
+
+.modal-body {
+	flex: 1;
+	overflow: auto;
+	min-height: 400px;
+}
+
+.preview-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	min-height: 400px;
+	padding: 20px;
+}
+
+.preview-image {
+	max-width: 100%;
+	max-height: 70vh;
+	object-fit: contain;
+}
+
+.preview-pdf {
+	width: 100%;
+	height: 70vh;
+	border: none;
+}
+
+.preview-video {
+	max-width: 100%;
+	max-height: 70vh;
+}
+
+.preview-audio {
+	width: 100%;
+}
+
+.preview-loading,
+.preview-error,
+.preview-placeholder,
+.preview-not-available {
+	text-align: center;
+	padding: 40px;
+}
+
+.preview-loading i {
+	font-size: 24px;
+	margin-bottom: 10px;
+}
+
+.preview-error {
+	color: #cc0000;
+}
+
+.preview-not-available i {
+	font-size: 48px;
+	color: #ccc;
+	margin-bottom: 15px;
+}
+
+.modal-footer {
+	padding: 15px 20px;
+	border-top: 1px solid #eee;
+	background: #f8f9fa;
+}
+
+.file-details {
+	display: grid;
+	grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+	gap: 10px;
+}
+
+.detail-item {
+	font-size: 12px;
+}
+
+.detail-item strong {
+	display: block;
+	margin-bottom: 2px;
+}
+
+/* File List Component */
+.file-list-controls {
+	background: #f8f9fa;
+	border-bottom: 1px solid #eee;
+}
+
+.file-list-header {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 15px 20px;
+}
+
+.file-count {
+	font-weight: bold;
+	color: #333;
+}
+
+.file-controls {
+	display: flex;
+	gap: 15px;
+	align-items: center;
+}
+
+.filter-controls,
+.sort-controls,
+.view-controls {
+	display: flex;
+	gap: 5px;
+	align-items: center;
+}
+
+.bulk-actions {
+	padding: 10px 20px;
+	border-top: 1px solid #eee;
+	background: #fff3cd;
+}
+
+.files-container.list-view {
+	padding: 0;
+}
+
+.files-container.grid-view {
+	padding: 20px;
+}
+
+.files-table {
+	margin: 0;
+}
+
+.files-table th {
+	background: #f8f9fa;
+	border-top: none;
+	padding: 12px;
+	font-weight: 600;
+}
+
+.files-table td {
+	padding: 12px;
+	vertical-align: middle;
+}
+
+.files-table tr.selected {
+	background: #f0f8ff;
+}
+
+.files-table .file-info {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+
+.files-table .file-icon {
+	font-size: 16px;
+	color: #666;
+}
+
+.files-table .file-actions {
+	justify-content: flex-start;
+}
+
+/* File Grid Items */
+.file-grid-item {
+	border: 1px solid #ddd;
+	border-radius: 8px;
+	padding: 15px;
+	background: white;
+	transition: all 0.2s ease;
+	position: relative;
+	text-align: center;
+}
+
+.file-grid-item:hover {
+	box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+	transform: translateY(-2px);
+}
+
+.file-grid-item.selected {
+	border-color: #007cba;
+	background: #f0f8ff;
+}
+
+.file-thumbnail {
+	margin-bottom: 10px;
+}
+
+.file-thumbnail i {
+	font-size: 32px;
+	color: #666;
+}
+
+.file-grid-item .file-info {
+	margin-bottom: 10px;
+}
+
+.file-grid-item .file-name {
+	font-size: 14px;
+	font-weight: bold;
+	margin-bottom: 5px;
+	white-space: nowrap;
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+
+.file-grid-item .file-size {
+	font-size: 12px;
+	color: #666;
+}
+
+.file-grid-item .file-actions {
+	justify-content: center;
+}
+
+/* Abstract File Manager Styles */
+.abstract-file-manager {
+	margin: 20px 0;
+}
+
+.file-manager-header {
+	margin-bottom: 20px;
+}
+
+.file-categories {
+	display: flex;
+	flex-direction: column;
+	gap: 16px;
+}
+
+.file-category-card {
+	border: 1px solid #e8e8e8;
+	border-radius: 8px;
+}
+
+.file-category-card .sc-card-head {
+	background: #fafafa;
+	min-height: auto;
+	padding: 12px 16px;
+}
+
+.file-category-card .sc-card-body {
+	padding: 16px;
+}
+
+.category-upload {
+	margin-bottom: 16px;
+}
+
+.category-files {
+	margin-top: 16px;
+}
+
+.category-file-list .files-grid {
+	grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+	gap: 12px;
+}
+
+.file-summary {
+	margin-top: 20px;
+}
+
+.summary-stats {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+	align-items: center;
+}
+
+.summary-item {
+	display: flex;
+	align-items: center;
+}
+
+/* Admin File Manager Styles */
+.admin-file-manager .file-filters {
+	background: #fafafa;
+	padding: 16px;
+	border-radius: 6px;
+	margin-bottom: 16px;
+}
+
+.admin-file-manager .sc-table-row:hover {
+	background: #f5f5f5;
+}
+
+.admin-file-manager .sc-tag {
+	margin: 0;
+}
+
+/* Responsive Design for File Management */
+@media (max-width: 768px) {
+	.files-grid {
+		grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+		gap: 10px;
+	}
+
+	.file-controls {
+		flex-direction: column;
+		gap: 10px;
+	}
+
+	.file-list-header {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 10px;
+	}
+
+	.modal-content {
+		max-width: 95vw;
+		max-height: 95vh;
+	}
+
+	.file-details {
+		grid-template-columns: 1fr;
+	}
+
+	.modal-header {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 10px;
+	}
+
+	.modal-actions {
+		align-self: flex-end;
+	}
+
+	.file-categories {
+		gap: 12px;
+	}
+
+	.category-file-list .files-grid {
+		grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+	}
+
+	.summary-stats {
+		flex-direction: column;
+		align-items: flex-start;
+		gap: 8px;
+	}
+
+	.admin-file-manager .file-filters .sc-space {
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.admin-file-manager .file-filters .sc-space > .sc-space-item {
+		width: 100%;
+	}
+
+	.admin-file-manager .file-filters .sc-input,
+	.admin-file-manager .file-filters .sc-select {
+		width: 100% !important;
+	}
+}
+
+/* Button Styles */
+.btn {
+	padding: 6px 12px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	cursor: pointer;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	line-height: 1.42857143;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: middle;
+	transition: all 0.2s ease;
+}
+
+.btn-sm {
+	padding: 4px 8px;
+	font-size: 12px;
+}
+
+.btn-primary {
+	color: #fff;
+	background-color: #007cba;
+	border-color: #006ba1;
+}
+
+.btn-primary:hover {
+	background-color: #006ba1;
+	border-color: #005a87;
+}
+
+.btn-secondary {
+	color: #666;
+	background-color: #f8f9fa;
+	border-color: #ddd;
+}
+
+.btn-secondary:hover {
+	background-color: #e9ecef;
+	border-color: #ccc;
+}
+
+.btn-danger {
+	color: #fff;
+	background-color: #dc3545;
+	border-color: #dc3545;
+}
+
+.btn-danger:hover {
+	background-color: #c82333;
+	border-color: #bd2130;
+}
+
+/* Form Controls */
+.form-control {
+	display: block;
+	width: 100%;
+	padding: 6px 12px;
+	font-size: 14px;
+	line-height: 1.42857143;
+	color: #555;
+	background-color: #fff;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+.form-control-sm {
+	padding: 4px 8px;
+	font-size: 12px;
+	border-radius: 3px;
+	width: auto;
+	display: inline-block;
+}
+
+.form-control:focus {
+	border-color: #007cba;
+	outline: 0;
+	box-shadow: 0 0 0 2px rgba(0, 124, 186, 0.25);
+}
+
+/* Loading States */
+.file-loading {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100px;
+	color: #666;
+}
+
+.file-loading .sc-spin {
+	margin-right: 8px;
+}
+
+/* Error States */
+.file-error {
+	padding: 20px;
+	text-align: center;
+	color: #ff4d4f;
+	background: #fff2f0;
+	border: 1px solid #ffccc7;
+	border-radius: 6px;
+}
+
+.file-error .anticon {
+	font-size: 24px;
+	margin-bottom: 8px;
+}
+
+/* Enhanced File Preview Modal */
+.file-preview-modal .modal-content {
+	box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
+}
+
+.file-preview-modal .preview-container {
+	background: #f8f9fa;
+}
+
+/* File Upload Enhancements */
+.file-upload-area.category-upload {
+	border: 1px dashed #d9d9d9;
+	background: #fafafa;
+	padding: 20px;
+}
+
+.file-upload-area.category-upload:hover {
+	border-color: #40a9ff;
+	background: #f6ffed;
+}
+
+.file-upload-area.category-upload .upload-placeholder {
+	text-align: center;
+}
+
+.file-upload-area.category-upload .upload-placeholder i {
+	font-size: 24px;
+	color: #40a9ff;
+	margin-bottom: 8px;
+}
+
+/* File Grid Enhancements */
+.category-file-list .file-grid-item {
+	border: 1px solid #e8e8e8;
+	transition: all 0.2s ease;
+}
+
+.category-file-list .file-grid-item:hover {
+	border-color: #40a9ff;
+	box-shadow: 0 2px 8px rgba(64, 169, 255, 0.2);
+}

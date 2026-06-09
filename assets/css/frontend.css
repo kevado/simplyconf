@@ -1,0 +1,176 @@
+/**
+ * Frontend table styles to override theme CSS
+ * Ensures tables match the modern admin area design
+ */
+
+.simplyconf-frontend-table table {
+	border: none !important;
+}
+
+.simplyconf-frontend-table .sc-table {
+	border: none !important;
+	border-collapse: separate !important;
+	border-spacing: 0 !important;
+}
+
+.simplyconf-frontend-table .sc-table-thead > tr > th,
+.simplyconf-frontend-table .sc-table-tbody > tr > td {
+	border-right: none !important;
+	border-left: none !important;
+}
+
+.simplyconf-frontend-table .sc-table-container {
+	border: none !important;
+}
+
+.simplyconf-frontend-table .sc-table-content {
+	border: none !important;
+}
+
+/**
+ * Search input styles to override theme CSS
+ * Ensures consistent height and vertical alignment
+ */
+.simplyconf-page-header .sc-input {
+	height: 32px !important;
+	line-height: 1.5715 !important;
+	padding: 4px 11px !important;
+}
+
+.simplyconf-page-header .sc-input-affix-wrapper {
+	height: 32px !important;
+	padding: 4px 11px !important;
+}
+
+.simplyconf-page-header .sc-input-affix-wrapper > input.sc-input {
+	height: 22px !important;
+	line-height: 1.5715 !important;
+	padding: 0 !important;
+}
+
+/**
+ * Enhanced Tab Navigation Styles
+ * Modern, prominent tab-based navigation for embedded shortcode context
+ */
+
+/* Tab navigation container */
+.frontend-nav-tabs {
+	font-size: 15px !important;
+}
+
+/* Individual tab styling */
+.frontend-nav-tabs .sc-tabs-tab {
+	padding: 16px 20px !important;
+	font-size: 15px !important;
+	font-weight: 600 !important;
+	color: #595959 !important;
+	transition: color 0.2s ease !important;
+}
+
+/* Remove focus outline and glow */
+.frontend-nav-tabs .sc-tabs-tab:focus,
+.frontend-nav-tabs .sc-tabs-tab:focus-visible {
+	outline: none !important;
+	box-shadow: none !important;
+}
+
+/* Keep icon and text inline */
+.frontend-nav-tabs .sc-tabs-tab-btn {
+	display: flex !important;
+	align-items: center !important;
+	gap: 8px !important;
+	white-space: nowrap !important;
+}
+
+.frontend-nav-tabs .sc-tabs-tab:hover {
+	color: var(--simplyconf-primary-color, #1890ff) !important;
+}
+
+.frontend-nav-tabs .sc-tabs-tab-active {
+	font-weight: 600 !important;
+}
+
+.frontend-nav-tabs .sc-tabs-tab-active .sc-tabs-tab-btn {
+	color: var(--simplyconf-primary-color, #1890ff) !important;
+}
+
+/* Tab ink bar (active indicator) */
+.frontend-nav-tabs .sc-tabs-ink-bar {
+	height: 3px !important;
+	background: var(--simplyconf-primary-color, #1890ff) !important;
+}
+
+/* Tab content alignment */
+.frontend-nav-tabs .sc-tabs-nav {
+	margin-bottom: 0 !important;
+}
+
+/* Icon styling in tabs */
+.frontend-nav-tabs .anticon {
+	font-size: 16px !important;
+	margin-right: 0 !important;
+	flex-shrink: 0 !important;
+}
+
+/* Desktop - show tabs, hide mobile button */
+@media (min-width: 768px) {
+	.frontend-nav-tabs {
+		display: block !important;
+	}
+	
+	.mobile-menu-button {
+		display: none !important;
+	}
+}
+
+/* Mobile - hide tabs, show hamburger */
+@media (max-width: 767px) {
+	.frontend-nav-tabs {
+		display: none !important;
+	}
+	
+	.mobile-menu-button {
+		display: inline-flex !important;
+	}
+	
+	.user-menu-text {
+		display: none !important;
+	}
+}
+
+/* Tablet - reduce tab padding */
+@media (max-width: 1024px) and (min-width: 768px) {
+	.frontend-nav-tabs .sc-tabs-tab {
+		padding: 14px 16px !important;
+		font-size: 14px !important;
+	}
+}
+
+/* Theme-aware primary button styling for frontend */
+.sc-btn-primary {
+	background-color: var(--simplyconf-primary-color, #1890ff) !important;
+	border-color: var(--simplyconf-primary-color, #1890ff) !important;
+}
+
+.sc-btn-primary:hover {
+	background-color: color-mix(in srgb, var(--simplyconf-primary-color, #1890ff) 85%, black) !important;
+	border-color: color-mix(in srgb, var(--simplyconf-primary-color, #1890ff) 85%, black) !important;
+}
+
+/* Active menu item styling for frontend */
+.sc-menu-item-selected {
+	color: var(--simplyconf-primary-color, #1890ff) !important;
+}
+
+.sc-menu-item-selected::after {
+	border-bottom-color: var(--simplyconf-primary-color, #1890ff) !important;
+}
+
+/* Link styling for frontend */
+a {
+	color: var(--simplyconf-primary-color, #1890ff);
+}
+
+a:hover {
+	color: color-mix(in srgb, var(--simplyconf-primary-color, #1890ff) 85%, black);
+}

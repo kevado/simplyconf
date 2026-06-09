@@ -1,0 +1,5976 @@
+# Chinese (China) translation for SimplyConf
+# Copyright (C) 2025 SimplyConf
+# This file is distributed under the same license as the SimplyConf package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SimplyConf 3.0.0\n"
+"Report-Msgid-Bugs-To: https://simplyconf.com\n"
+"POT-Creation-Date: 2026-04-02T14:02:40+0000\n"
+"PO-Revision-Date: 2025-12-05 16:59-0500\n"
+"Last-Translator: \n"
+"Language-Team: Chinese (Simplified)\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: src/components/shared/attachments/FileList.js:325
+msgid " (%d selected)"
+msgstr "（%d选中）"
+
+#: src/components/admin/abstracts/Authors.js:373
+msgid "—"
+msgstr "—"
+
+#: src/components/frontend/submissions/Submissions.js:295
+msgid "{count} submissions deleted successfully"
+msgstr "用户已成功删除"
+
+#: src/components/shared/attachments/DocumentsStep.js:230
+msgid "* At least one file is required"
+msgstr "名称是必需的"
+
+#: src/components/shared/attachments/FilePreview.js:177
+msgid "%d downloads"
+msgstr "1 下载"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:144
+msgid "%d field(s) deleted successfully"
+msgstr "用户已成功删除"
+
+#: src/components/admin/abstracts/Attachments.js:354
+#: src/components/shared/attachments/FileList.js:323
+msgid "%d files"
+msgstr "%d 文件"
+
+#: src/components/admin/abstracts/Attachments.js:137
+msgid "%d files deleted successfully"
+msgstr "用户已成功删除"
+
+#: inc/class-dashboard-setup.php:62
+msgid "%s - Dashboard"
+msgstr "仪表盘"
+
+#: src/components/shared/abstracts/AbstractView.js:1084
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#: inc/addons.php:206
+msgid "%s Add-On"
+msgstr "%s 附加组件"
+
+#: src/components/shared/abstracts/AbstractView.js:1305
+msgid "%s Created"
+msgstr "创建"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:216
+#: src/components/shared/abstracts/AbstractWizard.js:264
+msgid "%s Description"
+msgstr "%s 描述"
+
+#: src/hooks/useAbstractFormState.js:550
+msgid "%s description is required"
+msgstr "需要下令"
+
+#: inc/addons.php:207
+msgid "%s feature"
+msgstr "%s特色"
+
+#: src/components/shared/abstracts/AbstractWizard.js:232
+msgid "%s Info"
+msgstr "%s信息"
+
+#: src/hooks/useAbstractFormState.js:588
+msgid "%s is required"
+msgstr "%s 是必需的"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:162
+#: src/components/shared/abstracts/AbstractWizard.js:706
+msgid "%s Locked"
+msgstr "%s Locked"
+
+#: src/components/admin/abstracts/Wrapper.js:42
+msgid "%s Settings"
+msgstr "%s 设置"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:188
+#: src/components/shared/abstracts/AbstractWizard.js:243
+msgid "%s Title"
+msgstr "%s 标题"
+
+#: src/hooks/useAbstractFormState.js:541
+msgid "%s title is required"
+msgstr "名称是必需的"
+
+#: src/components/shared/attachments/DocumentsStep.js:190
+msgid "%s uploaded successfully"
+msgstr "图片已成功上传"
+
+#: src/components/frontend/auth/Login.js:314
+#: src/components/frontend/auth/Login.js:377
+msgid "← Back to Login"
+msgstr "← 返回登录"
+
+#: src/components/admin/abstracts/Authors.js:655
+msgid "⚙️ Custom Fields"
+msgstr "自定义字段"
+
+#: src/components/admin/appearance/Appearance.js:676
+msgid "⚙️ Layout & Spacing"
+msgstr "⚙️ Layout & Spacing"
+
+#: src/components/admin/appearance/Appearance.js:361
+msgid "🎨 Branding & Organization"
+msgstr "🎨 Branding & Organization"
+
+#: src/components/admin/appearance/Appearance.js:449
+msgid "🎨 Color Scheme"
+msgstr "🎨 Color Scheme"
+
+#: src/components/admin/abstracts/FormBuilder.js:47
+msgid "👥 Author Fields"
+msgstr "用户自定义字段"
+
+#: src/components/admin/abstracts/Settings.js:426
+msgid "👥 Author Settings"
+msgstr "导出设置"
+
+#: src/components/admin/abstracts/Authors.js:603
+msgid "📌 Fixed Columns"
+msgstr "固定列"
+
+#: src/components/admin/abstracts/Settings.js:431
+msgid "📎 Attachment Settings"
+msgstr "附件"
+
+#: src/components/admin/abstracts/FormBuilder.js:44
+msgid "📝 Abstract Fields"
+msgstr "注册设置"
+
+#: src/components/admin/abstracts/Settings.js:421
+msgid "📝 Abstract Settings"
+msgstr "注册设置"
+
+#: src/components/admin/appearance/Appearance.js:500
+msgid "📝 Typography"
+msgstr "排版"
+
+#: src/components/admin/appearance/Appearance.js:689
+msgid "0px"
+msgstr "0px"
+
+#: src/components/admin/appearance/Appearance.js:552
+#: src/components/admin/appearance/Appearance.js:692
+msgid "12px"
+msgstr "12px"
+
+#: src/components/admin/appearance/Appearance.js:553
+msgid "14px"
+msgstr "14px"
+
+#: src/components/admin/appearance/Appearance.js:554
+#: src/components/admin/appearance/Appearance.js:693
+msgid "16px"
+msgstr "16px"
+
+#: src/components/admin/appearance/Appearance.js:555
+msgid "18px"
+msgstr "18px"
+
+#: src/components/admin/appearance/Appearance.js:690
+msgid "4px"
+msgstr "4px"
+
+#: src/components/admin/appearance/Appearance.js:691
+msgid "8px"
+msgstr "8px"
+
+#: inc/class-dashboard-setup.php:47
+msgid "A dashboard page already exists for this event."
+msgstr "A dashboard page already exists for this event."
+
+#: src/components/admin/events/TerminologySettings.js:59 inc/functions.php:142
+msgid "Abstract"
+msgstr "概述"
+
+#: src/Admin.js:305
+msgid "Abstract Book"
+msgstr "摘要书"
+
+#: src/components/admin/abstracts/FormBuilder.js:60
+msgid "Abstract Custom Fields"
+msgstr "用户自定义字段"
+
+#: src/components/admin/abstracts/Abstracts.js:394
+msgid "Abstract deleted successfully"
+msgstr "摘要已成功删除"
+
+#: src/components/shared/attachments/AbstractFileManager.js:66
+msgid "Abstract Documents"
+msgstr "注册设置"
+
+#: src/components/shared/attachments/AbstractFileManager.js:84
+msgid "Abstract PDF"
+msgstr "概述"
+
+#: src/components/admin/abstracts/Settings.js:555
+msgid "Abstract Settings"
+msgstr "注册设置"
+
+#: src/hooks/useAbstractFormState.js:787 src/hooks/useAbstractFormState.js:800
+msgid "Abstract submitted successfully!"
+msgstr "摘要已成功删除"
+
+#: src/hooks/useAbstractFormState.js:757
+msgid "Abstract updated successfully!"
+msgstr "状态已成功更新"
+
+#: src/components/admin/abstracts/Abstracts.js:838
+msgid "abstracts"
+msgstr "文摘"
+
+#: src/components/admin/events/TerminologySettings.js:60 inc/functions.php:142
+#: classes/admin-menu.php:49 classes/admin-menu.php:50
+msgid "Abstracts"
+msgstr "文摘"
+
+#: src/components/admin/abstracts/Abstracts.js:523
+msgid "abstracts deleted successfully"
+msgstr "摘要已成功删除"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:462
+msgid "Accept Submissions"
+msgstr "提交"
+
+#: src/components/admin/events/Events.js:810
+msgid ""
+"Accepted authors must complete a paid conference registration managed by the"
+" Payments add-on."
+msgstr "被录取的作者必须完成由支付附加组件管理的付费会议注册。"
+
+#: src/components/shared/attachments/FilePreview.js:217
+msgid "Access:"
+msgstr "权限："
+
+#: src/components/frontend/auth/Register.js:155
+msgid "Account"
+msgstr "账户"
+
+#: src/components/frontend/auth/Register.js:308
+#: src/components/frontend/auth/Register.js:500
+msgid "Account Information"
+msgstr "账户信息"
+
+#: src/components/admin/abstracts/Abstracts.js:936
+#: src/components/admin/users/Users.js:320
+#: src/components/shared/customFields/CustomFieldsAdmin.js:710
+#: src/hooks/useAbstractColumns.js:376
+msgid "Action"
+msgstr "操作"
+
+#: src/components/frontend/dashboard/widgets/ActionItems.js:61
+msgid "Action Items"
+msgstr "活动项目"
+
+#: src/components/admin/abstracts/Attachments.js:274
+#: src/components/admin/abstracts/Authors.js:442
+#: src/components/admin/events/Events.js:291
+#: src/components/admin/events/StatusManagement.js:243
+#: src/components/admin/tracks/Tracks.js:70
+#: src/components/admin/tracks/Tracks.js:421
+#: src/components/frontend/attachments/Attachments.js:289
+#: src/components/frontend/submissions/Submissions.js:606
+#: src/components/shared/abstracts/AbstractView.js:519
+#: src/components/shared/attachments/FileList.js:451
+#: src/components/shared/customFields/CustomFieldsAdmin.js:292
+msgid "Actions"
+msgstr "操作"
+
+#: src/components/admin/dashboard/Dashboard.js:689
+msgid "Activate addon licenses to unlock premium features"
+msgstr "激活你的专业版许可以解锁高级功能"
+
+#: src/components/admin/licenses/Licenses.js:306
+msgid "Activate License"
+msgstr "激活许可证"
+
+#: src/components/shared/UpgradePrompt.js:45
+msgid ""
+"Activate or renew your license to access this feature. If you don't have a "
+"license yet, you can purchase one from our website."
+msgstr "输入您购买时收到的许可证密钥。如果您没有许可证，您可以从我们的网站购买一个。"
+
+#: src/components/admin/licenses/Licenses.js:268
+msgid ""
+"Activate your license key to receive updates, support, and access to premium"
+" features."
+msgstr "激活你的专业版许可以解锁高级功能"
+
+#: src/components/admin/licenses/Licenses.js:212
+msgid "Activated"
+msgstr "激活"
+
+#: src/components/admin/licenses/Licenses.js:80
+msgid "Activation failed"
+msgstr "激活失败"
+
+#: src/components/admin/licenses/Licenses.js:208
+msgid "Activations"
+msgstr "激活"
+
+#: src/components/admin/dashboard/Dashboard.js:608
+#: src/components/admin/dashboard/Dashboard.js:656
+#: src/components/admin/events/Events.js:287
+#: src/components/admin/events/Events.js:522
+#: src/components/admin/events/Events.js:608
+#: src/components/admin/licenses/Licenses.js:135
+#: src/components/admin/licenses/Licenses.js:140
+msgid "Active"
+msgstr "操作"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:403
+msgid "Add"
+msgstr "Add"
+
+#: src/components/shared/abstracts/AuthorManagement.js:230
+#: src/components/shared/abstracts/AuthorManagement.js:284
+msgid "Add Author"
+msgstr "作者"
+
+#: src/components/admin/tracks/Tracks.js:381
+msgid "Add Chairs"
+msgstr "分配主席"
+
+#: src/components/admin/appearance/Appearance.js:726
+msgid "Add custom CSS to override theme styles. Use with caution."
+msgstr "Add custom CSS to override theme styles. Use with caution."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:587
+msgid "Add custom fields to collect additional information"
+msgstr "Add custom fields to collect additional information"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:417
+msgid "Add Field"
+msgstr "添加字段"
+
+#: src/hooks/useAbstractColumns.js:191
+msgid "Add Reviewers"
+msgstr "添加审核员"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:856
+msgid "Add Rule"
+msgstr "Add Rule"
+
+#: src/components/admin/events/StatusManagement.js:393
+msgid "Add Status"
+msgstr "新增状态"
+
+#: src/components/admin/tracks/Tracks.js:590
+msgid "Add Track"
+msgstr "所有轨道"
+
+#: src/components/shared/UpgradePrompt.js:52
+msgid "Add-On Required"
+msgstr "需要附加组件"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:317
+#: src/components/shared/abstracts/AbstractWizard.js:389
+msgid "Additional Details"
+msgstr "组织详情"
+
+#: src/components/frontend/auth/Register.js:161
+#: src/components/frontend/auth/Register.js:413
+#: src/components/frontend/auth/Register.js:519
+#: src/components/shared/abstracts/AbstractView.js:757
+msgid "Additional Information"
+msgstr "附加信息"
+
+#: src/components/shared/attachments/AbstractFileManager.js:96
+msgid "Additional supporting documents (figures, tables, etc.)"
+msgstr "附加支持文件（图表、表格等）"
+
+#: src/components/admin/users/Settings.js:367
+msgid ""
+"Additional user settings will be available here in future updates. Current "
+"settings focus on registration security and password policies."
+msgstr ""
+"Additional user settings will be available here in future updates. Current "
+"settings focus on registration security and password policies."
+
+#: src/components/admin/dashboard/Dashboard.js:281
+#: src/components/admin/dashboard/Dashboard.js:331
+#: src/components/admin/dashboard/Dashboard.js:381
+#: src/components/admin/dashboard/Dashboard.js:431
+msgid "Addon not active"
+msgstr "插件未激活"
+
+#: src/components/admin/events/CreateEvent.js:172
+#: src/components/admin/events/EditEvent.js:218
+msgid "Address Information"
+msgstr "地址信息"
+
+#: src/Frontend.js:524
+msgid "Admin"
+msgstr "仅限管理员"
+
+#: src/components/admin/users/Settings.js:408
+msgid "Advanced Settings"
+msgstr "保存设置"
+
+#: src/components/admin/abstracts/Authors.js:527
+msgid "All %s"
+msgstr "所有 %s"
+
+#: src/components/shared/attachments/FileList.js:335
+msgid "All Files"
+msgstr "所有文件"
+
+#: src/components/admin/users/Users.js:842
+msgid "All Roles"
+msgstr "所有角色"
+
+#: src/components/frontend/submissions/Submissions.js:794
+msgid "All Status"
+msgstr "所有状态"
+
+#: src/components/admin/abstracts/Abstracts.js:766
+#: src/components/admin/events/Events.js:521
+msgid "All Statuses"
+msgstr "所有状态"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:309
+msgid "All track chairs have been assigned to this track"
+msgstr "部分轨道未能分配座椅"
+
+#: src/components/admin/abstracts/Abstracts.js:781
+#: src/components/frontend/submissions/Submissions.js:812
+msgid "All Tracks"
+msgstr "所有轨道"
+
+#: src/components/admin/abstracts/Attachments.js:404
+msgid "All Types"
+msgstr "所有类型"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:465
+msgid "Allow authors to submit abstracts to this event"
+msgstr "允许用户输入描述/摘要内容"
+
+#: src/components/admin/users/Settings.js:123
+msgid "Allow new users to register for accounts on your event"
+msgstr "Allow new users to register for accounts on your event"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:435
+msgid "Allow Registration"
+msgstr "注册"
+
+#: src/components/admin/abstracts/Settings.js:75
+msgid "Allow rich text formatting in abstract descriptions"
+msgstr "描述时请使用富文本编辑器代替纯文本区"
+
+#: src/components/admin/abstracts/Settings.js:45
+msgid "Allow users to enter a description/abstract content"
+msgstr "允许用户输入描述/摘要内容"
+
+#: src/components/admin/abstracts/Settings.js:256
+msgid "Allow users to upload files with their submissions"
+msgstr "允许用户上传包含提交的文件"
+
+#: src/components/admin/abstracts/Settings.js:358
+#: src/components/shared/customFields/CustomFieldsAdmin.js:589
+msgid "Allowed File Types"
+msgstr "允许的类型："
+
+#: src/components/shared/attachments/FileUpload.js:184
+msgid "Allowed types:"
+msgstr "允许的类型："
+
+#: src/components/frontend/auth/Register.js:434
+msgid "Almost Done!"
+msgstr "快好了！"
+
+#: src/Admin.js:132 src/components/admin/settings/Wrapper.js:59
+msgid "Appearance"
+msgstr "外观"
+
+#: src/components/admin/settings/Wrapper.js:35
+msgid "Appearance Settings"
+msgstr "注册设置"
+
+#: src/components/admin/appearance/Appearance.js:793
+msgid "Apply & Save"
+msgstr "Apply & Save"
+
+#: src/components/admin/appearance/Appearance.js:788
+msgid "Apply Theme Preset?"
+msgstr "Apply Theme Preset?"
+
+#: src/components/admin/appearance/Appearance.js:805
+msgid ""
+"Applying this preset will override your current theme settings. Any unsaved "
+"changes will be lost."
+msgstr ""
+"Applying this preset will override your current theme settings. Any unsaved "
+"changes will be lost."
+
+#: src/components/admin/events/Events.js:319
+msgid "Archive"
+msgstr "存档"
+
+#: src/components/admin/events/Events.js:481
+msgid "Archive Selected"
+msgstr "删除所选"
+
+#: src/components/admin/events/Events.js:419
+msgid "archived"
+msgstr "存档"
+
+#: src/components/admin/events/Events.js:285
+#: src/components/admin/events/Events.js:523
+#: src/components/admin/events/Events.js:601
+msgid "Archived"
+msgstr "已存档"
+
+#: src/components/frontend/submissions/Submissions.js:249
+msgid "Are you sure you want to delete"
+msgstr "你确定要删除"
+
+#: src/components/admin/abstracts/Attachments.js:297
+#: src/components/frontend/attachments/Attachments.js:313
+#: src/components/shared/attachments/DocumentsStep.js:340
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "您确定要删除%s吗？"
+
+#: src/components/frontend/submissions/Submissions.js:281
+msgid ""
+"Are you sure you want to delete {count} selected submissions? This action "
+"cannot be undone."
+msgstr "你确定要删除这个事件吗？这一行为无法撤销。"
+
+#: src/components/admin/users/Users.js:464
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected {users}?"
+msgstr "你确定要删除{selectedRowKeys.length}选中的{users}吗？"
+
+#: src/components/admin/abstracts/Abstracts.js:503
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected abstracts?"
+" This action cannot be undone."
+msgstr "你确定要删除{selectedRowKeys.length}选中的摘要吗？这一行为无法撤销。"
+
+#: src/components/admin/events/Events.js:152
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected events? "
+"This action cannot be undone."
+msgstr "你确定要删除{selectedRowKeys.length}选中的事件吗？这一行为无法撤销。"
+
+#: src/components/admin/tracks/Tracks.js:262
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected tracks? "
+"This action cannot be undone."
+msgstr "你确定要删除{selectedRowKeys.length}选中的轨道吗？这一行为无法撤销。"
+
+#: src/components/admin/abstracts/Attachments.js:126
+#: src/components/shared/attachments/FileList.js:99
+msgid "Are you sure you want to delete %d selected files?"
+msgstr "您确定要删除此活动吗？"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:126
+msgid ""
+"Are you sure you want to delete selected field(s)? This action cannot be "
+"undone."
+msgstr "你确定要删除这个事件吗？这一行为无法撤销。"
+
+#: src/components/admin/dashboard/DashboardSetup.js:77
+msgid ""
+"Are you sure you want to delete the existing dashboard page? This action "
+"cannot be undone."
+msgstr "你确定要删除这个事件吗？这一行为无法撤销。"
+
+#: src/components/admin/events/Events.js:989
+msgid "Are you sure you want to delete this event?"
+msgstr "您确定要删除此活动吗？"
+
+#: src/components/admin/events/Events.js:335
+msgid ""
+"Are you sure you want to delete this event? This action cannot be undone."
+msgstr "你确定要删除这个事件吗？这一行为无法撤销。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:310
+msgid "Are you sure you want to delete this field?"
+msgstr "您确定要删除此字段吗？"
+
+#: src/components/shared/attachments/FileList.js:61
+msgid "Are you sure you want to delete this file?"
+msgstr "你确定要删除这个文件吗？"
+
+#: src/components/admin/tracks/Tracks.js:87
+msgid "Are you sure you want to delete this session?"
+msgstr "你确定要删除这场游戏吗？"
+
+#: src/components/admin/events/StatusManagement.js:255
+msgid "Are you sure you want to delete this status?"
+msgstr "是否确实要删除此状态？"
+
+#: src/hooks/useAbstractColumns.js:434
+msgid "Are you sure you want to delete this submission?"
+msgstr "你确定要删除此提交内容吗？"
+
+#: src/components/admin/tracks/Tracks.js:445
+msgid "Are you sure you want to delete this track?"
+msgstr "你确定要删掉这首歌吗？"
+
+#: src/components/admin/users/Users.js:351
+msgid "Are you sure you want to delete this user?"
+msgstr "您确定要删除此用户吗？"
+
+#: src/components/shared/abstracts/AuthorManagement.js:158
+msgid "Are you sure you want to remove %s %s?"
+msgstr "您确定要删除%s吗？"
+
+#: src/components/admin/appearance/Appearance.js:516
+msgid "Arial"
+msgstr "Arial"
+
+#: src/components/shared/attachments/FileList.js:369
+msgid "Ascending"
+msgstr "升序"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:330
+#: src/hooks/useAbstractColumns.js:406
+msgid "Assign"
+msgstr "分配"
+
+#: src/components/admin/abstracts/Abstracts.js:717
+msgid "Assign Reviewers"
+msgstr "分配审稿人"
+
+#: src/components/admin/users/Users.js:799
+msgid "Assign Role"
+msgstr "分配"
+
+#: src/components/admin/users/Users.js:1300
+msgid "Assign Roles"
+msgstr "分配审稿人"
+
+#: src/components/admin/users/Users.js:1274
+msgid "Assign Roles to {count} {users}"
+msgstr "Assign Roles to {count} {users}"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:200
+#: src/components/admin/tracks/Tracks.js:516
+msgid "Assign Track Chairs"
+msgstr "分配赛道主席"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:190
+msgid "Assigned"
+msgstr "分配"
+
+#: src/components/shared/abstracts/AbstractView.js:290
+msgid "Assigned Session"
+msgstr "编辑环节"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:82
+msgid "At least"
+msgstr "At least"
+
+#: src/hooks/useAbstractFormState.js:563
+msgid "At least one %s is required"
+msgstr "名称是必需的"
+
+#: src/hooks/useAbstractFormState.js:570
+msgid "At least one attachment is required"
+msgstr "名称是必需的"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:97
+msgid "At most"
+msgstr "At most"
+
+#: src/components/admin/abstracts/Settings.js:281
+msgid "Attachment Preference"
+msgstr "附件"
+
+#: src/components/admin/dashboard/Dashboard.js:201
+msgid "attachments"
+msgstr "附件"
+
+#: src/Admin.js:187 src/components/admin/abstracts/Wrapper.js:48
+#: src/components/admin/abstracts/Wrapper.js:93
+#: src/components/shared/abstracts/AbstractSinglePage.js:340
+#: src/components/shared/abstracts/AbstractView.js:911
+msgid "Attachments"
+msgstr "附件"
+
+#: src/components/frontend/attachments/Attachments.js:85
+msgid "Attachments refreshed"
+msgstr "附件"
+
+#: src/components/admin/events/TerminologySettings.js:101
+#: inc/functions.php:150
+msgid "Attendee"
+msgstr "参与者"
+
+#: src/components/admin/events/TerminologySettings.js:102
+#: inc/functions.php:150
+msgid "Attendees"
+msgstr "参与者"
+
+#: src/components/shared/attachments/FileList.js:341
+msgid "Audio"
+msgstr "音频"
+
+#: src/components/admin/events/TerminologySettings.js:65
+#: src/components/admin/users/Users.js:283
+#: src/components/admin/users/Users.js:675
+#: src/components/admin/users/Users.js:851
+#: src/components/admin/users/Users.js:1326 inc/functions.php:143
+msgid "Author"
+msgstr "作者"
+
+#: src/components/admin/abstracts/FormBuilder.js:61
+msgid "Author Custom Fields"
+msgstr "用户自定义字段"
+
+#: src/components/admin/abstracts/Authors.js:218
+msgid "Author linked to WordPress user"
+msgstr "作者链接到WordPress用户"
+
+#: src/components/admin/abstracts/Authors.js:819
+msgid "Author updated successfully"
+msgstr "状态已成功更新"
+
+#: src/components/admin/dashboard/Dashboard.js:225
+msgid "authors"
+msgstr "作者"
+
+#: src/Admin.js:182 src/components/admin/events/TerminologySettings.js:66
+#: inc/functions.php:143
+msgid "Authors"
+msgstr "作者"
+
+#: src/components/shared/abstracts/AuthorManagement.js:215
+msgid "Authors (%d)"
+msgstr "作者"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:290
+msgid "Authors submit abstracts to your tracks"
+msgstr "管理分配给你曲目的提交作品"
+
+#: src/components/admin/abstracts/Settings.js:217
+msgid "Auto-link Authors to Users"
+msgstr "自动将作者链接到 WordPress 用户"
+
+#: src/components/admin/abstracts/Settings.js:221
+msgid "Automatically link authors to existing WordPress users based on email"
+msgstr "通过匹配邮箱地址，自动将作者与WordPress账户关联"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:291
+msgid "Available Track Chairs"
+msgstr "管理田径椅"
+
+#: src/components/shared/abstracts/AbstractWizard.js:352
+#: src/components/shared/abstracts/AbstractWizard.js:423
+#: src/components/shared/abstracts/AbstractWizard.js:484
+#: src/components/shared/attachments/DocumentsStep.js:123
+#: src/components/shared/attachments/DocumentsStep.js:368
+msgid "Back"
+msgstr "返回"
+
+#: src/components/frontend/auth/Register.js:369
+#: src/components/frontend/auth/Register.js:596
+msgid "Back to Login"
+msgstr "返回登录"
+
+#: src/components/shared/abstracts/AbstractView.js:614
+msgid "Back to Submissions"
+msgstr "提交"
+
+#: src/components/admin/appearance/Appearance.js:534
+msgid "Base Font Size"
+msgstr "基本字体大小"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:435
+msgid "Basic Info"
+msgstr "基本信息"
+
+#: src/components/frontend/auth/Register.js:156
+msgid "Basic Information"
+msgstr "基本信息"
+
+#: src/components/admin/appearance/Appearance.js:682
+msgid "Border Radius"
+msgstr "边框半径"
+
+#: src/components/admin/events/StatusManagement.js:463
+msgid "Brief description of this status"
+msgstr "该状态简要说明"
+
+#: src/components/shared/UpgradePrompt.js:58
+msgid "Browse Add-Ons"
+msgstr "浏览附加组件"
+
+#: src/Admin.js:292
+msgid "Builder"
+msgstr "生成器"
+
+#: src/components/admin/tracks/Tracks.js:532
+#: src/components/frontend/submissions/Submissions.js:896
+#: src/components/shared/customFields/CustomFieldsAdmin.js:379
+msgid "Bulk Actions"
+msgstr "批量操作"
+
+#: src/components/admin/users/Users.js:815
+msgid "Bulk Actions ({count})"
+msgstr "批量操作"
+
+#: src/components/admin/abstracts/Abstracts.js:733
+#: src/components/admin/abstracts/Attachments.js:378
+#: src/components/admin/events/Events.js:497
+msgid "Bulk Actions ({selectedRowKeys.length})"
+msgstr "大规模行动（{selectedRowKeys.length}）"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:199
+msgid "Bulk Assign Track Chair"
+msgstr "分配赛道主席"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:206
+msgid "Bulk Assignment"
+msgstr "目前分配："
+
+#: src/components/admin/abstracts/Abstracts.js:1158
+msgid "Bulk Assignment (%d %s)"
+msgstr "目前分配："
+
+#: src/components/admin/tracks/Tracks.js:668
+msgid "Bulk Assignment (%d tracks)"
+msgstr "分配赛道主席"
+
+#: src/components/admin/abstracts/Abstracts.js:509
+#: src/components/admin/abstracts/Abstracts.js:1113
+#: src/components/admin/abstracts/Attachments.js:131
+#: src/components/admin/abstracts/Authors.js:781
+#: src/components/admin/appearance/Appearance.js:794
+#: src/components/admin/appearance/Appearance.js:826
+#: src/components/admin/dashboard/DashboardSetup.js:83
+#: src/components/admin/events/Events.js:158
+#: src/components/admin/events/Events.js:994
+#: src/components/admin/events/Events.js:1003
+#: src/components/admin/events/Events.js:1021
+#: src/components/admin/tracks/Tracks.js:268
+#: src/components/admin/tracks/Tracks.js:601
+#: src/components/admin/users/EditUser.js:128
+#: src/components/admin/users/Users.js:467
+#: src/components/admin/users/Users.js:752
+#: src/components/admin/users/Users.js:952
+#: src/components/admin/users/Users.js:1193
+#: src/components/admin/users/Users.js:1292
+#: src/components/frontend/submissions/Submissions.js:252
+#: src/components/frontend/submissions/Submissions.js:287
+#: src/components/shared/abstracts/AuthorManagement.js:164
+#: src/components/shared/customFields/CustomFieldsAdmin.js:132
+#: src/components/shared/customFields/CustomFieldsAdmin.js:315
+#: src/components/shared/customFields/CustomFieldsAdmin.js:424
+#: src/components/shared/users/UserWizard.js:156
+msgid "Cancel"
+msgstr "取消"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:86
+msgid "Cannot upload file: missing entity or event context"
+msgstr "Cannot upload file: missing entity or event context"
+
+#: src/components/admin/abstracts/Abstracts.js:711
+#: src/components/admin/abstracts/Abstracts.js:1074
+#: src/hooks/useAbstractColumns.js:412
+msgid "Change Status"
+msgstr "更改状态"
+
+#: src/components/admin/abstracts/Settings.js:100
+msgid "Character Count Limit"
+msgstr "字符数限制"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:265
+#: src/components/shared/abstracts/AbstractSinglePage.js:306
+#: src/components/shared/abstracts/AbstractWizard.js:306
+#: src/components/shared/abstracts/AbstractWizard.js:344
+#: src/components/shared/auth/PasswordStrengthIndicator.js:83
+#: src/components/shared/auth/PasswordStrengthIndicator.js:98
+msgid "characters"
+msgstr "characters"
+
+#: src/components/shared/abstracts/AuthorManagement.js:313
+msgid "Check if this author will present the abstract"
+msgstr "请查看作者是否会介绍摘要"
+
+#: src/components/shared/abstracts/AuthorManagement.js:326
+msgid "Check if this is the corresponding author"
+msgstr "确认这是不是通讯作者"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:59
+msgid "Checkbox"
+msgstr "复选框"
+
+#: src/components/admin/abstracts/Settings.js:152
+msgid "Choose how users submit abstracts"
+msgstr "Choose how users submit abstracts"
+
+#: src/components/admin/events/CreateEvent.js:185
+#: src/components/admin/events/EditEvent.js:233
+msgid "City"
+msgstr "城市"
+
+#: src/components/admin/abstracts/Attachments.js:418
+msgid "Clear Filters"
+msgstr "清除过滤器"
+
+#: src/components/frontend/submissions/Submissions.js:900
+msgid "Clear Selection"
+msgstr "选择一个图标"
+
+#: src/components/shared/abstracts/AuthorManagement.js:239
+msgid "Click \"Add Author\" to get started"
+msgstr "点击“添加作者”开始"
+
+#: src/components/admin/users/Users.js:1229
+msgid "Click \"Add New\" in WordPress Users"
+msgstr "自动将作者链接到 WordPress 用户"
+
+#: src/components/admin/users/Users.js:1226
+msgid "Click \"Go to WordPress Users\" below"
+msgstr "自动将作者链接到 WordPress 用户"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:209
+msgid "Click or drag a file to upload"
+msgstr "点击或拖动文件即可上传"
+
+#: src/components/shared/attachments/DocumentsStep.js:251
+msgid "Click or drag files to upload"
+msgstr "点击或拖动文件即可上传"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:534
+msgid ""
+"Click the button below to automatically create a dashboard page with the "
+"SimplyConf shortcode."
+msgstr ""
+"Click the button below to automatically create a dashboard page with the "
+"SimplyConf shortcode."
+
+#: src/components/admin/events/Events.js:259
+#: src/components/admin/events/Events.js:887
+msgid "Click to copy shortcode"
+msgstr "点击拷贝简码"
+
+#: src/components/shared/attachments/FileUpload.js:176
+msgid "Click to select files or drag and drop"
+msgstr "点击选择文件或拖放"
+
+#: src/components/admin/abstracts/Authors.js:706
+#: src/components/admin/events/Events.js:619
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:214
+#: src/components/admin/users/Users.js:980
+#: src/components/shared/abstracts/AbstractView.js:615
+#: src/components/shared/attachments/FilePreview.js:195
+msgid "Close"
+msgstr "关闭"
+
+#: src/components/admin/events/StatusManagement.js:208
+#: src/components/admin/events/StatusManagement.js:469
+msgid "Color"
+msgstr "颜色"
+
+#: src/components/frontend/submissions/Submissions.js:953
+msgid "Columns"
+msgstr "固定列"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:590
+msgid ""
+"Comma-separated MIME types or extensions. Leave empty to allow all common "
+"document types."
+msgstr ""
+"Comma-separated MIME types or extensions. Leave empty to allow all common "
+"document types."
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:234
+msgid "Conditional"
+msgstr "确认"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:685
+msgid "Conditional Logic"
+msgstr "Conditional Logic"
+
+#: src/Admin.js:310
+msgid "Conference Program"
+msgstr "会议项目"
+
+#: src/components/admin/events/Events.js:790
+msgid "Conference Registration Payment"
+msgstr "会议注册费"
+
+#: src/components/admin/events/Events.js:814
+msgid "Conference registration payment is not required for this event."
+msgstr "本次活动无需支付会议注册费。"
+
+#: src/components/admin/events/Events.js:829
+#: src/components/shared/customFields/CustomFieldsAdmin.js:501
+msgid "Configuration"
+msgstr "配置"
+
+#: src/components/admin/abstracts/Settings.js:558
+msgid ""
+"Configure abstract submissions, author requirements, and attachment settings"
+" for this event"
+msgstr "本次活动无需支付会议注册费。"
+
+#: src/components/admin/abstracts/FormBuilder.js:33
+msgid "Configure custom fields for abstracts and authors"
+msgstr "为摘要和作者配置自定义字段"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:412
+msgid ""
+"Configure key settings for your event. All settings can be adjusted later."
+msgstr ""
+"Configure key settings for your event. All settings can be adjusted later."
+
+#: src/components/admin/users/Settings.js:507
+msgid ""
+"Configure user registration, login, and password requirements for this "
+"event."
+msgstr "本次活动无需支付会议注册费。"
+
+#: src/components/frontend/auth/Register.js:166
+msgid "Confirm & Submit"
+msgstr "确认并提交"
+
+#: src/components/admin/events/Events.js:334
+#: src/components/admin/tracks/Tracks.js:86
+#: src/components/admin/tracks/Tracks.js:444
+#: src/components/shared/customFields/CustomFieldsAdmin.js:309
+#: src/hooks/useAbstractColumns.js:433
+msgid "Confirmation"
+msgstr "确认"
+
+#: src/components/admin/licenses/Licenses.js:408
+msgid "Contact support for license-related issues"
+msgstr "联系支持人员解决许可证相关问题"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:804
+msgid "contains"
+msgstr "contains"
+
+#: src/components/shared/attachments/DocumentsStep.js:126
+msgid "Continue"
+msgstr "继续"
+
+#: src/components/admin/abstracts/Abstracts.js:916
+#: src/components/admin/users/Users.js:1022
+msgid "Core Identity Columns (Always Visible)"
+msgstr "Core Identity Columns (Always Visible)"
+
+#: src/components/shared/abstracts/AuthorManagement.js:324
+msgid "Corresponding Author"
+msgstr "允许多位通讯作者"
+
+#: src/components/admin/events/CreateEvent.js:210
+#: src/components/admin/events/EditEvent.js:258
+msgid "Country"
+msgstr "国家"
+
+#: src/components/admin/appearance/Appearance.js:528
+msgid "Courier New"
+msgstr "Courier New"
+
+#: src/components/admin/abstracts/Abstracts.js:815
+#: src/components/admin/events/Events.js:541
+#: src/components/admin/events/Events.js:1029
+#: src/components/admin/events/StatusManagement.js:336
+#: src/components/admin/tracks/Tracks.js:552
+#: src/components/admin/users/Users.js:890
+#: src/components/shared/customFields/CustomFieldsAdmin.js:391
+msgid "Create"
+msgstr "创建"
+
+#: src/components/admin/users/Users.js:1184
+msgid "Create {user}"
+msgstr "创造{user}"
+
+#: src/components/admin/dashboard/DashboardSetup.js:132
+msgid ""
+"Create a dedicated page for your conference participants to access their "
+"dashboard. This page will use the SimplyConf Dashboard block for optimal "
+"display."
+msgstr ""
+"Create a dedicated page for your conference participants to access their "
+"dashboard. This page will use the SimplyConf Dashboard block for optimal "
+"display."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:512
+msgid ""
+"Create a frontend dashboard page where authors and reviewers can login, "
+"submit abstracts, and manage their work."
+msgstr ""
+"Create a frontend dashboard page where authors and reviewers can login, "
+"submit abstracts, and manage their work."
+
+#: src/components/frontend/auth/Register.js:560
+msgid "Create Account"
+msgstr "创建帐号"
+
+#: src/Admin.js:80
+msgid "Create an Event"
+msgstr "创建一个活动"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:286
+msgid "Create an event with tracks (topics)"
+msgstr "Create an event with tracks (topics)"
+
+#: src/components/admin/dashboard/DashboardSetup.js:146
+#: src/components/admin/onboarding/OnboardingWizard.js:548
+msgid "Create Dashboard Page"
+msgstr "仪表盘"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:92
+#: src/components/shared/abstracts/AbstractWizard.js:635
+msgid "Create New %s"
+msgstr "创建一个"
+
+#: src/components/frontend/auth/Login.js:248
+msgid "Create one"
+msgstr "创建一个"
+
+#: src/components/frontend/auth/Register.js:615
+msgid "Create Your Account"
+msgstr "创建您的帐户"
+
+#: src/components/admin/abstracts/Abstracts.js:996
+#: src/components/admin/events/Events.js:944
+#: src/components/frontend/submissions/Submissions.js:684
+#: src/components/frontend/submissions/Submissions.js:974
+#: src/hooks/useAbstractColumns.js:325
+msgid "Created"
+msgstr "创建"
+
+#: src/components/admin/events/StatusManagement.js:304
+msgid "Current Event"
+msgstr "创建活动"
+
+#: src/components/shared/abstracts/AbstractView.js:1359
+msgid "Current Status:"
+msgstr "当前状态："
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:238
+msgid "Currently Assigned"
+msgstr "目前分配："
+
+#: src/components/admin/appearance/Appearance.js:724
+msgid "Custom CSS"
+msgstr "自定义字段"
+
+#: src/Admin.js:192 src/Admin.js:210 src/Admin.js:228
+#: src/components/admin/abstracts/Authors.js:731
+#: src/components/admin/abstracts/FormBuilder.js:23
+#: src/components/admin/abstracts/Wrapper.js:44
+#: src/components/admin/abstracts/Wrapper.js:102
+#: src/components/admin/users/ViewUser.js:179
+#: src/components/admin/users/Wrapper.js:66
+#: src/components/frontend/submissions/Submissions.js:992
+#: src/components/shared/customFields/CustomFieldsAdmin.js:47
+msgid "Custom Fields"
+msgstr "自定义字段"
+
+#: src/components/admin/appearance/Appearance.js:293
+msgid "Customize colors, typography, and layout for your conference site"
+msgstr "Customize colors, typography, and layout for your conference site"
+
+#: src/components/admin/events/TerminologySettings.js:188
+msgid ""
+"Customize how entities are labeled throughout the system. Leave fields blank"
+" to use default translations."
+msgstr "在系统中自定义实体的标签方式。保持字段空以使用默认翻译。"
+
+#: src/components/admin/abstracts/Abstracts.js:891
+#: src/components/admin/abstracts/Authors.js:579
+#: src/components/admin/users/Users.js:997
+#: src/components/frontend/submissions/Submissions.js:929
+msgid "Customize which columns are visible in your table view"
+msgstr "自定义表格视图中可见的列"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:580
+msgid "Customize your appearance and branding in Settings"
+msgstr "Customize your appearance and branding in Settings"
+
+#: src/Admin.js:153 src/Frontend.js:184
+#: src/components/admin/onboarding/OnboardingWizard.js:254
+#: classes/admin-menu.php:31 classes/admin-menu.php:32
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: src/components/admin/dashboard/Dashboard.js:154
+#: src/components/frontend/dashboard/Dashboard.js:42
+msgid "Dashboard Overview"
+msgstr "仪表板概述"
+
+#: src/components/admin/dashboard/DashboardSetup.js:152
+#: src/components/admin/onboarding/OnboardingWizard.js:519
+msgid "Dashboard Page Active"
+msgstr "仪表板概述"
+
+#: inc/class-dashboard-setup.php:86
+msgid "Dashboard page created successfully!"
+msgstr "用户创建成功"
+
+#: inc/class-dashboard-setup.php:115
+msgid "Dashboard page deleted successfully."
+msgstr "摘要已成功删除"
+
+#: blocks/dashboard/index.js:52
+msgid "Dashboard Settings"
+msgstr "作者设置"
+
+#: src/components/shared/attachments/FileList.js:449
+msgid "Date"
+msgstr "日期"
+
+#: src/components/shared/attachments/FileList.js:352
+msgid "Date Created"
+msgstr "创建日期"
+
+#: src/components/admin/dashboard/Dashboard.js:262
+msgid "days to deadline"
+msgstr "距离截止日期还有天数"
+
+#: src/components/admin/licenses/Licenses.js:229
+msgid "Deactivate License"
+msgstr "停用许可证"
+
+#: src/components/admin/licenses/Licenses.js:160
+msgid "Deactivated"
+msgstr "停用"
+
+#: src/components/admin/licenses/Licenses.js:102
+msgid "Deactivation failed"
+msgstr "退役失败"
+
+#: src/components/admin/events/Events.js:251
+msgid "Deadline"
+msgstr "截止日期"
+
+#: src/components/admin/events/StatusManagement.js:234
+msgid "Default"
+msgstr "默认"
+
+#: src/components/admin/events/StatusManagement.js:520
+msgid "Default display status"
+msgstr "选择状态"
+
+#: src/components/admin/events/StatusManagement.js:514
+msgid "Default Status"
+msgstr "默认状态"
+
+#: src/components/admin/events/StatusManagement.js:134
+msgid "Default statuses initialized successfully"
+msgstr "摘要已成功删除"
+
+#: src/components/admin/abstracts/Abstracts.js:507
+#: src/components/admin/abstracts/Attachments.js:129
+#: src/components/admin/abstracts/Attachments.js:290
+#: src/components/admin/abstracts/Attachments.js:300
+#: src/components/admin/dashboard/DashboardSetup.js:81
+#: src/components/admin/dashboard/DashboardSetup.js:184
+#: src/components/admin/events/Events.js:156
+#: src/components/admin/events/Events.js:339
+#: src/components/admin/events/Events.js:349
+#: src/components/admin/events/Events.js:993
+#: src/components/admin/events/Events.js:999
+#: src/components/admin/tracks/Tracks.js:91
+#: src/components/admin/tracks/Tracks.js:266
+#: src/components/admin/tracks/Tracks.js:449
+#: src/components/admin/users/Users.js:350
+#: src/components/admin/users/Users.js:355
+#: src/components/admin/users/Users.js:366
+#: src/components/admin/users/Users.js:463
+#: src/components/admin/users/Users.js:465
+#: src/components/frontend/attachments/Attachments.js:316
+#: src/components/frontend/attachments/Attachments.js:321
+#: src/components/frontend/submissions/Submissions.js:247
+#: src/components/frontend/submissions/Submissions.js:285
+#: src/components/frontend/submissions/Submissions.js:574
+#: src/components/shared/attachments/DocumentsStep.js:346
+#: src/components/shared/attachments/DocumentsStep.js:356
+#: src/components/shared/attachments/FileList.js:234
+#: src/components/shared/attachments/FileList.js:295
+#: src/components/shared/customFields/CustomFieldsAdmin.js:130
+#: src/components/shared/customFields/CustomFieldsAdmin.js:314
+#: src/hooks/useAbstractColumns.js:438 src/hooks/useAbstractColumns.js:447
+msgid "Delete"
+msgstr "删除"
+
+#: src/components/admin/abstracts/Abstracts.js:502
+msgid "Delete Abstracts"
+msgstr "删除摘要"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:125
+msgid "Delete Custom Fields"
+msgstr "用户自定义字段"
+
+#: src/components/admin/dashboard/DashboardSetup.js:75
+msgid "Delete Dashboard Page?"
+msgstr "刷新页面"
+
+#: src/components/admin/events/Events.js:988
+msgid "Delete Event"
+msgstr "删除事件"
+
+#: src/components/admin/events/Events.js:151
+msgid "Delete Events"
+msgstr "删除事件"
+
+#: src/components/admin/abstracts/Attachments.js:116
+#: src/components/frontend/attachments/Attachments.js:186
+#: src/components/shared/attachments/FileList.js:74
+msgid "Delete failed. Please try again."
+msgstr "注册失败。请再试一次。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:325
+msgid "Delete Field"
+msgstr "删除字段"
+
+#: src/components/admin/abstracts/Attachments.js:295
+#: src/components/frontend/attachments/Attachments.js:311
+#: src/components/shared/attachments/DocumentsStep.js:338
+msgid "Delete File"
+msgstr "删除文件"
+
+#: src/components/admin/abstracts/Attachments.js:124
+msgid "Delete Files"
+msgstr "删除文件"
+
+#: src/components/admin/abstracts/Abstracts.js:723
+#: src/components/admin/abstracts/Attachments.js:368
+#: src/components/admin/events/Events.js:487
+#: src/components/admin/tracks/Tracks.js:522
+#: src/components/admin/users/Users.js:806
+#: src/components/frontend/submissions/Submissions.js:330
+#: src/components/shared/customFields/CustomFieldsAdmin.js:369
+msgid "Delete Selected"
+msgstr "删除所选"
+
+#: src/components/shared/attachments/FileList.js:411
+msgid "Delete Selected (%d)"
+msgstr "删除所选"
+
+#: src/components/admin/tracks/Tracks.js:101
+msgid "Delete Session"
+msgstr "删除会话"
+
+#: src/components/frontend/submissions/Submissions.js:280
+msgid "Delete Submissions"
+msgstr "删除会话"
+
+#: src/components/admin/tracks/Tracks.js:459
+msgid "Delete Track"
+msgstr "删除轨道  Delete Track"
+
+#: src/components/admin/tracks/Tracks.js:261
+msgid "Delete Tracks"
+msgstr "删除轨道  Delete Tracks"
+
+#: src/components/shared/attachments/FileList.js:368
+msgid "Descending"
+msgstr "降序"
+
+#: src/components/admin/events/CreateEvent.js:74
+#: src/components/admin/events/CreateEvent.js:77
+#: src/components/admin/events/EditEvent.js:112
+#: src/components/admin/events/EditEvent.js:124
+#: src/components/admin/events/Events.js:643
+#: src/components/admin/events/StatusManagement.js:202
+#: src/components/admin/events/StatusManagement.js:460
+#: src/components/admin/tracks/Tracks.js:349
+#: src/components/admin/tracks/Tracks.js:629
+#: src/components/shared/abstracts/AbstractView.js:728
+msgid "Description"
+msgstr "描述"
+
+#: src/components/shared/attachments/AbstractFileManager.js:145
+msgid "Detailed review notes and comments"
+msgstr "详细的评审笔记和评论"
+
+#: src/components/frontend/auth/Register.js:160
+msgid "Details"
+msgstr "详情"
+
+#: src/Admin.js:269
+msgid "Discount Codes"
+msgstr "折扣代码"
+
+#: classes/frontend-dashboard.php:395
+msgid "Dismiss"
+msgstr "Dismiss"
+
+#: src/components/admin/abstracts/Settings.js:188
+msgid "Display author names and affiliations in abstract listings"
+msgstr "提交时显示条款和条件"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:670
+msgid "Display Order"
+msgstr "显示顺序"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:637
+msgid "Display this field as a column in admin tables"
+msgstr "在管理员表中将此字段显示为列"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:648
+msgid "Display this field as a column in frontend tables"
+msgstr "在前端表中将该字段显示为列"
+
+#: blocks/login/index.js:91
+msgid ""
+"Displays a login form for conference participants. After login, users are "
+"redirected to the SimplyConf dashboard."
+msgstr ""
+"Displays a login form for conference participants. After login, users are "
+"redirected to the SimplyConf dashboard."
+
+#: blocks/register/index.js:91
+msgid ""
+"Displays a registration form for new conference participants to create an "
+"account."
+msgstr ""
+"Displays a registration form for new conference participants to create an "
+"account."
+
+#: src/components/admin/abstracts/Attachments.js:406
+#: src/components/shared/attachments/FileList.js:337
+msgid "Documents"
+msgstr "文档"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:798
+msgid "does not equal"
+msgstr "does not equal"
+
+#: src/components/admin/licenses/Licenses.js:312
+msgid "Don't have a license?"
+msgstr "没有许可证？"
+
+#: src/components/frontend/auth/Login.js:247
+msgid "Don't have an account?"
+msgstr "没有帐户？"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:255
+msgid "Done"
+msgstr "Done"
+
+#: src/components/admin/abstracts/Attachments.js:284
+#: src/components/frontend/attachments/Attachments.js:303
+#: src/components/shared/abstracts/AbstractView.js:527
+#: src/components/shared/attachments/FileList.js:226
+#: src/components/shared/attachments/FileList.js:287
+#: src/components/shared/attachments/FilePreview.js:188
+msgid "Download"
+msgstr "下载"
+
+#: src/components/admin/abstracts/Attachments.js:106
+#: src/components/frontend/attachments/Attachments.js:176
+#: src/components/shared/abstracts/AbstractView.js:478
+#: src/components/shared/attachments/FileList.js:55
+#: src/components/shared/attachments/FilePreview.js:77
+msgid "Download failed. Please try again."
+msgstr "注册失败。请再试一次。"
+
+#: src/components/shared/attachments/FilePreview.js:117
+msgid "Download to View"
+msgstr "下载"
+
+#: src/components/admin/abstracts/Attachments.js:252
+#: src/components/shared/attachments/FileList.js:357
+#: src/components/shared/attachments/FileList.js:450
+msgid "Downloads"
+msgstr "下载"
+
+#: src/hooks/useAbstractFormState.js:234
+msgid "Draft"
+msgstr "草稿"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:113
+#: src/components/shared/abstracts/AbstractWizard.js:656
+msgid "Draft Saved (ID: %d) - Only visible to you until submitted"
+msgstr "Draft Saved (ID: %d) - Only visible to you until submitted"
+
+#: src/hooks/useAbstractFormState.js:653 src/hooks/useAbstractFormState.js:670
+msgid "Draft saved successfully!"
+msgstr "草稿成功保存！"
+
+#: src/hooks/useAbstractFormState.js:625
+msgid ""
+"Draft status not found. Please ensure statuses are configured for this "
+"event."
+msgstr "未找到选秀状态。请确保本次活动的状态已配置好。"
+
+#: src/hooks/useAbstractFormState.js:772
+msgid "Draft submitted successfully!"
+msgstr "草稿成功保存！"
+
+#: src/components/admin/dashboard/Dashboard.js:196
+msgid "drafts"
+msgstr "草稿"
+
+#: src/components/shared/attachments/FileUpload.js:175
+msgid "Drop files here"
+msgstr "拖动文件到这里"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:57
+msgid "Dropdown Select"
+msgstr "下拉选择"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:339
+msgid "e.g. ICAI25"
+msgstr "e.g. ICAI25"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:325
+msgid "e.g. International Conference on AI 2025"
+msgstr "e.g. International Conference on AI 2025"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:394
+msgid "e.g. Machine Learning, Natural Language Processing"
+msgstr "e.g. Machine Learning, Natural Language Processing"
+
+#: src/components/admin/users/Settings.js:162
+msgid "e.g., /dashboard or /profile"
+msgstr "e.g., /dashboard or /profile"
+
+#: src/components/admin/events/StatusManagement.js:438
+msgid "e.g., draft, submitted"
+msgstr "例如，提交的草稿"
+
+#: src/components/admin/events/StatusManagement.js:454
+msgid "e.g., Draft, Submitted"
+msgstr "例如，草稿，已提交"
+
+#: src/components/admin/abstracts/Authors.js:457
+#: src/components/admin/dashboard/DashboardSetup.js:181
+#: src/components/admin/events/Events.js:310
+#: src/components/admin/events/Events.js:630
+#: src/components/admin/users/Users.js:341
+#: src/components/frontend/submissions/Submissions.js:562
+#: src/hooks/useAbstractColumns.js:398
+msgid "Edit"
+msgstr "编辑"
+
+#: src/components/admin/abstracts/Authors.js:775
+#: src/components/shared/abstracts/AbstractSinglePage.js:90
+#: src/components/shared/abstracts/AbstractView.js:692
+#: src/components/shared/abstracts/AbstractWizard.js:633
+msgid "Edit %s"
+msgstr "编辑 %s"
+
+#: src/components/shared/abstracts/AuthorManagement.js:283
+msgid "Edit Author"
+msgstr "作者"
+
+#: src/components/admin/events/Events.js:980
+msgid "Edit Event"
+msgstr "编辑活动"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:300
+#: src/components/shared/customFields/CustomFieldsAdmin.js:416
+msgid "Edit Field"
+msgstr "编辑字段"
+
+#: src/components/admin/users/Users.js:310
+msgid "Edit Roles"
+msgstr "编辑角色"
+
+#: src/components/admin/users/Users.js:1160
+msgid "Edit Roles for"
+msgstr "编辑角色"
+
+#: src/components/admin/tracks/Tracks.js:77
+msgid "Edit Session"
+msgstr "编辑环节"
+
+#: src/components/admin/events/StatusManagement.js:392
+msgid "Edit Status"
+msgstr "编辑状态"
+
+#: src/components/admin/users/Users.js:1241
+msgid "Edit the user to add custom fields and assign roles"
+msgstr "Edit the user to add custom fields and assign roles"
+
+#: src/components/admin/tracks/Tracks.js:429
+#: src/components/admin/tracks/Tracks.js:589
+msgid "Edit Track"
+msgstr "编辑音乐"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:130
+#: src/components/shared/abstracts/AbstractWizard.js:673
+msgid "Editing Draft (Not yet submitted)"
+msgstr "Editing Draft (Not yet submitted)"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:135
+#: src/components/shared/abstracts/AbstractWizard.js:678
+msgid "Editing Submitted %s"
+msgstr "提交自"
+
+#: src/components/admin/abstracts/Authors.js:349
+#: src/components/admin/abstracts/Authors.js:624
+#: src/components/admin/abstracts/Authors.js:719
+#: src/components/admin/users/Users.js:195
+#: src/components/shared/authors/AuthorForm.js:103
+#: src/components/shared/customFields/CustomFieldsAdmin.js:53
+msgid "Email"
+msgstr "邮箱："
+
+#: src/components/frontend/auth/Login.js:285
+msgid "Email address"
+msgstr "邮箱地址"
+
+#: src/components/frontend/auth/Register.js:318
+msgid "Email Address"
+msgstr "电子邮件地址"
+
+#: src/components/frontend/auth/Register.js:502
+msgid "Email:"
+msgstr "邮箱："
+
+#: src/Admin.js:240 src/components/admin/dashboard/Dashboard.js:292
+#: src/components/admin/dashboard/Dashboard.js:320 classes/admin-menu.php:76
+#: classes/admin-menu.php:77
+msgid "Emails"
+msgstr "电子邮件"
+
+#: inc/addons.php:200
+msgid "Emails Add-On"
+msgstr "电子邮件插件"
+
+#: src/components/admin/abstracts/Settings.js:41
+msgid "Enable Abstract Description"
+msgstr "启用抽象描述"
+
+#: src/components/admin/abstracts/Settings.js:253
+msgid "Enable Attachments"
+msgstr "启用附件"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:690
+msgid "Enable Conditional Logic"
+msgstr "Enable Conditional Logic"
+
+#: src/components/admin/users/Settings.js:37
+msgid "Enable reCAPTCHA v3"
+msgstr "Enable reCAPTCHA v3"
+
+#: src/components/admin/abstracts/Settings.js:71
+msgid "Enable Rich Text Editor"
+msgstr "启用所见即所得编辑器"
+
+#: src/components/admin/users/Settings.js:119
+msgid "Enable User Registration"
+msgstr "活动登记"
+
+#: src/components/admin/events/CreateEvent.js:105
+#: src/components/admin/events/EditEvent.js:152
+#: src/components/admin/events/Events.js:240
+#: src/components/admin/events/Events.js:697
+#: src/components/admin/onboarding/OnboardingWizard.js:348
+msgid "End Date"
+msgstr "结束日期"
+
+#: src/components/admin/tracks/Tracks.js:60
+msgid "End Time"
+msgstr "结束时间"
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:143
+#: src/components/shared/customFields/CustomFieldRenderer.js:158
+#: src/components/shared/customFields/CustomFieldRenderer.js:175
+#: src/components/shared/customFields/CustomFieldRenderer.js:196
+#: src/components/shared/customFields/CustomFieldRenderer.js:333
+msgid "Enter %s"
+msgstr "输入 %s"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:230
+#: src/components/shared/abstracts/AbstractWizard.js:274
+msgid "Enter %s description..."
+msgstr "%s 描述"
+
+#: src/components/admin/events/CreateEvent.js:186
+#: src/components/admin/events/EditEvent.js:234
+msgid "Enter city"
+msgstr "输入城市"
+
+#: src/components/admin/events/CreateEvent.js:211
+#: src/components/admin/events/EditEvent.js:259
+msgid "Enter country"
+msgstr "输入国家"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:450
+msgid "Enter display label for this field"
+msgstr "输入该字段的显示标签"
+
+#: src/components/shared/authors/AuthorForm.js:117
+msgid "Enter email address"
+msgstr "输入电子邮箱地址"
+
+#: src/components/shared/authors/AuthorForm.js:76
+msgid "Enter first name"
+msgstr "输入名称"
+
+#: src/components/shared/authors/AuthorForm.js:94
+msgid "Enter last name"
+msgstr "输入姓氏"
+
+#: src/components/admin/events/CreateEvent.js:206
+#: src/components/admin/events/EditEvent.js:254
+msgid "Enter postal code"
+msgstr "输入邮政编码"
+
+#: src/components/admin/events/CreateEvent.js:197
+#: src/components/admin/events/EditEvent.js:245
+msgid "Enter state or province"
+msgstr "输入州或省"
+
+#: src/components/admin/events/CreateEvent.js:181
+#: src/components/admin/events/EditEvent.js:228
+msgid "Enter street address"
+msgstr "输入街道地址"
+
+#: src/components/admin/tracks/Tracks.js:633
+msgid "Enter track description (optional)"
+msgstr "%s 描述"
+
+#: src/components/admin/tracks/Tracks.js:621
+msgid "Enter track name"
+msgstr "输入姓氏"
+
+#: src/components/frontend/auth/Login.js:148
+msgid "Enter your credentials to access your account"
+msgstr "输入您的凭证即可访问您的账户"
+
+#: src/components/frontend/auth/Register.js:310
+msgid "Enter your email address and create a password for your account."
+msgstr "输入您的凭证即可访问您的账户"
+
+#: src/components/frontend/auth/Login.js:153
+msgid "Enter your email to receive reset instructions"
+msgstr "输入您的电子邮件以接收重置指示"
+
+#: src/components/admin/licenses/Licenses.js:293
+msgid "Enter your license key from simplyconf.com"
+msgstr "Enter your license key from simplyconf.com"
+
+#: src/components/frontend/auth/Login.js:157
+msgid "Enter your new password"
+msgstr "输入新密码"
+
+#: src/components/admin/abstracts/Attachments.js:225
+msgid "Entity"
+msgstr "实体"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:795
+msgid "equals"
+msgstr "equals"
+
+#: src/components/frontend/submissions/Submissions.js:264
+msgid "Error"
+msgstr "错误"
+
+#: src/components/admin/appearance/Appearance.js:486
+msgid "Error Color"
+msgstr "错误颜色"
+
+#: src/components/shared/ErrorBoundary.js:140
+msgid "Error Details (for debugging)"
+msgstr "错误详情（用于调试）"
+
+#: src/components/shared/ErrorBoundary.js:76
+msgid "Error details copied to clipboard. Please send this to support."
+msgstr "错误详情已复制到剪贴板。请把这个发给支持。"
+
+#: src/components/shared/ErrorBoundary.js:149
+msgid "Error:"
+msgstr "错误："
+
+#: src/components/shared/users/UserWizard.js:86
+msgid "Error: User ID is required"
+msgstr "需要下令"
+
+#: src/components/admin/abstracts/Attachments.js:240
+#: src/components/admin/onboarding/OnboardingWizard.js:251
+#: src/components/shared/abstracts/AbstractSinglePage.js:362
+#: src/components/shared/abstracts/AbstractView.js:1002
+#: src/components/shared/abstracts/AbstractWizard.js:99
+#: src/components/shared/abstracts/AbstractWizard.js:107
+#: inc/class-dashboard-setup.php:58 blocks/dashboard/index.js:61
+#: blocks/login/index.js:58 blocks/register/index.js:58
+msgid "Event"
+msgstr "事件"
+
+#: src/components/admin/events/Events.js:415
+msgid "Event {status} successfully"
+msgstr "活动成功{status}"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:359
+msgid "Event & Track"
+msgstr "编辑音乐"
+
+#: src/components/admin/events/TerminologySettings.js:85
+msgid "Event categories"
+msgstr "活动分类"
+
+#: src/components/admin/events/CreateEvent.js:84
+#: src/components/admin/events/EditEvent.js:131
+msgid "Event Dates"
+msgstr "活动时间"
+
+#: src/components/admin/events/Events.js:586
+msgid "Event Details"
+msgstr "活动详情"
+
+#: blocks/dashboard/index.js:119 blocks/login/index.js:115
+#: blocks/register/index.js:115
+msgid "Event ID: "
+msgstr "活动时间"
+
+#: src/components/shared/abstracts/AbstractView.js:974
+msgid "Event Information"
+msgstr "活动信息"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:333
+msgid "Event Initials"
+msgstr "活动详情"
+
+#: src/components/admin/events/Events.js:215
+#: src/components/admin/onboarding/OnboardingWizard.js:316
+msgid "Event Name"
+msgstr "活动名称"
+
+#: src/Frontend.js:455
+msgid "Event Not Found"
+msgstr "未找到"
+
+#: src/components/admin/events/TerminologySettings.js:103
+msgid "Event participants"
+msgstr "活动参与者"
+
+#: src/components/admin/events/TerminologySettings.js:97
+msgid "Event registrations"
+msgstr "活动登记"
+
+#: src/components/admin/events/Events.js:660
+msgid "Event Schedule"
+msgstr "活動安排"
+
+#: src/components/admin/users/Users.js:1101
+msgid "Event-Specific Custom Fields"
+msgstr "用户自定义字段"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:381
+msgid "Event: "
+msgstr "事件"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:98
+#: src/components/shared/abstracts/AbstractWizard.js:641
+msgid "Event: %s"
+msgstr "活动"
+
+#: src/components/admin/events/Events.js:557
+msgid "events"
+msgstr "活动"
+
+#: src/Admin.js:158 src/components/admin/events/Events.js:466
+#: src/components/admin/events/Wrapper.js:38
+#: src/components/admin/events/Wrapper.js:62 classes/admin-menu.php:40
+#: classes/admin-menu.php:41
+msgid "Events"
+msgstr "活动"
+
+#: src/components/admin/events/Events.js:195
+msgid "events archived successfully"
+msgstr "事件已成功删除"
+
+#: src/components/admin/events/Events.js:165
+msgid "events deleted successfully"
+msgstr "事件已成功删除"
+
+#: src/components/admin/abstracts/Settings.js:378
+msgid "Excel (XLS/XLSX)"
+msgstr "Excel (XLS/XLSX)"
+
+#: src/components/admin/licenses/Licenses.js:145
+msgid "Expired"
+msgstr "过期"
+
+#: src/components/admin/licenses/Licenses.js:204
+msgid "Expires"
+msgstr "到期"
+
+#: src/components/admin/appearance/Appearance.js:331
+msgid "Export"
+msgstr "导出"
+
+#: src/components/shared/abstracts/AbstractView.js:680
+#: src/components/shared/abstracts/AbstractView.js:704
+#: src/hooks/useAbstractColumns.js:424
+msgid "Export PDF"
+msgstr "导出PDF"
+
+#: src/Admin.js:299 classes/admin-menu.php:103 classes/admin-menu.php:104
+msgid "Exports"
+msgstr "导出"
+
+#: inc/addons.php:203
+msgid "Exports Add-On"
+msgstr "导出插件"
+
+#: src/components/admin/abstracts/Abstracts.js:349
+msgid "Exports Add-on Required"
+msgstr "需要导出插件"
+
+#: src/components/admin/abstracts/Authors.js:399
+#: src/components/admin/abstracts/Authors.js:405
+msgid "External"
+msgstr "外部"
+
+#: src/components/admin/abstracts/Authors.js:533
+msgid "External Only"
+msgstr "仅限外部"
+
+#: src/components/admin/dashboard/Dashboard.js:313
+msgid "failed"
+msgstr "失败"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:173
+msgid "Failed to add track."
+msgstr "未能保存主题设置"
+
+#: src/components/admin/users/Users.js:519
+msgid "Failed to assign roles to some users. Please try again."
+msgstr "没能删除帖子。请再试一次。"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:149
+#: src/components/admin/tracks/Tracks.js:226
+msgid "Failed to assign track chair"
+msgstr "未能分配轨道主席"
+
+#: src/components/admin/events/Events.js:125
+#: src/components/admin/events/Events.js:129
+#: src/components/admin/events/Events.js:140
+msgid "Failed to copy shortcode"
+msgstr "未能复制短代码"
+
+#: src/components/admin/dashboard/DashboardSetup.js:67
+#: src/components/admin/onboarding/OnboardingWizard.js:207
+msgid "Failed to create dashboard page."
+msgstr "创建用户失败"
+
+#: src/components/admin/events/StatusManagement.js:106
+msgid "Failed to create status"
+msgstr "未能更新状态"
+
+#: src/components/admin/abstracts/Abstracts.js:397
+msgid "Failed to delete abstract"
+msgstr "未能更新状态"
+
+#: src/components/admin/dashboard/DashboardSetup.js:105
+msgid "Failed to delete dashboard page."
+msgstr "未能更新状态"
+
+#: src/components/admin/events/Events.js:437
+msgid "Failed to delete event"
+msgstr "未能更新状态"
+
+#: src/components/admin/events/StatusManagement.js:119
+msgid "Failed to delete status"
+msgstr "未能更新状态"
+
+#: src/components/frontend/submissions/Submissions.js:265
+msgid "Failed to delete the submission. Please try again."
+msgstr "没能删除帖子。请再试一次。"
+
+#: src/components/admin/tracks/Tracks.js:199
+msgid "Failed to delete track"
+msgstr "未能更新状态"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:181
+msgid "Failed to delete track."
+msgstr "未能更新状态"
+
+#: src/components/admin/users/Users.js:442
+msgid "Failed to delete user"
+msgstr "未能更新状态"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:158
+#: src/components/shared/customFields/CustomFieldFileValue.js:62
+msgid "Failed to download file"
+msgstr "载入预览失败"
+
+#: src/components/admin/abstracts/Abstracts.js:377
+#: src/components/shared/abstracts/AbstractView.js:146
+msgid "Failed to export PDF"
+msgstr "未能导出PDF"
+
+#: src/components/admin/dashboard/DashboardSetup.js:38
+msgid "Failed to fetch dashboard status."
+msgstr "未能更新状态"
+
+#: routes/features.php:204
+msgid "Failed to grant feature"
+msgstr "未能更新状态"
+
+#: src/components/admin/events/StatusManagement.js:138
+msgid "Failed to initialize default statuses"
+msgstr "未能更新事件状态"
+
+#: src/components/admin/abstracts/Authors.js:223
+msgid "Failed to link author. No WordPress user found with this email."
+msgstr "未能链接作者。没有发现任何 WordPress 用户。"
+
+#: src/components/admin/abstracts/Authors.js:237
+#: src/components/admin/abstracts/Authors.js:247
+msgid "Failed to load author details"
+msgstr "未能保存主题设置"
+
+#: src/components/admin/abstracts/Authors.js:187
+msgid "Failed to load authors"
+msgstr "未能保存主题设置"
+
+#: src/components/admin/licenses/Licenses.js:53
+msgid "Failed to load license information"
+msgstr "未能加载驾照信息"
+
+#: src/components/shared/attachments/FilePreview.js:52
+msgid "Failed to load preview"
+msgstr "载入预览失败"
+
+#: src/components/shared/abstracts/AbstractView.js:243
+msgid "Failed to load submission details"
+msgstr "未能保存主题设置"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:140
+msgid "Failed to remove file"
+msgstr "创建用户失败"
+
+#: routes/features.php:228
+msgid "Failed to revoke feature"
+msgstr "未能更新状态"
+
+#: src/components/shared/SaveStatusIndicator.js:34
+msgid "Failed to save - Click to retry"
+msgstr "保存失败 - 点击重试"
+
+#: src/hooks/useAbstractFormState.js:673
+msgid "Failed to save draft. Please try again."
+msgstr "没能删除帖子。请再试一次。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:129
+msgid "Failed to save onboarding status."
+msgstr "未能保存术语设置"
+
+#: src/components/admin/abstracts/Settings.js:529
+#: src/components/admin/users/Settings.js:478
+msgid "Failed to save settings. Please try again."
+msgstr "没能删除帖子。请再试一次。"
+
+#: src/components/admin/events/TerminologySettings.js:166
+msgid "Failed to save terminology settings"
+msgstr "未能保存术语设置"
+
+#: src/components/admin/appearance/Appearance.js:109
+msgid "Failed to save theme settings"
+msgstr "未能保存主题设置"
+
+#: src/components/admin/tracks/Tracks.js:215
+msgid "Failed to save track"
+msgstr "未能更新轨道椅"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:176
+#: src/components/admin/tracks/Tracks.js:237
+msgid "Failed to unassign track chair"
+msgstr "未能取消轨道座椅"
+
+#: src/components/admin/abstracts/Authors.js:826
+msgid "Failed to update author"
+msgstr "未能更新用户角色"
+
+#: src/components/admin/events/Events.js:424
+msgid "Failed to update event status"
+msgstr "未能更新事件状态"
+
+#: src/components/frontend/auth/Profile.js:86
+msgid "Failed to update profile"
+msgstr "未能更新个人资料"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:235
+msgid "Failed to update setting."
+msgstr "无法更新设置"
+
+#: src/components/admin/abstracts/Abstracts.js:429
+#: src/components/admin/events/StatusManagement.js:105
+msgid "Failed to update status"
+msgstr "未能更新状态"
+
+#: src/components/admin/abstracts/Abstracts.js:580
+msgid "Failed to update status for some abstracts"
+msgstr "部分摘要未能更新状态"
+
+#: src/components/admin/users/EditUser.js:87
+#: src/components/shared/users/UserWizard.js:115
+msgid "Failed to update user"
+msgstr "未能更新用户角色"
+
+#: src/components/admin/users/Users.js:602
+msgid "Failed to update user roles"
+msgstr "未能更新用户角色"
+
+#: src/components/shared/attachments/DocumentsStep.js:194
+msgid "Failed to upload %s"
+msgstr "上传失败 %s"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:117
+msgid "Failed to upload file"
+msgstr "上传失败 %s"
+
+#: routes/features.php:203
+msgid "Feature granted successfully"
+msgstr "状态已成功更新"
+
+#: src/components/shared/UpgradePrompt.js:34
+msgid "Feature Not Available"
+msgstr "不可用"
+
+#: routes/features.php:227
+msgid "Feature revoked successfully"
+msgstr "状态已成功更新"
+
+#: src/components/shared/abstracts/AbstractView.js:265
+msgid "Field %s"
+msgstr "字段%s"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:216
+msgid "Field created"
+msgstr "创建用户失败"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:118
+msgid "Field deleted"
+msgstr "删除所选"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:748
+msgid "Field is required"
+msgstr "需要标签"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:440
+msgid "Field Label"
+msgstr "字段标签"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:458
+msgid "Field Name"
+msgstr "字段名称"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:477
+msgid "Field Type"
+msgstr "字段类型"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:209
+msgid "Field updated"
+msgstr "字段已更新"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:472
+msgid "field_name"
+msgstr "字段名称"
+
+#: src/components/admin/abstracts/Attachments.js:200
+#: src/components/frontend/attachments/Attachments.js:246
+#: src/components/shared/abstracts/AbstractView.js:495
+#: src/components/shared/customFields/CustomFieldFileValue.js:80
+msgid "File"
+msgstr "文件"
+
+#: src/components/shared/attachments/DocumentsStep.js:149
+msgid "File \"%s\" exceeds the maximum size of %d MB"
+msgstr "File \"%s\" exceeds the maximum size of %d MB"
+
+#: src/components/admin/abstracts/Attachments.js:113
+#: src/components/frontend/attachments/Attachments.js:183
+msgid "File deleted successfully"
+msgstr "文件删除成功"
+
+#: src/components/admin/abstracts/Attachments.js:350
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:138
+msgid "File removed"
+msgstr "是的，删除"
+
+#: src/components/shared/attachments/FileUpload.js:33
+msgid "File size exceeds"
+msgstr "文件大小超过了"
+
+#: src/components/shared/attachments/AbstractFileManager.js:292
+msgid "File Summary"
+msgstr "档案摘要"
+
+#: src/components/admin/abstracts/Attachments.js:398
+msgid "File Type"
+msgstr "文件类型"
+
+#: src/components/shared/attachments/FileUpload.js:44
+msgid "File type not allowed"
+msgstr "文件类型不允许"
+
+#: src/components/shared/attachments/DocumentsStep.js:138
+msgid "File type not allowed. Allowed types: %s"
+msgstr "文件类型不允许"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:65
+msgid "File Upload"
+msgstr "上传失败 %s"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:115
+msgid "File uploaded successfully"
+msgstr "图片已成功上传"
+
+#: src/components/admin/abstracts/Attachments.js:441
+#: src/components/frontend/attachments/Attachments.js:403
+#: src/components/shared/attachments/AbstractFileManager.js:317
+#: src/components/shared/attachments/DocumentsStep.js:211
+msgid "files"
+msgstr "文件"
+
+#: src/components/admin/users/Users.js:1232
+msgid "Fill in the user information and save"
+msgstr "Fill in the user information and save"
+
+#: src/components/admin/users/Users.js:839
+msgid "Filter by role"
+msgstr "按角色过滤"
+
+#: src/components/admin/abstracts/Abstracts.js:763
+#: src/components/frontend/submissions/Submissions.js:791
+msgid "Filter by status"
+msgstr "按状态检索"
+
+#: src/components/admin/abstracts/Abstracts.js:778
+#: src/components/frontend/submissions/Submissions.js:808
+msgid "Filter by track"
+msgstr "按轨道筛选"
+
+#: src/components/admin/events/StatusManagement.js:237
+msgid "Final"
+msgstr "最终"
+
+#: src/components/admin/events/StatusManagement.js:526
+msgid "Final Status"
+msgstr "所有状态"
+
+#: src/components/admin/abstracts/Authors.js:713
+#: src/components/shared/authors/AuthorForm.js:66
+msgid "First Name"
+msgstr "名字"
+
+#: src/components/admin/events/StatusManagement.js:225
+msgid "Flags"
+msgstr "标志"
+
+#: src/components/admin/appearance/Appearance.js:506
+msgid "Font Family"
+msgstr "字体"
+
+#: src/components/admin/appearance/Appearance.js:504
+msgid "Font Settings"
+msgstr "字体设置"
+
+#: src/components/admin/appearance/Appearance.js:541
+msgid "Font size must be between 12 and 18 pixels"
+msgstr "Font size must be between 12 and 18 pixels"
+
+#: src/components/admin/appearance/Appearance.js:561
+msgid "Font Weight"
+msgstr "字体设置"
+
+#: blocks/dashboard/index.js:126
+msgid ""
+"For best results, use a full-width page template. SimplyConf will auto-"
+"adjust if unavailable."
+msgstr ""
+"For best results, use a full-width page template. SimplyConf will auto-"
+"adjust if unavailable."
+
+#: src/components/admin/users/Users.js:733
+msgid "for full functionality."
+msgstr "为了实现完整的功能。"
+
+#: src/components/frontend/auth/Login.js:256
+msgid "Forgot your password?"
+msgstr "忘记密码？"
+
+#: src/components/admin/users/Settings.js:68
+msgid "From Google reCAPTCHA admin console"
+msgstr "From Google reCAPTCHA admin console"
+
+#: blocks/dashboard/index.js:95
+msgid ""
+"Frontend dashboard for conference participants. This block will display the "
+"full SimplyConf dashboard on the frontend."
+msgstr ""
+"Frontend dashboard for conference participants. This block will display the "
+"full SimplyConf dashboard on the frontend."
+
+#: src/components/shared/abstracts/AbstractView.js:140
+msgid "Generating PDF..."
+msgstr "正在生成PDF......"
+
+#: src/components/admin/appearance/Appearance.js:525
+msgid "Georgia"
+msgstr "格鲁吉亚"
+
+#: inc/addons.php:217
+msgid "Get %s →"
+msgstr "快%s →"
+
+#: src/components/admin/abstracts/Abstracts.js:363
+msgid "Get Exports Add-on"
+msgstr "获取导出插件"
+
+#: src/components/admin/users/Users.js:740
+msgid "Get it here"
+msgstr "从这里开始"
+
+#: src/components/admin/abstracts/Abstracts.js:288
+#: src/components/admin/abstracts/Abstracts.js:323
+msgid "Get Reviews Add-on"
+msgstr "获取评价附加组件"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:634
+msgid "Get Started"
+msgstr "从这里开始"
+
+#: src/Frontend.js:490
+msgid "Go to Admin"
+msgstr "全部提交"
+
+#: src/components/admin/dashboard/Dashboard.js:701
+msgid "Go to Licenses"
+msgstr "无许可证"
+
+#: src/components/frontend/attachments/Attachments.js:391
+msgid "Go to Submissions"
+msgstr "全部提交"
+
+#: src/components/admin/users/Users.js:1204
+msgid "Go to WordPress Users"
+msgstr "自动将作者链接到 WordPress 用户"
+
+#: src/components/shared/attachments/FileList.js:395
+msgid "Grid View"
+msgstr "网格视图"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:599
+msgid "Help Text"
+msgstr "Help Text"
+
+#: src/components/admin/appearance/Appearance.js:519
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: blocks/dashboard/index.js:73 blocks/login/index.js:70
+#: blocks/register/index.js:70
+msgid "Hide Page Title"
+msgstr "Hide Page Title"
+
+#: blocks/dashboard/index.js:78
+msgid "Hide the page title when displaying the dashboard."
+msgstr "Hide the page title when displaying the dashboard."
+
+#: blocks/login/index.js:75
+msgid "Hide the page title when displaying the login form."
+msgstr "Hide the page title when displaying the login form."
+
+#: blocks/register/index.js:75
+msgid "Hide the page title when displaying the registration form."
+msgstr "请在用户注册表格中包含此字段"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:721
+msgid "Hide this field when conditions are met"
+msgstr "Hide this field when conditions are met"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:281
+msgid "How it works:"
+msgstr "How it works:"
+
+#: src/components/admin/events/StatusManagement.js:474
+msgid "Icon"
+msgstr "图标"
+
+#: src/components/admin/abstracts/Abstracts.js:930
+#: src/components/admin/abstracts/Attachments.js:193
+#: src/components/admin/abstracts/Authors.js:319
+#: src/components/admin/events/Events.js:210
+#: src/components/admin/tracks/Tracks.js:328
+#: src/components/admin/users/Users.js:160
+#: src/components/frontend/submissions/Submissions.js:591
+#: src/hooks/useAbstractColumns.js:54
+msgid "ID"
+msgstr "ID"
+
+#: src/components/shared/abstracts/AbstractView.js:654
+msgid "ID:"
+msgstr "ID"
+
+#: src/components/admin/abstracts/Attachments.js:232
+#: src/components/shared/abstracts/AbstractSinglePage.js:141
+#: src/components/shared/abstracts/AbstractWizard.js:684
+msgid "ID: %s"
+msgstr "ID: %s"
+
+#: src/components/admin/abstracts/Attachments.js:408
+#: src/components/shared/attachments/FileList.js:339
+msgid "Images"
+msgstr "图片"
+
+#: src/components/admin/appearance/Appearance.js:324
+msgid "Import"
+msgstr "导出"
+
+#: src/components/admin/dashboard/Dashboard.js:657
+msgid "Inactive"
+msgstr "操作"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:660
+msgid "Include this field in user registration forms"
+msgstr "请在用户注册表格中包含此字段"
+
+#: blocks/login/index.js:120
+msgid "Includes login, forgot password, and password reset forms."
+msgstr "Includes login, forgot password, and password reset forms."
+
+#: src/components/admin/events/StatusManagement.js:231
+msgid "Initial"
+msgstr "初始"
+
+#: src/components/admin/events/StatusManagement.js:502
+msgid "Initial Status"
+msgstr "初始状态"
+
+#: src/components/admin/events/StatusManagement.js:325
+msgid "Initialize Default Statuses"
+msgstr "初始化默认状态"
+
+#: src/components/admin/events/CreateEvent.js:60
+#: src/components/admin/events/CreateEvent.js:68
+#: src/components/admin/events/EditEvent.js:93
+#: src/components/admin/events/EditEvent.js:104
+msgid "Initials"
+msgstr "首字母"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:600
+msgid "Instructions displayed below the upload field"
+msgstr "输入该字段的显示标签"
+
+#: src/components/admin/licenses/Licenses.js:155
+msgid "Invalid"
+msgstr "无效"
+
+#: routes/features.php:190
+msgid "Invalid feature slug"
+msgstr ""
+
+#: src/components/admin/appearance/Appearance.js:257
+msgid "Invalid JSON file. Please check the file format."
+msgstr "Invalid JSON file. Please check the file format."
+
+#: src/components/admin/licenses/Licenses.js:285
+msgid ""
+"Invalid license key format. Please enter a valid 32-character license key."
+msgstr ""
+"Invalid license key format. Please enter a valid 32-character license key."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:594
+msgid "Invite reviewers and assign them to tracks"
+msgstr "部分轨道未能分配座椅"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:807
+msgid "is empty"
+msgstr "is empty"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:810
+msgid "is not empty"
+msgstr "is not empty"
+
+#: src/components/shared/UpgradePrompt.js:35
+msgid "is not included in your current plan."
+msgstr "is not included in your current plan."
+
+#: src/components/frontend/submissions/Submissions.js:892
+msgid "item(s) selected"
+msgstr "（%d选中）"
+
+#: src/components/admin/abstracts/Settings.js:383
+msgid "JPEG Images"
+msgstr "图片"
+
+#: src/components/admin/events/StatusManagement.js:196
+#: src/components/admin/events/StatusManagement.js:445
+#: src/components/shared/customFields/CustomFieldsAdmin.js:230
+msgid "Label"
+msgstr "标签"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:444
+msgid "Label is required"
+msgstr "需要标签"
+
+#: src/components/admin/licenses/Licenses.js:217
+msgid "Last Checked"
+msgstr "上次检查"
+
+#: src/components/admin/events/Events.js:961
+#: src/components/shared/abstracts/AbstractView.js:1336
+msgid "Last Modified"
+msgstr "最后修改"
+
+#: src/components/admin/abstracts/Authors.js:716
+#: src/components/shared/authors/AuthorForm.js:84
+msgid "Last Name"
+msgstr "活动名称"
+
+#: src/components/admin/appearance/Appearance.js:741
+msgid "Layout Preview"
+msgstr "版式预览"
+
+#: src/components/admin/appearance/Appearance.js:680
+msgid "Layout Settings"
+msgstr "布局设置"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:438
+msgid "Let new users register accounts from the frontend"
+msgstr "Let new users register accounts from the frontend"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:308
+msgid "Let's configure your first event. You can always change these later."
+msgstr "Let's configure your first event. You can always change these later."
+
+#: src/components/admin/appearance/Appearance.js:600
+msgid "Letter Spacing (px)"
+msgstr "Letter Spacing (px)"
+
+#: src/components/admin/dashboard/Dashboard.js:137
+msgid "License activated successfully!"
+msgstr "许可证成功激活"
+
+#: src/components/admin/licenses/Licenses.js:242
+msgid "License Expired"
+msgstr "许可证密钥"
+
+#: src/components/admin/licenses/Licenses.js:392
+msgid "License Information"
+msgstr "用户信息"
+
+#: src/components/admin/licenses/Licenses.js:200
+#: src/components/admin/licenses/Licenses.js:277
+msgid "License Key"
+msgstr "许可证密钥"
+
+#: src/components/admin/dashboard/Dashboard.js:590
+#: src/components/admin/licenses/Licenses.js:345
+#: src/components/admin/licenses/Licenses.js:364
+msgid "License Management"
+msgstr "许可证管理"
+
+#: src/components/admin/licenses/Licenses.js:349
+msgid ""
+"License management is not available in SaaS mode. All premium features are "
+"automatically included with your subscription."
+msgstr ""
+"License management is not available in SaaS mode. All premium features are "
+"automatically included with your subscription."
+
+#: src/components/shared/UpgradePrompt.js:43
+msgid "License Required"
+msgstr "许可证密钥"
+
+#: src/components/admin/licenses/Licenses.js:115
+msgid "License validated successfully"
+msgstr "许可证验证成功"
+
+#: src/components/admin/licenses/Licenses.js:118
+msgid "License validation failed"
+msgstr "许可证验证失败"
+
+#: src/Admin.js:145 src/components/admin/settings/Wrapper.js:33
+#: src/components/admin/settings/Wrapper.js:75
+msgid "Licenses"
+msgstr "许可证"
+
+#: src/components/admin/licenses/Licenses.js:396
+msgid "Licenses are validated automatically every 24 hours"
+msgstr "许可证每 24 小时自动验证一次"
+
+#: src/components/admin/appearance/Appearance.js:712
+msgid "Light"
+msgstr "浅色"
+
+#: src/components/shared/attachments/FileUpload.js:35
+msgid "limit"
+msgstr "限制"
+
+#: src/components/admin/appearance/Appearance.js:582
+msgid "Line Height"
+msgstr "浅色"
+
+#: src/components/admin/abstracts/Authors.js:467
+msgid "Link User"
+msgstr "用户"
+
+#: src/components/admin/abstracts/Authors.js:393
+msgid "Linked"
+msgstr "关联"
+
+#: src/components/admin/abstracts/Authors.js:530
+msgid "Linked to WordPress"
+msgstr "链接到WordPress。"
+
+#: src/components/admin/abstracts/Authors.js:404
+msgid "Linked to WP"
+msgstr "与WP相关"
+
+#: src/components/admin/abstracts/Authors.js:722
+msgid "Linked User"
+msgstr "链接用户"
+
+#: src/components/shared/attachments/FileList.js:386
+msgid "List View"
+msgstr "列表视图"
+
+#: src/components/shared/attachments/FilePreview.js:106
+msgid "Load Preview"
+msgstr "加载预览"
+
+#: src/components/frontend/auth/Register.js:407
+msgid "Loading additional fields..."
+msgstr "加载额外字段......"
+
+#: src/index.js:380
+msgid "Loading Admin Panel..."
+msgstr "加载额外字段......"
+
+#: src/components/shared/abstracts/AbstractView.js:927
+msgid "Loading attachments..."
+msgstr "正在加载主题设置......"
+
+#: src/components/admin/users/EditUser.js:94
+#: src/components/frontend/auth/Profile.js:109
+#: src/components/shared/abstracts/AbstractSinglePage.js:320
+#: src/components/shared/abstracts/AbstractWizard.js:398
+#: src/components/shared/users/UserWizard.js:122
+msgid "Loading custom fields..."
+msgstr "加载自定义字段......"
+
+#: src/components/admin/dashboard/Dashboard.js:172
+msgid "Loading dashboard statistics..."
+msgstr "加载仪表盘统计数据......"
+
+#: src/index.js:619
+msgid "Loading Dashboard..."
+msgstr "加载仪表盘统计数据......"
+
+#: src/components/shared/attachments/FilePreview.js:86
+msgid "Loading preview..."
+msgstr "加载预览..."
+
+#: src/components/frontend/auth/Profile.js:97
+msgid "Loading profile..."
+msgstr "加载配置文件......"
+
+#: src/components/admin/dashboard/Dashboard.js:463
+msgid "Loading recent activity..."
+msgstr "最近没有活动"
+
+#: src/components/shared/abstracts/AbstractView.js:586
+msgid "Loading submission details..."
+msgstr "加载自定义字段......"
+
+#: src/components/frontend/submissions/Submissions.js:716
+msgid "Loading Submissions..."
+msgstr "正在加载主题设置......"
+
+#: src/components/admin/appearance/Appearance.js:270
+msgid "Loading theme settings..."
+msgstr "正在加载主题设置......"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:297
+msgid "Loading track chairs..."
+msgstr "正在加载主题设置......"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:403
+#: src/components/shared/abstracts/AbstractWizard.js:140
+msgid "Loading tracks..."
+msgstr "正在加载主题设置......"
+
+#: src/components/admin/users/EditUser.js:100
+#: src/components/admin/users/ViewUser.js:86
+msgid "Loading user details..."
+msgstr "加载自定义字段......"
+
+#: src/Frontend.js:265 src/Frontend.js:275
+#: src/components/admin/abstracts/Abstracts.js:822
+#: src/components/admin/users/Users.js:898
+#: src/components/frontend/dashboard/Dashboard.js:33
+#: src/components/frontend/submissions/Submissions.js:490
+#: src/components/shared/abstracts/AbstractView.js:399
+#: src/components/shared/abstracts/AbstractView.js:1396
+#: src/hooks/useAbstractColumns.js:287 blocks/dashboard/index.js:117
+#: blocks/login/index.js:113 blocks/register/index.js:113
+msgid "Loading..."
+msgstr "加载中..."
+
+#: src/components/admin/events/Events.js:840
+#: src/components/admin/tracks/Tracks.js:65
+msgid "Location"
+msgstr "操作"
+
+#: src/components/admin/users/Settings.js:148
+msgid "Login Redirect URL"
+msgstr "Login Redirect URL"
+
+#: blocks/login/index.js:49
+msgid "Login Settings"
+msgstr "字体设置"
+
+#: src/components/frontend/auth/Login.js:70
+msgid "Login successful!"
+msgstr "登陆成功！"
+
+#: src/components/admin/appearance/Appearance.js:420
+#: src/components/admin/appearance/Appearance.js:427
+msgid "Logo Preview"
+msgstr "Logo预览"
+
+#: src/components/admin/appearance/Appearance.js:239
+msgid "Logo uploaded successfully"
+msgstr "图片已成功上传"
+
+#: src/components/admin/appearance/Appearance.js:388
+msgid "Logo URL"
+msgstr "Logo网址"
+
+#: src/Frontend.js:336
+msgid "Logout"
+msgstr "注销"
+
+#: src/Admin.js:246
+msgid "Mail Log"
+msgstr "邮件日志"
+
+#: src/components/shared/attachments/AbstractFileManager.js:85
+msgid "Main abstract document (PDF format)"
+msgstr "主摘要文档（PDF格式）"
+
+#: src/components/admin/events/TerminologySettings.js:61
+msgid "Main submission entity"
+msgstr "主要提交实体"
+
+#: src/components/admin/tracks/Tracks.js:411
+msgid "Manage ({chairCount})"
+msgstr "管理（{reviewerCount}）"
+
+#: src/hooks/useAbstractColumns.js:220
+msgid "Manage ({reviewerCount})"
+msgstr "管理（{reviewerCount}）"
+
+#: src/components/admin/tracks/Tracks.js:435
+msgid "Manage Chairs"
+msgstr "管理主席"
+
+#: src/components/admin/abstracts/Abstracts.js:882
+#: src/components/admin/abstracts/Authors.js:570
+#: src/components/admin/users/Users.js:988
+#: src/components/frontend/submissions/Submissions.js:784
+#: src/components/frontend/submissions/Submissions.js:920
+msgid "Manage Columns"
+msgstr "管理栏"
+
+#: src/components/frontend/attachments/Attachments.js:353
+msgid "Manage files and attachments for your %s submissions"
+msgstr "管理您%s提交的文件和附件"
+
+#: src/components/shared/UpgradePrompt.js:49
+msgid "Manage Licenses"
+msgstr "审核人"
+
+#: src/components/admin/dashboard/Dashboard.js:670
+msgid "Manage Licenses →"
+msgstr "审核人"
+
+#: src/components/admin/events/StatusManagement.js:303
+msgid "Manage statuses for"
+msgstr "更改状态"
+
+#: src/components/admin/licenses/Licenses.js:366
+msgid ""
+"Manage your SimplyConf add-on licenses. Each add-on requires a separate "
+"license key for updates and support."
+msgstr "管理您的 SimplyConf 附加许可证。每个附加组件都需要单独的许可证密钥才能进行更新和支持。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:870
+msgid "Match ALL rules (AND)"
+msgstr "Match ALL rules (AND)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:873
+msgid "Match ANY rule (OR)"
+msgstr "Match ANY rule (OR)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:865
+msgid "Match Logic"
+msgstr "邮件日志"
+
+#: src/components/shared/attachments/FileUpload.js:179
+msgid "Max file size:"
+msgstr "最大文件大小："
+
+#: src/components/admin/abstracts/Settings.js:336
+msgid "Maximum File Size (MB)"
+msgstr "最大文件大小 （MB）"
+
+#: src/components/shared/attachments/DocumentsStep.js:225
+msgid "Maximum file size:"
+msgstr "最大文件大小："
+
+#: src/components/admin/abstracts/Settings.js:129
+msgid "Maximum number of abstracts a single user can submit"
+msgstr "单个用户最多可提交的摘要数量"
+
+#: src/components/admin/users/Settings.js:212
+msgid "Maximum number of characters allowed for passwords"
+msgstr "抽象描述中允许的最大字符数"
+
+#: src/components/admin/abstracts/Settings.js:103
+msgid "Maximum number of characters allowed in abstract description"
+msgstr "抽象描述中允许的最大字符数"
+
+#: src/components/admin/abstracts/Settings.js:315
+msgid "Maximum number of files allowed per submission"
+msgstr "每次提交允许的最大文件数量"
+
+#: src/components/shared/attachments/DocumentsStep.js:160
+msgid "Maximum of %d files allowed"
+msgstr "每次提交允许的最大文件数量"
+
+#: src/components/admin/users/Settings.js:208
+msgid "Maximum Password Length"
+msgstr "Maximum Password Length"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:577
+msgid "Maximum Rating"
+msgstr "最大额定值"
+
+#: src/components/admin/abstracts/Settings.js:339
+msgid "Maximum size for each uploaded file in megabytes"
+msgstr "每个上传文件的最大大小（以兆字节计）"
+
+#: src/components/admin/appearance/Appearance.js:715
+msgid "Medium"
+msgstr "中"
+
+#: src/Frontend.js:424
+msgid "Menu"
+msgstr "Menu"
+
+#: src/components/admin/users/Settings.js:186
+msgid "Minimum number of characters required for passwords"
+msgstr "抽象描述中允许的最大字符数"
+
+#: src/components/admin/users/Settings.js:182
+msgid "Minimum Password Length"
+msgstr "Minimum Password Length"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:165
+#: src/components/shared/abstracts/AbstractWizard.js:709
+msgid "Modifications are not permitted at this time."
+msgstr "Modifications are not permitted at this time."
+
+#: src/components/admin/abstracts/Abstracts.js:1003
+#: src/hooks/useAbstractColumns.js:351
+msgid "Modified"
+msgstr "修改"
+
+#: src/components/shared/abstracts/AuthorManagement.js:95
+msgid "Move down"
+msgstr "下移"
+
+#: src/components/shared/abstracts/AuthorManagement.js:87
+msgid "Move up"
+msgstr "上移"
+
+#: src/components/admin/abstracts/Settings.js:160
+msgid "Multi-Step Wizard"
+msgstr "Multi-Step Wizard"
+
+#: src/components/frontend/attachments/Attachments.js:349
+msgid "My Attachments"
+msgstr "附件"
+
+#: src/Frontend.js:328 src/components/frontend/auth/Profile.js:105
+#: src/components/frontend/auth/Profile.js:117
+msgid "My Profile"
+msgstr "我的资料"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:63
+msgid "My Submissions"
+msgstr "我的提交"
+
+#: src/components/shared/abstracts/AbstractView.js:1247
+#: src/hooks/useAbstractColumns.js:99 src/hooks/useAbstractColumns.js:152
+#: src/hooks/useAbstractColumns.js:331 src/hooks/useAbstractColumns.js:357
+msgid "N/A"
+msgstr "N/A"
+
+#: src/components/admin/abstracts/Authors.js:330
+#: src/components/admin/abstracts/Authors.js:617
+#: src/components/admin/events/CreateEvent.js:44
+#: src/components/admin/events/EditEvent.js:77
+#: src/components/admin/events/StatusManagement.js:190
+#: src/components/admin/events/StatusManagement.js:422
+#: src/components/admin/tracks/Tracks.js:53
+#: src/components/admin/tracks/Tracks.js:335
+#: src/components/admin/users/Users.js:171
+#: src/components/shared/attachments/FileList.js:354
+#: src/components/shared/attachments/FileList.js:446
+#: src/components/shared/customFields/CustomFieldsAdmin.js:231
+msgid "Name"
+msgstr "名称"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:462
+msgid "Name is required"
+msgstr "名称是必需的"
+
+#: src/components/admin/events/StatusManagement.js:430
+msgid "Name must be lowercase letters and underscores only"
+msgstr "名字必须使用小写字母，且仅下划线"
+
+#: src/components/admin/events/Events.js:1014
+msgid "New Event"
+msgstr "新活动"
+
+#: src/components/frontend/auth/Login.js:348
+msgid "New password"
+msgstr "新密码"
+
+#: src/components/frontend/auth/Login.js:144
+msgid "New Password"
+msgstr "新密码"
+
+#: blocks/register/index.js:120
+msgid "New users will be assigned the author role for the selected event."
+msgstr "New users will be assigned the author role for the selected event."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:638
+#: src/components/shared/abstracts/AbstractWizard.js:224
+#: src/components/shared/abstracts/AbstractWizard.js:381
+#: src/components/shared/abstracts/AbstractWizard.js:458
+#: src/components/shared/abstracts/AbstractWizard.js:512
+#: src/components/shared/attachments/DocumentsStep.js:378
+msgid "Next"
+msgstr "下一步"
+
+#: src/components/frontend/auth/Register.js:377
+#: src/components/frontend/auth/Register.js:450
+msgid "Next Step"
+msgstr "下一步"
+
+#: src/components/admin/abstracts/Authors.js:725
+#: src/components/admin/events/StatusManagement.js:261
+#: src/components/admin/users/Users.js:239
+#: src/components/admin/users/ViewUser.js:55
+#: src/components/frontend/submissions/Submissions.js:653
+#: src/components/shared/abstracts/AbstractView.js:855
+#: src/components/shared/abstracts/AbstractView.js:1203
+#: src/components/shared/customFields/CustomFieldsAdmin.js:261
+#: src/components/shared/customFields/CustomFieldsAdmin.js:267
+#: src/components/shared/customFields/CustomFieldsAdmin.js:273
+#: src/components/shared/customFields/CustomFieldsAdmin.js:282
+msgid "No"
+msgstr "否"
+
+#: src/components/admin/dashboard/Dashboard.js:677
+msgid "No Active Licenses"
+msgstr "无有效执照"
+
+#: src/components/shared/abstracts/AbstractWizard.js:403
+msgid "No additional details are required for this event."
+msgstr "本次活动无需支付会议注册费。"
+
+#: src/components/frontend/auth/Register.js:436
+msgid ""
+"No additional information required. Click \"Next\" to review your "
+"registration."
+msgstr "无需额外信息。单击“下一步”检查您的注册。"
+
+#: src/components/shared/abstracts/AbstractView.js:935
+msgid "No attachments found for this submission."
+msgstr "附件"
+
+#: src/components/frontend/attachments/Attachments.js:378
+msgid "No attachments found."
+msgstr "附件"
+
+#: src/components/shared/abstracts/AuthorManagement.js:237
+msgid "No authors added yet"
+msgstr "还没有新增作者"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:304
+msgid "No available track chairs found matching your search"
+msgstr "No available track chairs found matching your search"
+
+#: src/components/admin/users/EditUser.js:124
+#: src/components/shared/users/UserWizard.js:146
+msgid "No custom fields available for users."
+msgstr "你的个人资料没有自定义字段。"
+
+#: src/components/frontend/auth/Profile.js:140
+msgid "No custom fields available for your profile."
+msgstr "你的个人资料没有自定义字段。"
+
+#: src/components/admin/abstracts/Abstracts.js:1052
+#: src/components/admin/abstracts/Authors.js:687
+#: src/components/admin/users/Users.js:1146
+msgid "No custom fields have been created for this event"
+msgstr "本次活动没有创建自定义字段"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:533
+msgid "No Dashboard Page"
+msgstr "仪表盘"
+
+#: src/components/admin/dashboard/DashboardSetup.js:131
+msgid "No Dashboard Page Found"
+msgstr "未找到匹配用户"
+
+#: inc/class-dashboard-setup.php:106
+msgid "No dashboard page found for this event."
+msgstr "本次活动无需支付会议注册费。"
+
+#: src/components/admin/dashboard/Dashboard.js:263
+msgid "No deadline set"
+msgstr "没有设定截止日期"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:121
+#: src/components/shared/abstracts/AbstractWizard.js:664
+msgid "No Draft Saved"
+msgstr "未保存选秀"
+
+#: src/components/admin/events/StatusManagement.js:277
+msgid "No Event Selected"
+msgstr "删除所选"
+
+#: src/components/shared/abstracts/AbstractView.js:800
+#: src/components/shared/customFields/CustomFieldFileUpload.js:187
+msgid "No file uploaded"
+msgstr "还没有上传文件"
+
+#: src/components/shared/attachments/FileList.js:422
+msgid "No files found"
+msgstr "找不到文件"
+
+#: src/components/admin/events/StatusManagement.js:532
+msgid "No further changes allowed"
+msgstr "禁止进一步更改"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:366
+#: src/components/shared/abstracts/AbstractWizard.js:111
+msgid "No global event selected"
+msgstr "未选定全球事件"
+
+#: src/components/admin/licenses/Licenses.js:165
+msgid "No License"
+msgstr "无许可证"
+
+#: src/components/admin/appearance/Appearance.js:433
+msgid "No Logo Set"
+msgstr "No Logo Set"
+
+#: src/components/admin/dashboard/Dashboard.js:555
+#: src/components/frontend/dashboard/widgets/Timeline.js:83
+msgid "No recent activity"
+msgstr "最近没有活动"
+
+#: src/hooks/useAbstractColumns.js:315
+msgid "No Status"
+msgstr "无状态"
+
+#: src/components/admin/events/StatusManagement.js:372
+msgid "No Statuses Found"
+msgstr "未找到匹配用户"
+
+#: src/hooks/useAbstractFormState.js:736
+msgid "No submitted status found. Please configure statuses for this event."
+msgstr "未找到选秀状态。请确保本次活动的状态已配置好。"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:313
+msgid "No track chairs available for this event"
+msgstr "你的个人资料没有自定义字段。"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:404
+#: src/components/shared/abstracts/AbstractWizard.js:141
+msgid "No tracks available"
+msgstr "不可用"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:369
+msgid "No tracks yet. Add your first one below."
+msgstr "No tracks yet. Add your first one below."
+
+#: src/components/admin/appearance/Appearance.js:709
+msgid "None"
+msgstr "无"
+
+#: src/components/shared/abstracts/AbstractView.js:1322
+msgid "Not available"
+msgstr "不可用"
+
+#: src/components/shared/NotFound.js:7
+msgid "Not found"
+msgstr "未找到"
+
+#: src/components/admin/users/ViewUser.js:49
+#: src/components/frontend/auth/Register.js:535
+#: src/components/shared/abstracts/AbstractView.js:862
+msgid "Not provided"
+msgstr "未提供"
+
+#: src/components/admin/events/Events.js:876
+msgid "Not specified"
+msgstr "未标明"
+
+#: blocks/dashboard/index.js:124
+msgid "Note:"
+msgstr "Note:"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:54
+msgid "Number"
+msgstr "数量"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:120
+msgid "One lowercase letter"
+msgstr "One lowercase letter"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:131
+msgid "One number"
+msgstr "数量"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:144
+msgid "One special character"
+msgstr "One special character"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:109
+msgid "One uppercase letter"
+msgstr "One uppercase letter"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:789
+msgid "Operator"
+msgstr "Operator"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:781
+msgid "Operator is required"
+msgstr "需要下令"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:560
+msgid "Option 1\\nOption 2\\nOption 3\\n\\n(Leave empty for single checkbox)"
+msgstr "选项1\\n选项2\\n选项3\\n\\n（留空以复选单个框）"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:564
+msgid "Option 1\\nOption 2\\nOption 3\\n\\nor\\n\\nOption 1, Option 2, Option 3"
+msgstr "选项1\\n选项2\\n选项3\\n\\n\\nor\\n\\n选项1，选项2，选项3"
+
+#: src/components/admin/abstracts/Settings.js:296
+#: src/components/admin/events/CreateEvent.js:164
+#: src/components/admin/events/EditEvent.js:210
+#: src/components/admin/events/Events.js:800
+msgid "Optional"
+msgstr "可选的"
+
+#: src/components/admin/abstracts/Abstracts.js:954
+#: src/components/admin/users/Users.js:1063
+msgid "Optional Fixed Columns"
+msgstr "固定列"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:537
+msgid "Options (one per line or comma separated)"
+msgstr "选项（每行一个或逗号分开）"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:533
+msgid "Options (optional - leave empty for single checkbox)"
+msgstr "选项（可选——为单一复选框留空）"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:548
+msgid "Options are required for this field type"
+msgstr "该领域类型需要选项"
+
+#: src/components/admin/events/StatusManagement.js:183
+#: src/components/admin/events/StatusManagement.js:488
+#: src/components/shared/customFields/CustomFieldsAdmin.js:287
+msgid "Order"
+msgstr "排序"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:674
+msgid "Order is required"
+msgstr "需要下令"
+
+#: src/components/admin/appearance/Appearance.js:365
+msgid "Organization Details"
+msgstr "组织详情"
+
+#: src/components/admin/appearance/Appearance.js:367
+msgid "Organization Name"
+msgstr "组织名称"
+
+#: src/components/admin/appearance/Appearance.js:372
+msgid "Organization name must be less than 100 characters"
+msgstr "用户名必须至少有3个字符"
+
+#: src/components/shared/attachments/AbstractFileManager.js:272
+msgid "Other Files"
+msgstr "其他文件"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:116
+msgid "Overall Progress"
+msgstr "总体进度"
+
+#: src/components/admin/dashboard/DashboardSetup.js:160
+msgid "Page:"
+msgstr "Page:"
+
+#: src/components/frontend/auth/Login.js:201
+#: src/components/frontend/auth/Register.js:342
+msgid "Password"
+msgstr "密码"
+
+#: src/components/frontend/auth/Login.js:339
+msgid "Password must be at least 6 characters"
+msgstr "密码必须不少于6个字符"
+
+#: src/components/admin/users/Settings.js:398
+msgid "Password Requirements"
+msgstr "作者要求"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:68
+msgid "Password Requirements:"
+msgstr "作者要求"
+
+#: src/components/frontend/auth/Login.js:92
+msgid "Password reset email sent!"
+msgstr "密码重置邮件已发送！"
+
+#: src/components/frontend/auth/Login.js:104
+msgid "Password reset successful! Please login."
+msgstr "密码重置成功！请登录。"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:47
+msgid "Password Strength:"
+msgstr "密码："
+
+#: src/components/frontend/auth/Register.js:505
+msgid "Password:"
+msgstr "密码："
+
+#: src/components/admin/users/Settings.js:274
+msgid "Passwords must contain at least one lowercase letter (a-z)"
+msgstr "密码必须不少于6个字符"
+
+#: src/components/admin/users/Settings.js:305
+msgid "Passwords must contain at least one number (0-9)"
+msgstr "密码必须不少于6个字符"
+
+#: src/components/admin/users/Settings.js:338
+msgid "Passwords must contain at least one special character (!@#$%^&*)"
+msgstr "密码必须不少于6个字符"
+
+#: src/components/admin/users/Settings.js:241
+msgid "Passwords must contain at least one uppercase letter (A-Z)"
+msgstr "密码必须不少于6个字符"
+
+#: src/Admin.js:258 src/components/admin/dashboard/Dashboard.js:342
+#: src/components/admin/dashboard/Dashboard.js:370 classes/admin-menu.php:85
+#: classes/admin-menu.php:86
+msgid "Payments"
+msgstr "支付"
+
+#: inc/addons.php:202
+msgid "Payments & Registration Add-On"
+msgstr "付款与注册附加"
+
+#: src/components/admin/abstracts/Attachments.js:410
+#: src/components/admin/abstracts/Settings.js:364
+msgid "PDF"
+msgstr "PDF"
+
+#: src/components/admin/abstracts/Abstracts.js:374
+#: src/components/shared/abstracts/AbstractView.js:143
+msgid "PDF exported successfully"
+msgstr "PDF 成功导出"
+
+#: src/components/admin/events/TerminologySettings.js:79
+msgid "Peer review entities"
+msgstr "同行评审机构"
+
+#: src/components/admin/dashboard/Dashboard.js:256
+#: src/components/admin/dashboard/Dashboard.js:363
+msgid "pending"
+msgstr "待定"
+
+#: src/components/shared/attachments/DocumentsStep.js:227
+msgid "per file"
+msgstr "每个文件"
+
+#: src/state/dashboardSlice.js:51
+msgid "performed an action"
+msgstr "用户信息"
+
+#: src/state/frontendSlice.js:90
+msgid "Performed an Action"
+msgstr "用户信息"
+
+#: src/components/shared/abstracts/AbstractWizard.js:548
+msgid ""
+"Please complete the previous steps to see a preview of your submission."
+msgstr ""
+"Please complete the previous steps to see a preview of your submission."
+
+#: src/components/shared/ErrorBoundary.js:84
+msgid ""
+"Please copy the error details from the browser console and send to support."
+msgstr "请从浏览器控制台复制错误详情并发送给支持。"
+
+#: src/components/admin/events/Events.js:580
+msgid "Please create an event to get started."
+msgstr "请创建一个活动来开始。"
+
+#: src/hooks/useAbstractFormState.js:524
+msgid "Please ensure an event is selected globally"
+msgstr "请确保该活动被全球选定"
+
+#: src/components/admin/events/CreateEvent.js:125
+#: src/components/admin/events/EditEvent.js:172
+msgid "Please enter a deadline"
+msgstr "请输入用户名"
+
+#: src/components/admin/events/EditEvent.js:115
+msgid "please enter a event description"
+msgstr "请创建一个活动来开始。"
+
+#: src/components/frontend/auth/Register.js:346
+msgid "Please enter a password"
+msgstr "请输入密码"
+
+#: src/hooks/useAbstractFormState.js:618
+msgid "Please enter a title before saving draft"
+msgstr "请输入有效的电子邮件地址"
+
+#: src/components/admin/tracks/Tracks.js:617
+msgid "Please enter a track name"
+msgstr "请输入姓氏"
+
+#: src/components/frontend/auth/Login.js:279
+#: src/components/shared/authors/AuthorForm.js:111
+msgid "Please enter a valid email"
+msgstr "请输入有效的电子邮件"
+
+#: src/components/frontend/auth/Register.js:326
+msgid "Please enter a valid email address"
+msgstr "请输入有效的电子邮件地址"
+
+#: src/components/admin/appearance/Appearance.js:397
+msgid "Please enter a valid URL"
+msgstr "请输入有效的电子邮件"
+
+#: src/components/admin/events/CreateEvent.js:48
+#: src/components/admin/events/CreateEvent.js:53
+#: src/components/admin/events/EditEvent.js:81
+#: src/components/admin/events/EditEvent.js:86
+#: src/components/admin/onboarding/OnboardingWizard.js:320
+msgid "Please enter an event name"
+msgstr "请输入姓氏"
+
+#: src/components/shared/authors/AuthorForm.js:107
+msgid "Please enter email"
+msgstr "请输入邮箱"
+
+#: src/components/shared/authors/AuthorForm.js:70
+msgid "Please enter first name"
+msgstr "请输入名字"
+
+#: src/components/shared/authors/AuthorForm.js:88
+msgid "Please enter last name"
+msgstr "请输入姓氏"
+
+#: src/components/admin/events/StatusManagement.js:449
+msgid "Please enter status label"
+msgstr "请输入姓氏"
+
+#: src/components/admin/events/StatusManagement.js:426
+msgid "Please enter status name"
+msgstr "请输入姓氏"
+
+#: src/components/admin/events/CreateEvent.js:109
+#: src/components/admin/events/EditEvent.js:156
+msgid "Please enter the end date"
+msgstr "请输入姓氏"
+
+#: src/components/admin/events/CreateEvent.js:64
+#: src/components/admin/events/EditEvent.js:97
+msgid "Please enter the event initials"
+msgstr "请输入姓氏"
+
+#: src/components/admin/events/CreateEvent.js:95
+#: src/components/admin/events/EditEvent.js:142
+msgid "Please enter the start date"
+msgstr "请输入开始日期"
+
+#: src/components/frontend/auth/Login.js:275
+#: src/components/frontend/auth/Register.js:322
+msgid "Please enter your email"
+msgstr "请输入您的电子邮件"
+
+#: src/components/admin/licenses/Licenses.js:281
+msgid "Please enter your license key"
+msgstr "请在此处输入您的许可证密钥"
+
+#: src/components/frontend/auth/Login.js:332
+msgid "Please enter your new password"
+msgstr "请输入您的新密码"
+
+#: src/components/frontend/auth/Login.js:194
+msgid "Please enter your password"
+msgstr "请输入密码"
+
+#: src/components/frontend/auth/Login.js:175
+msgid "Please enter your username or email"
+msgstr "请输入您的用户名或电子邮件"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:478
+#: src/components/shared/abstracts/AbstractWizard.js:219
+#: src/components/shared/abstracts/AbstractWizard.js:376
+#: src/components/shared/abstracts/AbstractWizard.js:443
+msgid "Please fill in all required fields"
+msgstr "请填写所有必填欄位。"
+
+#: src/hooks/useAbstractFormState.js:716
+msgid "Please fix the following errors before submitting."
+msgstr "Please fix the following errors before submitting."
+
+#: src/components/shared/abstracts/AbstractView.js:131
+msgid ""
+"Please install and activate the Exports Add-on to export Abstracts to PDF."
+msgstr "导出插件是导出摘要导出为 PDF 的必不可少。"
+
+#: src/components/admin/abstracts/Abstracts.js:278
+#: src/components/admin/abstracts/Abstracts.js:313
+msgid ""
+"Please install and activate the Reviews Add-on to assign reviewers and "
+"manage reviews."
+msgstr "请安装并激活评论插件以分配审核员和管理评论。"
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:105
+msgid "Please provide %s"
+msgstr "请提供这些信息%s"
+
+#: src/components/frontend/auth/Register.js:416
+msgid "Please provide some additional details to complete your registration."
+msgstr "请提供一些额外信息以完成注册。"
+
+#: src/components/frontend/auth/Register.js:472
+msgid "Please review your information before submitting your registration."
+msgstr "请在提交注册前仔细查看您的信息。"
+
+#: src/components/admin/abstracts/Abstracts.js:412
+#: src/components/admin/abstracts/Abstracts.js:553
+msgid "Please select a status"
+msgstr "请选择一个状态"
+
+#: src/hooks/useAbstractFormState.js:529
+msgid "Please select a track first"
+msgstr "请选择一个状态"
+
+#: src/components/admin/events/StatusManagement.js:279
+msgid "Please select an event to manage statuses"
+msgstr "请创建一个活动来开始。"
+
+#: src/components/admin/abstracts/Abstracts.js:545
+#: src/components/admin/abstracts/Abstracts.js:589
+msgid "Please select at least one abstract"
+msgstr "请至少选择一条摘要"
+
+#: src/components/admin/users/Users.js:494
+msgid "Please select at least one role."
+msgstr "请至少选择一首曲目"
+
+#: src/components/admin/tracks/Tracks.js:295
+msgid "Please select at least one track"
+msgstr "请至少选择一首曲目"
+
+#: src/components/shared/attachments/DocumentsStep.js:289
+msgid "Please wait"
+msgstr "请"
+
+#: src/components/admin/events/TerminologySettings.js:216
+msgid "Plural Form"
+msgstr "复数表"
+
+#: src/components/admin/abstracts/Settings.js:388
+msgid "PNG Images"
+msgstr "图片"
+
+#: src/components/admin/events/CreateEvent.js:204
+#: src/components/admin/events/EditEvent.js:252
+msgid "Postal Code"
+msgstr "邮政编码"
+
+#: src/components/admin/abstracts/Settings.js:373
+msgid "PowerPoint (PPT/PPTX)"
+msgstr "PowerPoint (PPT/PPTX)"
+
+#: src/components/shared/attachments/AbstractFileManager.js:112
+msgid "Presentation Files"
+msgstr "演示"
+
+#: src/components/shared/attachments/AbstractFileManager.js:113
+msgid "Presentation slides (if applicable)"
+msgstr "演示幻灯片（如适用）"
+
+#: src/components/shared/abstracts/AuthorManagement.js:311
+msgid "Presenter"
+msgstr "主持人"
+
+#: src/components/admin/appearance/Appearance.js:137
+msgid "Preset applied and saved"
+msgstr "Preset applied and saved"
+
+#: src/components/admin/appearance/Appearance.js:139
+msgid "Preset applied but failed to save"
+msgstr "Preset applied but failed to save"
+
+#: src/components/admin/appearance/Appearance.js:799
+msgid "Preset:"
+msgstr "主持人"
+
+#: src/components/frontend/attachments/Attachments.js:297
+#: src/components/shared/attachments/AttachmentPreview.js:82
+#: src/components/shared/attachments/FileList.js:218
+#: src/components/shared/attachments/FileList.js:279
+msgid "Preview"
+msgstr "预览"
+
+#: src/components/shared/attachments/FilePreview.js:114
+msgid "Preview not available for this file type"
+msgstr "该领域类型需要选项"
+
+#: src/components/admin/events/TerminologySettings.js:224
+msgid "Preview:"
+msgstr "预览："
+
+#: src/components/admin/onboarding/OnboardingWizard.js:629
+#: src/components/frontend/auth/Register.js:447
+#: src/components/frontend/auth/Register.js:552
+msgid "Previous"
+msgstr "上一个"
+
+#: src/components/admin/appearance/Appearance.js:453
+msgid "Primary Color"
+msgstr "主要颜色"
+
+#: src/components/frontend/auth/Profile.js:83
+msgid "Profile updated!"
+msgstr "个人资料已更新！"
+
+#: src/components/admin/users/Settings.js:40
+msgid "Protect login and registration forms with Google reCAPTCHA v3"
+msgstr "Protect login and registration forms with Google reCAPTCHA v3"
+
+#: src/components/admin/licenses/Licenses.js:315
+msgid "Purchase a license for this add-on at"
+msgstr "在以下位置购买此附加组件的许可证"
+
+#: src/components/shared/UpgradePrompt.js:54
+msgid ""
+"Purchase and install the add-on to unlock this feature and enhance your "
+"conference management capabilities."
+msgstr ""
+"Purchase and install the add-on to unlock this feature and enhance your "
+"conference management capabilities."
+
+#: src/components/frontend/attachments/Attachments.js:277
+#: src/components/shared/attachments/FileList.js:448
+msgid "Purpose"
+msgstr "目的"
+
+#: src/components/shared/attachments/FilePreview.js:213
+msgid "Purpose:"
+msgstr "用途："
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:58
+msgid "Radio Buttons"
+msgstr "单选按钮"
+
+#: src/components/admin/users/Settings.js:83
+msgid "reCAPTCHA Secret Key"
+msgstr "reCAPTCHA Secret Key"
+
+#: src/components/admin/users/Settings.js:403
+msgid "reCAPTCHA Settings"
+msgstr "保存设置"
+
+#: src/components/admin/users/Settings.js:65
+msgid "reCAPTCHA Site Key"
+msgstr "reCAPTCHA Site Key"
+
+#: src/components/admin/dashboard/Dashboard.js:444
+#: src/components/frontend/dashboard/widgets/Timeline.js:66
+msgid "Recent Activity"
+msgstr "最近活动"
+
+#: src/components/admin/abstracts/Abstracts.js:794
+#: src/components/admin/abstracts/Attachments.js:426
+#: src/components/admin/events/Events.js:531
+#: src/components/admin/users/Users.js:863
+#: src/components/frontend/attachments/Attachments.js:367
+#: src/components/frontend/submissions/Submissions.js:773
+msgid "Refresh"
+msgstr "刷新"
+
+#: src/components/admin/dashboard/Dashboard.js:454
+msgid "Refresh activity"
+msgstr "最近活动"
+
+#: src/components/frontend/attachments/Attachments.js:361
+msgid "Refresh attachments list"
+msgstr "附件"
+
+#: src/state/dashboardSlice.js:42
+msgid "registered for the event"
+msgstr "注册为用户"
+
+#: src/state/frontendSlice.js:81
+msgid "Registered for the Event"
+msgstr "注册为用户"
+
+#: src/components/admin/events/TerminologySettings.js:95 inc/functions.php:149
+msgid "Registration"
+msgstr "注册"
+
+#: src/components/frontend/auth/Register.js:588
+msgid "Registration Disabled"
+msgstr "注册"
+
+#: src/components/frontend/auth/Register.js:265
+#: src/components/frontend/auth/Register.js:268
+msgid "Registration failed. Please try again."
+msgstr "注册失败。请再试一次。"
+
+#: src/components/admin/events/CreateEvent.js:144
+#: src/components/admin/events/EditEvent.js:191
+#: src/components/admin/events/Events.js:779
+#: src/components/admin/users/Settings.js:393 blocks/register/index.js:49
+msgid "Registration Settings"
+msgstr "注册设置"
+
+#: src/components/frontend/auth/Register.js:253
+msgid "Registration successful! Please login with your new account."
+msgstr "注册成功！请登录。"
+
+#: src/components/frontend/auth/Login.js:85
+msgid "Registration successful! Please login."
+msgstr "注册成功！请登录。"
+
+#: src/Admin.js:264
+msgid "Registration Types"
+msgstr "注册类型"
+
+#: src/components/admin/dashboard/Dashboard.js:358
+msgid "registrations"
+msgstr "登记"
+
+#: src/components/admin/events/TerminologySettings.js:96 inc/functions.php:149
+msgid "Registrations"
+msgstr "注册"
+
+#: src/components/shared/ErrorBoundary.js:127
+msgid "Reload Page"
+msgstr "刷新页面"
+
+#: src/components/shared/attachments/AttachmentPreview.js:177
+msgid "Remove"
+msgstr "是的，删除"
+
+#: src/components/shared/abstracts/AuthorManagement.js:156
+msgid "Remove Author"
+msgstr "作者"
+
+#: src/components/admin/licenses/Licenses.js:251
+msgid "renew your license"
+msgstr "立即续购您的许可"
+
+#: src/components/shared/ErrorBoundary.js:131
+msgid "Report Issue"
+msgstr "报告问题"
+
+#: src/Admin.js:274
+msgid "Reports"
+msgstr "报告"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:492
+msgid "Require authors to upload a file with their submission"
+msgstr "允许用户上传包含提交的文件"
+
+#: src/components/admin/events/CreateEvent.js:151
+#: src/components/admin/events/EditEvent.js:198
+msgid "Require Conference Registration Payment"
+msgstr "会议注册费"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:489
+msgid "Require File Upload"
+msgstr "Require File Upload"
+
+#: src/components/admin/users/Settings.js:270
+msgid "Require Lowercase Letters"
+msgstr "Require Lowercase Letters"
+
+#: src/components/admin/users/Settings.js:302
+msgid "Require Numbers"
+msgstr "必需"
+
+#: src/components/admin/users/Settings.js:334
+msgid "Require Special Characters"
+msgstr "Require Special Characters"
+
+#: src/components/admin/users/Settings.js:237
+msgid "Require Uppercase Letters"
+msgstr "Require Uppercase Letters"
+
+#: src/components/admin/abstracts/Settings.js:299
+#: src/components/admin/events/CreateEvent.js:163
+#: src/components/admin/events/EditEvent.js:209
+#: src/components/admin/events/Events.js:796
+#: src/components/shared/attachments/AbstractFileManager.js:309
+#: src/components/shared/customFields/CustomFieldsAdmin.js:258
+#: src/components/shared/customFields/CustomFieldsAdmin.js:628
+msgid "Required"
+msgstr "必需"
+
+#: inc/addons.php:154
+msgid "requires"
+msgstr "必需"
+
+#: src/components/shared/UpgradePrompt.js:53
+msgid "requires a separate add-on to be installed."
+msgstr "需要单独的附加组件。"
+
+#: src/components/shared/UpgradePrompt.js:44
+msgid "requires an active license to use."
+msgstr "requires an active license to use."
+
+#: inc/addons.php:212
+msgid "requires the"
+msgstr "需要"
+
+#: src/components/admin/appearance/Appearance.js:334
+msgid "Reset"
+msgstr "重置"
+
+#: src/components/admin/appearance/Appearance.js:825
+msgid "Reset & Save"
+msgstr "重置为默认值"
+
+#: src/components/frontend/auth/Login.js:143
+#: src/components/frontend/auth/Login.js:367
+msgid "Reset Password"
+msgstr "重置密码"
+
+#: src/components/admin/events/TerminologySettings.js:238
+msgid "Reset to Defaults"
+msgstr "重置为默认值"
+
+#: src/components/admin/appearance/Appearance.js:820
+msgid "Reset to Factory Defaults?"
+msgstr "重置为默认值"
+
+#: src/components/admin/abstracts/Settings.js:586
+#: src/components/admin/users/Settings.js:534
+msgid "Reset to Saved"
+msgstr "重置为默认值"
+
+#: src/components/admin/users/Users.js:1235
+msgid "Return to this page and click \"Sync Users\""
+msgstr "Return to this page and click \"Sync Users\""
+
+#: src/components/admin/events/TerminologySettings.js:77 inc/functions.php:145
+msgid "Review"
+msgstr "评论"
+
+#: src/components/admin/events/CreateEvent.js:135
+#: src/components/admin/events/EditEvent.js:182
+#: src/components/admin/events/Events.js:749
+msgid "Review Deadline"
+msgstr "评论截止日期"
+
+#: src/components/shared/attachments/AbstractFileManager.js:128
+msgid "Review Documents"
+msgstr "文档"
+
+#: src/index.js:196 src/index.js:225 src/index.js:273
+msgid "Review functionality requires the Reviews add-on."
+msgstr "复习功能需要“复核”附加组件。"
+
+#: src/components/shared/attachments/AbstractFileManager.js:144
+msgid "Review Notes"
+msgstr "审核人"
+
+#: src/components/admin/events/TerminologySettings.js:73
+msgid "Review system roles"
+msgstr "审查系统角色"
+
+#: src/index.js:271
+msgid "Review View"
+msgstr "评论家"
+
+#: src/components/frontend/auth/Register.js:469
+msgid "Review Your Registration"
+msgstr "请审核您的注册"
+
+#: src/components/admin/events/TerminologySettings.js:71 inc/functions.php:144
+msgid "Reviewer"
+msgstr "评论家"
+
+#: src/components/admin/dashboard/Dashboard.js:230
+msgid "reviewers"
+msgstr "审核人"
+
+#: src/components/admin/events/TerminologySettings.js:72 inc/functions.php:144
+msgid "Reviewers"
+msgstr "审核人"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:294
+msgid "Reviewers evaluate and score submissions"
+msgstr "状态已成功更新"
+
+#: src/components/admin/events/TerminologySettings.js:78 inc/functions.php:145
+#: classes/admin-menu.php:67 classes/admin-menu.php:68
+msgid "Reviews"
+msgstr "评论"
+
+#: src/components/admin/abstracts/Abstracts.js:275
+#: src/components/admin/abstracts/Abstracts.js:310
+#: src/components/admin/users/Users.js:732
+msgid "Reviews Add-on"
+msgstr "评测附加组件"
+
+#: inc/addons.php:199
+msgid "Reviews Add-On"
+msgstr "评论附加组件"
+
+#: src/utils/addons.js:152
+msgid "Reviews add-on required"
+msgstr "需要评论附加内容"
+
+#: src/components/admin/abstracts/Abstracts.js:270
+#: src/components/admin/abstracts/Abstracts.js:305
+#: src/components/admin/users/Users.js:728
+msgid "Reviews Add-on Required"
+msgstr "需要评论附加内容"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:82
+msgid "Reviews Completed"
+msgstr "审查系统角色"
+
+#: src/utils/addons.js:151
+msgid "Reviews Content"
+msgstr "评价内容"
+
+#: src/components/admin/users/Users.js:256
+#: src/components/admin/users/Users.js:1084
+msgid "Roles"
+msgstr "角色"
+
+#: src/components/admin/users/Users.js:506
+msgid "Roles updated for {count} {users}"
+msgstr "为用户{user}更新的角色"
+
+#: src/components/admin/users/Users.js:593
+msgid "Roles updated for user {user}"
+msgstr "为用户{user}更新的角色"
+
+#: src/components/admin/licenses/Licenses.js:348
+msgid "SaaS Mode Active"
+msgstr "SaaS Mode Active"
+
+#: src/components/admin/appearance/Appearance.js:662
+msgid "Sample bold text"
+msgstr "示例加粗文字"
+
+#: src/components/admin/appearance/Appearance.js:768
+msgid "Sample Card"
+msgstr "样本卡"
+
+#: src/components/admin/appearance/Appearance.js:653
+msgid "Sample Heading"
+msgstr "样本标题"
+
+#: src/components/admin/appearance/Appearance.js:666
+msgid "Sample secondary text"
+msgstr "示例次要文本"
+
+#: src/components/admin/abstracts/Authors.js:784
+#: src/components/admin/events/Events.js:1006
+#: src/components/admin/tracks/Tracks.js:600
+#: src/components/admin/users/Users.js:960
+#: src/components/shared/customFields/CustomFieldsAdmin.js:423
+msgid "Save"
+msgstr "保存"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:463
+#: src/components/shared/abstracts/AbstractWizard.js:172
+#: src/components/shared/abstracts/AbstractWizard.js:361
+#: src/components/shared/abstracts/AbstractWizard.js:432
+#: src/components/shared/abstracts/AbstractWizard.js:495
+#: src/components/shared/abstracts/AbstractWizard.js:575
+msgid "Save & Exit"
+msgstr "Save & Exit"
+
+#: src/components/admin/appearance/Appearance.js:342
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: src/components/admin/abstracts/Settings.js:595
+#: src/components/admin/users/Settings.js:543
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: src/components/admin/events/TerminologySettings.js:235
+msgid "Save Terminology"
+msgstr "保存术语"
+
+#: src/components/shared/SaveStatusIndicator.js:31
+#: src/components/shared/SaveStatusIndicator.js:32
+msgid "Saved"
+msgstr "已保存"
+
+#: src/components/shared/SaveStatusIndicator.js:28
+msgid "Saving..."
+msgstr "保存中..."
+
+#: src/components/admin/events/TerminologySettings.js:91
+msgid "Schedule sessions"
+msgstr "安排场次"
+
+#: src/components/admin/dashboard/Dashboard.js:412
+msgid "scheduled"
+msgstr "预定排期的"
+
+#: src/Admin.js:286 src/components/admin/dashboard/Dashboard.js:392
+#: src/components/admin/dashboard/Dashboard.js:420 classes/admin-menu.php:94
+#: classes/admin-menu.php:95
+msgid "Schedules"
+msgstr "计划"
+
+#: inc/addons.php:201
+msgid "Schedules Builder Add-On"
+msgstr "Schedules Builder 插件"
+
+#: src/components/frontend/submissions/Submissions.js:755
+msgid "Search {abstracts}..."
+msgstr "搜查{abstracts}......"
+
+#: src/components/admin/abstracts/Abstracts.js:746
+msgid "Search {getTerm('abstract', 2).toLowerCase()}..."
+msgstr "搜查{abstracts}......"
+
+#: src/components/admin/users/Users.js:825
+msgid "Search {users}..."
+msgstr "搜查{users}......"
+
+#: src/components/admin/abstracts/Authors.js:515
+msgid "Search by name or email..."
+msgstr "用户名或电子邮件"
+
+#: src/components/admin/events/Events.js:509
+msgid "Search events..."
+msgstr "搜索事件..."
+
+#: src/components/admin/abstracts/Authors.js:207
+msgid "Search failed"
+msgstr "存档"
+
+#: src/components/admin/abstracts/Attachments.js:390
+msgid "Search files..."
+msgstr "搜索文件..."
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:222
+msgid "Search track chairs by name or email..."
+msgstr "用户名或电子邮件"
+
+#: src/components/admin/tracks/Tracks.js:538
+msgid "Search tracks"
+msgstr "搜索曲目..."
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:215
+msgid "Select %s"
+msgstr "选择 %s"
+
+#: src/components/admin/abstracts/Abstracts.js:1087
+#: src/components/admin/abstracts/Abstracts.js:1126
+msgid "Select a status"
+msgstr "选择状态"
+
+#: blocks/dashboard/index.js:35 blocks/login/index.js:33
+#: blocks/register/index.js:33
+msgid "Select an event..."
+msgstr "搜索事件..."
+
+#: src/components/admin/events/StatusManagement.js:476
+msgid "Select an icon"
+msgstr "选择一个图标"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:756
+msgid "Select field"
+msgstr "选择字段类型"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:487
+msgid "Select field type"
+msgstr "选择字段类型"
+
+#: src/components/admin/appearance/Appearance.js:510
+msgid "Select font family"
+msgstr "选择字体系列"
+
+#: src/components/admin/appearance/Appearance.js:412
+msgid "Select from Media Library"
+msgstr "选择字体系列"
+
+#: src/components/admin/appearance/Appearance.js:215
+msgid "Select Logo"
+msgstr "选择 %s"
+
+#: src/components/admin/appearance/Appearance.js:304
+msgid "Select Preset"
+msgstr "选择 %s"
+
+#: src/components/admin/appearance/Appearance.js:703
+msgid "Select shadow intensity"
+msgstr "选择阴影强度"
+
+#: src/components/admin/abstracts/Abstracts.js:1083
+#: src/components/admin/abstracts/Abstracts.js:1122
+msgid "Select Status"
+msgstr "选择状态"
+
+#: src/components/admin/users/Users.js:704
+msgid "Select the roles for this user:"
+msgstr "为该用户选择角色："
+
+#: src/components/admin/users/Users.js:1314
+msgid "Select the roles to assign:"
+msgstr "为该用户选择角色："
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:393
+#: src/components/shared/abstracts/AbstractWizard.js:130
+msgid "Select track"
+msgstr "选择轨道"
+
+#: blocks/login/index.js:64
+msgid "Select which event context this login form uses."
+msgstr "Select which event context this login form uses."
+
+#: blocks/register/index.js:64
+msgid "Select which event context this registration form uses."
+msgstr "请在用户注册表格中包含此字段"
+
+#: blocks/dashboard/index.js:67
+msgid ""
+"Select which event this dashboard should display. Defaults to Event ID 1."
+msgstr ""
+"Select which event this dashboard should display. Defaults to Event ID 1."
+
+#: src/components/admin/abstracts/Settings.js:359
+msgid "Select which file types users can upload"
+msgstr "Select which file types users can upload"
+
+#: blocks/dashboard/index.js:114 blocks/login/index.js:110
+#: blocks/register/index.js:110
+msgid "Selected Event:"
+msgstr "删除事件"
+
+#: src/components/frontend/auth/Login.js:304
+msgid "Send Reset Email"
+msgstr "发送重置邮件"
+
+#: src/state/dashboardSlice.js:45
+msgid "sent an email"
+msgstr "发了通知邮件"
+
+#: src/state/frontendSlice.js:84
+msgid "Sent an Email"
+msgstr "发了通知邮件"
+
+#: src/components/admin/users/Settings.js:86
+msgid "Server-side key — never exposed to visitors"
+msgstr "Server-side key — never exposed to visitors"
+
+#: src/components/admin/events/TerminologySettings.js:89 inc/functions.php:146
+msgid "Session"
+msgstr "会话"
+
+#: src/components/admin/events/TerminologySettings.js:90 inc/functions.php:146
+msgid "Sessions"
+msgstr "会话"
+
+#: classes/frontend-dashboard.php:392
+msgid "Set Up Dashboard Page"
+msgstr "仪表盘"
+
+#: src/components/admin/abstracts/Settings.js:284
+msgid "Set whether file uploads are optional or required"
+msgstr "设置文件上传是禁用、可选还是强制"
+
+#: src/Admin.js:197 src/Admin.js:215 src/Admin.js:233 src/Admin.js:251
+#: src/Admin.js:279 src/Admin.js:317
+#: src/components/admin/abstracts/Wrapper.js:111
+#: src/components/admin/onboarding/OnboardingWizard.js:253
+#: src/components/admin/users/Wrapper.js:74
+#: src/components/shared/customFields/CustomFieldsAdmin.js:623
+#: classes/admin-menu.php:112 classes/admin-menu.php:113
+msgid "Settings"
+msgstr "设置"
+
+#: src/components/admin/appearance/Appearance.js:208
+msgid "Settings exported successfully"
+msgstr "状态已成功更新"
+
+#: src/components/admin/appearance/Appearance.js:254
+msgid "Settings imported successfully"
+msgstr "状态已成功更新"
+
+#: src/components/admin/appearance/Appearance.js:181
+msgid "Settings reset but failed to save"
+msgstr "设置重置为保存值。"
+
+#: src/components/admin/appearance/Appearance.js:178
+msgid "Settings reset to factory defaults and saved"
+msgstr "设置重置为保存值。"
+
+#: src/components/admin/abstracts/Settings.js:539
+#: src/components/admin/users/Settings.js:488
+msgid "Settings reset to saved values."
+msgstr "设置重置为保存值。"
+
+#: src/components/admin/abstracts/Settings.js:526
+#: src/components/admin/users/Settings.js:475
+msgid "Settings saved successfully!"
+msgstr "设置已保存成功！"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:127
+msgid "Setup complete! Welcome to SimplyConf."
+msgstr "Setup complete! Welcome to SimplyConf."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:647
+msgid "Setup Wizard"
+msgstr "Setup Wizard"
+
+#: src/components/admin/appearance/Appearance.js:699
+msgid "Shadow Intensity"
+msgstr "阴影强度"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:334
+msgid "Short abbreviation shown in the interface"
+msgstr "Short abbreviation shown in the interface"
+
+#: src/components/admin/events/Events.js:256
+#: src/components/admin/events/Events.js:885
+msgid "Shortcode"
+msgstr "短代码"
+
+#: src/components/admin/events/Events.js:123
+#: src/components/admin/events/Events.js:136
+msgid "Shortcode copied to clipboard!"
+msgstr "短码复制到剪贴板！"
+
+#: src/components/admin/abstracts/Settings.js:184
+msgid "Show Author Information"
+msgstr "账户信息"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:264
+#: src/components/shared/customFields/CustomFieldsAdmin.js:635
+msgid "Show in Admin Table"
+msgstr "在管理表中显示"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:270
+#: src/components/shared/customFields/CustomFieldsAdmin.js:646
+msgid "Show in Frontend Table"
+msgstr "前端表中的显示"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:278
+#: src/components/shared/customFields/CustomFieldsAdmin.js:658
+msgid "Show in Registration"
+msgstr "在注册中显示"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:715
+msgid "Show this field when conditions are met"
+msgstr "Show this field when conditions are met"
+
+#: src/components/frontend/auth/Login.js:235
+msgid "Sign In"
+msgstr "登录"
+
+#: classes/admin-menu.php:16
+msgid "SimplyConf"
+msgstr "WP摘要"
+
+#: inc/addons.php:291
+msgid "SimplyConf Add-Ons (%d registered)"
+msgstr "WP 摘要插件（%d注册）"
+
+#: blocks/dashboard/index.js:94
+msgid "SimplyConf Dashboard"
+msgstr "WP摘要"
+
+#: blocks/dashboard/render.php:30 simplyconf.php:207
+msgid "SimplyConf Dashboard is not available."
+msgstr "WP 摘要版本%s或更高。"
+
+#: classes/frontend-dashboard.php:385
+msgid "SimplyConf Dashboard Update"
+msgstr "SimplyConf Dashboard Update"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:265
+msgid ""
+"SimplyConf helps you manage abstract submissions and peer reviews for "
+"academic conferences. This quick setup will get your first event ready in "
+"minutes."
+msgstr ""
+"SimplyConf helps you manage abstract submissions and peer reviews for "
+"academic conferences. This quick setup will get your first event ready in "
+"minutes."
+
+#: blocks/login/index.js:90
+msgid "SimplyConf Login"
+msgstr "WP摘要"
+
+#: blocks/login/render.php:18 simplyconf.php:247
+msgid "SimplyConf Login is not available."
+msgstr "WP 摘要版本%s或更高。"
+
+#: blocks/register/index.js:90
+msgid "SimplyConf Register"
+msgstr "WP摘要"
+
+#: blocks/register/render.php:18 simplyconf.php:287
+msgid "SimplyConf Registration is not available."
+msgstr "WP 摘要版本%s或更高。"
+
+#: inc/addons.php:155
+msgid "SimplyConf version %s or higher."
+msgstr "WP 摘要版本%s或更高。"
+
+#: src/components/admin/abstracts/Settings.js:163
+msgid "Single Page"
+msgstr "Single Page"
+
+#: src/components/admin/events/TerminologySettings.js:208
+msgid "Singular Form"
+msgstr "单数表"
+
+#: src/components/shared/attachments/FileList.js:355
+#: src/components/shared/attachments/FileList.js:447
+msgid "Size"
+msgstr "大小"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:625
+msgid "Skip Setup"
+msgstr "Skip Setup"
+
+#: src/components/admin/abstracts/Abstracts.js:529
+msgid "Some abstracts could not be deleted. Please try again."
+msgstr "有些摘要无法删除。请再试一次。"
+
+#: src/components/admin/events/Events.js:201
+msgid "Some events could not be archived. Please try again."
+msgstr "有些事件无法删除。请再试一次。"
+
+#: src/components/admin/events/Events.js:171
+msgid "Some events could not be deleted. Please try again."
+msgstr "有些事件无法删除。请再试一次。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:153
+msgid "Some fields could not be deleted. Please try again."
+msgstr "有些用户无法被删除。请再试一次。"
+
+#: src/components/admin/abstracts/Attachments.js:144
+#: src/components/shared/attachments/FileList.js:122
+msgid "Some files could not be deleted. Please try again."
+msgstr "有些用户无法被删除。请再试一次。"
+
+#: src/components/frontend/submissions/Submissions.js:304
+msgid "Some submissions could not be deleted. Please try again."
+msgstr "有些用户无法被删除。请再试一次。"
+
+#: src/components/admin/tracks/Tracks.js:283
+msgid "Some tracks could not be deleted. Please try again."
+msgstr "部分曲目无法删除。请再试一次。"
+
+#: src/components/admin/users/Users.js:482
+msgid "Some users could not be deleted. Please try again."
+msgstr "有些用户无法被删除。请再试一次。"
+
+#: src/components/shared/ErrorBoundary.js:114
+msgid "Something went wrong"
+msgstr "出了些问题"
+
+#: src/components/shared/attachments/FileList.js:366
+msgid "Sort %s"
+msgstr "排序%s"
+
+#: src/components/shared/ErrorBoundary.js:152
+msgid "Stack:"
+msgstr "叠："
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:62
+msgid "Star Rating (1-5)"
+msgstr "星级（1-5）"
+
+#: src/components/admin/events/CreateEvent.js:91
+#: src/components/admin/events/EditEvent.js:138
+#: src/components/admin/events/Events.js:229
+#: src/components/admin/events/Events.js:671
+#: src/components/admin/onboarding/OnboardingWizard.js:343
+msgid "Start Date"
+msgstr "开始日期"
+
+#: src/components/admin/tracks/Tracks.js:55
+msgid "Start Time"
+msgstr "开始时间"
+
+#: src/utils/WYSIWYGEditor.js:61
+msgid "Start typing..."
+msgstr "保存中..."
+
+#: src/components/admin/events/CreateEvent.js:194
+#: src/components/admin/events/EditEvent.js:242
+msgid "State/Province"
+msgstr "省份"
+
+#: src/components/admin/events/Events.js:917
+#: src/components/frontend/dashboard/widgets/Stats.js:50
+msgid "Statistics"
+msgstr "统计"
+
+#: src/components/admin/abstracts/Abstracts.js:989
+#: src/components/admin/events/Events.js:279
+#: src/components/admin/licenses/Licenses.js:197
+#: src/components/frontend/submissions/Submissions.js:673
+#: src/components/frontend/submissions/Submissions.js:967
+#: src/hooks/useAbstractColumns.js:260
+msgid "Status"
+msgstr "状态"
+
+#: src/components/admin/events/StatusManagement.js:93
+msgid "Status created successfully"
+msgstr "状态已成功更新"
+
+#: src/components/admin/events/StatusManagement.js:116
+msgid "Status deleted successfully"
+msgstr "已成功删除曲目"
+
+#: src/components/admin/events/StatusManagement.js:298
+#: src/components/admin/events/Wrapper.js:36
+msgid "Status Management"
+msgstr "许可证管理"
+
+#: src/components/admin/abstracts/Abstracts.js:570
+msgid "Status updated for {selectedRowKeys.length} abstracts successfully"
+msgstr "{selectedRowKeys.length}摘要状态已成功更新"
+
+#: src/components/admin/abstracts/Abstracts.js:423
+#: src/components/admin/events/StatusManagement.js:90
+msgid "Status updated successfully"
+msgstr "状态已成功更新"
+
+#: src/components/shared/abstracts/AbstractView.js:663
+msgid "Status:"
+msgstr "状态"
+
+#: src/Admin.js:169 src/components/admin/events/Wrapper.js:78
+msgid "Statuses"
+msgstr "状态"
+
+#: src/components/admin/users/Users.js:1222
+msgid "Steps to create a user:"
+msgstr "创建用户失败"
+
+#: src/components/admin/events/CreateEvent.js:179
+#: src/components/admin/events/EditEvent.js:225
+msgid "Street Address"
+msgstr "街道地址"
+
+#: src/components/admin/appearance/Appearance.js:718
+msgid "Strong"
+msgstr "强"
+
+#: src/components/admin/events/TerminologySettings.js:107
+#: inc/functions.php:148
+msgid "Submission"
+msgstr "提交"
+
+#: src/components/admin/events/TerminologySettings.js:67
+msgid "Submission authors"
+msgstr "投稿作者"
+
+#: src/components/admin/events/CreateEvent.js:121
+#: src/components/admin/events/EditEvent.js:168
+#: src/components/admin/events/Events.js:723
+msgid "Submission Deadline"
+msgstr "提交截止日期"
+
+#: src/hooks/useAbstractFormState.js:811
+msgid "Submission failed"
+msgstr "提交详细信息"
+
+#: src/components/admin/events/TerminologySettings.js:109
+msgid "Submission form references"
+msgstr "投稿作者"
+
+#: src/components/admin/abstracts/Settings.js:125
+msgid "Submission Limit per User"
+msgstr "投稿作者"
+
+#: src/components/admin/abstracts/Settings.js:149
+msgid "Submission Mode"
+msgstr "提交"
+
+#: src/components/shared/abstracts/AbstractView.js:595
+msgid "Submission Not Found"
+msgstr "投稿作者"
+
+#: src/index.js:254
+msgid "Submission Review"
+msgstr "提交评论"
+
+#: src/index.js:256
+msgid "Submission review functionality requires the Reviews add-on."
+msgstr "复习功能需要“复核”附加组件。"
+
+#: src/components/admin/events/TerminologySettings.js:108
+#: inc/functions.php:148
+msgid "Submissions"
+msgstr "提交"
+
+#: src/components/frontend/submissions/Submissions.js:825
+msgid "Submissions are closed for this event."
+msgstr "本次活动无需支付会议注册费。"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:489
+#: src/components/shared/abstracts/AbstractWizard.js:596
+msgid "Submit Abstract"
+msgstr "提交了摘要"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:488
+#: src/components/shared/abstracts/AbstractWizard.js:595
+msgid "Submit Draft"
+msgstr "提交"
+
+#: src/index.js:223
+msgid "Submit Review"
+msgstr "提交评论"
+
+#: src/state/dashboardSlice.js:39
+msgid "submitted a review"
+msgstr "完成了审查"
+
+#: src/state/frontendSlice.js:78
+msgid "Submitted a Review"
+msgstr "完成了审查"
+
+#: src/state/dashboardSlice.js:33
+msgid "submitted an abstract"
+msgstr "提交了摘要"
+
+#: src/state/frontendSlice.js:72
+msgid "Submitted an Abstract"
+msgstr "提交了摘要"
+
+#: src/components/admin/abstracts/Abstracts.js:982
+#: src/components/shared/abstracts/AbstractView.js:1389
+#: src/hooks/useAbstractColumns.js:234
+msgid "Submitted By"
+msgstr "提交自"
+
+#: src/components/frontend/submissions/Submissions.js:258
+msgid "Success"
+msgstr "成功"
+
+#: src/components/admin/appearance/Appearance.js:464
+msgid "Success Color"
+msgstr "成功信息颜色"
+
+#: src/components/shared/attachments/AbstractFileManager.js:95
+msgid "Supporting Documents"
+msgstr "支持性文件"
+
+#: src/components/admin/licenses/Licenses.js:150
+msgid "Suspended"
+msgstr "暂停"
+
+#: src/components/admin/users/Users.js:872
+msgid "Sync Users"
+msgstr "用户"
+
+#: src/components/admin/users/Users.js:869
+msgid "Sync users from WordPress"
+msgstr "链接到WordPress。"
+
+#: src/state/dashboardSlice.js:57 src/state/frontendSlice.js:96
+msgid "System"
+msgstr "系统默认"
+
+#: src/components/admin/appearance/Appearance.js:513
+msgid "System Default"
+msgstr "系统默认"
+
+#: src/Admin.js:137 src/components/admin/settings/Wrapper.js:67
+msgid "Terminology"
+msgstr ""
+"是否想将“ 1、2、3期”术语更改为其他内容？您可以在这里替换它。假设您输入“ Section”，则在此门户网站中将其设为“ Section "
+"1，2，3”。您还可以使用CSS从中删除数字（1、2、3 ...），%1$s方法如下%2$s。"
+
+#: src/components/admin/events/TerminologySettings.js:186
+msgid "Terminology Customization"
+msgstr "术语自定义"
+
+#: src/components/admin/settings/Wrapper.js:31
+msgid "Terminology Settings"
+msgstr "术语自定义"
+
+#: src/components/admin/events/TerminologySettings.js:163
+msgid "Terminology settings saved successfully"
+msgstr "术语设置成功保存"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:52
+msgid "Text Area"
+msgstr "文本区域"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:51
+msgid "Text Input"
+msgstr "文本输入"
+
+#: src/components/admin/abstracts/Abstracts.js:353
+msgid "The Exports add-on is required to export abstracts to PDF."
+msgstr "导出插件是导出摘要导出为 PDF 的必不可少。"
+
+#: src/components/shared/abstracts/AbstractView.js:596
+msgid "The requested submission could not be found."
+msgstr "但请求的投稿未能找到。"
+
+#: src/components/admin/users/Users.js:731
+msgid "The Reviewer role requires the"
+msgstr "评审者角色需要"
+
+#: src/components/admin/abstracts/Abstracts.js:598
+msgid ""
+"The Reviews service is not available. Please ensure the Reviews addon is "
+"activated and properly loaded."
+msgstr "评论服务不可用。请确保评论插件已正确加载。"
+
+#: src/components/frontend/submissions/Submissions.js:259
+msgid "The submission has been successfully deleted."
+msgstr "该帖子已被成功删除。"
+
+#: src/hooks/useAbstractFormState.js:434
+msgid ""
+"The track previously assigned to this %s no longer exists. Please select a "
+"valid track."
+msgstr ""
+"The track previously assigned to this %s no longer exists. Please select a "
+"valid track."
+
+#: src/components/admin/appearance/Appearance.js:288
+msgid "Theme Customization"
+msgstr "主题定制"
+
+#: src/components/admin/appearance/Appearance.js:107
+msgid "Theme settings saved successfully!"
+msgstr "主题设置成功保存！"
+
+#: src/components/shared/NotFound.js:8
+msgid "There is nothing here!"
+msgstr "这里什么都没有！"
+
+#: src/components/admin/abstracts/Abstracts.js:926
+msgid "These columns help you identify abstracts"
+msgstr "These columns help you identify abstracts"
+
+#: src/components/admin/users/Users.js:1032
+msgid "These columns help you identify users across events"
+msgstr "These columns help you identify users across events"
+
+#: src/components/admin/users/Users.js:1111
+msgid ""
+"These fields change based on the current event configuration. Default "
+"visibility is set by event administrators, but you can override these "
+"settings for your personal view."
+msgstr ""
+"These fields change based on the current event configuration. Default "
+"visibility is set by event administrators, but you can override these "
+"settings for your personal view."
+
+#: src/components/admin/users/Users.js:464
+#: src/components/frontend/submissions/Submissions.js:249
+msgid "This action cannot be undone."
+msgstr "这个操作无法撤销。"
+
+#: src/components/admin/appearance/Appearance.js:771
+msgid ""
+"This card demonstrates your layout settings including border radius and "
+"shadow intensity."
+msgstr "这张卡展示了你的布局设置，包括边框半径和阴影强度。"
+
+#: src/components/shared/attachments/AbstractFileManager.js:233
+msgid "This category requires at least one file"
+msgstr "该功能需要"
+
+#: src/Frontend.js:469
+msgid "This event is archived. Submissions are closed."
+msgstr "This event is archived. Submissions are closed."
+
+#: src/Frontend.js:456
+msgid ""
+"This event is no longer available. It may have been removed by an "
+"administrator."
+msgstr ""
+"This event is no longer available. It may have been removed by an "
+"administrator."
+
+#: inc/addons.php:207
+msgid "This feature"
+msgstr "此功能"
+
+#: src/components/admin/abstracts/Abstracts.js:274
+#: src/components/admin/abstracts/Abstracts.js:309
+msgid "This feature requires the"
+msgstr "该功能需要"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:245
+msgid "This field has conditional logic"
+msgstr "This field has conditional logic"
+
+#: src/components/admin/appearance/Appearance.js:656
+msgid ""
+"This is a sample paragraph showing how your typography settings will look. "
+"The quick brown fox jumps over the lazy dog."
+msgstr "这是一个示例段落，展示了你的排版设置将呈现的样貌。那只敏捷的棕色狐狸跳过了懒散的狗。"
+
+#: src/components/admin/users/Users.js:1307
+msgid "This will replace the existing roles for all selected users."
+msgstr ""
+
+#: src/components/admin/appearance/Appearance.js:831
+msgid ""
+"This will reset ALL theme settings to factory defaults. Any custom "
+"configurations will be lost. This action cannot be undone."
+msgstr ""
+"This will reset ALL theme settings to factory defaults. Any custom "
+"configurations will be lost. This action cannot be undone."
+
+#: src/components/shared/abstracts/AbstractView.js:1287
+msgid "Timeline"
+msgstr "时间线"
+
+#: src/components/admin/appearance/Appearance.js:522
+msgid "Times New Roman"
+msgstr "宋体"
+
+#: src/components/admin/abstracts/Abstracts.js:933
+#: src/components/frontend/submissions/Submissions.js:600
+#: src/hooks/useAbstractColumns.js:62
+msgid "Title"
+msgstr "标题"
+
+#: src/components/admin/licenses/Licenses.js:253
+msgid "to continue receiving updates and support."
+msgstr "以便继续接收更新和支持。"
+
+#: src/components/admin/users/Users.js:1215
+msgid ""
+"To create a new user, please use the WordPress user management system. "
+"SimplyConf focuses on managing conference-specific user data and custom "
+"fields."
+msgstr ""
+"To create a new user, please use the WordPress user management system. "
+"SimplyConf focuses on managing conference-specific user data and custom "
+"fields."
+
+#: src/components/admin/abstracts/Authors.js:507
+msgid "total"
+msgstr "总计"
+
+#: src/components/admin/dashboard/Dashboard.js:611
+#: src/components/shared/attachments/AbstractFileManager.js:316
+msgid "Total"
+msgstr "总计"
+
+#: src/components/admin/users/UserStatsCards.js:94
+msgid "Total %s"
+msgstr "总计"
+
+#: src/components/admin/dashboard/Dashboard.js:407
+msgid "total sessions"
+msgstr "全部提交"
+
+#: src/components/admin/events/Events.js:928
+msgid "Total Submissions"
+msgstr "全部提交"
+
+#: src/components/admin/events/TerminologySettings.js:83 inc/functions.php:147
+msgid "Track"
+msgstr "跟踪"
+
+#: src/components/admin/users/Users.js:281
+#: src/components/admin/users/Users.js:667
+#: src/components/admin/users/Users.js:845
+#: src/components/admin/users/Users.js:1320
+msgid "Track Chair"
+msgstr "赛道主席"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:131
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:141
+#: src/components/admin/tracks/Tracks.js:223
+msgid "Track chair assigned successfully"
+msgstr "轨道座椅成功分配"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:114
+msgid "Track chair assignment not available"
+msgstr "轨道座椅成功分配"
+
+#: src/index.js:239
+msgid "Track chair management requires the Reviews add-on."
+msgstr "复习功能需要“复核”附加组件。"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:167
+#: src/components/admin/tracks/Tracks.js:234
+msgid "Track chair unassigned successfully"
+msgstr "轨道主席未分配"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:158
+msgid "Track chair unassignment not available"
+msgstr "轨道主席未分配"
+
+#: src/components/admin/tracks/Tracks.js:354
+#: src/components/admin/users/UserStatsCards.js:110
+msgid "Track Chairs"
+msgstr "田径椅"
+
+#: src/components/admin/tracks/Tracks.js:606
+msgid "Track Information"
+msgstr "基本信息"
+
+#: src/index.js:237
+msgid "Track Management"
+msgstr "← 返回登录"
+
+#: src/components/admin/tracks/Tracks.js:613
+msgid "Track Name"
+msgstr "曲目名称"
+
+#: src/hooks/useAbstractFormState.js:557
+msgid "Track selection is required"
+msgstr "需要标签"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:99
+msgid "Track Submissions"
+msgstr "全部提交"
+
+#: src/components/admin/tracks/Tracks.js:569
+msgid "tracks"
+msgstr "曲目"
+
+#: src/components/admin/events/TerminologySettings.js:84
+#: src/components/admin/onboarding/OnboardingWizard.js:252
+#: inc/functions.php:147
+msgid "Tracks"
+msgstr "曲目"
+
+#: src/components/admin/tracks/Tracks.js:277
+msgid "tracks deleted successfully"
+msgstr "已成功删除曲目"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:360
+msgid ""
+"Tracks organize submissions by topic. Add at least one track for authors to "
+"submit to."
+msgstr ""
+"Tracks organize submissions by topic. Add at least one track for authors to "
+"submit to."
+
+#: src/components/admin/dashboard/Dashboard.js:307
+msgid "triggers"
+msgstr "触发器"
+
+#: src/components/shared/ErrorBoundary.js:124
+msgid "Try Again"
+msgstr "重试"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:232
+msgid "Type"
+msgstr "类型"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:481
+msgid "Type is required"
+msgstr "类型要求"
+
+#: src/components/shared/attachments/FilePreview.js:209
+msgid "Type:"
+msgstr "类型："
+
+#: src/components/admin/appearance/Appearance.js:621
+msgid "Typography Preview"
+msgstr "排版预览"
+
+#: src/components/shared/abstracts/AbstractWizard.js:547
+msgid "Unable to load preview"
+msgstr "载入预览失败"
+
+#: src/components/admin/events/Events.js:318
+msgid "Unarchive"
+msgstr "取消归档"
+
+#: src/components/admin/events/Events.js:418
+msgid "unarchived"
+msgstr "未存档"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:258
+msgid "Unassign"
+msgstr "分配"
+
+#: src/components/frontend/submissions/Submissions.js:499
+#: src/components/shared/abstracts/AbstractView.js:408
+#: src/hooks/useAbstractColumns.js:244 src/hooks/useAbstractColumns.js:314
+msgid "Unknown"
+msgstr "未知"
+
+#: src/components/frontend/submissions/Submissions.js:512
+msgid "Unknown (ID: {status})"
+msgstr "未知（编号：{status}）"
+
+#: src/components/shared/abstracts/AbstractView.js:421
+msgid "Unknown (ID: %s)"
+msgstr "未知（编号：{status}）"
+
+#: src/components/shared/abstracts/AbstractView.js:295
+#: src/components/shared/abstracts/AbstractView.js:298
+msgid "Unknown Event"
+msgstr "未知事件"
+
+#: src/components/shared/abstracts/AbstractView.js:281
+#: src/components/shared/abstracts/AbstractView.js:285
+msgid "Unknown Track"
+msgstr "未知"
+
+#: src/components/admin/abstracts/Attachments.js:262
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:273
+#: src/components/shared/abstracts/AbstractView.js:1395
+#: routes/attachments.php:188 routes/attachments.php:226
+msgid "Unknown User"
+msgstr "未知"
+
+#: src/components/frontend/submissions/Submissions.js:616
+msgid "Untitled"
+msgstr "无标题"
+
+#: src/components/shared/abstracts/AbstractView.js:648
+msgid "Untitled %s"
+msgstr "无标题 %s"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:486
+#: src/components/shared/abstracts/AbstractWizard.js:593
+msgid "Update Abstract"
+msgstr "更新WP摘要"
+
+#: src/hooks/useAbstractFormState.js:810
+msgid "Update failed"
+msgstr "更新个人资料"
+
+#: src/components/frontend/auth/Profile.js:146
+msgid "Update Profile"
+msgstr "更新个人资料"
+
+#: src/components/admin/users/Users.js:759
+msgid "Update Roles"
+msgstr "更新角色"
+
+#: inc/addons.php:159
+msgid "Update SimplyConf"
+msgstr "Update SimplyConf"
+
+#: src/components/admin/abstracts/Abstracts.js:1112
+msgid "Update Status"
+msgstr "更新状态"
+
+#: src/components/admin/users/EditUser.js:131
+#: src/components/shared/users/UserWizard.js:164
+msgid "Update User"
+msgstr "更新用户"
+
+#: src/state/dashboardSlice.js:38
+msgid "updated a review"
+msgstr "完成了审查"
+
+#: src/state/frontendSlice.js:77
+msgid "Updated a Review"
+msgstr "完成了审查"
+
+#: src/state/dashboardSlice.js:32
+msgid "updated an abstract"
+msgstr "提交了摘要"
+
+#: src/state/frontendSlice.js:71
+msgid "Updated an Abstract"
+msgstr "提交了摘要"
+
+#: src/components/shared/UpgradePrompt.js:40
+msgid "Upgrade Plan"
+msgstr "Upgrade Plan"
+
+#: src/components/shared/UpgradePrompt.js:36
+msgid ""
+"Upgrade your plan to unlock advanced features like Reviews, Emails, "
+"Schedules, Payments, and more."
+msgstr "通过安装相应的插件，解锁评价、邮件、日程、付款和分析等高级功能。"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:606
+msgid "Upload a PDF or Word document (max 50MB)"
+msgstr "Upload a PDF or Word document (max 50MB)"
+
+#: src/components/shared/attachments/DocumentsStep.js:208
+msgid "Upload Documents"
+msgstr "上传文档"
+
+#: src/components/shared/attachments/AbstractFileManager.js:129
+msgid "Upload documents related to your review"
+msgstr "上传与你评审相关的文件"
+
+#: src/components/shared/attachments/FileUpload.js:102
+msgid "Upload failed"
+msgstr "上传失败"
+
+#: src/components/frontend/attachments/Attachments.js:380
+msgid "Upload files when creating or editing your %s."
+msgstr "创建或编辑%s时上传文件。"
+
+#: src/components/admin/abstracts/Settings.js:312
+msgid "Upload Limit"
+msgstr "上传限制"
+
+#: src/components/admin/appearance/Appearance.js:407
+msgid "Upload Logo"
+msgstr "上传Logo"
+
+#: src/components/admin/appearance/Appearance.js:434
+msgid "Upload or enter a logo URL to see preview"
+msgstr "上传与你评审相关的文件"
+
+#: src/components/admin/appearance/Appearance.js:390
+msgid "Upload or enter the URL of your organization logo"
+msgstr "上传或输入您的组织标志网址"
+
+#: src/components/shared/attachments/AbstractFileManager.js:67
+msgid "Upload supporting documents for your abstract submission"
+msgstr "上传摘要提交所需的支持文件"
+
+#: src/components/shared/attachments/DocumentsStep.js:219
+msgid "Upload supporting documents for your abstract. Accepted formats: %s."
+msgstr "上传摘要所需的支持文件。接受的格式：PDF、Word、PowerPoint、JPEG、PNG。"
+
+#: src/components/admin/abstracts/Attachments.js:245
+#: src/components/frontend/attachments/Attachments.js:283
+#: src/components/shared/abstracts/AbstractView.js:513
+msgid "Uploaded"
+msgstr "上传"
+
+#: src/state/dashboardSlice.js:48
+msgid "uploaded a file"
+msgstr "已上传文件"
+
+#: src/state/frontendSlice.js:87
+msgid "Uploaded a File"
+msgstr "已上传文件"
+
+#: src/components/admin/abstracts/Attachments.js:258
+msgid "Uploaded By"
+msgstr "上传者"
+
+#: src/components/shared/attachments/DocumentsStep.js:298
+msgid "Uploaded Files"
+msgstr "已上传文件"
+
+#: src/components/shared/attachments/DocumentsStep.js:286
+msgid "Uploading %s..."
+msgstr "上传中..."
+
+#: src/components/shared/attachments/FileUpload.js:167
+#: src/components/shared/customFields/CustomFieldFileUpload.js:201
+msgid "Uploading..."
+msgstr "上传中..."
+
+#: src/components/admin/users/Settings.js:151
+msgid "URL where users are redirected after successful login"
+msgstr "URL where users are redirected after successful login"
+
+#: src/components/admin/events/StatusManagement.js:375
+msgid "Use \"Initialize Default Statuses\" in the page header to get started"
+msgstr "请在页面头部使用“初始化默认状态”来开始"
+
+#: src/components/shared/abstracts/AuthorManagement.js:247
+msgid ""
+"Use the up/down buttons to reorder authors. The first author is considered "
+"the lead author."
+msgstr "使用上下按钮重新排序作者。第一作者被视为第一作者。"
+
+#: src/components/admin/appearance/Appearance.js:217
+msgid "Use this image"
+msgstr "Use this image"
+
+#: src/components/admin/events/StatusManagement.js:508
+msgid "Used for new submissions"
+msgstr "新投稿的默认状态"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:465
+msgid "Used internally - should be unique and contain no spaces"
+msgstr "内部使用——应当是唯一且不包含空格的"
+
+#: src/components/admin/events/TerminologySettings.js:113
+#: inc/functions.php:151
+msgid "User"
+msgstr "用户"
+
+#: src/components/admin/events/TerminologySettings.js:115
+msgid "User account references"
+msgstr "附件"
+
+#: src/components/admin/users/Users.js:1211
+msgid "User Creation in WordPress"
+msgstr "链接到WordPress。"
+
+#: src/components/admin/users/FormBuilder.js:14
+#: src/components/admin/users/Wrapper.js:32
+msgid "User Custom Fields"
+msgstr "用户自定义字段"
+
+#: src/components/admin/dashboard/DashboardSetup.js:122
+msgid "User Dashboard"
+msgstr "仪表盘"
+
+#: src/components/admin/users/ViewUser.js:105
+msgid "User Information"
+msgstr "用户信息"
+
+#: src/components/frontend/auth/Register.js:590
+msgid ""
+"User registration is currently disabled. Please contact the administrator if"
+" you need an account."
+msgstr ""
+"User registration is currently disabled. Please contact the administrator if"
+" you need an account."
+
+#: src/components/admin/users/Settings.js:504
+#: src/components/admin/users/Wrapper.js:30
+msgid "User Settings"
+msgstr "用户设置"
+
+#: src/components/admin/users/EditUser.js:83
+msgid "User updated successfully"
+msgstr "状态已成功更新"
+
+#: src/components/shared/users/UserWizard.js:108
+msgid "User updated successfully!"
+msgstr "状态已成功更新"
+
+#: src/components/admin/users/Users.js:208
+#: src/components/admin/users/Users.js:1077
+msgid "Username"
+msgstr "用户名"
+
+#: src/components/frontend/auth/Login.js:184
+msgid "Username or Email"
+msgstr "用户名或电子邮件"
+
+#: src/components/admin/events/TerminologySettings.js:114
+#: inc/functions.php:151 classes/admin-menu.php:58 classes/admin-menu.php:59
+msgid "Users"
+msgstr "用户"
+
+#: src/components/admin/users/Users.js:476
+msgid "users deleted successfully"
+msgstr "用户已成功删除"
+
+#: src/components/admin/licenses/Licenses.js:236
+msgid "Validate Now"
+msgstr "立即验证"
+
+#: src/components/admin/licenses/Licenses.js:124
+msgid "Validation failed"
+msgstr "验证失败"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:833
+msgid "Value"
+msgstr "Value"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:825
+msgid "Value is required"
+msgstr "名称是必需的"
+
+#: src/components/shared/attachments/FilePreview.js:222
+msgid "Version:"
+msgstr "版本："
+
+#: src/components/admin/abstracts/Attachments.js:409
+#: src/components/shared/attachments/FileList.js:340
+msgid "Videos"
+msgstr "视频"
+
+#: src/components/admin/abstracts/Authors.js:451
+#: src/components/admin/dashboard/DashboardSetup.js:174
+#: src/components/admin/events/Events.js:304
+#: src/components/admin/users/Users.js:335
+#: src/components/frontend/submissions/Submissions.js:551
+#: src/hooks/useAbstractColumns.js:388
+msgid "View"
+msgstr "查看"
+
+#: src/components/admin/abstracts/Authors.js:700
+msgid "View %s"
+msgstr "查看 %s"
+
+#: src/components/admin/users/Users.js:284
+#: src/components/admin/users/Users.js:676
+#: src/components/admin/users/Users.js:854
+#: src/components/admin/users/Users.js:1331
+msgid "Viewer"
+msgstr "查看器"
+
+#: src/components/admin/users/UserStatsCards.js:149
+msgid "Viewers"
+msgstr "查看器"
+
+#: src/components/admin/appearance/Appearance.js:830
+msgid "Warning"
+msgstr "警告颜色"
+
+#: src/components/admin/appearance/Appearance.js:475
+msgid "Warning Color"
+msgstr "警告颜色"
+
+#: src/components/admin/appearance/Appearance.js:840
+msgid ""
+"We recommend exporting your current settings before resetting, so you can "
+"restore them later if needed."
+msgstr ""
+"We recommend exporting your current settings before resetting, so you can "
+"restore them later if needed."
+
+#: src/components/shared/ErrorBoundary.js:117
+msgid ""
+"We're sorry for the inconvenience. The page will reload automatically or you"
+" can try again."
+msgstr "对给你带来不便我们深感抱歉。页面会自动加载，或者你可以重新尝试。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:250
+msgid "Welcome"
+msgstr "欢迎"
+
+#: src/components/frontend/auth/Login.js:141
+msgid "Welcome Back"
+msgstr "欢迎回来"
+
+#: src/components/admin/dashboard/Dashboard.js:159
+msgid "Welcome to SimplyConf Admin Panel"
+msgstr "欢迎来到WP摘要管理面板"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:263
+msgid "Welcome to SimplyConf!"
+msgstr "欢迎来到WP摘要管理面板"
+
+#: src/components/admin/events/CreateEvent.js:157
+#: src/components/admin/events/EditEvent.js:203
+msgid ""
+"When enabled, accepted authors must complete a paid conference registration "
+"managed by the Payments add-on."
+msgstr "被录取的作者必须完成由支付附加组件管理的付费会议注册。"
+
+#: src/components/admin/users/Users.js:1257
+msgid "Why this approach?"
+msgstr "Why this approach?"
+
+#: src/components/admin/abstracts/Settings.js:368
+msgid "Word (DOC/DOCX)"
+msgstr "Word (DOC/DOCX)"
+
+#: src/components/shared/abstracts/AbstractView.js:1375
+msgid "Word Count"
+msgstr "字数"
+
+#: src/components/admin/appearance/Appearance.js:244
+msgid "WordPress Media Library not available"
+msgstr "WordPress Media Library not available"
+
+#: src/components/admin/users/Users.js:1259
+msgid ""
+"WordPress provides robust user management with security features, email "
+"notifications, and proper user account handling. SimplyConf enhances this "
+"with conference-specific custom fields and role management."
+msgstr ""
+"WordPress provides robust user management with security features, email "
+"notifications, and proper user account handling. SimplyConf enhances this "
+"with conference-specific custom fields and role management."
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:262
+#: src/components/shared/abstracts/AbstractSinglePage.js:303
+#: src/components/shared/abstracts/AbstractWizard.js:303
+#: src/components/shared/abstracts/AbstractWizard.js:341
+msgid "words"
+msgstr "关键词"
+
+#: src/components/admin/abstracts/Authors.js:387
+#: src/components/admin/abstracts/Authors.js:631
+msgid "WP Account"
+msgstr "账户"
+
+#: src/components/admin/abstracts/Authors.js:724
+#: src/components/admin/events/StatusManagement.js:260
+#: src/components/admin/users/Users.js:238
+#: src/components/admin/users/ViewUser.js:55
+#: src/components/frontend/submissions/Submissions.js:652
+#: src/components/shared/abstracts/AbstractView.js:854
+#: src/components/shared/abstracts/AbstractView.js:1202
+#: src/components/shared/customFields/CustomFieldsAdmin.js:261
+#: src/components/shared/customFields/CustomFieldsAdmin.js:267
+#: src/components/shared/customFields/CustomFieldsAdmin.js:273
+#: src/components/shared/customFields/CustomFieldsAdmin.js:282
+msgid "Yes"
+msgstr "是"
+
+#: src/components/frontend/submissions/Submissions.js:250
+msgid "Yes, Delete"
+msgstr "是的，删除"
+
+#: src/components/shared/abstracts/AuthorManagement.js:162
+msgid "Yes, Remove"
+msgstr "是的，删除"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:298
+msgid "You accept, reject, or request revisions"
+msgstr "You accept, reject, or request revisions"
+
+#: inc/addons.php:156
+msgid "You are running version %s."
+msgstr "你使用的是%s版。"
+
+#: src/components/admin/licenses/Licenses.js:402
+msgid "You can deactivate and transfer licenses between sites"
+msgstr "您可以在站点之间停用和转移许可证"
+
+#: src/components/admin/appearance/Appearance.js:809
+msgid ""
+"You can export your current settings before applying a preset to restore "
+"them for later."
+msgstr ""
+"You can export your current settings before applying a preset to restore "
+"them for later."
+
+#: src/components/shared/attachments/DocumentsStep.js:255
+msgid "You can upload up to %d more file(s)"
+msgstr "你可以上传最多%d个更多文件"
+
+#: src/components/admin/abstracts/Abstracts.js:237
+#: src/components/frontend/submissions/Submissions.js:855
+#: src/hooks/useAbstractFormState.js:314
+msgid "You have reached the maximum submission limit of %d %s for this event."
+msgstr ""
+"You have reached the maximum submission limit of %d %s for this event."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:560
+msgid "You're All Set!"
+msgstr "You're All Set!"
+
+#: src/components/shared/attachments/FilePreview.js:154
+msgid "Your browser does not support audio playback."
+msgstr "你的浏览器不支持音频播放。"
+
+#: src/components/shared/attachments/FilePreview.js:146
+msgid "Your browser does not support video playback."
+msgstr "您的浏览器不支持视频播放。"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:522
+msgid "Your dashboard page is ready."
+msgstr "Your dashboard page is ready."
+
+#: src/components/admin/dashboard/DashboardSetup.js:155
+msgid "Your dashboard page is set up and ready to use."
+msgstr "Your dashboard page is set up and ready to use."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:562
+msgid ""
+"Your event is configured and ready to accept submissions. Here are your next"
+" steps:"
+msgstr ""
+"Your event is configured and ready to accept submissions. Here are your next"
+" steps:"
+
+#: src/components/admin/licenses/Licenses.js:245
+msgid "Your license has expired. Please"
+msgstr "您的许可证已过期"
+
+#: src/components/admin/appearance/Appearance.js:380
+msgid "Your Organization Name"
+msgstr "您的组织名称"
+
+#: src/components/frontend/auth/Register.js:335
+msgid "your.email@example.com"
+msgstr "your.email@example.com"
+
+#~ msgid "{range0}-{range1} of {total} {abstracts}"
+#~ msgstr "{range0}{range1}{total} {abstracts}"
+
+#~ msgid "{range0}-{range1} of {total} {users}"
+#~ msgstr "{range0}{range1}{total} {users}"
+
+#~ msgid "{range0}-{range1} of {total} tracks"
+#~ msgstr "{total}曲{range0}{range1}"
+
+#~ msgid "%d-%d of %d files"
+#~ msgstr "%d-% %d 文件"
+
+#~ msgid "%d-%d of %d submissions"
+#~ msgstr "%d-% %d 文件"
+
+#~ msgid "%s ID: #%s"
+#~ msgstr "ID: %s"
+
+#~ msgid ""
+#~ "⚠️ No users with 'track_chair' role found. Please assign the track_chair "
+#~ "role to users in the Users section first."
+#~ msgstr "⚠️ 未找到具有“track_chair”角色的用户。请首先在“用户”部分中将 track_chair 角色分配给用户。"
+
+#~ msgid "⚠️ Red tags indicate users who no longer have track_chair role"
+#~ msgstr "⚠️ 红色标签表示已不再担任track_chair角色的用户"
+
+#~ msgid "✓ Author Found"
+#~ msgstr "✓ 作者已找到"
+
+#~ msgid "📝 Abstract Content Settings"
+#~ msgstr "注册设置"
+
+#~ msgid "Access"
+#~ msgstr "访问"
+
+#~ msgid "Access Level"
+#~ msgstr "访问级别"
+
+#~ msgid "Access your submissions, reviews, and conference management tools"
+#~ msgstr "访问您的投稿、评论和会议管理工具"
+
+#~ msgid "Activate Pro License"
+#~ msgstr "激活专业许可证"
+
+#~ msgid "Advanced Reviews"
+#~ msgstr "高级评论"
+
+#~ msgid "All Access"
+#~ msgstr "会员"
+
+#~ msgid "All Purposes"
+#~ msgstr "所有用途"
+
+#~ msgid "Allow more than one corresponding author per abstract"
+#~ msgstr "每个摘要允许多名通讯作者"
+
+#~ msgid "Allow Multiple Corresponding Authors"
+#~ msgstr "允许多位通讯作者"
+
+#~ msgid "Allow users to add author information to their submissions"
+#~ msgstr "允许用户在投稿中添加作者信息"
+
+#~ msgid ""
+#~ "Are you sure you want to deactivate your pro license? This will disable pro "
+#~ "features."
+#~ msgstr "你确定要停用你的专业驾照吗？这会禁用专业版功能。"
+
+#~ msgid "Are you sure you want to leave? Your changes will be auto-saved."
+#~ msgstr "你确定要停用你的专业驾照吗？这会禁用专业版功能。"
+
+#~ msgid "Assign Reviewers to %d %s"
+#~ msgstr "分配审稿人"
+
+#~ msgid "Assign Track Chairs to {selectedRowKeys.length} Tracks"
+#~ msgstr "将轨道主席分配到{selectedRowKeys.length}轨道"
+
+#~ msgid "Attachment Settings"
+#~ msgstr "附件设置"
+
+#~ msgid "Attachments (%d)"
+#~ msgstr "附件"
+
+#~ msgid "Author Management"
+#~ msgstr "许可证管理"
+
+#~ msgid "Back to My %s"
+#~ msgstr "返回登录"
+
+#~ msgid "Back to Tracks"
+#~ msgstr "返回登录"
+
+#~ msgid "Branding"
+#~ msgstr "品牌"
+
+#~ msgid "Cannot assign users without track_chair role: {invalidUsers}"
+#~ msgstr "无法在没有track_chair角色的情况下分配用户：{invalidUsers}"
+
+#~ msgid "Choose a unique username"
+#~ msgstr "选择一个独特的用户名"
+
+#~ msgid "Click to Upload Logo"
+#~ msgstr "点击上传标志"
+
+#~ msgid "Colors"
+#~ msgstr "颜色"
+
+#~ msgid "Complete"
+#~ msgstr "完成"
+
+#~ msgid "Conference Registration"
+#~ msgstr "会议注册费"
+
+#~ msgid ""
+#~ "Configure custom fields for author information. All authors will use these "
+#~ "fields to provide additional details like affiliation, ORCID, country, etc. "
+#~ "Default fields (Affiliation, ORCID, Country, Department) are automatically "
+#~ "created for new events."
+#~ msgstr ""
+#~ "配置作者信息的自定义字段。所有作者都会使用这些字段提供额外信息，如隶属关系、ORCID、国家等。默认字段（隶属、ORCID、国家、部门）会自动为新事件创建。"
+
+#~ msgid "Continue to Review"
+#~ msgstr "正在审查"
+
+#~ msgid "Corresponding"
+#~ msgstr "待定"
+
+#~ msgid "Create {getTerm('abstract', 1)}"
+#~ msgstr "创建 {getTerm('abstract', 1)}"
+
+#~ msgid "Create a strong password (min. 6 characters)"
+#~ msgstr "创建一个强密码（最低6字符）"
+
+#~ msgid "Create Event"
+#~ msgstr "创建活动"
+
+#~ msgid "Create User"
+#~ msgstr "创建登录账号"
+
+#~ msgid "Created:"
+#~ msgstr "创建："
+
+#~ msgid "Current Preset:"
+#~ msgstr "当前预设："
+
+#~ msgid "Customize the appearance of your WordPress Abstracts site"
+#~ msgstr "自定义你的WordPress摘要网站外观"
+
+#~ msgid "CV"
+#~ msgstr "简历"
+
+#~ msgid "Debug Form Values"
+#~ msgstr "调试表单值"
+
+#~ msgid "Delete Selected ({selectedRowKeys.length})"
+#~ msgstr "删除已选中（{selectedRowKeys.length}）"
+
+#~ msgid "Disabled"
+#~ msgstr "禁用"
+
+#~ msgid "Document Upload"
+#~ msgstr "文档"
+
+#~ msgid "Document Upload Disabled"
+#~ msgstr "文档上传已禁用"
+
+#~ msgid "Document uploads have been disabled for this event."
+#~ msgstr "本次活动没有创建自定义字段"
+
+#~ msgid "Each license can be activated on up to 3 sites (may vary by plan)"
+#~ msgstr "每个许可证最多可以在 3 个站点上激活（可能因计划而异）"
+
+#~ msgid "Email Templates"
+#~ msgstr "邮件模板"
+
+#~ msgid "Enable Author Fields"
+#~ msgstr "用户自定义字段"
+
+#~ msgid "Enter author email to check if they exist"
+#~ msgstr "输入您的电子邮件以接收重置指示"
+
+#~ msgid "Enter your basic account information to get started."
+#~ msgstr "输入您的基本账户信息即可开始。"
+
+#~ msgid "Expires:"
+#~ msgstr "过期："
+
+#~ msgid "Export Settings"
+#~ msgstr "导出设置"
+
+#~ msgid "Failed to assign chairs to some tracks"
+#~ msgstr "部分轨道未能分配座椅"
+
+#~ msgid "Failed to assign reviewers to some abstracts"
+#~ msgstr "未能为某些摘要分配审稿人"
+
+#~ msgid "Failed to load attachments"
+#~ msgstr "未能保存主题设置"
+
+#~ msgid "Failed to load current reviewers"
+#~ msgstr "未能保存主题设置"
+
+#~ msgid "Failed to load settings"
+#~ msgstr "未能保存主题设置"
+
+#~ msgid "Failed to save progress, but you can continue"
+#~ msgstr "没能保存进度，但你可以继续"
+
+#~ msgid "Failed to update reviewers"
+#~ msgstr "未能更新用户角色"
+
+#~ msgid "Filter Status:"
+#~ msgstr "按状态检索"
+
+#~ msgid "found"
+#~ msgstr "找到"
+
+#~ msgid "Go Back"
+#~ msgstr "返回"
+
+#~ msgid "Image uploaded successfully"
+#~ msgstr "图片已成功上传"
+
+#~ msgid "Invalid format. Expected: SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr "许可证密钥格式无效。预期格式：WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid ""
+#~ "Invalid license key format. Expected format: SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr "许可证密钥格式无效。预期格式：WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid "Invalid response from server"
+#~ msgstr "服务器的响应无效"
+
+#~ msgid "Layout"
+#~ msgstr "布局"
+
+#~ msgid "License deactivated."
+#~ msgstr "许可证已注销。"
+
+#~ msgid "License:"
+#~ msgstr "许可证："
+
+#~ msgid "Live Preview"
+#~ msgstr "实时预览"
+
+#~ msgid "Loading assignments..."
+#~ msgstr "载入文件中..."
+
+#~ msgid "Loading files..."
+#~ msgstr "载入文件中..."
+
+#~ msgid "Manage your"
+#~ msgstr "管理你的"
+
+#~ msgid "My"
+#~ msgstr "我的"
+
+#~ msgid "My Track"
+#~ msgstr "跟踪"
+
+#~ msgid "My Tracks"
+#~ msgstr "跟踪"
+
+#~ msgid "Name:"
+#~ msgstr "名称："
+
+#~ msgid "New installations have a 30-day trial period"
+#~ msgstr "新安装有 30 天的试用期"
+
+#~ msgid "New Track"
+#~ msgstr "新建曲目"
+
+#~ msgid "No chairs assigned"
+#~ msgstr "未分配椅子"
+
+#~ msgid "No matching users found"
+#~ msgstr "未找到匹配用户"
+
+#~ msgid "No reviewers currently assigned."
+#~ msgstr "选择评审员指派"
+
+#~ msgid "No tracks assigned"
+#~ msgstr "未分配椅子"
+
+#~ msgid "No users with track_chair role found."
+#~ msgstr "未找到track_chair角色的用户。"
+
+#~ msgid "Notification Settings"
+#~ msgstr "通知设置"
+
+#~ msgid "Other"
+#~ msgstr "其他"
+
+#~ msgid "Overview"
+#~ msgstr "评论"
+
+#~ msgid "Payments Add-On"
+#~ msgstr "支付"
+
+#~ msgid "Pending"
+#~ msgstr "待定"
+
+#~ msgid "Pending %s"
+#~ msgstr "待定"
+
+#~ msgid "Pending Review"
+#~ msgstr "等待审核"
+
+#~ msgid "Please assign track_chair role to users first."
+#~ msgstr "请先将track_chair角色分配给用户。"
+
+#~ msgid "Please enable the Reviews add-on to manage reviewers."
+#~ msgstr "请安装并激活评论插件以分配审核员和管理评论。"
+
+#~ msgid "Please enter a username"
+#~ msgstr "请输入用户名"
+
+#~ msgid "Please select at least one reviewer"
+#~ msgstr "请至少选择一位评审"
+
+#~ msgid "Please select at least one track chair"
+#~ msgstr "请至少选择一把轨道椅"
+
+#~ msgid "Poster"
+#~ msgstr "海报"
+
+#~ msgid "Presentation"
+#~ msgstr "演示"
+
+#~ msgid "Priority Support"
+#~ msgstr "优先支持"
+
+#~ msgid "Private"
+#~ msgstr "私有"
+
+#~ msgid "Pro Features:"
+#~ msgstr "专业版特色："
+
+#~ msgid "Professional"
+#~ msgstr "专业"
+
+#~ msgid "Public"
+#~ msgstr "公开"
+
+#~ msgid "Recently"
+#~ msgstr "最近活动"
+
+#~ msgid "Recover unsaved work?"
+#~ msgstr "恢复未保存的工作？"
+
+#~ msgid "Registration successful! Please check your email to confirm."
+#~ msgstr "注册成功！请查看您的电子邮件以确认。"
+
+#~ msgid "Rejected"
+#~ msgstr "拒绝"
+
+#~ msgid "Retry"
+#~ msgstr "重试"
+
+#~ msgid "Review Progress"
+#~ msgstr "审核人"
+
+#~ msgid "Review submissions as needed"
+#~ msgstr "根据需要审核提交"
+
+#~ msgid "Reviewer Health"
+#~ msgstr "评论家"
+
+#~ msgid "Reviewers Only"
+#~ msgstr "审核人"
+
+#~ msgid "reviews, and profile from your personalized dashboard."
+#~ msgstr "来自个性化仪表盘的评论和个人资料。"
+
+#~ msgid "Save Theme Settings"
+#~ msgstr "保存主题设置"
+
+#~ msgid "Schedules Add-On"
+#~ msgstr "Schedules Builder 插件"
+
+#~ msgid "Schedules Builder"
+#~ msgstr "日程编辑器"
+
+#~ msgid "Search"
+#~ msgstr "搜索"
+
+#~ msgid "Search by Email"
+#~ msgstr "搜索模板电子邮件"
+
+#~ msgid "Search by title or author..."
+#~ msgstr "用户名或电子邮件"
+
+#~ msgid "Select one or more reviewers"
+#~ msgstr "选择一个或多个轨道椅"
+
+#~ msgid "Select one or more track chairs"
+#~ msgstr "选择一个或多个轨道椅"
+
+#~ msgid "Select presentation roles for this author:"
+#~ msgstr "为该用户选择角色："
+
+#~ msgid "Select Reviewers"
+#~ msgstr "审核人"
+
+#~ msgid "Select reviewers to assign"
+#~ msgstr "选择评审员指派"
+
+#~ msgid "Select Reviewers:"
+#~ msgstr "审核人"
+
+#~ msgid "Select track chairs"
+#~ msgstr "部分轨道椅"
+
+#~ msgid "Select Track Chairs"
+#~ msgstr "精选田径主席"
+
+#~ msgid ""
+#~ "Select track chairs to assign to all {selectedRowKeys.length} selected "
+#~ "tracks. The selected chairs will be added to all tracks."
+#~ msgstr "选择轨道椅分配给所有{selectedRowKeys.length}已选中的轨道。被选中的椅子将被添加到所有轨道上。"
+
+#~ msgid "Select users to assign as track chairs for this track."
+#~ msgstr "选择用户为该轨道分配轨道椅。"
+
+#~ msgid "Server returned invalid response (not JSON)"
+#~ msgstr "服务器返回了无效响应（非 JSON）"
+
+#~ msgid "Showing {trackChairUsers.length} user(s) with track_chair role"
+#~ msgstr "显示{trackChairUsers.length}个track_chair角色的用户"
+
+#~ msgid "SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr "WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid "Submit and manage your abstracts"
+#~ msgstr "提交和管理你的摘要"
+
+#~ msgid ""
+#~ "Successfully assigned {bulkSelectedChairs.length} chair(s) to "
+#~ "{selectedRowKeys.length} track(s)"
+#~ msgstr "成功分配{bulkSelectedChairs.length}教授至{selectedRowKeys.length}轨道"
+
+#~ msgid ""
+#~ "Successfully assigned {selectedReviewers.length} reviewer(s) to "
+#~ "{selectedRowKeys.length} abstract(s)"
+#~ msgstr "已成功分配{selectedReviewers.length}评审者{selectedRowKeys.length}摘要"
+
+#~ msgid "Supporting Doc"
+#~ msgstr "配角医生"
+
+#~ msgid "There was an error updating the settings. Please try again."
+#~ msgstr "没能删除帖子。请再试一次。"
+
+#~ msgid "Track chairs updated successfully"
+#~ msgstr "轨道座椅已成功更新"
+
+#~ msgid "Track your conference progress"
+#~ msgstr "跟踪你的会议进展"
+
+#~ msgid "Try adjusting your search or filters"
+#~ msgstr "试着调整你的搜索或筛选"
+
+#~ msgid "Unknown Author"
+#~ msgstr "未知"
+
+#~ msgid "Unsaved Changes"
+#~ msgstr "未保存的更改"
+
+#~ msgid ""
+#~ "Upload documents for your abstract. Your draft has been created and you can "
+#~ "now manage files."
+#~ msgstr "上传摘要所需的文件。你的草稿已经创建好，现在你可以管理文件了。"
+
+#~ msgid "User %s"
+#~ msgstr "用户%s"
+
+#~ msgid "User created successfully"
+#~ msgstr "用户创建成功"
+
+#~ msgid "Username can only contain letters, numbers, and underscores"
+#~ msgstr "用户名只能包含字母、数字和下划线"
+
+#~ msgid "Username:"
+#~ msgstr "用户名："
+
+#~ msgid "View Details"
+#~ msgstr "详情"
+
+#~ msgid "We found an unsaved draft. Would you like to recover it?"
+#~ msgstr "我们找到了一个未保存的草稿。你想找回它吗？"
+
+#~ msgid "WPA-PRO-XXXX-XXXX-XXXX"
+#~ msgstr "WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid ""
+#~ "You can upload documents for your abstract. Changes will be saved "
+#~ "automatically."
+#~ msgstr "你可以上传摘要所需的文档。更改将自动保存。"
+
+#~ msgid "You do not have permission to assign reviewers"
+#~ msgstr "您无权为本提交分配审核员"
+
+#~ msgid "You have unsaved changes"
+#~ msgstr "您有未保存的更改"
+
+#~ msgid "You have unsaved changes. Are you sure you want to leave?"
+#~ msgstr "你确定要删除"
+
+#~ msgid "Your logo will appear here in the live preview"
+#~ msgstr "你的标志将出现在实时预览中"
+
+#~ msgid "your@email.com"
+#~ msgstr "您的邮件地址"
+
+#~ msgid "%s: Licensed"
+#~ msgstr "%s：持牌"
+
+#~ msgid "Activate your license"
+#~ msgstr "激活您的许可证"
+
+#~ msgid "Activation failed. Please check your license key and try again."
+#~ msgstr "激活失败。请检查您的驾照密钥并重新尝试。"
+
+#~ msgid "Allow submitters to select their preferred presentation format"
+#~ msgstr "允许提交者选择他们偏好的展示形式"
+
+#~ msgid "Approved"
+#~ msgstr "批准"
+
+#~ msgid "Assign Reviewers - %s"
+#~ msgstr "分配审稿人"
+
+#~ msgid "Connection error: %s"
+#~ msgstr "连接错误：%s"
+
+#~ msgid "contact support"
+#~ msgstr "联络支持"
+
+#~ msgid "Current Reviewers:"
+#~ msgstr "审核人"
+
+#~ msgid "Default Status for New Submissions"
+#~ msgstr "新投稿的默认状态"
+
+#~ msgid "Enable Presenter Preferences"
+#~ msgstr "启用主持人偏好"
+
+#~ msgid "Field Configuration"
+#~ msgstr "现场配置"
+
+#~ msgid "Field Settings"
+#~ msgstr "字段设置"
+
+#~ msgid "for assistance."
+#~ msgstr "如需帮助"
+
+#~ msgid "Include Co-Authors in Notifications"
+#~ msgstr "在通知中包含合著者"
+
+#~ msgid "Invalid API response"
+#~ msgstr "无效的API响应"
+
+#~ msgid "License activated successfully"
+#~ msgstr "许可证成功激活"
+
+#~ msgid "License deactivated successfully"
+#~ msgstr "特许已成功停用。"
+
+#~ msgid "Loading user information..."
+#~ msgstr "加载自定义字段......"
+
+#~ msgid "Make affiliation field mandatory for all authors"
+#~ msgstr "所有作者都必须填写隶属字段"
+
+#~ msgid "Make ORCID field mandatory for all authors"
+#~ msgstr "让所有作者必须参加ORCID字段"
+
+#~ msgid "No abstract provided"
+#~ msgstr "未提供"
+
+#~ msgid "No keywords provided"
+#~ msgstr "未提供"
+
+#~ msgid "No license activated"
+#~ msgstr "没有激活驾照"
+
+#~ msgid "No license found to deactivate"
+#~ msgstr "未发现可停用的执照"
+
+#~ msgid "No license key found"
+#~ msgstr "未找到许可证密钥。"
+
+#~ msgid "No submissions found for your assigned tracks."
+#~ msgstr "未找到你分配轨道的投稿。"
+
+#~ msgid "Once Daily (SimplyConf)"
+#~ msgstr "每日一次（WP摘要）"
+
+#~ msgid "Renew your license"
+#~ msgstr "立即续购您的许可"
+
+#~ msgid "Require Affiliation"
+#~ msgstr "要求关联"
+
+#~ msgid "Require one author to be designated as the presenter"
+#~ msgstr "要求指定一位作者担任演讲者"
+
+#~ msgid "Require ORCID"
+#~ msgstr "必需"
+
+#~ msgid "Require Presenter Designation"
+#~ msgstr "要求主持人指定"
+
+#~ msgid "Show Terms & Conditions"
+#~ msgstr "展示条款与条件"
+
+#~ msgid "Status automatically assigned to new submissions"
+#~ msgstr "新提交的状态自动分配"
+
+#~ msgid ""
+#~ "Successfully migrated address data for %d events to new structured format."
+#~ msgstr "成功将%d事件的地址数据迁移到新的结构化格式。"
+
+#~ msgid "Under Review"
+#~ msgstr "正在审查"
+
+#~ msgid "Using cached status (API unavailable)"
+#~ msgstr "使用缓存状态（API 不可用）"
+
+#~ msgid ""
+#~ "When enabled, all co-authors will receive email notifications about abstract"
+#~ " status changes"
+#~ msgstr "启用后，所有合著者将收到关于摘要状态变更的电子邮件通知"
+
+#~ msgid "You do not have permission to manage reviewers for this submission"
+#~ msgstr "您无权管理本提交的审核员"
+
+#~ msgid "You have %d days remaining in your trial period."
+#~ msgstr "您的试用期还剩下%d天。"
+
+#~ msgid "Your license has expired."
+#~ msgstr "您的许可证已过期"
+
+#~ msgid "Your license is invalid or has been suspended."
+#~ msgstr "你的驾照无效或已被吊销。"
+
+#~ msgid "Your trial period has expired."
+#~ msgstr "您的试用期已过。"

@@ -1,0 +1,6106 @@
+# Polish (Poland) translation for SimplyConf
+# Copyright (C) 2025 SimplyConf
+# This file is distributed under the same license as the SimplyConf package.
+msgid ""
+msgstr ""
+"Project-Id-Version: SimplyConf 3.0.0\n"
+"Report-Msgid-Bugs-To: https://simplyconf.com\n"
+"POT-Creation-Date: 2026-04-02T14:02:40+0000\n"
+"PO-Revision-Date: 2025-12-05 17:00-0500\n"
+"Last-Translator: \n"
+"Language-Team: Polish\n"
+"Language: pl_PL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.4.4\n"
+
+#: src/components/shared/attachments/FileList.js:325
+msgid " (%d selected)"
+msgstr " (%d wybrany)"
+
+#: src/components/admin/abstracts/Authors.js:373
+msgid "—"
+msgstr "—"
+
+#: src/components/frontend/submissions/Submissions.js:295
+msgid "{count} submissions deleted successfully"
+msgstr "Użytkownicy ususzczeni pomyślnie"
+
+#: src/components/shared/attachments/DocumentsStep.js:230
+msgid "* At least one file is required"
+msgstr "Imię jest wymagane"
+
+#: src/components/shared/attachments/FilePreview.js:177
+msgid "%d downloads"
+msgstr "Pliki"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:144
+msgid "%d field(s) deleted successfully"
+msgstr "Użytkownicy ususzczeni pomyślnie"
+
+#: src/components/admin/abstracts/Attachments.js:354
+#: src/components/shared/attachments/FileList.js:323
+msgid "%d files"
+msgstr "%d plików"
+
+#: src/components/admin/abstracts/Attachments.js:137
+msgid "%d files deleted successfully"
+msgstr "Użytkownicy ususzczeni pomyślnie"
+
+#: inc/class-dashboard-setup.php:62
+msgid "%s - Dashboard"
+msgstr "Kokpit"
+
+#: src/components/shared/abstracts/AbstractView.js:1084
+msgid "%s (%d)"
+msgstr "%s (%d)"
+
+#: inc/addons.php:206
+msgid "%s Add-On"
+msgstr "%s Dodatek"
+
+#: src/components/shared/abstracts/AbstractView.js:1305
+msgid "%s Created"
+msgstr "Utworzony"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:216
+#: src/components/shared/abstracts/AbstractWizard.js:264
+msgid "%s Description"
+msgstr "%s opis"
+
+#: src/hooks/useAbstractFormState.js:550
+msgid "%s description is required"
+msgstr "Wymagany jest porządek"
+
+#: inc/addons.php:207
+msgid "%s feature"
+msgstr "%s funkcja"
+
+#: src/components/shared/abstracts/AbstractWizard.js:232
+msgid "%s Info"
+msgstr "%s informacje"
+
+#: src/hooks/useAbstractFormState.js:588
+msgid "%s is required"
+msgstr "%s jest wymagane"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:162
+#: src/components/shared/abstracts/AbstractWizard.js:706
+msgid "%s Locked"
+msgstr "%s Locked"
+
+#: src/components/admin/abstracts/Wrapper.js:42
+msgid "%s Settings"
+msgstr "%s Ustawienia"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:188
+#: src/components/shared/abstracts/AbstractWizard.js:243
+msgid "%s Title"
+msgstr "%s Tytuł"
+
+#: src/hooks/useAbstractFormState.js:541
+msgid "%s title is required"
+msgstr "Imię jest wymagane"
+
+#: src/components/shared/attachments/DocumentsStep.js:190
+msgid "%s uploaded successfully"
+msgstr "%s przesłane pomyślnie"
+
+#: src/components/frontend/auth/Login.js:314
+#: src/components/frontend/auth/Login.js:377
+msgid "← Back to Login"
+msgstr "← Powrót do logowania"
+
+#: src/components/admin/abstracts/Authors.js:655
+msgid "⚙️ Custom Fields"
+msgstr "Dodatkowe pola"
+
+#: src/components/admin/appearance/Appearance.js:676
+msgid "⚙️ Layout & Spacing"
+msgstr "⚙️ Układ i odstępy"
+
+#: src/components/admin/appearance/Appearance.js:361
+msgid "🎨 Branding & Organization"
+msgstr "🎨 Marka i organizacja"
+
+#: src/components/admin/appearance/Appearance.js:449
+msgid "🎨 Color Scheme"
+msgstr "🎨 Schemat kolorów"
+
+#: src/components/admin/abstracts/FormBuilder.js:47
+msgid "👥 Author Fields"
+msgstr "Pola niestandardowe użytkownika"
+
+#: src/components/admin/abstracts/Settings.js:426
+msgid "👥 Author Settings"
+msgstr "Eksportuj ustawienia"
+
+#: src/components/admin/abstracts/Authors.js:603
+msgid "📌 Fixed Columns"
+msgstr "Kolumny stałe"
+
+#: src/components/admin/abstracts/Settings.js:431
+msgid "📎 Attachment Settings"
+msgstr "Załączniki"
+
+#: src/components/admin/abstracts/FormBuilder.js:44
+msgid "📝 Abstract Fields"
+msgstr "Ustawienia rejestracji"
+
+#: src/components/admin/abstracts/Settings.js:421
+msgid "📝 Abstract Settings"
+msgstr "Ustawienia rejestracji"
+
+#: src/components/admin/appearance/Appearance.js:500
+msgid "📝 Typography"
+msgstr "Typografia"
+
+#: src/components/admin/appearance/Appearance.js:689
+msgid "0px"
+msgstr "0px"
+
+#: src/components/admin/appearance/Appearance.js:552
+#: src/components/admin/appearance/Appearance.js:692
+msgid "12px"
+msgstr "12px"
+
+#: src/components/admin/appearance/Appearance.js:553
+msgid "14px"
+msgstr "14px"
+
+#: src/components/admin/appearance/Appearance.js:554
+#: src/components/admin/appearance/Appearance.js:693
+msgid "16px"
+msgstr "16 piks"
+
+#: src/components/admin/appearance/Appearance.js:555
+msgid "18px"
+msgstr "18px"
+
+#: src/components/admin/appearance/Appearance.js:690
+msgid "4px"
+msgstr "4px"
+
+#: src/components/admin/appearance/Appearance.js:691
+msgid "8px"
+msgstr "8px"
+
+#: inc/class-dashboard-setup.php:47
+msgid "A dashboard page already exists for this event."
+msgstr "Strona panelu informacyjnego dla tego wydarzenia już istnieje."
+
+#: src/components/admin/events/TerminologySettings.js:59 inc/functions.php:142
+msgid "Abstract"
+msgstr "Niezrozumiały"
+
+#: src/Admin.js:305
+msgid "Abstract Book"
+msgstr "Książka abstraktowa"
+
+#: src/components/admin/abstracts/FormBuilder.js:60
+msgid "Abstract Custom Fields"
+msgstr "Pola niestandardowe użytkownika"
+
+#: src/components/admin/abstracts/Abstracts.js:394
+msgid "Abstract deleted successfully"
+msgstr "Streszczenia usunięte pomyślnie"
+
+#: src/components/shared/attachments/AbstractFileManager.js:66
+msgid "Abstract Documents"
+msgstr "Ustawienia rejestracji"
+
+#: src/components/shared/attachments/AbstractFileManager.js:84
+msgid "Abstract PDF"
+msgstr "Niezrozumiały"
+
+#: src/components/admin/abstracts/Settings.js:555
+msgid "Abstract Settings"
+msgstr "Ustawienia rejestracji"
+
+#: src/hooks/useAbstractFormState.js:787 src/hooks/useAbstractFormState.js:800
+msgid "Abstract submitted successfully!"
+msgstr "Streszczenia usunięte pomyślnie"
+
+#: src/hooks/useAbstractFormState.js:757
+msgid "Abstract updated successfully!"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/admin/abstracts/Abstracts.js:838
+msgid "abstracts"
+msgstr "Abstrakty"
+
+#: src/components/admin/events/TerminologySettings.js:60 inc/functions.php:142
+#: classes/admin-menu.php:49 classes/admin-menu.php:50
+msgid "Abstracts"
+msgstr "Abstrakty"
+
+#: src/components/admin/abstracts/Abstracts.js:523
+msgid "abstracts deleted successfully"
+msgstr "Streszczenia usunięte pomyślnie"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:462
+msgid "Accept Submissions"
+msgstr "Zgłoszenia"
+
+#: src/components/admin/events/Events.js:810
+msgid ""
+"Accepted authors must complete a paid conference registration managed by the"
+" Payments add-on."
+msgstr ""
+"Akceptani autorzy muszą ukończyć płatną rejestrację konferencyjną zarządzaną"
+" przez dodatek Payments."
+
+#: src/components/shared/attachments/FilePreview.js:217
+msgid "Access:"
+msgstr "Dostęp:"
+
+#: src/components/frontend/auth/Register.js:155
+msgid "Account"
+msgstr "Konto"
+
+#: src/components/frontend/auth/Register.js:308
+#: src/components/frontend/auth/Register.js:500
+msgid "Account Information"
+msgstr "Informacje o koncie"
+
+#: src/components/admin/abstracts/Abstracts.js:936
+#: src/components/admin/users/Users.js:320
+#: src/components/shared/customFields/CustomFieldsAdmin.js:710
+#: src/hooks/useAbstractColumns.js:376
+msgid "Action"
+msgstr "Akcja"
+
+#: src/components/frontend/dashboard/widgets/ActionItems.js:61
+msgid "Action Items"
+msgstr "Akcje"
+
+#: src/components/admin/abstracts/Attachments.js:274
+#: src/components/admin/abstracts/Authors.js:442
+#: src/components/admin/events/Events.js:291
+#: src/components/admin/events/StatusManagement.js:243
+#: src/components/admin/tracks/Tracks.js:70
+#: src/components/admin/tracks/Tracks.js:421
+#: src/components/frontend/attachments/Attachments.js:289
+#: src/components/frontend/submissions/Submissions.js:606
+#: src/components/shared/abstracts/AbstractView.js:519
+#: src/components/shared/attachments/FileList.js:451
+#: src/components/shared/customFields/CustomFieldsAdmin.js:292
+msgid "Actions"
+msgstr "Akcje"
+
+#: src/components/admin/dashboard/Dashboard.js:689
+msgid "Activate addon licenses to unlock premium features"
+msgstr "Aktywuj swoją licencję Pro, aby odblokować zaawansowane funkcje"
+
+#: src/components/admin/licenses/Licenses.js:306
+msgid "Activate License"
+msgstr "Aktywuj licencję"
+
+#: src/components/shared/UpgradePrompt.js:45
+msgid ""
+"Activate or renew your license to access this feature. If you don't have a "
+"license yet, you can purchase one from our website."
+msgstr ""
+"Wprowadź klucz licencyjny otrzymany przy zakupie.Jeżeli nie posiadasz "
+"licencji, możesz ją kupić na naszej stronie internetowej."
+
+#: src/components/admin/licenses/Licenses.js:268
+msgid ""
+"Activate your license key to receive updates, support, and access to premium"
+" features."
+msgstr "Aktywuj swoją licencję Pro, aby odblokować zaawansowane funkcje"
+
+#: src/components/admin/licenses/Licenses.js:212
+msgid "Activated"
+msgstr "Aktywowany"
+
+#: src/components/admin/licenses/Licenses.js:80
+msgid "Activation failed"
+msgstr "Aktywacja się nie powiodła"
+
+#: src/components/admin/licenses/Licenses.js:208
+msgid "Activations"
+msgstr "Aktywacji"
+
+#: src/components/admin/dashboard/Dashboard.js:608
+#: src/components/admin/dashboard/Dashboard.js:656
+#: src/components/admin/events/Events.js:287
+#: src/components/admin/events/Events.js:522
+#: src/components/admin/events/Events.js:608
+#: src/components/admin/licenses/Licenses.js:135
+#: src/components/admin/licenses/Licenses.js:140
+msgid "Active"
+msgstr "Aktywny"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:403
+msgid "Add"
+msgstr "Dodać"
+
+#: src/components/shared/abstracts/AuthorManagement.js:230
+#: src/components/shared/abstracts/AuthorManagement.js:284
+msgid "Add Author"
+msgstr "Dodaj autora"
+
+#: src/components/admin/tracks/Tracks.js:381
+msgid "Add Chairs"
+msgstr "Przydziel przewodniczących"
+
+#: src/components/admin/appearance/Appearance.js:726
+msgid "Add custom CSS to override theme styles. Use with caution."
+msgstr "Dodaj niestandardowy CSS, aby zastąpić style motywu.Używaj ostrożnie."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:587
+msgid "Add custom fields to collect additional information"
+msgstr "Dodaj niestandardowe pola, aby zebrać dodatkowe informacje"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:417
+msgid "Add Field"
+msgstr "Dodaj pole"
+
+#: src/hooks/useAbstractColumns.js:191
+msgid "Add Reviewers"
+msgstr "Dodaj recenzentów"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:856
+msgid "Add Rule"
+msgstr "Dodaj regułę"
+
+#: src/components/admin/events/StatusManagement.js:393
+msgid "Add Status"
+msgstr "Dodaj status"
+
+#: src/components/admin/tracks/Tracks.js:590
+msgid "Add Track"
+msgstr "Wszystkie utwory"
+
+#: src/components/shared/UpgradePrompt.js:52
+msgid "Add-On Required"
+msgstr "Wymagany dodatek"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:317
+#: src/components/shared/abstracts/AbstractWizard.js:389
+msgid "Additional Details"
+msgstr "Szczegóły organizacyjne"
+
+#: src/components/frontend/auth/Register.js:161
+#: src/components/frontend/auth/Register.js:413
+#: src/components/frontend/auth/Register.js:519
+#: src/components/shared/abstracts/AbstractView.js:757
+msgid "Additional Information"
+msgstr "Dodatkowe informacje"
+
+#: src/components/shared/attachments/AbstractFileManager.js:96
+msgid "Additional supporting documents (figures, tables, etc.)"
+msgstr "Dodatkowe dokumenty wspierające (rysunki, tabele itp.)"
+
+#: src/components/admin/users/Settings.js:367
+msgid ""
+"Additional user settings will be available here in future updates. Current "
+"settings focus on registration security and password policies."
+msgstr ""
+"Dodatkowe ustawienia użytkownika będą dostępne tutaj w przyszłych "
+"aktualizacjach.Obecne ustawienia skupiają się na bezpieczeństwie rejestracji"
+" i zasadach dotyczących haseł."
+
+#: src/components/admin/dashboard/Dashboard.js:281
+#: src/components/admin/dashboard/Dashboard.js:331
+#: src/components/admin/dashboard/Dashboard.js:381
+#: src/components/admin/dashboard/Dashboard.js:431
+msgid "Addon not active"
+msgstr "Dodatek nieaktywny"
+
+#: src/components/admin/events/CreateEvent.js:172
+#: src/components/admin/events/EditEvent.js:218
+msgid "Address Information"
+msgstr "Informacje o użytkowniku"
+
+#: src/Frontend.js:524
+msgid "Admin"
+msgstr "Tylko dla Admina"
+
+#: src/components/admin/users/Settings.js:408
+msgid "Advanced Settings"
+msgstr "Zapisz ustawienia"
+
+#: src/components/admin/abstracts/Authors.js:527
+msgid "All %s"
+msgstr "Wszystkie %s"
+
+#: src/components/shared/attachments/FileList.js:335
+msgid "All Files"
+msgstr "Wszystkie pliki"
+
+#: src/components/admin/users/Users.js:842
+msgid "All Roles"
+msgstr "Wszystkie role"
+
+#: src/components/frontend/submissions/Submissions.js:794
+msgid "All Status"
+msgstr "Wszystkie"
+
+#: src/components/admin/abstracts/Abstracts.js:766
+#: src/components/admin/events/Events.js:521
+msgid "All Statuses"
+msgstr "Wszystkie statusy"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:309
+msgid "All track chairs have been assigned to this track"
+msgstr "Nie udało się przypisać krzeseł do niektórych torów"
+
+#: src/components/admin/abstracts/Abstracts.js:781
+#: src/components/frontend/submissions/Submissions.js:812
+msgid "All Tracks"
+msgstr "Wszystkie utwory"
+
+#: src/components/admin/abstracts/Attachments.js:404
+msgid "All Types"
+msgstr "Wszystkie typy"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:465
+msgid "Allow authors to submit abstracts to this event"
+msgstr "Pozwól użytkownikom na wprowadzanie opisu/streszczenia treści"
+
+#: src/components/admin/users/Settings.js:123
+msgid "Allow new users to register for accounts on your event"
+msgstr "Zezwalaj nowym użytkownikom na rejestrację kont na Twoim wydarzeniu"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:435
+msgid "Allow Registration"
+msgstr "Rejestracja"
+
+#: src/components/admin/abstracts/Settings.js:75
+msgid "Allow rich text formatting in abstract descriptions"
+msgstr "Używaj edytora tekstu bogatego zamiast zwykłego tekstowego do opisów"
+
+#: src/components/admin/abstracts/Settings.js:45
+msgid "Allow users to enter a description/abstract content"
+msgstr "Pozwól użytkownikom na wprowadzanie opisu/streszczenia treści"
+
+#: src/components/admin/abstracts/Settings.js:256
+msgid "Allow users to upload files with their submissions"
+msgstr "Pozwól użytkownikom przesyłać pliki wraz z ich zgłoszeniami"
+
+#: src/components/admin/abstracts/Settings.js:358
+#: src/components/shared/customFields/CustomFieldsAdmin.js:589
+msgid "Allowed File Types"
+msgstr "Dozwolone typy:"
+
+#: src/components/shared/attachments/FileUpload.js:184
+msgid "Allowed types:"
+msgstr "Dozwolone typy:"
+
+#: src/components/frontend/auth/Register.js:434
+msgid "Almost Done!"
+msgstr "Prawie skończone!"
+
+#: src/Admin.js:132 src/components/admin/settings/Wrapper.js:59
+msgid "Appearance"
+msgstr "Wygląd"
+
+#: src/components/admin/settings/Wrapper.js:35
+msgid "Appearance Settings"
+msgstr "Ustawienia rejestracji"
+
+#: src/components/admin/appearance/Appearance.js:793
+msgid "Apply & Save"
+msgstr "Zastosuj i zapisz"
+
+#: src/components/admin/appearance/Appearance.js:788
+msgid "Apply Theme Preset?"
+msgstr "Zastosować gotowe ustawienie motywu?"
+
+#: src/components/admin/appearance/Appearance.js:805
+msgid ""
+"Applying this preset will override your current theme settings. Any unsaved "
+"changes will be lost."
+msgstr ""
+"Zastosowanie tego ustawienia wstępnego spowoduje zastąpienie bieżących "
+"ustawień motywu.Wszelkie niezapisane zmiany zostaną utracone."
+
+#: src/components/admin/events/Events.js:319
+msgid "Archive"
+msgstr "Archiwum"
+
+#: src/components/admin/events/Events.js:481
+msgid "Archive Selected"
+msgstr "Usuń zaznaczone"
+
+#: src/components/admin/events/Events.js:419
+msgid "archived"
+msgstr "Archiwizowane"
+
+#: src/components/admin/events/Events.js:285
+#: src/components/admin/events/Events.js:523
+#: src/components/admin/events/Events.js:601
+msgid "Archived"
+msgstr "Zarchiwizowane"
+
+#: src/components/frontend/submissions/Submissions.js:249
+msgid "Are you sure you want to delete"
+msgstr "Czy jesteś pewien, że chcesz usunąć"
+
+#: src/components/admin/abstracts/Attachments.js:297
+#: src/components/frontend/attachments/Attachments.js:313
+#: src/components/shared/attachments/DocumentsStep.js:340
+msgid "Are you sure you want to delete \"%s\"?"
+msgstr "Czy na pewno chcesz usunąć \"%s\"?"
+
+#: src/components/frontend/submissions/Submissions.js:281
+msgid ""
+"Are you sure you want to delete {count} selected submissions? This action "
+"cannot be undone."
+msgstr ""
+"Jesteś pewien, że chcesz usunąć to wydarzenie? Tego działania nie da się "
+"cofnąć."
+
+#: src/components/admin/users/Users.js:464
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected {users}?"
+msgstr ""
+"Jesteś pewien, że chcesz usunąć {selectedRowKeys.length} wybrane {users}?"
+
+#: src/components/admin/abstracts/Abstracts.js:503
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected abstracts?"
+" This action cannot be undone."
+msgstr ""
+"Jesteś pewien, że chcesz usunąć {selectedRowKeys.length} wybrane "
+"streszczenia? Tego działania nie da się cofnąć."
+
+#: src/components/admin/events/Events.js:152
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected events? "
+"This action cannot be undone."
+msgstr ""
+"Jesteś pewien, że chcesz usunąć {selectedRowKeys.length} wybrane wydarzenia?"
+" Tego działania nie da się cofnąć."
+
+#: src/components/admin/tracks/Tracks.js:262
+msgid ""
+"Are you sure you want to delete {selectedRowKeys.length} selected tracks? "
+"This action cannot be undone."
+msgstr ""
+"Jesteś pewien, że chcesz usunąć {selectedRowKeys.length} wybrane utwory? "
+"Tego działania nie da się cofnąć."
+
+#: src/components/admin/abstracts/Attachments.js:126
+#: src/components/shared/attachments/FileList.js:99
+msgid "Are you sure you want to delete %d selected files?"
+msgstr "Czy na pewno chcesz skasować to wydarzenie?"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:126
+msgid ""
+"Are you sure you want to delete selected field(s)? This action cannot be "
+"undone."
+msgstr ""
+"Jesteś pewien, że chcesz usunąć to wydarzenie? Tego działania nie da się "
+"cofnąć."
+
+#: src/components/admin/dashboard/DashboardSetup.js:77
+msgid ""
+"Are you sure you want to delete the existing dashboard page? This action "
+"cannot be undone."
+msgstr ""
+"Jesteś pewien, że chcesz usunąć to wydarzenie? Tego działania nie da się "
+"cofnąć."
+
+#: src/components/admin/events/Events.js:989
+msgid "Are you sure you want to delete this event?"
+msgstr "Czy na pewno chcesz skasować to wydarzenie?"
+
+#: src/components/admin/events/Events.js:335
+msgid ""
+"Are you sure you want to delete this event? This action cannot be undone."
+msgstr ""
+"Jesteś pewien, że chcesz usunąć to wydarzenie? Tego działania nie da się "
+"cofnąć."
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:310
+msgid "Are you sure you want to delete this field?"
+msgstr "Czy na pewno chcesz usunąć to pole?"
+
+#: src/components/shared/attachments/FileList.js:61
+msgid "Are you sure you want to delete this file?"
+msgstr "Czy na pewno chcesz usunąć ten plik?"
+
+#: src/components/admin/tracks/Tracks.js:87
+msgid "Are you sure you want to delete this session?"
+msgstr "Jesteś pewien, że chcesz usunąć tę sesję?"
+
+#: src/components/admin/events/StatusManagement.js:255
+msgid "Are you sure you want to delete this status?"
+msgstr "Jesteś pewien, że chcesz usunąć tego użytkownika?"
+
+#: src/hooks/useAbstractColumns.js:434
+msgid "Are you sure you want to delete this submission?"
+msgstr "Jesteś pewien, że chcesz usunąć to zgłoszenie?"
+
+#: src/components/admin/tracks/Tracks.js:445
+msgid "Are you sure you want to delete this track?"
+msgstr "Jesteś pewien, że chcesz usunąć ten utwór?"
+
+#: src/components/admin/users/Users.js:351
+msgid "Are you sure you want to delete this user?"
+msgstr "Jesteś pewien, że chcesz usunąć tego użytkownika?"
+
+#: src/components/shared/abstracts/AuthorManagement.js:158
+msgid "Are you sure you want to remove %s %s?"
+msgstr "Czy na pewno chcesz usunąć \"%s\"?"
+
+#: src/components/admin/appearance/Appearance.js:516
+msgid "Arial"
+msgstr "Arial"
+
+#: src/components/shared/attachments/FileList.js:369
+msgid "Ascending"
+msgstr "Rosnąco"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:330
+#: src/hooks/useAbstractColumns.js:406
+msgid "Assign"
+msgstr "Przypisz"
+
+#: src/components/admin/abstracts/Abstracts.js:717
+msgid "Assign Reviewers"
+msgstr "Przydziel recenzentów"
+
+#: src/components/admin/users/Users.js:799
+msgid "Assign Role"
+msgstr "Przypisz"
+
+#: src/components/admin/users/Users.js:1300
+msgid "Assign Roles"
+msgstr "Przydziel recenzentów"
+
+#: src/components/admin/users/Users.js:1274
+msgid "Assign Roles to {count} {users}"
+msgstr "Przypisz role do {count} {users}"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:200
+#: src/components/admin/tracks/Tracks.js:516
+msgid "Assign Track Chairs"
+msgstr "Przydziel krzesła torowe"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:190
+msgid "Assigned"
+msgstr "Przypisz"
+
+#: src/components/shared/abstracts/AbstractView.js:290
+msgid "Assigned Session"
+msgstr "Sesja edycji"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:82
+msgid "At least"
+msgstr "Co najmniej"
+
+#: src/hooks/useAbstractFormState.js:563
+msgid "At least one %s is required"
+msgstr "Imię jest wymagane"
+
+#: src/hooks/useAbstractFormState.js:570
+msgid "At least one attachment is required"
+msgstr "Imię jest wymagane"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:97
+msgid "At most"
+msgstr "Najwyżej"
+
+#: src/components/admin/abstracts/Settings.js:281
+msgid "Attachment Preference"
+msgstr "Załączniki"
+
+#: src/components/admin/dashboard/Dashboard.js:201
+msgid "attachments"
+msgstr "Osprzęt"
+
+#: src/Admin.js:187 src/components/admin/abstracts/Wrapper.js:48
+#: src/components/admin/abstracts/Wrapper.js:93
+#: src/components/shared/abstracts/AbstractSinglePage.js:340
+#: src/components/shared/abstracts/AbstractView.js:911
+msgid "Attachments"
+msgstr "Załączniki"
+
+#: src/components/frontend/attachments/Attachments.js:85
+msgid "Attachments refreshed"
+msgstr "Załączniki"
+
+#: src/components/admin/events/TerminologySettings.js:101
+#: inc/functions.php:150
+msgid "Attendee"
+msgstr "Uczestnik"
+
+#: src/components/admin/events/TerminologySettings.js:102
+#: inc/functions.php:150
+msgid "Attendees"
+msgstr "Uczestnicy"
+
+#: src/components/shared/attachments/FileList.js:341
+msgid "Audio"
+msgstr "Audio"
+
+#: src/components/admin/events/TerminologySettings.js:65
+#: src/components/admin/users/Users.js:283
+#: src/components/admin/users/Users.js:675
+#: src/components/admin/users/Users.js:851
+#: src/components/admin/users/Users.js:1326 inc/functions.php:143
+msgid "Author"
+msgstr "Autor"
+
+#: src/components/admin/abstracts/FormBuilder.js:61
+msgid "Author Custom Fields"
+msgstr "Pola niestandardowe użytkownika"
+
+#: src/components/admin/abstracts/Authors.js:218
+msgid "Author linked to WordPress user"
+msgstr "Autor powiązany z użytkownikiem WordPress"
+
+#: src/components/admin/abstracts/Authors.js:819
+msgid "Author updated successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/admin/dashboard/Dashboard.js:225
+msgid "authors"
+msgstr "Autorzy"
+
+#: src/Admin.js:182 src/components/admin/events/TerminologySettings.js:66
+#: inc/functions.php:143
+msgid "Authors"
+msgstr "Autorzy"
+
+#: src/components/shared/abstracts/AuthorManagement.js:215
+msgid "Authors (%d)"
+msgstr "Autorzy"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:290
+msgid "Authors submit abstracts to your tracks"
+msgstr "Zarządzaj zgłoszeniami przypisanymi do Twoich utworów"
+
+#: src/components/admin/abstracts/Settings.js:217
+msgid "Auto-link Authors to Users"
+msgstr "Automatycznie łącz autorów z użytkownikami WordPressa"
+
+#: src/components/admin/abstracts/Settings.js:221
+msgid "Automatically link authors to existing WordPress users based on email"
+msgstr ""
+"Automatycznie łącz autorów z kontami WordPress poprzez dopasowanie adresów "
+"e-mail"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:291
+msgid "Available Track Chairs"
+msgstr "Zarządzaj przewodniczącymi torów"
+
+#: src/components/shared/abstracts/AbstractWizard.js:352
+#: src/components/shared/abstracts/AbstractWizard.js:423
+#: src/components/shared/abstracts/AbstractWizard.js:484
+#: src/components/shared/attachments/DocumentsStep.js:123
+#: src/components/shared/attachments/DocumentsStep.js:368
+msgid "Back"
+msgstr "Wstecz"
+
+#: src/components/frontend/auth/Register.js:369
+#: src/components/frontend/auth/Register.js:596
+msgid "Back to Login"
+msgstr "Wróć do logowania"
+
+#: src/components/shared/abstracts/AbstractView.js:614
+msgid "Back to Submissions"
+msgstr "Wróć do Zgłoszeń"
+
+#: src/components/admin/appearance/Appearance.js:534
+msgid "Base Font Size"
+msgstr "Bazowy rozmiar czcionki"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:435
+msgid "Basic Info"
+msgstr "Informacje podstawowe"
+
+#: src/components/frontend/auth/Register.js:156
+msgid "Basic Information"
+msgstr "Informacje podstawowe"
+
+#: src/components/admin/appearance/Appearance.js:682
+msgid "Border Radius"
+msgstr "Zaokrąglenie rogów"
+
+#: src/components/admin/events/StatusManagement.js:463
+msgid "Brief description of this status"
+msgstr "Krótki opis tego statusu"
+
+#: src/components/shared/UpgradePrompt.js:58
+msgid "Browse Add-Ons"
+msgstr "Przeglądaj dodatki"
+
+#: src/Admin.js:292
+msgid "Builder"
+msgstr "Kreator"
+
+#: src/components/admin/tracks/Tracks.js:532
+#: src/components/frontend/submissions/Submissions.js:896
+#: src/components/shared/customFields/CustomFieldsAdmin.js:379
+msgid "Bulk Actions"
+msgstr "Działania masowe"
+
+#: src/components/admin/users/Users.js:815
+msgid "Bulk Actions ({count})"
+msgstr "Działania masowe"
+
+#: src/components/admin/abstracts/Abstracts.js:733
+#: src/components/admin/abstracts/Attachments.js:378
+#: src/components/admin/events/Events.js:497
+msgid "Bulk Actions ({selectedRowKeys.length})"
+msgstr "Akcje masowe ({selectedRowKeys.length})"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:199
+msgid "Bulk Assign Track Chair"
+msgstr "Przydziel krzesła torowe"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:206
+msgid "Bulk Assignment"
+msgstr "Obecnie przydzielone:"
+
+#: src/components/admin/abstracts/Abstracts.js:1158
+msgid "Bulk Assignment (%d %s)"
+msgstr "Obecnie przydzielone:"
+
+#: src/components/admin/tracks/Tracks.js:668
+msgid "Bulk Assignment (%d tracks)"
+msgstr "Przydziel krzesła torowe"
+
+#: src/components/admin/abstracts/Abstracts.js:509
+#: src/components/admin/abstracts/Abstracts.js:1113
+#: src/components/admin/abstracts/Attachments.js:131
+#: src/components/admin/abstracts/Authors.js:781
+#: src/components/admin/appearance/Appearance.js:794
+#: src/components/admin/appearance/Appearance.js:826
+#: src/components/admin/dashboard/DashboardSetup.js:83
+#: src/components/admin/events/Events.js:158
+#: src/components/admin/events/Events.js:994
+#: src/components/admin/events/Events.js:1003
+#: src/components/admin/events/Events.js:1021
+#: src/components/admin/tracks/Tracks.js:268
+#: src/components/admin/tracks/Tracks.js:601
+#: src/components/admin/users/EditUser.js:128
+#: src/components/admin/users/Users.js:467
+#: src/components/admin/users/Users.js:752
+#: src/components/admin/users/Users.js:952
+#: src/components/admin/users/Users.js:1193
+#: src/components/admin/users/Users.js:1292
+#: src/components/frontend/submissions/Submissions.js:252
+#: src/components/frontend/submissions/Submissions.js:287
+#: src/components/shared/abstracts/AuthorManagement.js:164
+#: src/components/shared/customFields/CustomFieldsAdmin.js:132
+#: src/components/shared/customFields/CustomFieldsAdmin.js:315
+#: src/components/shared/customFields/CustomFieldsAdmin.js:424
+#: src/components/shared/users/UserWizard.js:156
+msgid "Cancel"
+msgstr "Anuluj"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:86
+msgid "Cannot upload file: missing entity or event context"
+msgstr "Nie można przesłać pliku: brak kontekstu elementu lub zdarzenia"
+
+#: src/components/admin/abstracts/Abstracts.js:711
+#: src/components/admin/abstracts/Abstracts.js:1074
+#: src/hooks/useAbstractColumns.js:412
+msgid "Change Status"
+msgstr "Zmień status"
+
+#: src/components/admin/abstracts/Settings.js:100
+msgid "Character Count Limit"
+msgstr "Limit liczby znaków"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:265
+#: src/components/shared/abstracts/AbstractSinglePage.js:306
+#: src/components/shared/abstracts/AbstractWizard.js:306
+#: src/components/shared/abstracts/AbstractWizard.js:344
+#: src/components/shared/auth/PasswordStrengthIndicator.js:83
+#: src/components/shared/auth/PasswordStrengthIndicator.js:98
+msgid "characters"
+msgstr "pismo"
+
+#: src/components/shared/abstracts/AuthorManagement.js:313
+msgid "Check if this author will present the abstract"
+msgstr "Sprawdź, czy autor przedstawi streszczenie"
+
+#: src/components/shared/abstracts/AuthorManagement.js:326
+msgid "Check if this is the corresponding author"
+msgstr "Sprawdź, czy to autor korespondencyjny"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:59
+msgid "Checkbox"
+msgstr "Pole zaznaczenia"
+
+#: src/components/admin/abstracts/Settings.js:152
+msgid "Choose how users submit abstracts"
+msgstr "Wybierz sposób, w jaki użytkownicy przesyłają streszczenia"
+
+#: src/components/admin/events/CreateEvent.js:185
+#: src/components/admin/events/EditEvent.js:233
+msgid "City"
+msgstr "Miasto"
+
+#: src/components/admin/abstracts/Attachments.js:418
+msgid "Clear Filters"
+msgstr "Wyczyść filtry"
+
+#: src/components/frontend/submissions/Submissions.js:900
+msgid "Clear Selection"
+msgstr "Wybierz ikonę"
+
+#: src/components/shared/abstracts/AuthorManagement.js:239
+msgid "Click \"Add Author\" to get started"
+msgstr "Kliknij \"Dodaj autora\", aby zacząć"
+
+#: src/components/admin/users/Users.js:1229
+msgid "Click \"Add New\" in WordPress Users"
+msgstr "Automatycznie łącz autorów z użytkownikami WordPressa"
+
+#: src/components/admin/users/Users.js:1226
+msgid "Click \"Go to WordPress Users\" below"
+msgstr "Automatycznie łącz autorów z użytkownikami WordPressa"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:209
+msgid "Click or drag a file to upload"
+msgstr "Kliknij lub przeciągnij pliki, aby przesłać"
+
+#: src/components/shared/attachments/DocumentsStep.js:251
+msgid "Click or drag files to upload"
+msgstr "Kliknij lub przeciągnij pliki, aby przesłać"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:534
+msgid ""
+"Click the button below to automatically create a dashboard page with the "
+"SimplyConf shortcode."
+msgstr ""
+"Kliknij poniższy przycisk, aby automatycznie utworzyć stronę panelu "
+"kontrolnego z krótkim kodem SimplyConf."
+
+#: src/components/admin/events/Events.js:259
+#: src/components/admin/events/Events.js:887
+msgid "Click to copy shortcode"
+msgstr "Kliknij, aby skopiować krótki kod"
+
+#: src/components/shared/attachments/FileUpload.js:176
+msgid "Click to select files or drag and drop"
+msgstr "Kliknij, aby wybrać pliki lub przeciągnij i upuść"
+
+#: src/components/admin/abstracts/Authors.js:706
+#: src/components/admin/events/Events.js:619
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:214
+#: src/components/admin/users/Users.js:980
+#: src/components/shared/abstracts/AbstractView.js:615
+#: src/components/shared/attachments/FilePreview.js:195
+msgid "Close"
+msgstr "Zamknij"
+
+#: src/components/admin/events/StatusManagement.js:208
+#: src/components/admin/events/StatusManagement.js:469
+msgid "Color"
+msgstr "Kolor"
+
+#: src/components/frontend/submissions/Submissions.js:953
+msgid "Columns"
+msgstr "Kolumny stałe"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:590
+msgid ""
+"Comma-separated MIME types or extensions. Leave empty to allow all common "
+"document types."
+msgstr ""
+"Typy lub rozszerzenia MIME oddzielone przecinkami.Pozostaw puste, aby "
+"zezwolić na wszystkie popularne typy dokumentów."
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:234
+msgid "Conditional"
+msgstr "Potwierdzenie"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:685
+msgid "Conditional Logic"
+msgstr "Logika warunkowa"
+
+#: src/Admin.js:310
+msgid "Conference Program"
+msgstr "Program konferencji"
+
+#: src/components/admin/events/Events.js:790
+msgid "Conference Registration Payment"
+msgstr "Opłata za rejestrację konferencji"
+
+#: src/components/admin/events/Events.js:814
+msgid "Conference registration payment is not required for this event."
+msgstr ""
+"Nie jest wymagana opłata za rejestrację na konferencję na to wydarzenie."
+
+#: src/components/admin/events/Events.js:829
+#: src/components/shared/customFields/CustomFieldsAdmin.js:501
+msgid "Configuration"
+msgstr "Konfiguracja"
+
+#: src/components/admin/abstracts/Settings.js:558
+msgid ""
+"Configure abstract submissions, author requirements, and attachment settings"
+" for this event"
+msgstr ""
+"Nie jest wymagana opłata za rejestrację na konferencję na to wydarzenie."
+
+#: src/components/admin/abstracts/FormBuilder.js:33
+msgid "Configure custom fields for abstracts and authors"
+msgstr "Konfiguruj niestandardowe pola dla streszczeń i autorów"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:412
+msgid ""
+"Configure key settings for your event. All settings can be adjusted later."
+msgstr ""
+"Skonfiguruj kluczowe ustawienia swojego wydarzenia.Wszystkie ustawienia "
+"można dostosować później."
+
+#: src/components/admin/users/Settings.js:507
+msgid ""
+"Configure user registration, login, and password requirements for this "
+"event."
+msgstr ""
+"Nie jest wymagana opłata za rejestrację na konferencję na to wydarzenie."
+
+#: src/components/frontend/auth/Register.js:166
+msgid "Confirm & Submit"
+msgstr "Potwierdź i wyślij"
+
+#: src/components/admin/events/Events.js:334
+#: src/components/admin/tracks/Tracks.js:86
+#: src/components/admin/tracks/Tracks.js:444
+#: src/components/shared/customFields/CustomFieldsAdmin.js:309
+#: src/hooks/useAbstractColumns.js:433
+msgid "Confirmation"
+msgstr "Potwierdzenie"
+
+#: src/components/admin/licenses/Licenses.js:408
+msgid "Contact support for license-related issues"
+msgstr ""
+"Skontaktuj się z pomocą techniczną w przypadku problemów związanych z "
+"licencją"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:804
+msgid "contains"
+msgstr "zawiera"
+
+#: src/components/shared/attachments/DocumentsStep.js:126
+msgid "Continue"
+msgstr "Kontynuuj"
+
+#: src/components/admin/abstracts/Abstracts.js:916
+#: src/components/admin/users/Users.js:1022
+msgid "Core Identity Columns (Always Visible)"
+msgstr "Podstawowe kolumny tożsamości (zawsze widoczne)"
+
+#: src/components/shared/abstracts/AuthorManagement.js:324
+msgid "Corresponding Author"
+msgstr "Pozwól na wielu współautorów"
+
+#: src/components/admin/events/CreateEvent.js:210
+#: src/components/admin/events/EditEvent.js:258
+msgid "Country"
+msgstr "Kraj"
+
+#: src/components/admin/appearance/Appearance.js:528
+msgid "Courier New"
+msgstr "Courier New"
+
+#: src/components/admin/abstracts/Abstracts.js:815
+#: src/components/admin/events/Events.js:541
+#: src/components/admin/events/Events.js:1029
+#: src/components/admin/events/StatusManagement.js:336
+#: src/components/admin/tracks/Tracks.js:552
+#: src/components/admin/users/Users.js:890
+#: src/components/shared/customFields/CustomFieldsAdmin.js:391
+msgid "Create"
+msgstr "Utwórz"
+
+#: src/components/admin/users/Users.js:1184
+msgid "Create {user}"
+msgstr "Stwórz {user}"
+
+#: src/components/admin/dashboard/DashboardSetup.js:132
+msgid ""
+"Create a dedicated page for your conference participants to access their "
+"dashboard. This page will use the SimplyConf Dashboard block for optimal "
+"display."
+msgstr ""
+"Utwórz dedykowaną stronę dla uczestników konferencji, aby uzyskać dostęp do "
+"ich pulpitu nawigacyjnego.Ta strona będzie korzystać z bloku panelu "
+"kontrolnego SimplyConf w celu zapewnienia optymalnego wyświetlania."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:512
+msgid ""
+"Create a frontend dashboard page where authors and reviewers can login, "
+"submit abstracts, and manage their work."
+msgstr ""
+"Utwórz stronę panelu frontendowego, na której autorzy i recenzenci mogą się "
+"logować, przesyłać streszczenia i zarządzać swoją pracą."
+
+#: src/components/frontend/auth/Register.js:560
+msgid "Create Account"
+msgstr "Utwórz konto"
+
+#: src/Admin.js:80
+msgid "Create an Event"
+msgstr "Dodaj Wydarzenie"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:286
+msgid "Create an event with tracks (topics)"
+msgstr "Utwórz wydarzenie ze ścieżkami (tematami)"
+
+#: src/components/admin/dashboard/DashboardSetup.js:146
+#: src/components/admin/onboarding/OnboardingWizard.js:548
+msgid "Create Dashboard Page"
+msgstr "Kokpit"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:92
+#: src/components/shared/abstracts/AbstractWizard.js:635
+msgid "Create New %s"
+msgstr "Stwórz taki"
+
+#: src/components/frontend/auth/Login.js:248
+msgid "Create one"
+msgstr "Stwórz taki"
+
+#: src/components/frontend/auth/Register.js:615
+msgid "Create Your Account"
+msgstr "Utwórz konto"
+
+#: src/components/admin/abstracts/Abstracts.js:996
+#: src/components/admin/events/Events.js:944
+#: src/components/frontend/submissions/Submissions.js:684
+#: src/components/frontend/submissions/Submissions.js:974
+#: src/hooks/useAbstractColumns.js:325
+msgid "Created"
+msgstr "Utworzony"
+
+#: src/components/admin/events/StatusManagement.js:304
+msgid "Current Event"
+msgstr "Wybrane wydarzenie"
+
+#: src/components/shared/abstracts/AbstractView.js:1359
+msgid "Current Status:"
+msgstr "Aktualne ustawienie:"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:238
+msgid "Currently Assigned"
+msgstr "Obecnie przydzielone:"
+
+#: src/components/admin/appearance/Appearance.js:724
+msgid "Custom CSS"
+msgstr "Dodatkowe pola"
+
+#: src/Admin.js:192 src/Admin.js:210 src/Admin.js:228
+#: src/components/admin/abstracts/Authors.js:731
+#: src/components/admin/abstracts/FormBuilder.js:23
+#: src/components/admin/abstracts/Wrapper.js:44
+#: src/components/admin/abstracts/Wrapper.js:102
+#: src/components/admin/users/ViewUser.js:179
+#: src/components/admin/users/Wrapper.js:66
+#: src/components/frontend/submissions/Submissions.js:992
+#: src/components/shared/customFields/CustomFieldsAdmin.js:47
+msgid "Custom Fields"
+msgstr "Dodatkowe pola"
+
+#: src/components/admin/appearance/Appearance.js:293
+msgid "Customize colors, typography, and layout for your conference site"
+msgstr "Dostosuj kolory, typografię i układ witryny konferencyjnej"
+
+#: src/components/admin/events/TerminologySettings.js:188
+msgid ""
+"Customize how entities are labeled throughout the system. Leave fields blank"
+" to use default translations."
+msgstr ""
+"Dostosuj sposób, w jaki encje są oznaczane w całym systemie. Zostaw pola "
+"puste, aby używać domyślnych tłumaczeń."
+
+#: src/components/admin/abstracts/Abstracts.js:891
+#: src/components/admin/abstracts/Authors.js:579
+#: src/components/admin/users/Users.js:997
+#: src/components/frontend/submissions/Submissions.js:929
+msgid "Customize which columns are visible in your table view"
+msgstr "Dostosuj kolumny widoczne w widoku tabeli"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:580
+msgid "Customize your appearance and branding in Settings"
+msgstr "Dostosuj swój wygląd i markę w Ustawieniach"
+
+#: src/Admin.js:153 src/Frontend.js:184
+#: src/components/admin/onboarding/OnboardingWizard.js:254
+#: classes/admin-menu.php:31 classes/admin-menu.php:32
+msgid "Dashboard"
+msgstr "Kokpit"
+
+#: src/components/admin/dashboard/Dashboard.js:154
+#: src/components/frontend/dashboard/Dashboard.js:42
+msgid "Dashboard Overview"
+msgstr "Przegląd panelu"
+
+#: src/components/admin/dashboard/DashboardSetup.js:152
+#: src/components/admin/onboarding/OnboardingWizard.js:519
+msgid "Dashboard Page Active"
+msgstr "Przegląd panelu"
+
+#: inc/class-dashboard-setup.php:86
+msgid "Dashboard page created successfully!"
+msgstr "Użytkownicy ususzczeni pomyślnie"
+
+#: inc/class-dashboard-setup.php:115
+msgid "Dashboard page deleted successfully."
+msgstr "Streszczenia usunięte pomyślnie"
+
+#: blocks/dashboard/index.js:52
+msgid "Dashboard Settings"
+msgstr "Ustawienia autora"
+
+#: src/components/shared/attachments/FileList.js:449
+msgid "Date"
+msgstr "Data"
+
+#: src/components/shared/attachments/FileList.js:352
+msgid "Date Created"
+msgstr "Data utworzenia"
+
+#: src/components/admin/dashboard/Dashboard.js:262
+msgid "days to deadline"
+msgstr "Dni do terminu"
+
+#: src/components/admin/licenses/Licenses.js:229
+msgid "Deactivate License"
+msgstr "Deaktywuj licencję"
+
+#: src/components/admin/licenses/Licenses.js:160
+msgid "Deactivated"
+msgstr "Dezaktywuj"
+
+#: src/components/admin/licenses/Licenses.js:102
+msgid "Deactivation failed"
+msgstr "Dezaktywacja zakończona niepowodzeniem"
+
+#: src/components/admin/events/Events.js:251
+msgid "Deadline"
+msgstr "Termin realizacji"
+
+#: src/components/admin/events/StatusManagement.js:234
+msgid "Default"
+msgstr "Domyślny"
+
+#: src/components/admin/events/StatusManagement.js:520
+msgid "Default display status"
+msgstr "Wybierz status"
+
+#: src/components/admin/events/StatusManagement.js:514
+msgid "Default Status"
+msgstr "Domyślny status"
+
+#: src/components/admin/events/StatusManagement.js:134
+msgid "Default statuses initialized successfully"
+msgstr "Streszczenia usunięte pomyślnie"
+
+#: src/components/admin/abstracts/Abstracts.js:507
+#: src/components/admin/abstracts/Attachments.js:129
+#: src/components/admin/abstracts/Attachments.js:290
+#: src/components/admin/abstracts/Attachments.js:300
+#: src/components/admin/dashboard/DashboardSetup.js:81
+#: src/components/admin/dashboard/DashboardSetup.js:184
+#: src/components/admin/events/Events.js:156
+#: src/components/admin/events/Events.js:339
+#: src/components/admin/events/Events.js:349
+#: src/components/admin/events/Events.js:993
+#: src/components/admin/events/Events.js:999
+#: src/components/admin/tracks/Tracks.js:91
+#: src/components/admin/tracks/Tracks.js:266
+#: src/components/admin/tracks/Tracks.js:449
+#: src/components/admin/users/Users.js:350
+#: src/components/admin/users/Users.js:355
+#: src/components/admin/users/Users.js:366
+#: src/components/admin/users/Users.js:463
+#: src/components/admin/users/Users.js:465
+#: src/components/frontend/attachments/Attachments.js:316
+#: src/components/frontend/attachments/Attachments.js:321
+#: src/components/frontend/submissions/Submissions.js:247
+#: src/components/frontend/submissions/Submissions.js:285
+#: src/components/frontend/submissions/Submissions.js:574
+#: src/components/shared/attachments/DocumentsStep.js:346
+#: src/components/shared/attachments/DocumentsStep.js:356
+#: src/components/shared/attachments/FileList.js:234
+#: src/components/shared/attachments/FileList.js:295
+#: src/components/shared/customFields/CustomFieldsAdmin.js:130
+#: src/components/shared/customFields/CustomFieldsAdmin.js:314
+#: src/hooks/useAbstractColumns.js:438 src/hooks/useAbstractColumns.js:447
+msgid "Delete"
+msgstr "Usuń"
+
+#: src/components/admin/abstracts/Abstracts.js:502
+msgid "Delete Abstracts"
+msgstr "Usuń streszczenia"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:125
+msgid "Delete Custom Fields"
+msgstr "Pola niestandardowe użytkownika"
+
+#: src/components/admin/dashboard/DashboardSetup.js:75
+msgid "Delete Dashboard Page?"
+msgstr "Odśwież stronę"
+
+#: src/components/admin/events/Events.js:988
+msgid "Delete Event"
+msgstr "Usuń zdarzenia"
+
+#: src/components/admin/events/Events.js:151
+msgid "Delete Events"
+msgstr "Usuń zdarzenia"
+
+#: src/components/admin/abstracts/Attachments.js:116
+#: src/components/frontend/attachments/Attachments.js:186
+#: src/components/shared/attachments/FileList.js:74
+msgid "Delete failed. Please try again."
+msgstr "Rejestracja zakończyła się niepowodzeniem. Proszę, spróbuj ponownie."
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:325
+msgid "Delete Field"
+msgstr "Usuń pole"
+
+#: src/components/admin/abstracts/Attachments.js:295
+#: src/components/frontend/attachments/Attachments.js:311
+#: src/components/shared/attachments/DocumentsStep.js:338
+msgid "Delete File"
+msgstr "Usuń plik"
+
+#: src/components/admin/abstracts/Attachments.js:124
+msgid "Delete Files"
+msgstr "Usuń zdarzenia"
+
+#: src/components/admin/abstracts/Abstracts.js:723
+#: src/components/admin/abstracts/Attachments.js:368
+#: src/components/admin/events/Events.js:487
+#: src/components/admin/tracks/Tracks.js:522
+#: src/components/admin/users/Users.js:806
+#: src/components/frontend/submissions/Submissions.js:330
+#: src/components/shared/customFields/CustomFieldsAdmin.js:369
+msgid "Delete Selected"
+msgstr "Usuń zaznaczone"
+
+#: src/components/shared/attachments/FileList.js:411
+msgid "Delete Selected (%d)"
+msgstr "Usuń zaznaczone"
+
+#: src/components/admin/tracks/Tracks.js:101
+msgid "Delete Session"
+msgstr "Usuń sesję"
+
+#: src/components/frontend/submissions/Submissions.js:280
+msgid "Delete Submissions"
+msgstr "Usuń sesję"
+
+#: src/components/admin/tracks/Tracks.js:459
+msgid "Delete Track"
+msgstr "Usuń utwór"
+
+#: src/components/admin/tracks/Tracks.js:261
+msgid "Delete Tracks"
+msgstr "Usuń utwory"
+
+#: src/components/shared/attachments/FileList.js:368
+msgid "Descending"
+msgstr "Malejąco"
+
+#: src/components/admin/events/CreateEvent.js:74
+#: src/components/admin/events/CreateEvent.js:77
+#: src/components/admin/events/EditEvent.js:112
+#: src/components/admin/events/EditEvent.js:124
+#: src/components/admin/events/Events.js:643
+#: src/components/admin/events/StatusManagement.js:202
+#: src/components/admin/events/StatusManagement.js:460
+#: src/components/admin/tracks/Tracks.js:349
+#: src/components/admin/tracks/Tracks.js:629
+#: src/components/shared/abstracts/AbstractView.js:728
+msgid "Description"
+msgstr "Opis"
+
+#: src/components/shared/attachments/AbstractFileManager.js:145
+msgid "Detailed review notes and comments"
+msgstr "Szczegółowe notatki i komentarze recenzyjne"
+
+#: src/components/frontend/auth/Register.js:160
+msgid "Details"
+msgstr "Szczegóły"
+
+#: src/Admin.js:269
+msgid "Discount Codes"
+msgstr "Kody rabatowe"
+
+#: classes/frontend-dashboard.php:395
+msgid "Dismiss"
+msgstr "Odrzucać"
+
+#: src/components/admin/abstracts/Settings.js:188
+msgid "Display author names and affiliations in abstract listings"
+msgstr "Wyświetlaj warunki pracy podczas przesyłania"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:670
+msgid "Display Order"
+msgstr "Wyświetl zamówienie"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:637
+msgid "Display this field as a column in admin tables"
+msgstr "Wyświetlaj to pole jako kolumnę w tabelach administracyjnych"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:648
+msgid "Display this field as a column in frontend tables"
+msgstr "Wyświetlaj to pole jako kolumnę w tabelach frontendowych"
+
+#: blocks/login/index.js:91
+msgid ""
+"Displays a login form for conference participants. After login, users are "
+"redirected to the SimplyConf dashboard."
+msgstr ""
+"Wyświetla formularz logowania dla uczestników konferencji.Po zalogowaniu "
+"użytkownicy zostają przekierowani do panelu SimplyConf."
+
+#: blocks/register/index.js:91
+msgid ""
+"Displays a registration form for new conference participants to create an "
+"account."
+msgstr ""
+"Wyświetla formularz rejestracyjny dla nowych uczestników konferencji w celu "
+"utworzenia konta."
+
+#: src/components/admin/abstracts/Attachments.js:406
+#: src/components/shared/attachments/FileList.js:337
+msgid "Documents"
+msgstr "Dokumenty"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:798
+msgid "does not equal"
+msgstr "nie równa się"
+
+#: src/components/admin/licenses/Licenses.js:312
+msgid "Don't have a license?"
+msgstr "Nie masz licencji?"
+
+#: src/components/frontend/auth/Login.js:247
+msgid "Don't have an account?"
+msgstr "Nie masz konta?"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:255
+msgid "Done"
+msgstr "Zrobione"
+
+#: src/components/admin/abstracts/Attachments.js:284
+#: src/components/frontend/attachments/Attachments.js:303
+#: src/components/shared/abstracts/AbstractView.js:527
+#: src/components/shared/attachments/FileList.js:226
+#: src/components/shared/attachments/FileList.js:287
+#: src/components/shared/attachments/FilePreview.js:188
+msgid "Download"
+msgstr "Pobierz"
+
+#: src/components/admin/abstracts/Attachments.js:106
+#: src/components/frontend/attachments/Attachments.js:176
+#: src/components/shared/abstracts/AbstractView.js:478
+#: src/components/shared/attachments/FileList.js:55
+#: src/components/shared/attachments/FilePreview.js:77
+msgid "Download failed. Please try again."
+msgstr "Rejestracja zakończyła się niepowodzeniem. Proszę, spróbuj ponownie."
+
+#: src/components/shared/attachments/FilePreview.js:117
+msgid "Download to View"
+msgstr "Pobierz"
+
+#: src/components/admin/abstracts/Attachments.js:252
+#: src/components/shared/attachments/FileList.js:357
+#: src/components/shared/attachments/FileList.js:450
+msgid "Downloads"
+msgstr "Pliki"
+
+#: src/hooks/useAbstractFormState.js:234
+msgid "Draft"
+msgstr "Szkic"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:113
+#: src/components/shared/abstracts/AbstractWizard.js:656
+msgid "Draft Saved (ID: %d) - Only visible to you until submitted"
+msgstr ""
+"Wersja robocza zapisana (ID: %d) — widoczna tylko dla Ciebie do momentu "
+"przesłania"
+
+#: src/hooks/useAbstractFormState.js:653 src/hooks/useAbstractFormState.js:670
+msgid "Draft saved successfully!"
+msgstr "Ustawienia zapisane pomyślnie!"
+
+#: src/hooks/useAbstractFormState.js:625
+msgid ""
+"Draft status not found. Please ensure statuses are configured for this "
+"event."
+msgstr ""
+"Status draftu nie znaleziony. Prosimy o skonfigurowanie statusów dla tego "
+"wydarzenia."
+
+#: src/hooks/useAbstractFormState.js:772
+msgid "Draft submitted successfully!"
+msgstr "Ustawienia zapisane pomyślnie!"
+
+#: src/components/admin/dashboard/Dashboard.js:196
+msgid "drafts"
+msgstr "wersje robocze"
+
+#: src/components/shared/attachments/FileUpload.js:175
+msgid "Drop files here"
+msgstr "Przeciągnij pliki tutaj"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:57
+msgid "Dropdown Select"
+msgstr "Wybór z listy rozwijanej"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:339
+msgid "e.g. ICAI25"
+msgstr "np.ICAI25"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:325
+msgid "e.g. International Conference on AI 2025"
+msgstr "np.Międzynarodowa Konferencja na temat AI 2025"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:394
+msgid "e.g. Machine Learning, Natural Language Processing"
+msgstr "np.Uczenie maszynowe, przetwarzanie języka naturalnego"
+
+#: src/components/admin/users/Settings.js:162
+msgid "e.g., /dashboard or /profile"
+msgstr "np. /panel kontrolny lub /profil"
+
+#: src/components/admin/events/StatusManagement.js:438
+msgid "e.g., draft, submitted"
+msgstr "np. szkic, złożony"
+
+#: src/components/admin/events/StatusManagement.js:454
+msgid "e.g., Draft, Submitted"
+msgstr "np. Szkic, Złożone"
+
+#: src/components/admin/abstracts/Authors.js:457
+#: src/components/admin/dashboard/DashboardSetup.js:181
+#: src/components/admin/events/Events.js:310
+#: src/components/admin/events/Events.js:630
+#: src/components/admin/users/Users.js:341
+#: src/components/frontend/submissions/Submissions.js:562
+#: src/hooks/useAbstractColumns.js:398
+msgid "Edit"
+msgstr "Edytuj"
+
+#: src/components/admin/abstracts/Authors.js:775
+#: src/components/shared/abstracts/AbstractSinglePage.js:90
+#: src/components/shared/abstracts/AbstractView.js:692
+#: src/components/shared/abstracts/AbstractWizard.js:633
+msgid "Edit %s"
+msgstr "Edytuj %s"
+
+#: src/components/shared/abstracts/AuthorManagement.js:283
+msgid "Edit Author"
+msgstr "Edytuj autora"
+
+#: src/components/admin/events/Events.js:980
+msgid "Edit Event"
+msgstr "Edytuj wydarzenie"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:300
+#: src/components/shared/customFields/CustomFieldsAdmin.js:416
+msgid "Edit Field"
+msgstr "Edytuj pole"
+
+#: src/components/admin/users/Users.js:310
+msgid "Edit Roles"
+msgstr "Role montażowe"
+
+#: src/components/admin/users/Users.js:1160
+msgid "Edit Roles for"
+msgstr "Edycja ról dla"
+
+#: src/components/admin/tracks/Tracks.js:77
+msgid "Edit Session"
+msgstr "Sesja edycji"
+
+#: src/components/admin/events/StatusManagement.js:392
+msgid "Edit Status"
+msgstr "Edytuj status"
+
+#: src/components/admin/users/Users.js:1241
+msgid "Edit the user to add custom fields and assign roles"
+msgstr "Edytuj użytkownika, aby dodać niestandardowe pola i przypisać role"
+
+#: src/components/admin/tracks/Tracks.js:429
+#: src/components/admin/tracks/Tracks.js:589
+msgid "Edit Track"
+msgstr "Edytuj utwór"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:130
+#: src/components/shared/abstracts/AbstractWizard.js:673
+msgid "Editing Draft (Not yet submitted)"
+msgstr "Edycja wersji roboczej (jeszcze nie przesłana)"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:135
+#: src/components/shared/abstracts/AbstractWizard.js:678
+msgid "Editing Submitted %s"
+msgstr "Zgłoszone przez"
+
+#: src/components/admin/abstracts/Authors.js:349
+#: src/components/admin/abstracts/Authors.js:624
+#: src/components/admin/abstracts/Authors.js:719
+#: src/components/admin/users/Users.js:195
+#: src/components/shared/authors/AuthorForm.js:103
+#: src/components/shared/customFields/CustomFieldsAdmin.js:53
+msgid "Email"
+msgstr "Email"
+
+#: src/components/frontend/auth/Login.js:285
+msgid "Email address"
+msgstr "Adres e-mail"
+
+#: src/components/frontend/auth/Register.js:318
+msgid "Email Address"
+msgstr "Adres e-mail"
+
+#: src/components/frontend/auth/Register.js:502
+msgid "Email:"
+msgstr "Email:"
+
+#: src/Admin.js:240 src/components/admin/dashboard/Dashboard.js:292
+#: src/components/admin/dashboard/Dashboard.js:320 classes/admin-menu.php:76
+#: classes/admin-menu.php:77
+msgid "Emails"
+msgstr "Emaile"
+
+#: inc/addons.php:200
+msgid "Emails Add-On"
+msgstr "Dodatek do e-maili"
+
+#: src/components/admin/abstracts/Settings.js:41
+msgid "Enable Abstract Description"
+msgstr "Włącz opis abstrakcyjny"
+
+#: src/components/admin/abstracts/Settings.js:253
+msgid "Enable Attachments"
+msgstr "Włącz załączniki"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:690
+msgid "Enable Conditional Logic"
+msgstr "Włącz logikę warunkową"
+
+#: src/components/admin/users/Settings.js:37
+msgid "Enable reCAPTCHA v3"
+msgstr "Włącz reCAPTCHA v3"
+
+#: src/components/admin/abstracts/Settings.js:71
+msgid "Enable Rich Text Editor"
+msgstr "Włącz edytor WYSIWYG"
+
+#: src/components/admin/users/Settings.js:119
+msgid "Enable User Registration"
+msgstr "Rejestracje na wydarzenia"
+
+#: src/components/admin/events/CreateEvent.js:105
+#: src/components/admin/events/EditEvent.js:152
+#: src/components/admin/events/Events.js:240
+#: src/components/admin/events/Events.js:697
+#: src/components/admin/onboarding/OnboardingWizard.js:348
+msgid "End Date"
+msgstr "Data zakończenia"
+
+#: src/components/admin/tracks/Tracks.js:60
+msgid "End Time"
+msgstr "Czas zakończenia"
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:143
+#: src/components/shared/customFields/CustomFieldRenderer.js:158
+#: src/components/shared/customFields/CustomFieldRenderer.js:175
+#: src/components/shared/customFields/CustomFieldRenderer.js:196
+#: src/components/shared/customFields/CustomFieldRenderer.js:333
+msgid "Enter %s"
+msgstr "Wpisz %s"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:230
+#: src/components/shared/abstracts/AbstractWizard.js:274
+msgid "Enter %s description..."
+msgstr "%s opis"
+
+#: src/components/admin/events/CreateEvent.js:186
+#: src/components/admin/events/EditEvent.js:234
+msgid "Enter city"
+msgstr "Wpisz Miejscowość"
+
+#: src/components/admin/events/CreateEvent.js:211
+#: src/components/admin/events/EditEvent.js:259
+msgid "Enter country"
+msgstr "Wpisz kraj"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:450
+msgid "Enter display label for this field"
+msgstr "Wprowadź etykietę display dla tego pola"
+
+#: src/components/shared/authors/AuthorForm.js:117
+msgid "Enter email address"
+msgstr "Podaj adres email"
+
+#: src/components/shared/authors/AuthorForm.js:76
+msgid "Enter first name"
+msgstr "Proszę podać imię"
+
+#: src/components/shared/authors/AuthorForm.js:94
+msgid "Enter last name"
+msgstr "Proszę podać nazwisko"
+
+#: src/components/admin/events/CreateEvent.js:206
+#: src/components/admin/events/EditEvent.js:254
+msgid "Enter postal code"
+msgstr "Wpisz kod pocztowy"
+
+#: src/components/admin/events/CreateEvent.js:197
+#: src/components/admin/events/EditEvent.js:245
+msgid "Enter state or province"
+msgstr "Wejście do stanu lub prowincji"
+
+#: src/components/admin/events/CreateEvent.js:181
+#: src/components/admin/events/EditEvent.js:228
+msgid "Enter street address"
+msgstr "Wprowadź adres ulicy"
+
+#: src/components/admin/tracks/Tracks.js:633
+msgid "Enter track description (optional)"
+msgstr "%s opis"
+
+#: src/components/admin/tracks/Tracks.js:621
+msgid "Enter track name"
+msgstr "Proszę podać nazwisko"
+
+#: src/components/frontend/auth/Login.js:148
+msgid "Enter your credentials to access your account"
+msgstr "Wprowadź swoje dane uwierzytelniające, aby uzyskać dostęp do konta"
+
+#: src/components/frontend/auth/Register.js:310
+msgid "Enter your email address and create a password for your account."
+msgstr "Wprowadź swoje dane uwierzytelniające, aby uzyskać dostęp do konta"
+
+#: src/components/frontend/auth/Login.js:153
+msgid "Enter your email to receive reset instructions"
+msgstr "Wpisz swój e-mail, aby otrzymać instrukcje resetowania"
+
+#: src/components/admin/licenses/Licenses.js:293
+msgid "Enter your license key from simplyconf.com"
+msgstr "Wprowadź klucz licencyjny ze strony Simplyconf.com"
+
+#: src/components/frontend/auth/Login.js:157
+msgid "Enter your new password"
+msgstr "Wpisz swoje nowe hasło"
+
+#: src/components/admin/abstracts/Attachments.js:225
+msgid "Entity"
+msgstr "Jednostka"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:795
+msgid "equals"
+msgstr "równa się"
+
+#: src/components/frontend/submissions/Submissions.js:264
+msgid "Error"
+msgstr "Błąd"
+
+#: src/components/admin/appearance/Appearance.js:486
+msgid "Error Color"
+msgstr "Kolor błędu"
+
+#: src/components/shared/ErrorBoundary.js:140
+msgid "Error Details (for debugging)"
+msgstr "Szczegóły błędu (do debugowania)"
+
+#: src/components/shared/ErrorBoundary.js:76
+msgid "Error details copied to clipboard. Please send this to support."
+msgstr "Szczegóły błędu skopiowane do schowka. Proszę, wyślij to do wsparcia."
+
+#: src/components/shared/ErrorBoundary.js:149
+msgid "Error:"
+msgstr "Błąd:"
+
+#: src/components/shared/users/UserWizard.js:86
+msgid "Error: User ID is required"
+msgstr "Wymagany jest porządek"
+
+#: src/components/admin/abstracts/Attachments.js:240
+#: src/components/admin/onboarding/OnboardingWizard.js:251
+#: src/components/shared/abstracts/AbstractSinglePage.js:362
+#: src/components/shared/abstracts/AbstractView.js:1002
+#: src/components/shared/abstracts/AbstractWizard.js:99
+#: src/components/shared/abstracts/AbstractWizard.js:107
+#: inc/class-dashboard-setup.php:58 blocks/dashboard/index.js:61
+#: blocks/login/index.js:58 blocks/register/index.js:58
+msgid "Event"
+msgstr "Wydarzenie"
+
+#: src/components/admin/events/Events.js:415
+msgid "Event {status} successfully"
+msgstr "Wydarzenie {status} pomyślnie"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:359
+msgid "Event & Track"
+msgstr "Edytuj utwór"
+
+#: src/components/admin/events/TerminologySettings.js:85
+msgid "Event categories"
+msgstr "Kategorie wydarzeń"
+
+#: src/components/admin/events/CreateEvent.js:84
+#: src/components/admin/events/EditEvent.js:131
+msgid "Event Dates"
+msgstr "Daty wydarzenia"
+
+#: src/components/admin/events/Events.js:586
+msgid "Event Details"
+msgstr "Szczegóły wydarzenia"
+
+#: blocks/dashboard/index.js:119 blocks/login/index.js:115
+#: blocks/register/index.js:115
+msgid "Event ID: "
+msgstr "Daty wydarzenia"
+
+#: src/components/shared/abstracts/AbstractView.js:974
+msgid "Event Information"
+msgstr "Informacje o Wydarzeniu"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:333
+msgid "Event Initials"
+msgstr "Szczegóły wydarzenia"
+
+#: src/components/admin/events/Events.js:215
+#: src/components/admin/onboarding/OnboardingWizard.js:316
+msgid "Event Name"
+msgstr "Nazwa wydarzenia"
+
+#: src/Frontend.js:455
+msgid "Event Not Found"
+msgstr "Nie znaleziono"
+
+#: src/components/admin/events/TerminologySettings.js:103
+msgid "Event participants"
+msgstr "Uczestnicy wydarzenia"
+
+#: src/components/admin/events/TerminologySettings.js:97
+msgid "Event registrations"
+msgstr "Rejestracje na wydarzenia"
+
+#: src/components/admin/events/Events.js:660
+msgid "Event Schedule"
+msgstr "Harmonogram wydarzeń"
+
+#: src/components/admin/users/Users.js:1101
+msgid "Event-Specific Custom Fields"
+msgstr "Pola niestandardowe użytkownika"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:381
+msgid "Event: "
+msgstr "Wydarzenie"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:98
+#: src/components/shared/abstracts/AbstractWizard.js:641
+msgid "Event: %s"
+msgstr "Wydarzenia"
+
+#: src/components/admin/events/Events.js:557
+msgid "events"
+msgstr "wydarzenia"
+
+#: src/Admin.js:158 src/components/admin/events/Events.js:466
+#: src/components/admin/events/Wrapper.js:38
+#: src/components/admin/events/Wrapper.js:62 classes/admin-menu.php:40
+#: classes/admin-menu.php:41
+msgid "Events"
+msgstr "Wydarzenia"
+
+#: src/components/admin/events/Events.js:195
+msgid "events archived successfully"
+msgstr "Wydarzenia usunięte pomyślnie"
+
+#: src/components/admin/events/Events.js:165
+msgid "events deleted successfully"
+msgstr "Wydarzenia usunięte pomyślnie"
+
+#: src/components/admin/abstracts/Settings.js:378
+msgid "Excel (XLS/XLSX)"
+msgstr "Excel (XLS/XLSX)"
+
+#: src/components/admin/licenses/Licenses.js:145
+msgid "Expired"
+msgstr "Wygasłe"
+
+#: src/components/admin/licenses/Licenses.js:204
+msgid "Expires"
+msgstr "Wygasa"
+
+#: src/components/admin/appearance/Appearance.js:331
+msgid "Export"
+msgstr "Eksport"
+
+#: src/components/shared/abstracts/AbstractView.js:680
+#: src/components/shared/abstracts/AbstractView.js:704
+#: src/hooks/useAbstractColumns.js:424
+msgid "Export PDF"
+msgstr "Eksportuj plik PDF"
+
+#: src/Admin.js:299 classes/admin-menu.php:103 classes/admin-menu.php:104
+msgid "Exports"
+msgstr "Eksport"
+
+#: inc/addons.php:203
+msgid "Exports Add-On"
+msgstr "Dodatek Eksport"
+
+#: src/components/admin/abstracts/Abstracts.js:349
+msgid "Exports Add-on Required"
+msgstr "Wymagany dodatek eksportowy"
+
+#: src/components/admin/abstracts/Authors.js:399
+#: src/components/admin/abstracts/Authors.js:405
+msgid "External"
+msgstr "Zewnętrzny"
+
+#: src/components/admin/abstracts/Authors.js:533
+msgid "External Only"
+msgstr "Wyłącznie zewnętrzne"
+
+#: src/components/admin/dashboard/Dashboard.js:313
+msgid "failed"
+msgstr "niepowodzenie"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:173
+msgid "Failed to add track."
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/admin/users/Users.js:519
+msgid "Failed to assign roles to some users. Please try again."
+msgstr "Nie udało się usunąć zgłoszenia. Proszę, spróbuj ponownie."
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:149
+#: src/components/admin/tracks/Tracks.js:226
+msgid "Failed to assign track chair"
+msgstr "Nie przypisano miejsca na torze"
+
+#: src/components/admin/events/Events.js:125
+#: src/components/admin/events/Events.js:129
+#: src/components/admin/events/Events.js:140
+msgid "Failed to copy shortcode"
+msgstr "Nie udało się skopiować skrótu"
+
+#: src/components/admin/dashboard/DashboardSetup.js:67
+#: src/components/admin/onboarding/OnboardingWizard.js:207
+msgid "Failed to create dashboard page."
+msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#: src/components/admin/events/StatusManagement.js:106
+msgid "Failed to create status"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/abstracts/Abstracts.js:397
+msgid "Failed to delete abstract"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/dashboard/DashboardSetup.js:105
+msgid "Failed to delete dashboard page."
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/events/Events.js:437
+msgid "Failed to delete event"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/events/StatusManagement.js:119
+msgid "Failed to delete status"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/frontend/submissions/Submissions.js:265
+msgid "Failed to delete the submission. Please try again."
+msgstr "Nie udało się usunąć zgłoszenia. Proszę, spróbuj ponownie."
+
+#: src/components/admin/tracks/Tracks.js:199
+msgid "Failed to delete track"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:181
+msgid "Failed to delete track."
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/users/Users.js:442
+msgid "Failed to delete user"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:158
+#: src/components/shared/customFields/CustomFieldFileValue.js:62
+msgid "Failed to download file"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/admin/abstracts/Abstracts.js:377
+#: src/components/shared/abstracts/AbstractView.js:146
+msgid "Failed to export PDF"
+msgstr "Nie udało się wyeksportować PDF"
+
+#: src/components/admin/dashboard/DashboardSetup.js:38
+msgid "Failed to fetch dashboard status."
+msgstr "Nie udało się zaktualizować statusu"
+
+#: routes/features.php:204
+msgid "Failed to grant feature"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/events/StatusManagement.js:138
+msgid "Failed to initialize default statuses"
+msgstr "Nie udało się zaktualizować statusu zdarzenia"
+
+#: src/components/admin/abstracts/Authors.js:223
+msgid "Failed to link author. No WordPress user found with this email."
+msgstr ""
+"Nie udało się podać autora. Nie znaleziono żadnego użytkownika WordPressa z "
+"tym e-mailem."
+
+#: src/components/admin/abstracts/Authors.js:237
+#: src/components/admin/abstracts/Authors.js:247
+msgid "Failed to load author details"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/admin/abstracts/Authors.js:187
+msgid "Failed to load authors"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/admin/licenses/Licenses.js:53
+msgid "Failed to load license information"
+msgstr "Nie udało się załadować informacji licencjackich"
+
+#: src/components/shared/attachments/FilePreview.js:52
+msgid "Failed to load preview"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/shared/abstracts/AbstractView.js:243
+msgid "Failed to load submission details"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:140
+msgid "Failed to remove file"
+msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#: routes/features.php:228
+msgid "Failed to revoke feature"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/shared/SaveStatusIndicator.js:34
+msgid "Failed to save - Click to retry"
+msgstr "Nie udało się zapisać - Kliknij, aby spróbować ponownie"
+
+#: src/hooks/useAbstractFormState.js:673
+msgid "Failed to save draft. Please try again."
+msgstr "Nie udało się usunąć zgłoszenia. Proszę, spróbuj ponownie."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:129
+msgid "Failed to save onboarding status."
+msgstr "Nie udało się zapisać ustawień terminologii"
+
+#: src/components/admin/abstracts/Settings.js:529
+#: src/components/admin/users/Settings.js:478
+msgid "Failed to save settings. Please try again."
+msgstr "Nie udało się usunąć zgłoszenia. Proszę, spróbuj ponownie."
+
+#: src/components/admin/events/TerminologySettings.js:166
+msgid "Failed to save terminology settings"
+msgstr "Nie udało się zapisać ustawień terminologii"
+
+#: src/components/admin/appearance/Appearance.js:109
+msgid "Failed to save theme settings"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/admin/tracks/Tracks.js:215
+msgid "Failed to save track"
+msgstr "Nie zaktualizowano krzeseł torowych"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:176
+#: src/components/admin/tracks/Tracks.js:237
+msgid "Failed to unassign track chair"
+msgstr "Nie udało się odwrócić krzesła toru"
+
+#: src/components/admin/abstracts/Authors.js:826
+msgid "Failed to update author"
+msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#: src/components/admin/events/Events.js:424
+msgid "Failed to update event status"
+msgstr "Nie udało się zaktualizować statusu zdarzenia"
+
+#: src/components/frontend/auth/Profile.js:86
+msgid "Failed to update profile"
+msgstr "Błąd podczas aktualizacji profilu"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:235
+msgid "Failed to update setting."
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/abstracts/Abstracts.js:429
+#: src/components/admin/events/StatusManagement.js:105
+msgid "Failed to update status"
+msgstr "Nie udało się zaktualizować statusu"
+
+#: src/components/admin/abstracts/Abstracts.js:580
+msgid "Failed to update status for some abstracts"
+msgstr "Nie udało się zaktualizować statusu niektórych streszczeń"
+
+#: src/components/admin/users/EditUser.js:87
+#: src/components/shared/users/UserWizard.js:115
+msgid "Failed to update user"
+msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#: src/components/admin/users/Users.js:602
+msgid "Failed to update user roles"
+msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#: src/components/shared/attachments/DocumentsStep.js:194
+msgid "Failed to upload %s"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:117
+msgid "Failed to upload file"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: routes/features.php:203
+msgid "Feature granted successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/shared/UpgradePrompt.js:34
+msgid "Feature Not Available"
+msgstr "Niedostępne"
+
+#: routes/features.php:227
+msgid "Feature revoked successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/shared/abstracts/AbstractView.js:265
+msgid "Field %s"
+msgstr "Pole %s"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:216
+msgid "Field created"
+msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:118
+msgid "Field deleted"
+msgstr "Usuń zaznaczone"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:748
+msgid "Field is required"
+msgstr "Etykieta jest wymagana"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:440
+msgid "Field Label"
+msgstr "Etykieta pola"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:458
+msgid "Field Name"
+msgstr "Nazwa pola"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:477
+msgid "Field Type"
+msgstr "Typ pola"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:209
+msgid "Field updated"
+msgstr "Profil zaktualizowany!"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:472
+msgid "field_name"
+msgstr "Nazwa pola"
+
+#: src/components/admin/abstracts/Attachments.js:200
+#: src/components/frontend/attachments/Attachments.js:246
+#: src/components/shared/abstracts/AbstractView.js:495
+#: src/components/shared/customFields/CustomFieldFileValue.js:80
+msgid "File"
+msgstr "Plik"
+
+#: src/components/shared/attachments/DocumentsStep.js:149
+msgid "File \"%s\" exceeds the maximum size of %d MB"
+msgstr "Plik „%s” przekracza maksymalny rozmiar %d MB"
+
+#: src/components/admin/abstracts/Attachments.js:113
+#: src/components/frontend/attachments/Attachments.js:183
+msgid "File deleted successfully"
+msgstr "Plik został pomyślnie usunięty"
+
+#: src/components/admin/abstracts/Attachments.js:350
+msgid "File Manager"
+msgstr "Menedżer plików"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:138
+msgid "File removed"
+msgstr "Tak, Usuń"
+
+#: src/components/shared/attachments/FileUpload.js:33
+msgid "File size exceeds"
+msgstr "Rozmiar pliku przekracza"
+
+#: src/components/shared/attachments/AbstractFileManager.js:292
+msgid "File Summary"
+msgstr "Streszczenie pliku"
+
+#: src/components/admin/abstracts/Attachments.js:398
+msgid "File Type"
+msgstr "Typ pliku"
+
+#: src/components/shared/attachments/FileUpload.js:44
+msgid "File type not allowed"
+msgstr "Ten typ pliku jest niedozwolony"
+
+#: src/components/shared/attachments/DocumentsStep.js:138
+msgid "File type not allowed. Allowed types: %s"
+msgstr "Ten typ pliku jest niedozwolony"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:65
+msgid "File Upload"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/shared/customFields/CustomFieldFileUpload.js:115
+msgid "File uploaded successfully"
+msgstr "%s przesłane pomyślnie"
+
+#: src/components/admin/abstracts/Attachments.js:441
+#: src/components/frontend/attachments/Attachments.js:403
+#: src/components/shared/attachments/AbstractFileManager.js:317
+#: src/components/shared/attachments/DocumentsStep.js:211
+msgid "files"
+msgstr "pliki"
+
+#: src/components/admin/users/Users.js:1232
+msgid "Fill in the user information and save"
+msgstr "Wprowadź dane użytkownika i zapisz"
+
+#: src/components/admin/users/Users.js:839
+msgid "Filter by role"
+msgstr "Filtrowanie według roli"
+
+#: src/components/admin/abstracts/Abstracts.js:763
+#: src/components/frontend/submissions/Submissions.js:791
+msgid "Filter by status"
+msgstr "Filtruj według statusu"
+
+#: src/components/admin/abstracts/Abstracts.js:778
+#: src/components/frontend/submissions/Submissions.js:808
+msgid "Filter by track"
+msgstr "Filtruj według utworu"
+
+#: src/components/admin/events/StatusManagement.js:237
+msgid "Final"
+msgstr "Finał"
+
+#: src/components/admin/events/StatusManagement.js:526
+msgid "Final Status"
+msgstr "Wszystkie"
+
+#: src/components/admin/abstracts/Authors.js:713
+#: src/components/shared/authors/AuthorForm.js:66
+msgid "First Name"
+msgstr "Imię"
+
+#: src/components/admin/events/StatusManagement.js:225
+msgid "Flags"
+msgstr "Flagi"
+
+#: src/components/admin/appearance/Appearance.js:506
+msgid "Font Family"
+msgstr "Rodzina czcionki"
+
+#: src/components/admin/appearance/Appearance.js:504
+msgid "Font Settings"
+msgstr "Ustawienia czcionki"
+
+#: src/components/admin/appearance/Appearance.js:541
+msgid "Font size must be between 12 and 18 pixels"
+msgstr "Rozmiar czcionki musi mieścić się w przedziale od 12 do 18 pikseli"
+
+#: src/components/admin/appearance/Appearance.js:561
+msgid "Font Weight"
+msgstr "Ustawienia czcionki"
+
+#: blocks/dashboard/index.js:126
+msgid ""
+"For best results, use a full-width page template. SimplyConf will auto-"
+"adjust if unavailable."
+msgstr ""
+"Aby uzyskać najlepsze rezultaty, użyj szablonu strony o pełnej "
+"szerokości.SimplyConf dostosuje się automatycznie, jeśli będzie niedostępne."
+
+#: src/components/admin/users/Users.js:733
+msgid "for full functionality."
+msgstr "dla pełnej funkcjonalności."
+
+#: src/components/frontend/auth/Login.js:256
+msgid "Forgot your password?"
+msgstr "Zapomniałeś hasła?"
+
+#: src/components/admin/users/Settings.js:68
+msgid "From Google reCAPTCHA admin console"
+msgstr "Z konsoli administracyjnej Google reCAPTCHA"
+
+#: blocks/dashboard/index.js:95
+msgid ""
+"Frontend dashboard for conference participants. This block will display the "
+"full SimplyConf dashboard on the frontend."
+msgstr ""
+"Panel frontendowy dla uczestników konferencji.Ten blok wyświetli pełny "
+"pulpit SimplyConf na interfejsie użytkownika."
+
+#: src/components/shared/abstracts/AbstractView.js:140
+msgid "Generating PDF..."
+msgstr "Generuję PDF..."
+
+#: src/components/admin/appearance/Appearance.js:525
+msgid "Georgia"
+msgstr "Gruzja"
+
+#: inc/addons.php:217
+msgid "Get %s →"
+msgstr "Zrób %s →"
+
+#: src/components/admin/abstracts/Abstracts.js:363
+msgid "Get Exports Add-on"
+msgstr "Pobierz dodatek Exports"
+
+#: src/components/admin/users/Users.js:740
+msgid "Get it here"
+msgstr "Pobierz to tutaj"
+
+#: src/components/admin/abstracts/Abstracts.js:288
+#: src/components/admin/abstracts/Abstracts.js:323
+msgid "Get Reviews Add-on"
+msgstr "Dodatek do Recenzji"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:634
+msgid "Get Started"
+msgstr "Pobierz to tutaj"
+
+#: src/Frontend.js:490
+msgid "Go to Admin"
+msgstr "Całkowita liczba zgłoszeń"
+
+#: src/components/admin/dashboard/Dashboard.js:701
+msgid "Go to Licenses"
+msgstr "Brak licencji"
+
+#: src/components/frontend/attachments/Attachments.js:391
+msgid "Go to Submissions"
+msgstr "Całkowita liczba zgłoszeń"
+
+#: src/components/admin/users/Users.js:1204
+msgid "Go to WordPress Users"
+msgstr "Automatycznie łącz autorów z użytkownikami WordPressa"
+
+#: src/components/shared/attachments/FileList.js:395
+msgid "Grid View"
+msgstr "Widok siatki"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:599
+msgid "Help Text"
+msgstr "Tekst pomocy"
+
+#: src/components/admin/appearance/Appearance.js:519
+msgid "Helvetica"
+msgstr "Helvetica"
+
+#: blocks/dashboard/index.js:73 blocks/login/index.js:70
+#: blocks/register/index.js:70
+msgid "Hide Page Title"
+msgstr "Ukryj tytuł strony"
+
+#: blocks/dashboard/index.js:78
+msgid "Hide the page title when displaying the dashboard."
+msgstr "Ukryj tytuł strony podczas wyświetlania dashboardu."
+
+#: blocks/login/index.js:75
+msgid "Hide the page title when displaying the login form."
+msgstr "Ukryj tytuł strony podczas wyświetlania formularza logowania."
+
+#: blocks/register/index.js:75
+msgid "Hide the page title when displaying the registration form."
+msgstr "Uwzględnij to pole w formularzach rejestracji użytkowników"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:721
+msgid "Hide this field when conditions are met"
+msgstr "Ukryj to pole, jeśli spełnione są warunki"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:281
+msgid "How it works:"
+msgstr "Jak to działa:"
+
+#: src/components/admin/events/StatusManagement.js:474
+msgid "Icon"
+msgstr "Ikona"
+
+#: src/components/admin/abstracts/Abstracts.js:930
+#: src/components/admin/abstracts/Attachments.js:193
+#: src/components/admin/abstracts/Authors.js:319
+#: src/components/admin/events/Events.js:210
+#: src/components/admin/tracks/Tracks.js:328
+#: src/components/admin/users/Users.js:160
+#: src/components/frontend/submissions/Submissions.js:591
+#: src/hooks/useAbstractColumns.js:54
+msgid "ID"
+msgstr "ID"
+
+#: src/components/shared/abstracts/AbstractView.js:654
+msgid "ID:"
+msgstr "ID"
+
+#: src/components/admin/abstracts/Attachments.js:232
+#: src/components/shared/abstracts/AbstractSinglePage.js:141
+#: src/components/shared/abstracts/AbstractWizard.js:684
+msgid "ID: %s"
+msgstr "ID: %s"
+
+#: src/components/admin/abstracts/Attachments.js:408
+#: src/components/shared/attachments/FileList.js:339
+msgid "Images"
+msgstr "Zdjęcia"
+
+#: src/components/admin/appearance/Appearance.js:324
+msgid "Import"
+msgstr "Eksport"
+
+#: src/components/admin/dashboard/Dashboard.js:657
+msgid "Inactive"
+msgstr "Aktywny"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:660
+msgid "Include this field in user registration forms"
+msgstr "Uwzględnij to pole w formularzach rejestracji użytkowników"
+
+#: blocks/login/index.js:120
+msgid "Includes login, forgot password, and password reset forms."
+msgstr "Zawiera formularze logowania, zapomnienia hasła i resetowania hasła."
+
+#: src/components/admin/events/StatusManagement.js:231
+msgid "Initial"
+msgstr "Inicjał"
+
+#: src/components/admin/events/StatusManagement.js:502
+msgid "Initial Status"
+msgstr "Stan początkowy"
+
+#: src/components/admin/events/StatusManagement.js:325
+msgid "Initialize Default Statuses"
+msgstr "Inicjalizuj statusy domyślne"
+
+#: src/components/admin/events/CreateEvent.js:60
+#: src/components/admin/events/CreateEvent.js:68
+#: src/components/admin/events/EditEvent.js:93
+#: src/components/admin/events/EditEvent.js:104
+msgid "Initials"
+msgstr "Inicjały"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:600
+msgid "Instructions displayed below the upload field"
+msgstr "Wprowadź etykietę display dla tego pola"
+
+#: src/components/admin/licenses/Licenses.js:155
+msgid "Invalid"
+msgstr "Nieprawidłowe"
+
+#: routes/features.php:190
+msgid "Invalid feature slug"
+msgstr "Nieprawidłowy błąd funkcji"
+
+#: src/components/admin/appearance/Appearance.js:257
+msgid "Invalid JSON file. Please check the file format."
+msgstr "Nieprawidłowy plik JSON.Sprawdź format pliku."
+
+#: src/components/admin/licenses/Licenses.js:285
+msgid ""
+"Invalid license key format. Please enter a valid 32-character license key."
+msgstr ""
+"Nieprawidłowy format klucza licencyjnego.Proszę wprowadzić ważny 32-znakowy "
+"klucz licencyjny."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:594
+msgid "Invite reviewers and assign them to tracks"
+msgstr "Nie udało się przypisać krzeseł do niektórych torów"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:807
+msgid "is empty"
+msgstr "jest pusty"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:810
+msgid "is not empty"
+msgstr "nie jest pusty"
+
+#: src/components/shared/UpgradePrompt.js:35
+msgid "is not included in your current plan."
+msgstr "nie jest uwzględniony w Twoim obecnym planie."
+
+#: src/components/frontend/submissions/Submissions.js:892
+msgid "item(s) selected"
+msgstr " (%d wybrany)"
+
+#: src/components/admin/abstracts/Settings.js:383
+msgid "JPEG Images"
+msgstr "Zdjęcia"
+
+#: src/components/admin/events/StatusManagement.js:196
+#: src/components/admin/events/StatusManagement.js:445
+#: src/components/shared/customFields/CustomFieldsAdmin.js:230
+msgid "Label"
+msgstr "Etykieta"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:444
+msgid "Label is required"
+msgstr "Etykieta jest wymagana"
+
+#: src/components/admin/licenses/Licenses.js:217
+msgid "Last Checked"
+msgstr "Ostatnia kontrola"
+
+#: src/components/admin/events/Events.js:961
+#: src/components/shared/abstracts/AbstractView.js:1336
+msgid "Last Modified"
+msgstr "Ostatnio zmodyfikowany"
+
+#: src/components/admin/abstracts/Authors.js:716
+#: src/components/shared/authors/AuthorForm.js:84
+msgid "Last Name"
+msgstr "Nazwisko"
+
+#: src/components/admin/appearance/Appearance.js:741
+msgid "Layout Preview"
+msgstr "Podgląd układu"
+
+#: src/components/admin/appearance/Appearance.js:680
+msgid "Layout Settings"
+msgstr "Ustawienia układu strony"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:438
+msgid "Let new users register accounts from the frontend"
+msgstr "Pozwól nowym użytkownikom rejestrować konta z poziomu frontendu"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:308
+msgid "Let's configure your first event. You can always change these later."
+msgstr ""
+"Skonfigurujmy Twoje pierwsze wydarzenie.Zawsze możesz je zmienić później."
+
+#: src/components/admin/appearance/Appearance.js:600
+msgid "Letter Spacing (px)"
+msgstr "Odstępy między literami (px)"
+
+#: src/components/admin/dashboard/Dashboard.js:137
+msgid "License activated successfully!"
+msgstr "Licencja aktywowana pomyślnie"
+
+#: src/components/admin/licenses/Licenses.js:242
+msgid "License Expired"
+msgstr "Klucz licencyjny"
+
+#: src/components/admin/licenses/Licenses.js:392
+msgid "License Information"
+msgstr "Informacje o użytkowniku"
+
+#: src/components/admin/licenses/Licenses.js:200
+#: src/components/admin/licenses/Licenses.js:277
+msgid "License Key"
+msgstr "Klucz licencyjny"
+
+#: src/components/admin/dashboard/Dashboard.js:590
+#: src/components/admin/licenses/Licenses.js:345
+#: src/components/admin/licenses/Licenses.js:364
+msgid "License Management"
+msgstr "Zarządzanie licencjami"
+
+#: src/components/admin/licenses/Licenses.js:349
+msgid ""
+"License management is not available in SaaS mode. All premium features are "
+"automatically included with your subscription."
+msgstr ""
+"Zarządzanie licencjami nie jest dostępne w trybie SaaS.Wszystkie funkcje "
+"premium są automatycznie dołączane do Twojej subskrypcji."
+
+#: src/components/shared/UpgradePrompt.js:43
+msgid "License Required"
+msgstr "Klucz licencyjny"
+
+#: src/components/admin/licenses/Licenses.js:115
+msgid "License validated successfully"
+msgstr "Licencja pomyślnie zweryfikowana"
+
+#: src/components/admin/licenses/Licenses.js:118
+msgid "License validation failed"
+msgstr "Weryfikacja licencji nie powiodła się"
+
+#: src/Admin.js:145 src/components/admin/settings/Wrapper.js:33
+#: src/components/admin/settings/Wrapper.js:75
+msgid "Licenses"
+msgstr "Licencje"
+
+#: src/components/admin/licenses/Licenses.js:396
+msgid "Licenses are validated automatically every 24 hours"
+msgstr "Licencje są sprawdzane automatycznie co 24 godziny"
+
+#: src/components/admin/appearance/Appearance.js:712
+msgid "Light"
+msgstr "Jasny"
+
+#: src/components/shared/attachments/FileUpload.js:35
+msgid "limit"
+msgstr "ograniczać"
+
+#: src/components/admin/appearance/Appearance.js:582
+msgid "Line Height"
+msgstr "Jasny"
+
+#: src/components/admin/abstracts/Authors.js:467
+msgid "Link User"
+msgstr "Użytkownik"
+
+#: src/components/admin/abstracts/Authors.js:393
+msgid "Linked"
+msgstr "Połączone"
+
+#: src/components/admin/abstracts/Authors.js:530
+msgid "Linked to WordPress"
+msgstr "Powiązane z WordPressem"
+
+#: src/components/admin/abstracts/Authors.js:404
+msgid "Linked to WP"
+msgstr "Powiązane z WP"
+
+#: src/components/admin/abstracts/Authors.js:722
+msgid "Linked User"
+msgstr "Link User"
+
+#: src/components/shared/attachments/FileList.js:386
+msgid "List View"
+msgstr "Widok listy"
+
+#: src/components/shared/attachments/FilePreview.js:106
+msgid "Load Preview"
+msgstr "Logo Preview"
+
+#: src/components/frontend/auth/Register.js:407
+msgid "Loading additional fields..."
+msgstr "Ładowanie dodatkowych pól..."
+
+#: src/index.js:380
+msgid "Loading Admin Panel..."
+msgstr "Ładowanie dodatkowych pól..."
+
+#: src/components/shared/abstracts/AbstractView.js:927
+msgid "Loading attachments..."
+msgstr "Ładowanie ustawień motywu..."
+
+#: src/components/admin/users/EditUser.js:94
+#: src/components/frontend/auth/Profile.js:109
+#: src/components/shared/abstracts/AbstractSinglePage.js:320
+#: src/components/shared/abstracts/AbstractWizard.js:398
+#: src/components/shared/users/UserWizard.js:122
+msgid "Loading custom fields..."
+msgstr "Ładowanie niestandardowych pól..."
+
+#: src/components/admin/dashboard/Dashboard.js:172
+msgid "Loading dashboard statistics..."
+msgstr "Ładowanie statystyk na pulpicie..."
+
+#: src/index.js:619
+msgid "Loading Dashboard..."
+msgstr "Ładowanie statystyk na pulpicie..."
+
+#: src/components/shared/attachments/FilePreview.js:86
+msgid "Loading preview..."
+msgstr "Wczytywanie podglądu..."
+
+#: src/components/frontend/auth/Profile.js:97
+msgid "Loading profile..."
+msgstr "Profil ładowania..."
+
+#: src/components/admin/dashboard/Dashboard.js:463
+msgid "Loading recent activity..."
+msgstr "Ostatnia aktywność"
+
+#: src/components/shared/abstracts/AbstractView.js:586
+msgid "Loading submission details..."
+msgstr "Ładowanie niestandardowych pól..."
+
+#: src/components/frontend/submissions/Submissions.js:716
+msgid "Loading Submissions..."
+msgstr "Ładowanie ustawień motywu..."
+
+#: src/components/admin/appearance/Appearance.js:270
+msgid "Loading theme settings..."
+msgstr "Ładowanie ustawień motywu..."
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:297
+msgid "Loading track chairs..."
+msgstr "Ładowanie ustawień motywu..."
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:403
+#: src/components/shared/abstracts/AbstractWizard.js:140
+msgid "Loading tracks..."
+msgstr "Ładowanie ustawień motywu..."
+
+#: src/components/admin/users/EditUser.js:100
+#: src/components/admin/users/ViewUser.js:86
+msgid "Loading user details..."
+msgstr "Ładowanie niestandardowych pól..."
+
+#: src/Frontend.js:265 src/Frontend.js:275
+#: src/components/admin/abstracts/Abstracts.js:822
+#: src/components/admin/users/Users.js:898
+#: src/components/frontend/dashboard/Dashboard.js:33
+#: src/components/frontend/submissions/Submissions.js:490
+#: src/components/shared/abstracts/AbstractView.js:399
+#: src/components/shared/abstracts/AbstractView.js:1396
+#: src/hooks/useAbstractColumns.js:287 blocks/dashboard/index.js:117
+#: blocks/login/index.js:113 blocks/register/index.js:113
+msgid "Loading..."
+msgstr "Ładowanie..."
+
+#: src/components/admin/events/Events.js:840
+#: src/components/admin/tracks/Tracks.js:65
+msgid "Location"
+msgstr "Lokalizacja"
+
+#: src/components/admin/users/Settings.js:148
+msgid "Login Redirect URL"
+msgstr "Adres URL przekierowania logowania"
+
+#: blocks/login/index.js:49
+msgid "Login Settings"
+msgstr "Ustawienia czcionki"
+
+#: src/components/frontend/auth/Login.js:70
+msgid "Login successful!"
+msgstr "Logowanie zakończone!"
+
+#: src/components/admin/appearance/Appearance.js:420
+#: src/components/admin/appearance/Appearance.js:427
+msgid "Logo Preview"
+msgstr "Logo Preview"
+
+#: src/components/admin/appearance/Appearance.js:239
+msgid "Logo uploaded successfully"
+msgstr "%s przesłane pomyślnie"
+
+#: src/components/admin/appearance/Appearance.js:388
+msgid "Logo URL"
+msgstr "Url logo"
+
+#: src/Frontend.js:336
+msgid "Logout"
+msgstr "Wyloguj"
+
+#: src/Admin.js:246
+msgid "Mail Log"
+msgstr "Dziennik poczty"
+
+#: src/components/shared/attachments/AbstractFileManager.js:85
+msgid "Main abstract document (PDF format)"
+msgstr "Główny dokument abstraktowy (format PDF)"
+
+#: src/components/admin/events/TerminologySettings.js:61
+msgid "Main submission entity"
+msgstr "Główna jednostka zgłaszająca"
+
+#: src/components/admin/tracks/Tracks.js:411
+msgid "Manage ({chairCount})"
+msgstr "Zarządzaj ({reviewerCount})"
+
+#: src/hooks/useAbstractColumns.js:220
+msgid "Manage ({reviewerCount})"
+msgstr "Zarządzaj ({reviewerCount})"
+
+#: src/components/admin/tracks/Tracks.js:435
+msgid "Manage Chairs"
+msgstr "Zarządzaj przewodniczącymi"
+
+#: src/components/admin/abstracts/Abstracts.js:882
+#: src/components/admin/abstracts/Authors.js:570
+#: src/components/admin/users/Users.js:988
+#: src/components/frontend/submissions/Submissions.js:784
+#: src/components/frontend/submissions/Submissions.js:920
+msgid "Manage Columns"
+msgstr "Zarządzaj kolumnami"
+
+#: src/components/frontend/attachments/Attachments.js:353
+msgid "Manage files and attachments for your %s submissions"
+msgstr "Zarządzaj plikami i załącznikami do swoich %s zgłoszeń"
+
+#: src/components/shared/UpgradePrompt.js:49
+msgid "Manage Licenses"
+msgstr "Wszyscy oceniający"
+
+#: src/components/admin/dashboard/Dashboard.js:670
+msgid "Manage Licenses →"
+msgstr "Wszyscy oceniający"
+
+#: src/components/admin/events/StatusManagement.js:303
+msgid "Manage statuses for"
+msgstr "Zmień status"
+
+#: src/components/admin/licenses/Licenses.js:366
+msgid ""
+"Manage your SimplyConf add-on licenses. Each add-on requires a separate "
+"license key for updates and support."
+msgstr ""
+"Zarządzaj licencjami dodatków SimplyConf.Każdy dodatek wymaga osobnego "
+"klucza licencyjnego do aktualizacji i wsparcia."
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:870
+msgid "Match ALL rules (AND)"
+msgstr "Dopasuj WSZYSTKIE reguły (ORAZ)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:873
+msgid "Match ANY rule (OR)"
+msgstr "Dopasuj DOWOLNĄ regułę (LUB)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:865
+msgid "Match Logic"
+msgstr "Dziennik poczty"
+
+#: src/components/shared/attachments/FileUpload.js:179
+msgid "Max file size:"
+msgstr "Maksymalny rozmiar pliku:"
+
+#: src/components/admin/abstracts/Settings.js:336
+msgid "Maximum File Size (MB)"
+msgstr "Maksymalny rozmiar pliku:"
+
+#: src/components/shared/attachments/DocumentsStep.js:225
+msgid "Maximum file size:"
+msgstr "Maksymalny rozmiar pliku:"
+
+#: src/components/admin/abstracts/Settings.js:129
+msgid "Maximum number of abstracts a single user can submit"
+msgstr ""
+"Maksymalna liczba streszczeń, które może przesłać pojedynczy użytkownik"
+
+#: src/components/admin/users/Settings.js:212
+msgid "Maximum number of characters allowed for passwords"
+msgstr "Maksymalna liczba znaków dozwolona w opisie abstrakcyjnym"
+
+#: src/components/admin/abstracts/Settings.js:103
+msgid "Maximum number of characters allowed in abstract description"
+msgstr "Maksymalna liczba znaków dozwolona w opisie abstrakcyjnym"
+
+#: src/components/admin/abstracts/Settings.js:315
+msgid "Maximum number of files allowed per submission"
+msgstr "Maksymalna dozwolona liczba plików na zgłoszenie"
+
+#: src/components/shared/attachments/DocumentsStep.js:160
+msgid "Maximum of %d files allowed"
+msgstr "Maksymalna dozwolona liczba plików na zgłoszenie"
+
+#: src/components/admin/users/Settings.js:208
+msgid "Maximum Password Length"
+msgstr "Maksymalna długość hasła"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:577
+msgid "Maximum Rating"
+msgstr "Maksymalna Ocena"
+
+#: src/components/admin/abstracts/Settings.js:339
+msgid "Maximum size for each uploaded file in megabytes"
+msgstr "Maksymalny rozmiar każdego przesłanego pliku w megabajtach"
+
+#: src/components/admin/appearance/Appearance.js:715
+msgid "Medium"
+msgstr "Średni"
+
+#: src/Frontend.js:424
+msgid "Menu"
+msgstr "Menu"
+
+#: src/components/admin/users/Settings.js:186
+msgid "Minimum number of characters required for passwords"
+msgstr "Maksymalna liczba znaków dozwolona w opisie abstrakcyjnym"
+
+#: src/components/admin/users/Settings.js:182
+msgid "Minimum Password Length"
+msgstr "Minimalna długość hasła"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:165
+#: src/components/shared/abstracts/AbstractWizard.js:709
+msgid "Modifications are not permitted at this time."
+msgstr "Modyfikacje nie są obecnie dozwolone."
+
+#: src/components/admin/abstracts/Abstracts.js:1003
+#: src/hooks/useAbstractColumns.js:351
+msgid "Modified"
+msgstr "Zmodyfikowano"
+
+#: src/components/shared/abstracts/AuthorManagement.js:95
+msgid "Move down"
+msgstr "Przesuń w dół"
+
+#: src/components/shared/abstracts/AuthorManagement.js:87
+msgid "Move up"
+msgstr "Przesuń w górę"
+
+#: src/components/admin/abstracts/Settings.js:160
+msgid "Multi-Step Wizard"
+msgstr "Kreator wieloetapowy"
+
+#: src/components/frontend/attachments/Attachments.js:349
+msgid "My Attachments"
+msgstr "Załączniki"
+
+#: src/Frontend.js:328 src/components/frontend/auth/Profile.js:105
+#: src/components/frontend/auth/Profile.js:117
+msgid "My Profile"
+msgstr "Mój profil"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:63
+msgid "My Submissions"
+msgstr "Zgłoszenia"
+
+#: src/components/shared/abstracts/AbstractView.js:1247
+#: src/hooks/useAbstractColumns.js:99 src/hooks/useAbstractColumns.js:152
+#: src/hooks/useAbstractColumns.js:331 src/hooks/useAbstractColumns.js:357
+msgid "N/A"
+msgstr "Nie dotyczy"
+
+#: src/components/admin/abstracts/Authors.js:330
+#: src/components/admin/abstracts/Authors.js:617
+#: src/components/admin/events/CreateEvent.js:44
+#: src/components/admin/events/EditEvent.js:77
+#: src/components/admin/events/StatusManagement.js:190
+#: src/components/admin/events/StatusManagement.js:422
+#: src/components/admin/tracks/Tracks.js:53
+#: src/components/admin/tracks/Tracks.js:335
+#: src/components/admin/users/Users.js:171
+#: src/components/shared/attachments/FileList.js:354
+#: src/components/shared/attachments/FileList.js:446
+#: src/components/shared/customFields/CustomFieldsAdmin.js:231
+msgid "Name"
+msgstr "Nazwa"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:462
+msgid "Name is required"
+msgstr "Imię jest wymagane"
+
+#: src/components/admin/events/StatusManagement.js:430
+msgid "Name must be lowercase letters and underscores only"
+msgstr "Imię musi być zawierane małymi literami i tylko podkreśleniami"
+
+#: src/components/admin/events/Events.js:1014
+msgid "New Event"
+msgstr "Nowe wydarzenie"
+
+#: src/components/frontend/auth/Login.js:348
+msgid "New password"
+msgstr "Nowe hasło"
+
+#: src/components/frontend/auth/Login.js:144
+msgid "New Password"
+msgstr "Nowe hasło"
+
+#: blocks/register/index.js:120
+msgid "New users will be assigned the author role for the selected event."
+msgstr "Nowi użytkownicy otrzymają rolę autora wybranego wydarzenia."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:638
+#: src/components/shared/abstracts/AbstractWizard.js:224
+#: src/components/shared/abstracts/AbstractWizard.js:381
+#: src/components/shared/abstracts/AbstractWizard.js:458
+#: src/components/shared/abstracts/AbstractWizard.js:512
+#: src/components/shared/attachments/DocumentsStep.js:378
+msgid "Next"
+msgstr "Następny"
+
+#: src/components/frontend/auth/Register.js:377
+#: src/components/frontend/auth/Register.js:450
+msgid "Next Step"
+msgstr "Następny krok"
+
+#: src/components/admin/abstracts/Authors.js:725
+#: src/components/admin/events/StatusManagement.js:261
+#: src/components/admin/users/Users.js:239
+#: src/components/admin/users/ViewUser.js:55
+#: src/components/frontend/submissions/Submissions.js:653
+#: src/components/shared/abstracts/AbstractView.js:855
+#: src/components/shared/abstracts/AbstractView.js:1203
+#: src/components/shared/customFields/CustomFieldsAdmin.js:261
+#: src/components/shared/customFields/CustomFieldsAdmin.js:267
+#: src/components/shared/customFields/CustomFieldsAdmin.js:273
+#: src/components/shared/customFields/CustomFieldsAdmin.js:282
+msgid "No"
+msgstr "Nie"
+
+#: src/components/admin/dashboard/Dashboard.js:677
+msgid "No Active Licenses"
+msgstr "Brak aktywnej licencji"
+
+#: src/components/shared/abstracts/AbstractWizard.js:403
+msgid "No additional details are required for this event."
+msgstr ""
+"Nie jest wymagana opłata za rejestrację na konferencję na to wydarzenie."
+
+#: src/components/frontend/auth/Register.js:436
+msgid ""
+"No additional information required. Click \"Next\" to review your "
+"registration."
+msgstr ""
+"Nie są wymagane żadne dodatkowe informacje.Kliknij „Dalej”, aby sprawdzić "
+"swoją rejestrację."
+
+#: src/components/shared/abstracts/AbstractView.js:935
+msgid "No attachments found for this submission."
+msgstr "Osprzęt"
+
+#: src/components/frontend/attachments/Attachments.js:378
+msgid "No attachments found."
+msgstr "Osprzęt"
+
+#: src/components/shared/abstracts/AuthorManagement.js:237
+msgid "No authors added yet"
+msgstr "Na razie nie dodano żadnych autorów"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:304
+msgid "No available track chairs found matching your search"
+msgstr ""
+"Nie znaleziono dostępnych krzeseł torowych pasujących do Twojego "
+"wyszukiwania"
+
+#: src/components/admin/users/EditUser.js:124
+#: src/components/shared/users/UserWizard.js:146
+msgid "No custom fields available for users."
+msgstr "Nie ma dostępnych niestandardowych pól dla twojego profilu."
+
+#: src/components/frontend/auth/Profile.js:140
+msgid "No custom fields available for your profile."
+msgstr "Nie ma dostępnych niestandardowych pól dla twojego profilu."
+
+#: src/components/admin/abstracts/Abstracts.js:1052
+#: src/components/admin/abstracts/Authors.js:687
+#: src/components/admin/users/Users.js:1146
+msgid "No custom fields have been created for this event"
+msgstr "Dla tego zdarzenia nie utworzono żadnych niestandardowych pól"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:533
+msgid "No Dashboard Page"
+msgstr "Kokpit"
+
+#: src/components/admin/dashboard/DashboardSetup.js:131
+msgid "No Dashboard Page Found"
+msgstr "Nie znaleziono dopasowanych użytkowników"
+
+#: inc/class-dashboard-setup.php:106
+msgid "No dashboard page found for this event."
+msgstr ""
+"Nie jest wymagana opłata za rejestrację na konferencję na to wydarzenie."
+
+#: src/components/admin/dashboard/Dashboard.js:263
+msgid "No deadline set"
+msgstr "Brak terminu oddania"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:121
+#: src/components/shared/abstracts/AbstractWizard.js:664
+msgid "No Draft Saved"
+msgstr "Brak zapisu do szkicu"
+
+#: src/components/admin/events/StatusManagement.js:277
+msgid "No Event Selected"
+msgstr "Usuń zaznaczone"
+
+#: src/components/shared/abstracts/AbstractView.js:800
+#: src/components/shared/customFields/CustomFieldFileUpload.js:187
+msgid "No file uploaded"
+msgstr "Jeszcze nie przesłano plików"
+
+#: src/components/shared/attachments/FileList.js:422
+msgid "No files found"
+msgstr "Nie znaleziono plików"
+
+#: src/components/admin/events/StatusManagement.js:532
+msgid "No further changes allowed"
+msgstr "Dalsze zmiany nie są dozwolone"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:366
+#: src/components/shared/abstracts/AbstractWizard.js:111
+msgid "No global event selected"
+msgstr "Nie wybrano globalnego wydarzenia"
+
+#: src/components/admin/licenses/Licenses.js:165
+msgid "No License"
+msgstr "Brak licencji"
+
+#: src/components/admin/appearance/Appearance.js:433
+msgid "No Logo Set"
+msgstr "Brak zestawu logo"
+
+#: src/components/admin/dashboard/Dashboard.js:555
+#: src/components/frontend/dashboard/widgets/Timeline.js:83
+msgid "No recent activity"
+msgstr "Ostatnia aktywność"
+
+#: src/hooks/useAbstractColumns.js:315
+msgid "No Status"
+msgstr "Brak statusu"
+
+#: src/components/admin/events/StatusManagement.js:372
+msgid "No Statuses Found"
+msgstr "Nie znaleziono dopasowanych użytkowników"
+
+#: src/hooks/useAbstractFormState.js:736
+msgid "No submitted status found. Please configure statuses for this event."
+msgstr ""
+"Status draftu nie znaleziony. Prosimy o skonfigurowanie statusów dla tego "
+"wydarzenia."
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:313
+msgid "No track chairs available for this event"
+msgstr "Nie ma dostępnych niestandardowych pól dla twojego profilu."
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:404
+#: src/components/shared/abstracts/AbstractWizard.js:141
+msgid "No tracks available"
+msgstr "Niedostępne"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:369
+msgid "No tracks yet. Add your first one below."
+msgstr "Nie ma jeszcze żadnych utworów.Dodaj swój pierwszy poniżej."
+
+#: src/components/admin/appearance/Appearance.js:709
+msgid "None"
+msgstr "Brak"
+
+#: src/components/shared/abstracts/AbstractView.js:1322
+msgid "Not available"
+msgstr "Niedostępne"
+
+#: src/components/shared/NotFound.js:7
+msgid "Not found"
+msgstr "Nie znaleziono"
+
+#: src/components/admin/users/ViewUser.js:49
+#: src/components/frontend/auth/Register.js:535
+#: src/components/shared/abstracts/AbstractView.js:862
+msgid "Not provided"
+msgstr "Nie podano"
+
+#: src/components/admin/events/Events.js:876
+msgid "Not specified"
+msgstr "Nie podano"
+
+#: blocks/dashboard/index.js:124
+msgid "Note:"
+msgstr "Notatka:"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:54
+msgid "Number"
+msgstr "Numer"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:120
+msgid "One lowercase letter"
+msgstr "Jedna mała litera"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:131
+msgid "One number"
+msgstr "Numer"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:144
+msgid "One special character"
+msgstr "Jeden znak specjalny"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:109
+msgid "One uppercase letter"
+msgstr "Jedna wielka litera"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:789
+msgid "Operator"
+msgstr "Operator"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:781
+msgid "Operator is required"
+msgstr "Wymagany jest porządek"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:560
+msgid "Option 1\\nOption 2\\nOption 3\\n\\n(Leave empty for single checkbox)"
+msgstr ""
+"Opcja 1\\nOpcja 2\\nOpcja 3\\n\\n(Zostawić pustą dla pojedynczego pola "
+"zaznaczenia)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:564
+msgid "Option 1\\nOption 2\\nOption 3\\n\\nor\\n\\nOption 1, Option 2, Option 3"
+msgstr "Opcja 1\\nOpcja 2\\nOpcja 3\\n\\n\\nOpcja 1, Opcja 2, Opcja 3"
+
+#: src/components/admin/abstracts/Settings.js:296
+#: src/components/admin/events/CreateEvent.js:164
+#: src/components/admin/events/EditEvent.js:210
+#: src/components/admin/events/Events.js:800
+msgid "Optional"
+msgstr "Opcjonalnie"
+
+#: src/components/admin/abstracts/Abstracts.js:954
+#: src/components/admin/users/Users.js:1063
+msgid "Optional Fixed Columns"
+msgstr "Kolumny stałe"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:537
+msgid "Options (one per line or comma separated)"
+msgstr "Opcje (jedna na linię lub przecinek oddzielony)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:533
+msgid "Options (optional - leave empty for single checkbox)"
+msgstr "Opcje (opcjonalne – zostawić puste dla pojedynczego pola zaznaczenia)"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:548
+msgid "Options are required for this field type"
+msgstr "Dla tego typu pola wymagane są opcje"
+
+#: src/components/admin/events/StatusManagement.js:183
+#: src/components/admin/events/StatusManagement.js:488
+#: src/components/shared/customFields/CustomFieldsAdmin.js:287
+msgid "Order"
+msgstr "Zamówienie"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:674
+msgid "Order is required"
+msgstr "Wymagany jest porządek"
+
+#: src/components/admin/appearance/Appearance.js:365
+msgid "Organization Details"
+msgstr "Szczegóły organizacyjne"
+
+#: src/components/admin/appearance/Appearance.js:367
+msgid "Organization Name"
+msgstr "Nazwa organizacji"
+
+#: src/components/admin/appearance/Appearance.js:372
+msgid "Organization name must be less than 100 characters"
+msgstr "Nazwa użytkownika musi mieć co najmniej 3 znaki"
+
+#: src/components/shared/attachments/AbstractFileManager.js:272
+msgid "Other Files"
+msgstr "Inne pliki"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:116
+msgid "Overall Progress"
+msgstr "Ogólny postęp"
+
+#: src/components/admin/dashboard/DashboardSetup.js:160
+msgid "Page:"
+msgstr "Strona:"
+
+#: src/components/frontend/auth/Login.js:201
+#: src/components/frontend/auth/Register.js:342
+msgid "Password"
+msgstr "Hasło"
+
+#: src/components/frontend/auth/Login.js:339
+msgid "Password must be at least 6 characters"
+msgstr "Hasło musi mieć co najmniej 6 znaków"
+
+#: src/components/admin/users/Settings.js:398
+msgid "Password Requirements"
+msgstr "Wymagania dotyczące autora"
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:68
+msgid "Password Requirements:"
+msgstr "Wymagania dotyczące autora"
+
+#: src/components/frontend/auth/Login.js:92
+msgid "Password reset email sent!"
+msgstr "Wysłano maila o zresetowaniu hasła!"
+
+#: src/components/frontend/auth/Login.js:104
+msgid "Password reset successful! Please login."
+msgstr "Reset hasła zakończony sukcesem! Proszę zaloguj się."
+
+#: src/components/shared/auth/PasswordStrengthIndicator.js:47
+msgid "Password Strength:"
+msgstr "Hasło:"
+
+#: src/components/frontend/auth/Register.js:505
+msgid "Password:"
+msgstr "Hasło:"
+
+#: src/components/admin/users/Settings.js:274
+msgid "Passwords must contain at least one lowercase letter (a-z)"
+msgstr "Hasło musi mieć co najmniej 6 znaków"
+
+#: src/components/admin/users/Settings.js:305
+msgid "Passwords must contain at least one number (0-9)"
+msgstr "Hasło musi mieć co najmniej 6 znaków"
+
+#: src/components/admin/users/Settings.js:338
+msgid "Passwords must contain at least one special character (!@#$%^&*)"
+msgstr "Hasło musi mieć co najmniej 6 znaków"
+
+#: src/components/admin/users/Settings.js:241
+msgid "Passwords must contain at least one uppercase letter (A-Z)"
+msgstr "Hasło musi mieć co najmniej 6 znaków"
+
+#: src/Admin.js:258 src/components/admin/dashboard/Dashboard.js:342
+#: src/components/admin/dashboard/Dashboard.js:370 classes/admin-menu.php:85
+#: classes/admin-menu.php:86
+msgid "Payments"
+msgstr "Płatności"
+
+#: inc/addons.php:202
+msgid "Payments & Registration Add-On"
+msgstr "Dodatek do płatności i rejestracji"
+
+#: src/components/admin/abstracts/Attachments.js:410
+#: src/components/admin/abstracts/Settings.js:364
+msgid "PDF"
+msgstr "PDF"
+
+#: src/components/admin/abstracts/Abstracts.js:374
+#: src/components/shared/abstracts/AbstractView.js:143
+msgid "PDF exported successfully"
+msgstr "PDF wyeksportowany pomyślnie"
+
+#: src/components/admin/events/TerminologySettings.js:79
+msgid "Peer review entities"
+msgstr "Podmioty recenzujące"
+
+#: src/components/admin/dashboard/Dashboard.js:256
+#: src/components/admin/dashboard/Dashboard.js:363
+msgid "pending"
+msgstr "oczekujące"
+
+#: src/components/shared/attachments/DocumentsStep.js:227
+msgid "per file"
+msgstr "Aktualizuj profil"
+
+#: src/state/dashboardSlice.js:51
+msgid "performed an action"
+msgstr "Informacje o użytkowniku"
+
+#: src/state/frontendSlice.js:90
+msgid "Performed an Action"
+msgstr "Informacje o użytkowniku"
+
+#: src/components/shared/abstracts/AbstractWizard.js:548
+msgid ""
+"Please complete the previous steps to see a preview of your submission."
+msgstr "Wykonaj poprzednie kroki, aby zobaczyć podgląd swojego zgłoszenia."
+
+#: src/components/shared/ErrorBoundary.js:84
+msgid ""
+"Please copy the error details from the browser console and send to support."
+msgstr ""
+"Proszę skopiować szczegóły błędu z konsoli przeglądarki i wysłać je do "
+"wsparcia."
+
+#: src/components/admin/events/Events.js:580
+msgid "Please create an event to get started."
+msgstr "Prosimy o utworzenie wydarzenia, aby zacząć."
+
+#: src/hooks/useAbstractFormState.js:524
+msgid "Please ensure an event is selected globally"
+msgstr "Prosimy o to, aby wydarzenie zostało wybrane na całym świecie"
+
+#: src/components/admin/events/CreateEvent.js:125
+#: src/components/admin/events/EditEvent.js:172
+msgid "Please enter a deadline"
+msgstr "Proszę wprowadzić nazwę użytkownika"
+
+#: src/components/admin/events/EditEvent.js:115
+msgid "please enter a event description"
+msgstr "Prosimy o utworzenie wydarzenia, aby zacząć."
+
+#: src/components/frontend/auth/Register.js:346
+msgid "Please enter a password"
+msgstr "Proszę wprowadzić hasło"
+
+#: src/hooks/useAbstractFormState.js:618
+msgid "Please enter a title before saving draft"
+msgstr "Proszę wprowadzić poprawny adres e-mail"
+
+#: src/components/admin/tracks/Tracks.js:617
+msgid "Please enter a track name"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/frontend/auth/Login.js:279
+#: src/components/shared/authors/AuthorForm.js:111
+msgid "Please enter a valid email"
+msgstr "Proszę podać poprawny adres E-mail"
+
+#: src/components/frontend/auth/Register.js:326
+msgid "Please enter a valid email address"
+msgstr "Proszę wprowadzić poprawny adres e-mail"
+
+#: src/components/admin/appearance/Appearance.js:397
+msgid "Please enter a valid URL"
+msgstr "Proszę podać poprawny adres E-mail"
+
+#: src/components/admin/events/CreateEvent.js:48
+#: src/components/admin/events/CreateEvent.js:53
+#: src/components/admin/events/EditEvent.js:81
+#: src/components/admin/events/EditEvent.js:86
+#: src/components/admin/onboarding/OnboardingWizard.js:320
+msgid "Please enter an event name"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/shared/authors/AuthorForm.js:107
+msgid "Please enter email"
+msgstr "Proszę wpisać adres e-mail"
+
+#: src/components/shared/authors/AuthorForm.js:70
+msgid "Please enter first name"
+msgstr "Proszę wpisać swoje imię"
+
+#: src/components/shared/authors/AuthorForm.js:88
+msgid "Please enter last name"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/admin/events/StatusManagement.js:449
+msgid "Please enter status label"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/admin/events/StatusManagement.js:426
+msgid "Please enter status name"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/admin/events/CreateEvent.js:109
+#: src/components/admin/events/EditEvent.js:156
+msgid "Please enter the end date"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/admin/events/CreateEvent.js:64
+#: src/components/admin/events/EditEvent.js:97
+msgid "Please enter the event initials"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/admin/events/CreateEvent.js:95
+#: src/components/admin/events/EditEvent.js:142
+msgid "Please enter the start date"
+msgstr "Proszę wpisać nazwisko"
+
+#: src/components/frontend/auth/Login.js:275
+#: src/components/frontend/auth/Register.js:322
+msgid "Please enter your email"
+msgstr "Wpisz swój e-mail"
+
+#: src/components/admin/licenses/Licenses.js:281
+msgid "Please enter your license key"
+msgstr "Podaj swój klucz licencyjny"
+
+#: src/components/frontend/auth/Login.js:332
+msgid "Please enter your new password"
+msgstr "Proszę wpisać nowe hasło"
+
+#: src/components/frontend/auth/Login.js:194
+msgid "Please enter your password"
+msgstr "Proszę wpisać hasło"
+
+#: src/components/frontend/auth/Login.js:175
+msgid "Please enter your username or email"
+msgstr "Proszę podać swoją nazwę użytkownika lub adres e-mail"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:478
+#: src/components/shared/abstracts/AbstractWizard.js:219
+#: src/components/shared/abstracts/AbstractWizard.js:376
+#: src/components/shared/abstracts/AbstractWizard.js:443
+msgid "Please fill in all required fields"
+msgstr "Proszę wypełnić wszystkie wymagane pola"
+
+#: src/hooks/useAbstractFormState.js:716
+msgid "Please fix the following errors before submitting."
+msgstr "Przed przesłaniem popraw następujące błędy."
+
+#: src/components/shared/abstracts/AbstractView.js:131
+msgid ""
+"Please install and activate the Exports Add-on to export Abstracts to PDF."
+msgstr "Do eksportu streszczeń do PDF wymagany jest dodatek Eksport."
+
+#: src/components/admin/abstracts/Abstracts.js:278
+#: src/components/admin/abstracts/Abstracts.js:313
+msgid ""
+"Please install and activate the Reviews Add-on to assign reviewers and "
+"manage reviews."
+msgstr ""
+"Prosimy o zainstalowanie i aktywację dodatku Recenzje, aby przypisywać "
+"recenzentów i zarządzać recenzjami."
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:105
+msgid "Please provide %s"
+msgstr "Proszę o %s"
+
+#: src/components/frontend/auth/Register.js:416
+msgid "Please provide some additional details to complete your registration."
+msgstr "Prosimy o podanie dodatkowych szczegółów, aby uzupełnić rejestrację."
+
+#: src/components/frontend/auth/Register.js:472
+msgid "Please review your information before submitting your registration."
+msgstr "Prosimy o zapoznanie się z danymi przed złożeniem rejestracji."
+
+#: src/components/admin/abstracts/Abstracts.js:412
+#: src/components/admin/abstracts/Abstracts.js:553
+msgid "Please select a status"
+msgstr "Proszę wybrać status"
+
+#: src/hooks/useAbstractFormState.js:529
+msgid "Please select a track first"
+msgstr "Proszę wybrać status"
+
+#: src/components/admin/events/StatusManagement.js:279
+msgid "Please select an event to manage statuses"
+msgstr "Prosimy o utworzenie wydarzenia, aby zacząć."
+
+#: src/components/admin/abstracts/Abstracts.js:545
+#: src/components/admin/abstracts/Abstracts.js:589
+msgid "Please select at least one abstract"
+msgstr "Proszę wybrać co najmniej jedno streszczenie"
+
+#: src/components/admin/users/Users.js:494
+msgid "Please select at least one role."
+msgstr "Proszę wybrać przynajmniej jeden utwór"
+
+#: src/components/admin/tracks/Tracks.js:295
+msgid "Please select at least one track"
+msgstr "Proszę wybrać przynajmniej jeden utwór"
+
+#: src/components/shared/attachments/DocumentsStep.js:289
+msgid "Please wait"
+msgstr "Proszę"
+
+#: src/components/admin/events/TerminologySettings.js:216
+msgid "Plural Form"
+msgstr "Liczba mnoga"
+
+#: src/components/admin/abstracts/Settings.js:388
+msgid "PNG Images"
+msgstr "Zdjęcia"
+
+#: src/components/admin/events/CreateEvent.js:204
+#: src/components/admin/events/EditEvent.js:252
+msgid "Postal Code"
+msgstr "Kod pocztowy"
+
+#: src/components/admin/abstracts/Settings.js:373
+msgid "PowerPoint (PPT/PPTX)"
+msgstr "PowerPoint (PPT/PPTX)"
+
+#: src/components/shared/attachments/AbstractFileManager.js:112
+msgid "Presentation Files"
+msgstr "Prezentacja"
+
+#: src/components/shared/attachments/AbstractFileManager.js:113
+msgid "Presentation slides (if applicable)"
+msgstr "Slajdy prezentacyjne (jeśli dotyczy)"
+
+#: src/components/shared/abstracts/AuthorManagement.js:311
+msgid "Presenter"
+msgstr "Prezentacja"
+
+#: src/components/admin/appearance/Appearance.js:137
+msgid "Preset applied and saved"
+msgstr "Ustawienie wstępne zastosowane i zapisane"
+
+#: src/components/admin/appearance/Appearance.js:139
+msgid "Preset applied but failed to save"
+msgstr "Zastosowano ustawienie wstępne, ale nie udało się ich zapisać"
+
+#: src/components/admin/appearance/Appearance.js:799
+msgid "Preset:"
+msgstr "Prezentacja"
+
+#: src/components/frontend/attachments/Attachments.js:297
+#: src/components/shared/attachments/AttachmentPreview.js:82
+#: src/components/shared/attachments/FileList.js:218
+#: src/components/shared/attachments/FileList.js:279
+msgid "Preview"
+msgstr "Podgląd"
+
+#: src/components/shared/attachments/FilePreview.js:114
+msgid "Preview not available for this file type"
+msgstr "Dla tego typu pola wymagane są opcje"
+
+#: src/components/admin/events/TerminologySettings.js:224
+msgid "Preview:"
+msgstr "Podgląd:"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:629
+#: src/components/frontend/auth/Register.js:447
+#: src/components/frontend/auth/Register.js:552
+msgid "Previous"
+msgstr "Poprzedni"
+
+#: src/components/admin/appearance/Appearance.js:453
+msgid "Primary Color"
+msgstr "Podstawowy kolor"
+
+#: src/components/frontend/auth/Profile.js:83
+msgid "Profile updated!"
+msgstr "Profil zaktualizowany!"
+
+#: src/components/admin/users/Settings.js:40
+msgid "Protect login and registration forms with Google reCAPTCHA v3"
+msgstr ""
+"Chroń formularze logowania i rejestracji za pomocą Google reCAPTCHA v3"
+
+#: src/components/admin/licenses/Licenses.js:315
+msgid "Purchase a license for this add-on at"
+msgstr "Kup licencję na ten dodatek na stronie"
+
+#: src/components/shared/UpgradePrompt.js:54
+msgid ""
+"Purchase and install the add-on to unlock this feature and enhance your "
+"conference management capabilities."
+msgstr ""
+"Kup i zainstaluj dodatek, aby odblokować tę funkcję i zwiększyć możliwości "
+"zarządzania konferencjami."
+
+#: src/components/frontend/attachments/Attachments.js:277
+#: src/components/shared/attachments/FileList.js:448
+msgid "Purpose"
+msgstr "Cel, powód"
+
+#: src/components/shared/attachments/FilePreview.js:213
+msgid "Purpose:"
+msgstr "Cel, powód"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:58
+msgid "Radio Buttons"
+msgstr "Przyciski jednego wyboru"
+
+#: src/components/admin/users/Settings.js:83
+msgid "reCAPTCHA Secret Key"
+msgstr "tajny klucz reCAPTCHA"
+
+#: src/components/admin/users/Settings.js:403
+msgid "reCAPTCHA Settings"
+msgstr "Zapisz ustawienia"
+
+#: src/components/admin/users/Settings.js:65
+msgid "reCAPTCHA Site Key"
+msgstr "Klucz witryny reCAPTCHA"
+
+#: src/components/admin/dashboard/Dashboard.js:444
+#: src/components/frontend/dashboard/widgets/Timeline.js:66
+msgid "Recent Activity"
+msgstr "Ostatnia aktywność"
+
+#: src/components/admin/abstracts/Abstracts.js:794
+#: src/components/admin/abstracts/Attachments.js:426
+#: src/components/admin/events/Events.js:531
+#: src/components/admin/users/Users.js:863
+#: src/components/frontend/attachments/Attachments.js:367
+#: src/components/frontend/submissions/Submissions.js:773
+msgid "Refresh"
+msgstr "Odśwież"
+
+#: src/components/admin/dashboard/Dashboard.js:454
+msgid "Refresh activity"
+msgstr "Ostatnia aktywność"
+
+#: src/components/frontend/attachments/Attachments.js:361
+msgid "Refresh attachments list"
+msgstr "Osprzęt"
+
+#: src/state/dashboardSlice.js:42
+msgid "registered for the event"
+msgstr "zarejestrowany jako użytkownik"
+
+#: src/state/frontendSlice.js:81
+msgid "Registered for the Event"
+msgstr "zarejestrowany jako użytkownik"
+
+#: src/components/admin/events/TerminologySettings.js:95 inc/functions.php:149
+msgid "Registration"
+msgstr "Rejestracja"
+
+#: src/components/frontend/auth/Register.js:588
+msgid "Registration Disabled"
+msgstr "Rejestracje"
+
+#: src/components/frontend/auth/Register.js:265
+#: src/components/frontend/auth/Register.js:268
+msgid "Registration failed. Please try again."
+msgstr "Rejestracja zakończyła się niepowodzeniem. Proszę, spróbuj ponownie."
+
+#: src/components/admin/events/CreateEvent.js:144
+#: src/components/admin/events/EditEvent.js:191
+#: src/components/admin/events/Events.js:779
+#: src/components/admin/users/Settings.js:393 blocks/register/index.js:49
+msgid "Registration Settings"
+msgstr "Ustawienia rejestracji"
+
+#: src/components/frontend/auth/Register.js:253
+msgid "Registration successful! Please login with your new account."
+msgstr "Rejestracja zakończona! Proszę zaloguj się."
+
+#: src/components/frontend/auth/Login.js:85
+msgid "Registration successful! Please login."
+msgstr "Rejestracja zakończona! Proszę zaloguj się."
+
+#: src/Admin.js:264
+msgid "Registration Types"
+msgstr "Rodzaje rejestracji"
+
+#: src/components/admin/dashboard/Dashboard.js:358
+msgid "registrations"
+msgstr "Rejestracji"
+
+#: src/components/admin/events/TerminologySettings.js:96 inc/functions.php:149
+msgid "Registrations"
+msgstr "Rejestracje"
+
+#: src/components/shared/ErrorBoundary.js:127
+msgid "Reload Page"
+msgstr "Odśwież stronę"
+
+#: src/components/shared/attachments/AttachmentPreview.js:177
+msgid "Remove"
+msgstr "Tak, Usuń"
+
+#: src/components/shared/abstracts/AuthorManagement.js:156
+msgid "Remove Author"
+msgstr "Autor"
+
+#: src/components/admin/licenses/Licenses.js:251
+msgid "renew your license"
+msgstr "Odnów swoją licencję"
+
+#: src/components/shared/ErrorBoundary.js:131
+msgid "Report Issue"
+msgstr "Zgłoś problem"
+
+#: src/Admin.js:274
+msgid "Reports"
+msgstr "Raporty"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:492
+msgid "Require authors to upload a file with their submission"
+msgstr "Pozwól użytkownikom przesyłać pliki wraz z ich zgłoszeniami"
+
+#: src/components/admin/events/CreateEvent.js:151
+#: src/components/admin/events/EditEvent.js:198
+msgid "Require Conference Registration Payment"
+msgstr "Opłata za rejestrację konferencji"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:489
+msgid "Require File Upload"
+msgstr "Wymagaj przesłania pliku"
+
+#: src/components/admin/users/Settings.js:270
+msgid "Require Lowercase Letters"
+msgstr "Wymagaj małych liter"
+
+#: src/components/admin/users/Settings.js:302
+msgid "Require Numbers"
+msgstr "Wymagane"
+
+#: src/components/admin/users/Settings.js:334
+msgid "Require Special Characters"
+msgstr "Wymagaj znaków specjalnych"
+
+#: src/components/admin/users/Settings.js:237
+msgid "Require Uppercase Letters"
+msgstr "Wymagaj wielkich liter"
+
+#: src/components/admin/abstracts/Settings.js:299
+#: src/components/admin/events/CreateEvent.js:163
+#: src/components/admin/events/EditEvent.js:209
+#: src/components/admin/events/Events.js:796
+#: src/components/shared/attachments/AbstractFileManager.js:309
+#: src/components/shared/customFields/CustomFieldsAdmin.js:258
+#: src/components/shared/customFields/CustomFieldsAdmin.js:628
+msgid "Required"
+msgstr "Wymagane"
+
+#: inc/addons.php:154
+msgid "requires"
+msgstr "wymagane"
+
+#: src/components/shared/UpgradePrompt.js:53
+msgid "requires a separate add-on to be installed."
+msgstr "wymaga osobnego dodatku."
+
+#: src/components/shared/UpgradePrompt.js:44
+msgid "requires an active license to use."
+msgstr "wymaga aktywnej licencji do użycia."
+
+#: inc/addons.php:212
+msgid "requires the"
+msgstr "wymaga"
+
+#: src/components/admin/appearance/Appearance.js:334
+msgid "Reset"
+msgstr "Resetuj"
+
+#: src/components/admin/appearance/Appearance.js:825
+msgid "Reset & Save"
+msgstr "Przywróć domyślne"
+
+#: src/components/frontend/auth/Login.js:143
+#: src/components/frontend/auth/Login.js:367
+msgid "Reset Password"
+msgstr "Resetuj hasło"
+
+#: src/components/admin/events/TerminologySettings.js:238
+msgid "Reset to Defaults"
+msgstr "Przywróć domyślne"
+
+#: src/components/admin/appearance/Appearance.js:820
+msgid "Reset to Factory Defaults?"
+msgstr "Przywróć domyślne"
+
+#: src/components/admin/abstracts/Settings.js:586
+#: src/components/admin/users/Settings.js:534
+msgid "Reset to Saved"
+msgstr "Przywróć domyślne"
+
+#: src/components/admin/users/Users.js:1235
+msgid "Return to this page and click \"Sync Users\""
+msgstr "Wróć na tę stronę i kliknij „Synchronizuj użytkowników”"
+
+#: src/components/admin/events/TerminologySettings.js:77 inc/functions.php:145
+msgid "Review"
+msgstr "Opinia"
+
+#: src/components/admin/events/CreateEvent.js:135
+#: src/components/admin/events/EditEvent.js:182
+#: src/components/admin/events/Events.js:749
+msgid "Review Deadline"
+msgstr "Termin recenzji"
+
+#: src/components/shared/attachments/AbstractFileManager.js:128
+msgid "Review Documents"
+msgstr "Dokumenty"
+
+#: src/index.js:196 src/index.js:225 src/index.js:273
+msgid "Review functionality requires the Reviews add-on."
+msgstr "Funkcjonalność Recenzji wymaga dodatku Recenzje."
+
+#: src/components/shared/attachments/AbstractFileManager.js:144
+msgid "Review Notes"
+msgstr "Wszyscy oceniający"
+
+#: src/components/admin/events/TerminologySettings.js:73
+msgid "Review system roles"
+msgstr "Role w systemie recenzji"
+
+#: src/index.js:271
+msgid "Review View"
+msgstr "Oceniający"
+
+#: src/components/frontend/auth/Register.js:469
+msgid "Review Your Registration"
+msgstr "Przejrzyj swoją rejestrację"
+
+#: src/components/admin/events/TerminologySettings.js:71 inc/functions.php:144
+msgid "Reviewer"
+msgstr "Oceniający"
+
+#: src/components/admin/dashboard/Dashboard.js:230
+msgid "reviewers"
+msgstr "Wszyscy oceniający"
+
+#: src/components/admin/events/TerminologySettings.js:72 inc/functions.php:144
+msgid "Reviewers"
+msgstr "Wszyscy oceniający"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:294
+msgid "Reviewers evaluate and score submissions"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/admin/events/TerminologySettings.js:78 inc/functions.php:145
+#: classes/admin-menu.php:67 classes/admin-menu.php:68
+msgid "Reviews"
+msgstr "Opinie"
+
+#: src/components/admin/abstracts/Abstracts.js:275
+#: src/components/admin/abstracts/Abstracts.js:310
+#: src/components/admin/users/Users.js:732
+msgid "Reviews Add-on"
+msgstr "Dodatek Recenzje"
+
+#: inc/addons.php:199
+msgid "Reviews Add-On"
+msgstr "Dodatek Recenzje"
+
+#: src/utils/addons.js:152
+msgid "Reviews add-on required"
+msgstr "Wymagane recenzje dodatku"
+
+#: src/components/admin/abstracts/Abstracts.js:270
+#: src/components/admin/abstracts/Abstracts.js:305
+#: src/components/admin/users/Users.js:728
+msgid "Reviews Add-on Required"
+msgstr "Wymagane recenzje dodatku"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:82
+msgid "Reviews Completed"
+msgstr "Role w systemie recenzji"
+
+#: src/utils/addons.js:151
+msgid "Reviews Content"
+msgstr "Dodatek Recenzje"
+
+#: src/components/admin/users/Users.js:256
+#: src/components/admin/users/Users.js:1084
+msgid "Roles"
+msgstr "Role"
+
+#: src/components/admin/users/Users.js:506
+msgid "Roles updated for {count} {users}"
+msgstr "Role zaktualizowane dla {user} użytkownika"
+
+#: src/components/admin/users/Users.js:593
+msgid "Roles updated for user {user}"
+msgstr "Role zaktualizowane dla {user} użytkownika"
+
+#: src/components/admin/licenses/Licenses.js:348
+msgid "SaaS Mode Active"
+msgstr "Tryb SaaS aktywny"
+
+#: src/components/admin/appearance/Appearance.js:662
+msgid "Sample bold text"
+msgstr "Przykładowy pogrubiony tekst"
+
+#: src/components/admin/appearance/Appearance.js:768
+msgid "Sample Card"
+msgstr "Przykładowa karta"
+
+#: src/components/admin/appearance/Appearance.js:653
+msgid "Sample Heading"
+msgstr "Przykładowy nagłówek"
+
+#: src/components/admin/appearance/Appearance.js:666
+msgid "Sample secondary text"
+msgstr "Przykładowy tekst wtórny"
+
+#: src/components/admin/abstracts/Authors.js:784
+#: src/components/admin/events/Events.js:1006
+#: src/components/admin/tracks/Tracks.js:600
+#: src/components/admin/users/Users.js:960
+#: src/components/shared/customFields/CustomFieldsAdmin.js:423
+msgid "Save"
+msgstr "Zapisz"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:463
+#: src/components/shared/abstracts/AbstractWizard.js:172
+#: src/components/shared/abstracts/AbstractWizard.js:361
+#: src/components/shared/abstracts/AbstractWizard.js:432
+#: src/components/shared/abstracts/AbstractWizard.js:495
+#: src/components/shared/abstracts/AbstractWizard.js:575
+msgid "Save & Exit"
+msgstr "Zapisz i wyjdź"
+
+#: src/components/admin/appearance/Appearance.js:342
+msgid "Save Changes"
+msgstr "Zapisz zmiany"
+
+#: src/components/admin/abstracts/Settings.js:595
+#: src/components/admin/users/Settings.js:543
+msgid "Save Settings"
+msgstr "Zapisz ustawienia"
+
+#: src/components/admin/events/TerminologySettings.js:235
+msgid "Save Terminology"
+msgstr "Zapisz terminologię"
+
+#: src/components/shared/SaveStatusIndicator.js:31
+#: src/components/shared/SaveStatusIndicator.js:32
+msgid "Saved"
+msgstr "Zapisane"
+
+#: src/components/shared/SaveStatusIndicator.js:28
+msgid "Saving..."
+msgstr "Zapisuję..."
+
+#: src/components/admin/events/TerminologySettings.js:91
+msgid "Schedule sessions"
+msgstr "Harmonogram sesji"
+
+#: src/components/admin/dashboard/Dashboard.js:412
+msgid "scheduled"
+msgstr "zaplanowane"
+
+#: src/Admin.js:286 src/components/admin/dashboard/Dashboard.js:392
+#: src/components/admin/dashboard/Dashboard.js:420 classes/admin-menu.php:94
+#: classes/admin-menu.php:95
+msgid "Schedules"
+msgstr "Harmonogram"
+
+#: inc/addons.php:201
+msgid "Schedules Builder Add-On"
+msgstr "Dodatek Schedules Builder"
+
+#: src/components/frontend/submissions/Submissions.js:755
+msgid "Search {abstracts}..."
+msgstr "Szukaj {abstracts}..."
+
+#: src/components/admin/abstracts/Abstracts.js:746
+msgid "Search {getTerm('abstract', 2).toLowerCase()}..."
+msgstr "Szukaj {abstracts}..."
+
+#: src/components/admin/users/Users.js:825
+msgid "Search {users}..."
+msgstr "Szukaj {users}..."
+
+#: src/components/admin/abstracts/Authors.js:515
+msgid "Search by name or email..."
+msgstr "Nazwa użytkownika lub email"
+
+#: src/components/admin/events/Events.js:509
+msgid "Search events..."
+msgstr "Wydarzenia wyszukiwania..."
+
+#: src/components/admin/abstracts/Authors.js:207
+msgid "Search failed"
+msgstr "Przeszukanie nieudane"
+
+#: src/components/admin/abstracts/Attachments.js:390
+msgid "Search files..."
+msgstr "Szukaj plików…"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:222
+msgid "Search track chairs by name or email..."
+msgstr "Nazwa użytkownika lub email"
+
+#: src/components/admin/tracks/Tracks.js:538
+msgid "Search tracks"
+msgstr "Poszukiwania śladów..."
+
+#: src/components/shared/customFields/CustomFieldRenderer.js:215
+msgid "Select %s"
+msgstr "Wybierz %s"
+
+#: src/components/admin/abstracts/Abstracts.js:1087
+#: src/components/admin/abstracts/Abstracts.js:1126
+msgid "Select a status"
+msgstr "Wybierz status"
+
+#: blocks/dashboard/index.js:35 blocks/login/index.js:33
+#: blocks/register/index.js:33
+msgid "Select an event..."
+msgstr "Wydarzenia wyszukiwania..."
+
+#: src/components/admin/events/StatusManagement.js:476
+msgid "Select an icon"
+msgstr "Wybierz ikonę"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:756
+msgid "Select field"
+msgstr "Wybierz rodzaj pola"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:487
+msgid "Select field type"
+msgstr "Wybierz rodzaj pola"
+
+#: src/components/admin/appearance/Appearance.js:510
+msgid "Select font family"
+msgstr "Wybierz rodzinę czcionek"
+
+#: src/components/admin/appearance/Appearance.js:412
+msgid "Select from Media Library"
+msgstr "Wybierz rodzinę czcionek"
+
+#: src/components/admin/appearance/Appearance.js:215
+msgid "Select Logo"
+msgstr "Wybierz %s"
+
+#: src/components/admin/appearance/Appearance.js:304
+msgid "Select Preset"
+msgstr "Wybierz %s"
+
+#: src/components/admin/appearance/Appearance.js:703
+msgid "Select shadow intensity"
+msgstr "Wybierz intensywność cienia"
+
+#: src/components/admin/abstracts/Abstracts.js:1083
+#: src/components/admin/abstracts/Abstracts.js:1122
+msgid "Select Status"
+msgstr "Wybierz status"
+
+#: src/components/admin/users/Users.js:704
+msgid "Select the roles for this user:"
+msgstr "Wybierz role dla tego użytkownika:"
+
+#: src/components/admin/users/Users.js:1314
+msgid "Select the roles to assign:"
+msgstr "Wybierz role dla tego użytkownika:"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:393
+#: src/components/shared/abstracts/AbstractWizard.js:130
+msgid "Select track"
+msgstr "Wybrane krzesła lekkoatletyczne"
+
+#: blocks/login/index.js:64
+msgid "Select which event context this login form uses."
+msgstr ""
+"Wybierz kontekst zdarzenia, z którego korzysta ten formularz logowania."
+
+#: blocks/register/index.js:64
+msgid "Select which event context this registration form uses."
+msgstr "Uwzględnij to pole w formularzach rejestracji użytkowników"
+
+#: blocks/dashboard/index.js:67
+msgid ""
+"Select which event this dashboard should display. Defaults to Event ID 1."
+msgstr ""
+"Wybierz, które zdarzenie ma być wyświetlane na tym panelu.Domyślnie jest to "
+"identyfikator zdarzenia 1."
+
+#: src/components/admin/abstracts/Settings.js:359
+msgid "Select which file types users can upload"
+msgstr "Wybierz typy plików, które użytkownicy mogą przesyłać"
+
+#: blocks/dashboard/index.js:114 blocks/login/index.js:110
+#: blocks/register/index.js:110
+msgid "Selected Event:"
+msgstr "Usuń zdarzenia"
+
+#: src/components/frontend/auth/Login.js:304
+msgid "Send Reset Email"
+msgstr "Wyślij e-mail z resetem"
+
+#: src/state/dashboardSlice.js:45
+msgid "sent an email"
+msgstr "Wysłałem powiadomienie e-mail"
+
+#: src/state/frontendSlice.js:84
+msgid "Sent an Email"
+msgstr "Wysłałem powiadomienie e-mail"
+
+#: src/components/admin/users/Settings.js:86
+msgid "Server-side key — never exposed to visitors"
+msgstr "Klucz po stronie serwera — nigdy nie udostępniany odwiedzającym"
+
+#: src/components/admin/events/TerminologySettings.js:89 inc/functions.php:146
+msgid "Session"
+msgstr "Sesja"
+
+#: src/components/admin/events/TerminologySettings.js:90 inc/functions.php:146
+msgid "Sessions"
+msgstr "Sesja"
+
+#: classes/frontend-dashboard.php:392
+msgid "Set Up Dashboard Page"
+msgstr "Kokpit"
+
+#: src/components/admin/abstracts/Settings.js:284
+msgid "Set whether file uploads are optional or required"
+msgstr ""
+"Ustaw to, czy przesyłanie plików jest wyłączone, opcjonalne czy wymagane"
+
+#: src/Admin.js:197 src/Admin.js:215 src/Admin.js:233 src/Admin.js:251
+#: src/Admin.js:279 src/Admin.js:317
+#: src/components/admin/abstracts/Wrapper.js:111
+#: src/components/admin/onboarding/OnboardingWizard.js:253
+#: src/components/admin/users/Wrapper.js:74
+#: src/components/shared/customFields/CustomFieldsAdmin.js:623
+#: classes/admin-menu.php:112 classes/admin-menu.php:113
+msgid "Settings"
+msgstr "Ustawienia"
+
+#: src/components/admin/appearance/Appearance.js:208
+msgid "Settings exported successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/admin/appearance/Appearance.js:254
+msgid "Settings imported successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/admin/appearance/Appearance.js:181
+msgid "Settings reset but failed to save"
+msgstr "Ustawienia zresetowane do zapisanych wartości."
+
+#: src/components/admin/appearance/Appearance.js:178
+msgid "Settings reset to factory defaults and saved"
+msgstr "Ustawienia zresetowane do zapisanych wartości."
+
+#: src/components/admin/abstracts/Settings.js:539
+#: src/components/admin/users/Settings.js:488
+msgid "Settings reset to saved values."
+msgstr "Ustawienia zresetowane do zapisanych wartości."
+
+#: src/components/admin/abstracts/Settings.js:526
+#: src/components/admin/users/Settings.js:475
+msgid "Settings saved successfully!"
+msgstr "Ustawienia zapisane pomyślnie!"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:127
+msgid "Setup complete! Welcome to SimplyConf."
+msgstr "Konfiguracja ukończona!Witamy w SimplyConf."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:647
+msgid "Setup Wizard"
+msgstr "Kreator konfiguracji"
+
+#: src/components/admin/appearance/Appearance.js:699
+msgid "Shadow Intensity"
+msgstr "Intensywność Cienia"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:334
+msgid "Short abbreviation shown in the interface"
+msgstr "Krótki skrót wyświetlany w interfejsie"
+
+#: src/components/admin/events/Events.js:256
+#: src/components/admin/events/Events.js:885
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: src/components/admin/events/Events.js:123
+#: src/components/admin/events/Events.js:136
+msgid "Shortcode copied to clipboard!"
+msgstr "Skrót skopiowany do schowka!"
+
+#: src/components/admin/abstracts/Settings.js:184
+msgid "Show Author Information"
+msgstr "Informacje o koncie"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:264
+#: src/components/shared/customFields/CustomFieldsAdmin.js:635
+msgid "Show in Admin Table"
+msgstr "Pokaż w tabeli administracyjnej"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:270
+#: src/components/shared/customFields/CustomFieldsAdmin.js:646
+msgid "Show in Frontend Table"
+msgstr "Pokaz przy stole frontendowym"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:278
+#: src/components/shared/customFields/CustomFieldsAdmin.js:658
+msgid "Show in Registration"
+msgstr "Pokaż w rejestracji"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:715
+msgid "Show this field when conditions are met"
+msgstr "Pokaż to pole, gdy spełnione są warunki"
+
+#: src/components/frontend/auth/Login.js:235
+msgid "Sign In"
+msgstr "Zaloguj się"
+
+#: classes/admin-menu.php:16
+msgid "SimplyConf"
+msgstr "Streszczenia WP"
+
+#: inc/addons.php:291
+msgid "SimplyConf Add-Ons (%d registered)"
+msgstr "Dodatki SimplyConf (%d zarejestrowane)"
+
+#: blocks/dashboard/index.js:94
+msgid "SimplyConf Dashboard"
+msgstr "Streszczenia WP"
+
+#: blocks/dashboard/render.php:30 simplyconf.php:207
+msgid "SimplyConf Dashboard is not available."
+msgstr "SimplyConf w wersji %s lub wyższej."
+
+#: classes/frontend-dashboard.php:385
+msgid "SimplyConf Dashboard Update"
+msgstr "Aktualizacja panelu kontrolnego SimplyConf"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:265
+msgid ""
+"SimplyConf helps you manage abstract submissions and peer reviews for "
+"academic conferences. This quick setup will get your first event ready in "
+"minutes."
+msgstr ""
+"SimplyConf pomaga zarządzać zgłoszeniami abstraktów i recenzjami na "
+"konferencje akademickie.Dzięki tej szybkiej konfiguracji Twoje pierwsze "
+"wydarzenie będzie gotowe w ciągu kilku minut."
+
+#: blocks/login/index.js:90
+msgid "SimplyConf Login"
+msgstr "Streszczenia WP"
+
+#: blocks/login/render.php:18 simplyconf.php:247
+msgid "SimplyConf Login is not available."
+msgstr "SimplyConf w wersji %s lub wyższej."
+
+#: blocks/register/index.js:90
+msgid "SimplyConf Register"
+msgstr "Streszczenia WP"
+
+#: blocks/register/render.php:18 simplyconf.php:287
+msgid "SimplyConf Registration is not available."
+msgstr "SimplyConf w wersji %s lub wyższej."
+
+#: inc/addons.php:155
+msgid "SimplyConf version %s or higher."
+msgstr "SimplyConf w wersji %s lub wyższej."
+
+#: src/components/admin/abstracts/Settings.js:163
+msgid "Single Page"
+msgstr "Pojedyncza strona"
+
+#: src/components/admin/events/TerminologySettings.js:208
+msgid "Singular Form"
+msgstr "Forma liczby pojedynczej"
+
+#: src/components/shared/attachments/FileList.js:355
+#: src/components/shared/attachments/FileList.js:447
+msgid "Size"
+msgstr "Rozmiar"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:625
+msgid "Skip Setup"
+msgstr "Pomiń konfigurację"
+
+#: src/components/admin/abstracts/Abstracts.js:529
+msgid "Some abstracts could not be deleted. Please try again."
+msgstr ""
+"Niektórych streszczeń nie można było usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/admin/events/Events.js:201
+msgid "Some events could not be archived. Please try again."
+msgstr "Niektórych wydarzeń nie można było usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/admin/events/Events.js:171
+msgid "Some events could not be deleted. Please try again."
+msgstr "Niektórych wydarzeń nie można było usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:153
+msgid "Some fields could not be deleted. Please try again."
+msgstr ""
+"Niektórych użytkowników nie udało się usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/admin/abstracts/Attachments.js:144
+#: src/components/shared/attachments/FileList.js:122
+msgid "Some files could not be deleted. Please try again."
+msgstr ""
+"Niektórych użytkowników nie udało się usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/frontend/submissions/Submissions.js:304
+msgid "Some submissions could not be deleted. Please try again."
+msgstr ""
+"Niektórych użytkowników nie udało się usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/admin/tracks/Tracks.js:283
+msgid "Some tracks could not be deleted. Please try again."
+msgstr "Niektórych utworów nie można było usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/admin/users/Users.js:482
+msgid "Some users could not be deleted. Please try again."
+msgstr ""
+"Niektórych użytkowników nie udało się usunąć. Proszę, spróbuj ponownie."
+
+#: src/components/shared/ErrorBoundary.js:114
+msgid "Something went wrong"
+msgstr "Ups... Coś poszlo nie tak"
+
+#: src/components/shared/attachments/FileList.js:366
+msgid "Sort %s"
+msgstr "Wybierz %s"
+
+#: src/components/shared/ErrorBoundary.js:152
+msgid "Stack:"
+msgstr "Stos:"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:62
+msgid "Star Rating (1-5)"
+msgstr "Ocena gwiazdek (1-5)"
+
+#: src/components/admin/events/CreateEvent.js:91
+#: src/components/admin/events/EditEvent.js:138
+#: src/components/admin/events/Events.js:229
+#: src/components/admin/events/Events.js:671
+#: src/components/admin/onboarding/OnboardingWizard.js:343
+msgid "Start Date"
+msgstr "Data rozpoczęcia"
+
+#: src/components/admin/tracks/Tracks.js:55
+msgid "Start Time"
+msgstr "Czas rozpoczęcia"
+
+#: src/utils/WYSIWYGEditor.js:61
+msgid "Start typing..."
+msgstr "Zapisuję..."
+
+#: src/components/admin/events/CreateEvent.js:194
+#: src/components/admin/events/EditEvent.js:242
+msgid "State/Province"
+msgstr "Województwo"
+
+#: src/components/admin/events/Events.js:917
+#: src/components/frontend/dashboard/widgets/Stats.js:50
+msgid "Statistics"
+msgstr "Statystyki"
+
+#: src/components/admin/abstracts/Abstracts.js:989
+#: src/components/admin/events/Events.js:279
+#: src/components/admin/licenses/Licenses.js:197
+#: src/components/frontend/submissions/Submissions.js:673
+#: src/components/frontend/submissions/Submissions.js:967
+#: src/hooks/useAbstractColumns.js:260
+msgid "Status"
+msgstr "Status"
+
+#: src/components/admin/events/StatusManagement.js:93
+msgid "Status created successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/admin/events/StatusManagement.js:116
+msgid "Status deleted successfully"
+msgstr "Utwory usunięte pomyślnie"
+
+#: src/components/admin/events/StatusManagement.js:298
+#: src/components/admin/events/Wrapper.js:36
+msgid "Status Management"
+msgstr "Zarządzanie licencjami"
+
+#: src/components/admin/abstracts/Abstracts.js:570
+msgid "Status updated for {selectedRowKeys.length} abstracts successfully"
+msgstr ""
+"Status zaktualizowany dla {selectedRowKeys.length} streszczenia pomyślnie"
+
+#: src/components/admin/abstracts/Abstracts.js:423
+#: src/components/admin/events/StatusManagement.js:90
+msgid "Status updated successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/shared/abstracts/AbstractView.js:663
+msgid "Status:"
+msgstr "Status"
+
+#: src/Admin.js:169 src/components/admin/events/Wrapper.js:78
+msgid "Statuses"
+msgstr "Statusy"
+
+#: src/components/admin/users/Users.js:1222
+msgid "Steps to create a user:"
+msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#: src/components/admin/events/CreateEvent.js:179
+#: src/components/admin/events/EditEvent.js:225
+msgid "Street Address"
+msgstr "Ulica i numer"
+
+#: src/components/admin/appearance/Appearance.js:718
+msgid "Strong"
+msgstr "Silne"
+
+#: src/components/admin/events/TerminologySettings.js:107
+#: inc/functions.php:148
+msgid "Submission"
+msgstr "Subskrypcja"
+
+#: src/components/admin/events/TerminologySettings.js:67
+msgid "Submission authors"
+msgstr "Autorzy zgłoszenia"
+
+#: src/components/admin/events/CreateEvent.js:121
+#: src/components/admin/events/EditEvent.js:168
+#: src/components/admin/events/Events.js:723
+msgid "Submission Deadline"
+msgstr "Termin nadsyłania"
+
+#: src/hooks/useAbstractFormState.js:811
+msgid "Submission failed"
+msgstr "Termin nadsyłania"
+
+#: src/components/admin/events/TerminologySettings.js:109
+msgid "Submission form references"
+msgstr "Autorzy zgłoszenia"
+
+#: src/components/admin/abstracts/Settings.js:125
+msgid "Submission Limit per User"
+msgstr "Autorzy zgłoszenia"
+
+#: src/components/admin/abstracts/Settings.js:149
+msgid "Submission Mode"
+msgstr "Subskrypcja"
+
+#: src/components/shared/abstracts/AbstractView.js:595
+msgid "Submission Not Found"
+msgstr "Autorzy zgłoszenia"
+
+#: src/index.js:254
+msgid "Submission Review"
+msgstr "Wyślij ocenę"
+
+#: src/index.js:256
+msgid "Submission review functionality requires the Reviews add-on."
+msgstr "Funkcjonalność Recenzji wymaga dodatku Recenzje."
+
+#: src/components/admin/events/TerminologySettings.js:108
+#: inc/functions.php:148
+msgid "Submissions"
+msgstr "Zgłoszenia"
+
+#: src/components/frontend/submissions/Submissions.js:825
+msgid "Submissions are closed for this event."
+msgstr ""
+"Nie jest wymagana opłata za rejestrację na konferencję na to wydarzenie."
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:489
+#: src/components/shared/abstracts/AbstractWizard.js:596
+msgid "Submit Abstract"
+msgstr "Złożyłem streszczenie"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:488
+#: src/components/shared/abstracts/AbstractWizard.js:595
+msgid "Submit Draft"
+msgstr "Wysłano"
+
+#: src/index.js:223
+msgid "Submit Review"
+msgstr "Wyślij ocenę"
+
+#: src/state/dashboardSlice.js:39
+msgid "submitted a review"
+msgstr "zakończono przegląd"
+
+#: src/state/frontendSlice.js:78
+msgid "Submitted a Review"
+msgstr "zakończono przegląd"
+
+#: src/state/dashboardSlice.js:33
+msgid "submitted an abstract"
+msgstr "Złożyłem streszczenie"
+
+#: src/state/frontendSlice.js:72
+msgid "Submitted an Abstract"
+msgstr "Złożyłem streszczenie"
+
+#: src/components/admin/abstracts/Abstracts.js:982
+#: src/components/shared/abstracts/AbstractView.js:1389
+#: src/hooks/useAbstractColumns.js:234
+msgid "Submitted By"
+msgstr "Zgłoszone przez"
+
+#: src/components/frontend/submissions/Submissions.js:258
+msgid "Success"
+msgstr "Sukces"
+
+#: src/components/admin/appearance/Appearance.js:464
+msgid "Success Color"
+msgstr "Kolor sukcesu"
+
+#: src/components/shared/attachments/AbstractFileManager.js:95
+msgid "Supporting Documents"
+msgstr "Dokument wspierający"
+
+#: src/components/admin/licenses/Licenses.js:150
+msgid "Suspended"
+msgstr "Zawieszone"
+
+#: src/components/admin/users/Users.js:872
+msgid "Sync Users"
+msgstr "Użytkownicy"
+
+#: src/components/admin/users/Users.js:869
+msgid "Sync users from WordPress"
+msgstr "Powiązane z WordPressem"
+
+#: src/state/dashboardSlice.js:57 src/state/frontendSlice.js:96
+msgid "System"
+msgstr "Domyślne działanie systemu"
+
+#: src/components/admin/appearance/Appearance.js:513
+msgid "System Default"
+msgstr "Domyślne działanie systemu"
+
+#: src/Admin.js:137 src/components/admin/settings/Wrapper.js:67
+msgid "Terminology"
+msgstr "Terminologia"
+
+#: src/components/admin/events/TerminologySettings.js:186
+msgid "Terminology Customization"
+msgstr "Dostosowanie terminologii"
+
+#: src/components/admin/settings/Wrapper.js:31
+msgid "Terminology Settings"
+msgstr "Dostosowanie terminologii"
+
+#: src/components/admin/events/TerminologySettings.js:163
+msgid "Terminology settings saved successfully"
+msgstr "Ustawienia terminologii zapisane pomyślnie"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:52
+msgid "Text Area"
+msgstr "Pole tekstowe"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:51
+msgid "Text Input"
+msgstr "Pole tekstowe"
+
+#: src/components/admin/abstracts/Abstracts.js:353
+msgid "The Exports add-on is required to export abstracts to PDF."
+msgstr "Do eksportu streszczeń do PDF wymagany jest dodatek Eksport."
+
+#: src/components/shared/abstracts/AbstractView.js:596
+msgid "The requested submission could not be found."
+msgstr "Nie udało się znaleźć żądanego zgłoszenia."
+
+#: src/components/admin/users/Users.js:731
+msgid "The Reviewer role requires the"
+msgstr "Rola Recenzenta wymaga"
+
+#: src/components/admin/abstracts/Abstracts.js:598
+msgid ""
+"The Reviews service is not available. Please ensure the Reviews addon is "
+"activated and properly loaded."
+msgstr ""
+"Usługa recenzji niedostępna. Prosimy upewnić się, że dodatek Reviews jest "
+"poprawnie załadowany."
+
+#: src/components/frontend/submissions/Submissions.js:259
+msgid "The submission has been successfully deleted."
+msgstr "Zgłoszenie zostało pomyślnie usunięte."
+
+#: src/hooks/useAbstractFormState.js:434
+msgid ""
+"The track previously assigned to this %s no longer exists. Please select a "
+"valid track."
+msgstr ""
+"Utwór poprzednio przypisany do tego %s już nie istnieje.Wybierz prawidłowy "
+"utwór."
+
+#: src/components/admin/appearance/Appearance.js:288
+msgid "Theme Customization"
+msgstr "Dostosowywanie motywu"
+
+#: src/components/admin/appearance/Appearance.js:107
+msgid "Theme settings saved successfully!"
+msgstr "Ustawienia motywu zostały pomyślnie zapisane!"
+
+#: src/components/shared/NotFound.js:8
+msgid "There is nothing here!"
+msgstr "Tu nic nie ma!"
+
+#: src/components/admin/abstracts/Abstracts.js:926
+msgid "These columns help you identify abstracts"
+msgstr "Te kolumny pomagają zidentyfikować streszczenia"
+
+#: src/components/admin/users/Users.js:1032
+msgid "These columns help you identify users across events"
+msgstr "Te kolumny pomagają identyfikować użytkowników na podstawie zdarzeń"
+
+#: src/components/admin/users/Users.js:1111
+msgid ""
+"These fields change based on the current event configuration. Default "
+"visibility is set by event administrators, but you can override these "
+"settings for your personal view."
+msgstr ""
+"Pola te zmieniają się w zależności od bieżącej konfiguracji "
+"zdarzenia.Domyślna widoczność jest ustawiana przez administratorów wydarzeń,"
+" ale możesz zastąpić te ustawienia w swoim widoku osobistym."
+
+#: src/components/admin/users/Users.js:464
+#: src/components/frontend/submissions/Submissions.js:249
+msgid "This action cannot be undone."
+msgstr "Tej akcji nie można cofnąć."
+
+#: src/components/admin/appearance/Appearance.js:771
+msgid ""
+"This card demonstrates your layout settings including border radius and "
+"shadow intensity."
+msgstr ""
+"Ta karta pokazuje ustawienia układu, w tym promień ramek i intensywność "
+"cieni."
+
+#: src/components/shared/attachments/AbstractFileManager.js:233
+msgid "This category requires at least one file"
+msgstr "Ta cecha wymaga"
+
+#: src/Frontend.js:469
+msgid "This event is archived. Submissions are closed."
+msgstr "To wydarzenie jest zarchiwizowane.Zgłoszenia są zamknięte."
+
+#: src/Frontend.js:456
+msgid ""
+"This event is no longer available. It may have been removed by an "
+"administrator."
+msgstr ""
+"To wydarzenie nie jest już dostępne.Być może został usunięty przez "
+"administratora."
+
+#: inc/addons.php:207
+msgid "This feature"
+msgstr "Ta cecha"
+
+#: src/components/admin/abstracts/Abstracts.js:274
+#: src/components/admin/abstracts/Abstracts.js:309
+msgid "This feature requires the"
+msgstr "Ta cecha wymaga"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:245
+msgid "This field has conditional logic"
+msgstr "To pole ma logikę warunkową"
+
+#: src/components/admin/appearance/Appearance.js:656
+msgid ""
+"This is a sample paragraph showing how your typography settings will look. "
+"The quick brown fox jumps over the lazy dog."
+msgstr ""
+"To jest przykładowy akapit pokazujący, jak będą wyglądać Twoje ustawienia "
+"typograficzne. Szybki brązowy lis przeskakuje przez leniwego psa."
+
+#: src/components/admin/users/Users.js:1307
+msgid "This will replace the existing roles for all selected users."
+msgstr ""
+"Spowoduje to zastąpienie istniejących ról dla wszystkich wybranych "
+"użytkowników."
+
+#: src/components/admin/appearance/Appearance.js:831
+msgid ""
+"This will reset ALL theme settings to factory defaults. Any custom "
+"configurations will be lost. This action cannot be undone."
+msgstr ""
+"Spowoduje to zresetowanie WSZYSTKICH ustawień motywu do ustawień "
+"fabrycznych.Wszelkie niestandardowe konfiguracje zostaną utracone.Tej akcji "
+"nie można cofnąć."
+
+#: src/components/shared/abstracts/AbstractView.js:1287
+msgid "Timeline"
+msgstr "Oś Czasu"
+
+#: src/components/admin/appearance/Appearance.js:522
+msgid "Times New Roman"
+msgstr "Times New Roman"
+
+#: src/components/admin/abstracts/Abstracts.js:933
+#: src/components/frontend/submissions/Submissions.js:600
+#: src/hooks/useAbstractColumns.js:62
+msgid "Title"
+msgstr "Tytuł"
+
+#: src/components/admin/licenses/Licenses.js:253
+msgid "to continue receiving updates and support."
+msgstr "aby nadal otrzymywać aktualizacje i wsparcie."
+
+#: src/components/admin/users/Users.js:1215
+msgid ""
+"To create a new user, please use the WordPress user management system. "
+"SimplyConf focuses on managing conference-specific user data and custom "
+"fields."
+msgstr ""
+"Aby utworzyć nowego użytkownika, skorzystaj z systemu zarządzania "
+"użytkownikami WordPress.SimplyConf koncentruje się na zarządzaniu danymi "
+"użytkowników i polami niestandardowymi specyficznymi dla konferencji."
+
+#: src/components/admin/abstracts/Authors.js:507
+msgid "total"
+msgstr "suma"
+
+#: src/components/admin/dashboard/Dashboard.js:611
+#: src/components/shared/attachments/AbstractFileManager.js:316
+msgid "Total"
+msgstr "Razem"
+
+#: src/components/admin/users/UserStatsCards.js:94
+msgid "Total %s"
+msgstr "Razem"
+
+#: src/components/admin/dashboard/Dashboard.js:407
+msgid "total sessions"
+msgstr "Całkowita liczba zgłoszeń"
+
+#: src/components/admin/events/Events.js:928
+msgid "Total Submissions"
+msgstr "Całkowita liczba zgłoszeń"
+
+#: src/components/admin/events/TerminologySettings.js:83 inc/functions.php:147
+msgid "Track"
+msgstr "Śledź"
+
+#: src/components/admin/users/Users.js:281
+#: src/components/admin/users/Users.js:667
+#: src/components/admin/users/Users.js:845
+#: src/components/admin/users/Users.js:1320
+msgid "Track Chair"
+msgstr "Przewodniczący toru"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:131
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:141
+#: src/components/admin/tracks/Tracks.js:223
+msgid "Track chair assigned successfully"
+msgstr "Przewodniczący toru przydzielony pomyślnie"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:114
+msgid "Track chair assignment not available"
+msgstr "Przewodniczący toru przydzielony pomyślnie"
+
+#: src/index.js:239
+msgid "Track chair management requires the Reviews add-on."
+msgstr "Funkcjonalność Recenzji wymaga dodatku Recenzje."
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:167
+#: src/components/admin/tracks/Tracks.js:234
+msgid "Track chair unassigned successfully"
+msgstr "Katedra toru nieprzydzielona pomyślnie"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:158
+msgid "Track chair unassignment not available"
+msgstr "Katedra toru nieprzydzielona pomyślnie"
+
+#: src/components/admin/tracks/Tracks.js:354
+#: src/components/admin/users/UserStatsCards.js:110
+msgid "Track Chairs"
+msgstr "Krzesła torowe"
+
+#: src/components/admin/tracks/Tracks.js:606
+msgid "Track Information"
+msgstr "Informacje podstawowe"
+
+#: src/index.js:237
+msgid "Track Management"
+msgstr "← Powrót do logowania"
+
+#: src/components/admin/tracks/Tracks.js:613
+msgid "Track Name"
+msgstr "Nazwa ścieżki"
+
+#: src/hooks/useAbstractFormState.js:557
+msgid "Track selection is required"
+msgstr "Etykieta jest wymagana"
+
+#: src/components/frontend/dashboard/widgets/Stats.js:99
+msgid "Track Submissions"
+msgstr "Całkowita liczba zgłoszeń"
+
+#: src/components/admin/tracks/Tracks.js:569
+msgid "tracks"
+msgstr "Pomiary"
+
+#: src/components/admin/events/TerminologySettings.js:84
+#: src/components/admin/onboarding/OnboardingWizard.js:252
+#: inc/functions.php:147
+msgid "Tracks"
+msgstr "Pomiary"
+
+#: src/components/admin/tracks/Tracks.js:277
+msgid "tracks deleted successfully"
+msgstr "Utwory usunięte pomyślnie"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:360
+msgid ""
+"Tracks organize submissions by topic. Add at least one track for authors to "
+"submit to."
+msgstr ""
+"Utwory organizują zgłoszenia według tematów.Dodaj co najmniej jedną ścieżkę,"
+" którą autorzy mogą przesłać."
+
+#: src/components/admin/dashboard/Dashboard.js:307
+msgid "triggers"
+msgstr "Wyzwalaczy"
+
+#: src/components/shared/ErrorBoundary.js:124
+msgid "Try Again"
+msgstr "Spróbuj ponownie"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:232
+msgid "Type"
+msgstr "Typ"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:481
+msgid "Type is required"
+msgstr "Wymagany jest typ"
+
+#: src/components/shared/attachments/FilePreview.js:209
+msgid "Type:"
+msgstr "Typ:"
+
+#: src/components/admin/appearance/Appearance.js:621
+msgid "Typography Preview"
+msgstr "Zapowiedź typografii"
+
+#: src/components/shared/abstracts/AbstractWizard.js:547
+msgid "Unable to load preview"
+msgstr "Nie udało się zapisać ustawień motywu"
+
+#: src/components/admin/events/Events.js:318
+msgid "Unarchive"
+msgstr "Odarchiwizuj"
+
+#: src/components/admin/events/Events.js:418
+msgid "unarchived"
+msgstr "Niearchiwizowane"
+
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:258
+msgid "Unassign"
+msgstr "Przypisz"
+
+#: src/components/frontend/submissions/Submissions.js:499
+#: src/components/shared/abstracts/AbstractView.js:408
+#: src/hooks/useAbstractColumns.js:244 src/hooks/useAbstractColumns.js:314
+msgid "Unknown"
+msgstr "Nieznany"
+
+#: src/components/frontend/submissions/Submissions.js:512
+msgid "Unknown (ID: {status})"
+msgstr "Nieznany (ID: {status})"
+
+#: src/components/shared/abstracts/AbstractView.js:421
+msgid "Unknown (ID: %s)"
+msgstr "Nieznany (ID: {status})"
+
+#: src/components/shared/abstracts/AbstractView.js:295
+#: src/components/shared/abstracts/AbstractView.js:298
+msgid "Unknown Event"
+msgstr "Nieznany"
+
+#: src/components/shared/abstracts/AbstractView.js:281
+#: src/components/shared/abstracts/AbstractView.js:285
+msgid "Unknown Track"
+msgstr "Nieznany"
+
+#: src/components/admin/abstracts/Attachments.js:262
+#: src/components/admin/tracks/TrackChairAssignmentModal.js:273
+#: src/components/shared/abstracts/AbstractView.js:1395
+#: routes/attachments.php:188 routes/attachments.php:226
+msgid "Unknown User"
+msgstr "Nieznany"
+
+#: src/components/frontend/submissions/Submissions.js:616
+msgid "Untitled"
+msgstr "Bez nazwy"
+
+#: src/components/shared/abstracts/AbstractView.js:648
+msgid "Untitled %s"
+msgstr "Bez tytułu %s"
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:486
+#: src/components/shared/abstracts/AbstractWizard.js:593
+msgid "Update Abstract"
+msgstr "Aktualizacja streszczeń WP"
+
+#: src/hooks/useAbstractFormState.js:810
+msgid "Update failed"
+msgstr "Aktualizuj profil"
+
+#: src/components/frontend/auth/Profile.js:146
+msgid "Update Profile"
+msgstr "Aktualizuj profil"
+
+#: src/components/admin/users/Users.js:759
+msgid "Update Roles"
+msgstr "Aktualizacje ról"
+
+#: inc/addons.php:159
+msgid "Update SimplyConf"
+msgstr "Zaktualizuj SimplyConf"
+
+#: src/components/admin/abstracts/Abstracts.js:1112
+msgid "Update Status"
+msgstr "Aktualizuj status"
+
+#: src/components/admin/users/EditUser.js:131
+#: src/components/shared/users/UserWizard.js:164
+msgid "Update User"
+msgstr "Aktualizuj użytkownika"
+
+#: src/state/dashboardSlice.js:38
+msgid "updated a review"
+msgstr "zakończono przegląd"
+
+#: src/state/frontendSlice.js:77
+msgid "Updated a Review"
+msgstr "zakończono przegląd"
+
+#: src/state/dashboardSlice.js:32
+msgid "updated an abstract"
+msgstr "Złożyłem streszczenie"
+
+#: src/state/frontendSlice.js:71
+msgid "Updated an Abstract"
+msgstr "Złożyłem streszczenie"
+
+#: src/components/shared/UpgradePrompt.js:40
+msgid "Upgrade Plan"
+msgstr "Plan aktualizacji"
+
+#: src/components/shared/UpgradePrompt.js:36
+msgid ""
+"Upgrade your plan to unlock advanced features like Reviews, Emails, "
+"Schedules, Payments, and more."
+msgstr ""
+"Odblokuj zaawansowane funkcje, takie jak Recenzje, E-maile, Harmonogramy, "
+"Płatności i Analizy, instalując odpowiedni dodatek."
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:606
+msgid "Upload a PDF or Word document (max 50MB)"
+msgstr "Prześlij dokument PDF lub Word (maks. 50MB)"
+
+#: src/components/shared/attachments/DocumentsStep.js:208
+msgid "Upload Documents"
+msgstr "Prześlij dokumenty"
+
+#: src/components/shared/attachments/AbstractFileManager.js:129
+msgid "Upload documents related to your review"
+msgstr "Prześlij dokumenty związane z Twoją recenzją"
+
+#: src/components/shared/attachments/FileUpload.js:102
+msgid "Upload failed"
+msgstr "Przesyłanie nie powiodło się"
+
+#: src/components/frontend/attachments/Attachments.js:380
+msgid "Upload files when creating or editing your %s."
+msgstr "Przesyłaj pliki podczas tworzenia lub edytowania %s."
+
+#: src/components/admin/abstracts/Settings.js:312
+msgid "Upload Limit"
+msgstr "Limit wysyłania"
+
+#: src/components/admin/appearance/Appearance.js:407
+msgid "Upload Logo"
+msgstr "Prześlij logo"
+
+#: src/components/admin/appearance/Appearance.js:434
+msgid "Upload or enter a logo URL to see preview"
+msgstr "Prześlij dokumenty związane z Twoją recenzją"
+
+#: src/components/admin/appearance/Appearance.js:390
+msgid "Upload or enter the URL of your organization logo"
+msgstr "Prześlij lub wprowadź adres URL logo swojej organizacji"
+
+#: src/components/shared/attachments/AbstractFileManager.js:67
+msgid "Upload supporting documents for your abstract submission"
+msgstr "Prześlij dokumenty wspierające do zgłoszenia streszczenia"
+
+#: src/components/shared/attachments/DocumentsStep.js:219
+msgid "Upload supporting documents for your abstract. Accepted formats: %s."
+msgstr ""
+"Prześlij dokumenty wspierające do swojego streszczenia. Akceptowane formaty:"
+" PDF, Word, PowerPoint, JPEG, PNG."
+
+#: src/components/admin/abstracts/Attachments.js:245
+#: src/components/frontend/attachments/Attachments.js:283
+#: src/components/shared/abstracts/AbstractView.js:513
+msgid "Uploaded"
+msgstr "Przesłano"
+
+#: src/state/dashboardSlice.js:48
+msgid "uploaded a file"
+msgstr "Przesłane pliki"
+
+#: src/state/frontendSlice.js:87
+msgid "Uploaded a File"
+msgstr "Przesłane pliki"
+
+#: src/components/admin/abstracts/Attachments.js:258
+msgid "Uploaded By"
+msgstr "Przesłane przez"
+
+#: src/components/shared/attachments/DocumentsStep.js:298
+msgid "Uploaded Files"
+msgstr "Przesłane pliki"
+
+#: src/components/shared/attachments/DocumentsStep.js:286
+msgid "Uploading %s..."
+msgstr "Przesyłanie..."
+
+#: src/components/shared/attachments/FileUpload.js:167
+#: src/components/shared/customFields/CustomFieldFileUpload.js:201
+msgid "Uploading..."
+msgstr "Przesyłanie..."
+
+#: src/components/admin/users/Settings.js:151
+msgid "URL where users are redirected after successful login"
+msgstr ""
+"Adres URL, na który przekierowywani są użytkownicy po pomyślnym zalogowaniu"
+
+#: src/components/admin/events/StatusManagement.js:375
+msgid "Use \"Initialize Default Statuses\" in the page header to get started"
+msgstr "Użyj \"Initialize Default Statuses\" w nagłówku strony, aby zacząć"
+
+#: src/components/shared/abstracts/AuthorManagement.js:247
+msgid ""
+"Use the up/down buttons to reorder authors. The first author is considered "
+"the lead author."
+msgstr ""
+"Użyj przycisków gór/dół, aby zmienić kolejność autorów. Pierwszy autor jest "
+"uważany za autora głównego."
+
+#: src/components/admin/appearance/Appearance.js:217
+msgid "Use this image"
+msgstr "Użyj tego obrazu"
+
+#: src/components/admin/events/StatusManagement.js:508
+msgid "Used for new submissions"
+msgstr "Domyślny status nowych zgłoszeń"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:465
+msgid "Used internally - should be unique and contain no spaces"
+msgstr "Używane wewnętrznie – powinny być unikalne i nie zawierać spacji"
+
+#: src/components/admin/events/TerminologySettings.js:113
+#: inc/functions.php:151
+msgid "User"
+msgstr "Użytkownik"
+
+#: src/components/admin/events/TerminologySettings.js:115
+msgid "User account references"
+msgstr "Załączniki"
+
+#: src/components/admin/users/Users.js:1211
+msgid "User Creation in WordPress"
+msgstr "Powiązane z WordPressem"
+
+#: src/components/admin/users/FormBuilder.js:14
+#: src/components/admin/users/Wrapper.js:32
+msgid "User Custom Fields"
+msgstr "Pola niestandardowe użytkownika"
+
+#: src/components/admin/dashboard/DashboardSetup.js:122
+msgid "User Dashboard"
+msgstr "Kokpit"
+
+#: src/components/admin/users/ViewUser.js:105
+msgid "User Information"
+msgstr "Informacje o użytkowniku"
+
+#: src/components/frontend/auth/Register.js:590
+msgid ""
+"User registration is currently disabled. Please contact the administrator if"
+" you need an account."
+msgstr ""
+"Rejestracja użytkownika jest obecnie wyłączona.Jeśli potrzebujesz konta, "
+"skontaktuj się z administratorem."
+
+#: src/components/admin/users/Settings.js:504
+#: src/components/admin/users/Wrapper.js:30
+msgid "User Settings"
+msgstr "Ustawienia użytkownika"
+
+#: src/components/admin/users/EditUser.js:83
+msgid "User updated successfully"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/shared/users/UserWizard.js:108
+msgid "User updated successfully!"
+msgstr "Status zaktualizowany pomyślnie"
+
+#: src/components/admin/users/Users.js:208
+#: src/components/admin/users/Users.js:1077
+msgid "Username"
+msgstr "Nazwa użytkownika"
+
+#: src/components/frontend/auth/Login.js:184
+msgid "Username or Email"
+msgstr "Nazwa użytkownika lub email"
+
+#: src/components/admin/events/TerminologySettings.js:114
+#: inc/functions.php:151 classes/admin-menu.php:58 classes/admin-menu.php:59
+msgid "Users"
+msgstr "Użytkownicy"
+
+#: src/components/admin/users/Users.js:476
+msgid "users deleted successfully"
+msgstr "Użytkownicy ususzczeni pomyślnie"
+
+#: src/components/admin/licenses/Licenses.js:236
+msgid "Validate Now"
+msgstr "Waliduj teraz"
+
+#: src/components/admin/licenses/Licenses.js:124
+msgid "Validation failed"
+msgstr "Zatwierdzenie nie powiodło się"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:833
+msgid "Value"
+msgstr "Wartość"
+
+#: src/components/shared/customFields/CustomFieldsAdmin.js:825
+msgid "Value is required"
+msgstr "Imię jest wymagane"
+
+#: src/components/shared/attachments/FilePreview.js:222
+msgid "Version:"
+msgstr "Wersja:"
+
+#: src/components/admin/abstracts/Attachments.js:409
+#: src/components/shared/attachments/FileList.js:340
+msgid "Videos"
+msgstr "Filmy"
+
+#: src/components/admin/abstracts/Authors.js:451
+#: src/components/admin/dashboard/DashboardSetup.js:174
+#: src/components/admin/events/Events.js:304
+#: src/components/admin/users/Users.js:335
+#: src/components/frontend/submissions/Submissions.js:551
+#: src/hooks/useAbstractColumns.js:388
+msgid "View"
+msgstr "Zobacz"
+
+#: src/components/admin/abstracts/Authors.js:700
+msgid "View %s"
+msgstr "Zobacz %s"
+
+#: src/components/admin/users/Users.js:284
+#: src/components/admin/users/Users.js:676
+#: src/components/admin/users/Users.js:854
+#: src/components/admin/users/Users.js:1331
+msgid "Viewer"
+msgstr "Podgląd"
+
+#: src/components/admin/users/UserStatsCards.js:149
+msgid "Viewers"
+msgstr "Podgląd"
+
+#: src/components/admin/appearance/Appearance.js:830
+msgid "Warning"
+msgstr "Kolor ostrzegawczy"
+
+#: src/components/admin/appearance/Appearance.js:475
+msgid "Warning Color"
+msgstr "Kolor ostrzegawczy"
+
+#: src/components/admin/appearance/Appearance.js:840
+msgid ""
+"We recommend exporting your current settings before resetting, so you can "
+"restore them later if needed."
+msgstr ""
+"Zalecamy wyeksportowanie bieżących ustawień przed zresetowaniem, aby w razie"
+" potrzeby móc je później przywrócić."
+
+#: src/components/shared/ErrorBoundary.js:117
+msgid ""
+"We're sorry for the inconvenience. The page will reload automatically or you"
+" can try again."
+msgstr ""
+"Przepraszamy za niedogodności. Strona automatycznie się załaduje lub możesz "
+"spróbować ponownie."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:250
+msgid "Welcome"
+msgstr "Witaj"
+
+#: src/components/frontend/auth/Login.js:141
+msgid "Welcome Back"
+msgstr "Witamy ponownie"
+
+#: src/components/admin/dashboard/Dashboard.js:159
+msgid "Welcome to SimplyConf Admin Panel"
+msgstr "Witamy w panelu administracyjnym SimplyConf"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:263
+msgid "Welcome to SimplyConf!"
+msgstr "Witamy w panelu administracyjnym SimplyConf"
+
+#: src/components/admin/events/CreateEvent.js:157
+#: src/components/admin/events/EditEvent.js:203
+msgid ""
+"When enabled, accepted authors must complete a paid conference registration "
+"managed by the Payments add-on."
+msgstr ""
+"Akceptani autorzy muszą ukończyć płatną rejestrację konferencyjną zarządzaną"
+" przez dodatek Payments."
+
+#: src/components/admin/users/Users.js:1257
+msgid "Why this approach?"
+msgstr "Dlaczego takie podejście?"
+
+#: src/components/admin/abstracts/Settings.js:368
+msgid "Word (DOC/DOCX)"
+msgstr "Słowo (DOC/DOCX)"
+
+#: src/components/shared/abstracts/AbstractView.js:1375
+msgid "Word Count"
+msgstr "Liczba słów"
+
+#: src/components/admin/appearance/Appearance.js:244
+msgid "WordPress Media Library not available"
+msgstr "Biblioteka multimediów WordPress nie jest dostępna"
+
+#: src/components/admin/users/Users.js:1259
+msgid ""
+"WordPress provides robust user management with security features, email "
+"notifications, and proper user account handling. SimplyConf enhances this "
+"with conference-specific custom fields and role management."
+msgstr ""
+"WordPress zapewnia niezawodne zarządzanie użytkownikami z funkcjami "
+"bezpieczeństwa, powiadomieniami e-mail i prawidłową obsługą kont "
+"użytkowników.SimplyConf ulepsza to dzięki niestandardowym polom specyficznym"
+" dla konferencji i zarządzaniu rolami."
+
+#: src/components/shared/abstracts/AbstractSinglePage.js:262
+#: src/components/shared/abstracts/AbstractSinglePage.js:303
+#: src/components/shared/abstracts/AbstractWizard.js:303
+#: src/components/shared/abstracts/AbstractWizard.js:341
+msgid "words"
+msgstr "Słowa kluczowe"
+
+#: src/components/admin/abstracts/Authors.js:387
+#: src/components/admin/abstracts/Authors.js:631
+msgid "WP Account"
+msgstr "Konto"
+
+#: src/components/admin/abstracts/Authors.js:724
+#: src/components/admin/events/StatusManagement.js:260
+#: src/components/admin/users/Users.js:238
+#: src/components/admin/users/ViewUser.js:55
+#: src/components/frontend/submissions/Submissions.js:652
+#: src/components/shared/abstracts/AbstractView.js:854
+#: src/components/shared/abstracts/AbstractView.js:1202
+#: src/components/shared/customFields/CustomFieldsAdmin.js:261
+#: src/components/shared/customFields/CustomFieldsAdmin.js:267
+#: src/components/shared/customFields/CustomFieldsAdmin.js:273
+#: src/components/shared/customFields/CustomFieldsAdmin.js:282
+msgid "Yes"
+msgstr "Tak"
+
+#: src/components/frontend/submissions/Submissions.js:250
+msgid "Yes, Delete"
+msgstr "Tak, Usuń"
+
+#: src/components/shared/abstracts/AuthorManagement.js:162
+msgid "Yes, Remove"
+msgstr "Tak, Usuń"
+
+#: src/components/admin/onboarding/OnboardingWizard.js:298
+msgid "You accept, reject, or request revisions"
+msgstr "Akceptujesz, odrzucasz lub żądasz poprawek"
+
+#: inc/addons.php:156
+msgid "You are running version %s."
+msgstr "Używasz wersji %s."
+
+#: src/components/admin/licenses/Licenses.js:402
+msgid "You can deactivate and transfer licenses between sites"
+msgstr "Możesz dezaktywować i przenosić licencje pomiędzy lokalizacjami"
+
+#: src/components/admin/appearance/Appearance.js:809
+msgid ""
+"You can export your current settings before applying a preset to restore "
+"them for later."
+msgstr ""
+"Możesz wyeksportować swoje bieżące ustawienia przed zastosowaniem ustawienia"
+" wstępnego, aby przywrócić je na później."
+
+#: src/components/shared/attachments/DocumentsStep.js:255
+msgid "You can upload up to %d more file(s)"
+msgstr "Możesz przesłać do %d więcej plików."
+
+#: src/components/admin/abstracts/Abstracts.js:237
+#: src/components/frontend/submissions/Submissions.js:855
+#: src/hooks/useAbstractFormState.js:314
+msgid "You have reached the maximum submission limit of %d %s for this event."
+msgstr ""
+"Osiągnąłeś maksymalny limit zgłoszeń wynoszący %d %s dla tego wydarzenia."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:560
+msgid "You're All Set!"
+msgstr "Wszystko gotowe!"
+
+#: src/components/shared/attachments/FilePreview.js:154
+msgid "Your browser does not support audio playback."
+msgstr "Twoja przeglądarka nie obsługuje odtwarzania dźwięku."
+
+#: src/components/shared/attachments/FilePreview.js:146
+msgid "Your browser does not support video playback."
+msgstr "Twoja przeglądarka nie obsługuje odtwarzania wideo."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:522
+msgid "Your dashboard page is ready."
+msgstr "Twoja strona panelu kontrolnego jest gotowa."
+
+#: src/components/admin/dashboard/DashboardSetup.js:155
+msgid "Your dashboard page is set up and ready to use."
+msgstr ""
+"Twoja strona pulpitu nawigacyjnego jest skonfigurowana i gotowa do użycia."
+
+#: src/components/admin/onboarding/OnboardingWizard.js:562
+msgid ""
+"Your event is configured and ready to accept submissions. Here are your next"
+" steps:"
+msgstr ""
+"Twoje wydarzenie jest skonfigurowane i gotowe do przyjmowania zgłoszeń.Oto "
+"Twoje kolejne kroki:"
+
+#: src/components/admin/licenses/Licenses.js:245
+msgid "Your license has expired. Please"
+msgstr "Twoje prawo jazdy wygasło."
+
+#: src/components/admin/appearance/Appearance.js:380
+msgid "Your Organization Name"
+msgstr "Nazwa Twojej organizacji"
+
+#: src/components/frontend/auth/Register.js:335
+msgid "your.email@example.com"
+msgstr "your.email@example.com"
+
+#~ msgid "{range0}-{range1} of {total} {abstracts}"
+#~ msgstr "{range0}-{range1} {total} {abstracts}"
+
+#~ msgid "{range0}-{range1} of {total} {users}"
+#~ msgstr "{range0}-{range1} {total} {users}"
+
+#~ msgid "{range0}-{range1} of {total} tracks"
+#~ msgstr "{range0}-{range1} {total} utworów"
+
+#~ msgid "%d-%d of %d files"
+#~ msgstr "%d-% %d plików"
+
+#~ msgid "%d-%d of %d submissions"
+#~ msgstr "%d-% %d plików"
+
+#~ msgid "%s ID: #%s"
+#~ msgstr "ID: %s"
+
+#~ msgid ""
+#~ "⚠️ No users with 'track_chair' role found. Please assign the track_chair "
+#~ "role to users in the Users section first."
+#~ msgstr ""
+#~ "⚠️ Nie znaleziono użytkowników z rolą „track_chair”.Najpierw przypisz "
+#~ "użytkownikom rolę track_chair w sekcji Użytkownicy."
+
+#~ msgid "⚠️ Red tags indicate users who no longer have track_chair role"
+#~ msgstr ""
+#~ "⚠️ Czerwone tagi wskazują użytkowników, którzy nie pełnią już track_chair "
+#~ "roli"
+
+#~ msgid "✓ Author Found"
+#~ msgstr "✓ Autor odnaleziony"
+
+#~ msgid "📝 Abstract Content Settings"
+#~ msgstr "Ustawienia rejestracji"
+
+#~ msgid "Access"
+#~ msgstr "Dostęp"
+
+#~ msgid "Access Level"
+#~ msgstr "Poziom dostępu"
+
+#~ msgid "Access your submissions, reviews, and conference management tools"
+#~ msgstr ""
+#~ "Uzyskaj dostęp do swoich zgłoszeń, recenzji i narzędzi do zarządzania "
+#~ "konferencjami"
+
+#~ msgid "Activate Pro License"
+#~ msgstr "Aktywuj licencję Pro"
+
+#~ msgid "Advanced Reviews"
+#~ msgstr "Zaawansowane recenzje"
+
+#~ msgid "All Access"
+#~ msgstr "Pełen dostęp"
+
+#~ msgid "All Purposes"
+#~ msgstr "Wszystkie role"
+
+#~ msgid "Allow more than one corresponding author per abstract"
+#~ msgstr ""
+#~ "Pozwól na więcej niż jednego autora korespondującego na jedno streszczenie"
+
+#~ msgid "Allow Multiple Corresponding Authors"
+#~ msgstr "Pozwól na wielu współautorów"
+
+#~ msgid "Allow users to add author information to their submissions"
+#~ msgstr "Pozwól użytkownikom dodawać informacje o autorze do ich zgłoszeń"
+
+#~ msgid ""
+#~ "Are you sure you want to deactivate your pro license? This will disable pro "
+#~ "features."
+#~ msgstr ""
+#~ "Jesteś pewien, że chcesz dezaktywować swoją licencję pro? To wyłączy funkcje"
+#~ " pro."
+
+#~ msgid "Are you sure you want to leave? Your changes will be auto-saved."
+#~ msgstr ""
+#~ "Jesteś pewien, że chcesz dezaktywować swoją licencję pro? To wyłączy funkcje"
+#~ " pro."
+
+#~ msgid "Assign Reviewers to %d %s"
+#~ msgstr "Przydziel recenzentów"
+
+#~ msgid "Assign Track Chairs to {selectedRowKeys.length} Tracks"
+#~ msgstr "Przydziel krzesła torowe do {selectedRowKeys.length} torów"
+
+#~ msgid "Attachment Settings"
+#~ msgstr "Załączniki"
+
+#~ msgid "Attachments (%d)"
+#~ msgstr "Załączniki"
+
+#~ msgid "Author Management"
+#~ msgstr "Zarządzanie licencjami"
+
+#~ msgid "Back to My %s"
+#~ msgstr "Wróć do logowania"
+
+#~ msgid "Back to Tracks"
+#~ msgstr "Wróć do logowania"
+
+#~ msgid "Branding"
+#~ msgstr "Branding"
+
+#~ msgid "Cannot assign users without track_chair role: {invalidUsers}"
+#~ msgstr "Nie można przypisać użytkowników bez track_chair roli: {invalidUsers}"
+
+#~ msgid "Choose a unique username"
+#~ msgstr "Wybierz unikalną nazwę użytkownika"
+
+#~ msgid "Click to Upload Logo"
+#~ msgstr "Kliknij, aby przesłać logo"
+
+#~ msgid "Colors"
+#~ msgstr "Kolory"
+
+#~ msgid "Complete"
+#~ msgstr "Zakończone"
+
+#~ msgid "Conference Registration"
+#~ msgstr "Opłata za rejestrację konferencji"
+
+#~ msgid ""
+#~ "Configure custom fields for author information. All authors will use these "
+#~ "fields to provide additional details like affiliation, ORCID, country, etc. "
+#~ "Default fields (Affiliation, ORCID, Country, Department) are automatically "
+#~ "created for new events."
+#~ msgstr ""
+#~ "Konfiguruj niestandardowe pola dla informacji o autorze. Wszyscy autorzy "
+#~ "będą korzystać z tych pól, aby podać dodatkowe informacje, takie jak "
+#~ "przynależność, ORCID, kraj itp. Domyślne pola (Przynależność, ORCID, Kraj, "
+#~ "Departament) są automatycznie tworzone dla nowych zdarzeń."
+
+#~ msgid "Continue to Review"
+#~ msgstr "W trakcie sprawdzania"
+
+#~ msgid "Corresponding"
+#~ msgstr "oczekujące"
+
+#~ msgid "Create {getTerm('abstract', 1)}"
+#~ msgstr "Utwórz {getTerm('abstrakt', 1)}"
+
+#~ msgid "Create a strong password (min. 6 characters)"
+#~ msgstr "Stwórz silne hasło (minimum 6 znaków)"
+
+#~ msgid "Create Event"
+#~ msgstr "Utwórz wydarzenie"
+
+#~ msgid "Create User"
+#~ msgstr "Utwórz użytkownika"
+
+#~ msgid "Created:"
+#~ msgstr "Stworzona:"
+
+#~ msgid "Current Preset:"
+#~ msgstr "Aktualne ustawienie:"
+
+#~ msgid "Customize the appearance of your WordPress Abstracts site"
+#~ msgstr "Dostosuj wygląd swojej strony WordPress Abstracts"
+
+#~ msgid "CV"
+#~ msgstr "CV"
+
+#~ msgid "Debug Form Values"
+#~ msgstr "Wartości formularza debugowania"
+
+#~ msgid "Delete Selected ({selectedRowKeys.length})"
+#~ msgstr "Usuń wybrane ({selectedRowKeys.length})"
+
+#~ msgid "Disabled"
+#~ msgstr "Wyłączone"
+
+#~ msgid "Document Upload"
+#~ msgstr "Dokumenty"
+
+#~ msgid "Document Upload Disabled"
+#~ msgstr "Wyłączone przesyłanie dokumentów"
+
+#~ msgid "Document uploads have been disabled for this event."
+#~ msgstr "Dla tego zdarzenia nie utworzono żadnych niestandardowych pól"
+
+#~ msgid "Each license can be activated on up to 3 sites (may vary by plan)"
+#~ msgstr ""
+#~ "Każdą licencję można aktywować w maksymalnie 3 lokalizacjach (może się "
+#~ "różnić w zależności od planu)"
+
+#~ msgid "Email Templates"
+#~ msgstr "Szablony e-mail"
+
+#~ msgid "Enable Author Fields"
+#~ msgstr "Pola niestandardowe użytkownika"
+
+#~ msgid "Enter author email to check if they exist"
+#~ msgstr "Wpisz swój e-mail, aby otrzymać instrukcje resetowania"
+
+#~ msgid "Enter your basic account information to get started."
+#~ msgstr "Wprowadź podstawowe dane konta, aby zacząć."
+
+#~ msgid "Expires:"
+#~ msgstr "Wygasa:"
+
+#~ msgid "Export Settings"
+#~ msgstr "Eksportuj ustawienia"
+
+#~ msgid "Failed to assign chairs to some tracks"
+#~ msgstr "Nie udało się przypisać krzeseł do niektórych torów"
+
+#~ msgid "Failed to assign reviewers to some abstracts"
+#~ msgstr "Nie przypisano recenzentów do niektórych streszczeń"
+
+#~ msgid "Failed to load attachments"
+#~ msgstr "Nie udało się zapisać ustawień motywu"
+
+#~ msgid "Failed to load current reviewers"
+#~ msgstr "Nie udało się zapisać ustawień motywu"
+
+#~ msgid "Failed to load settings"
+#~ msgstr "Nie udało się zapisać ustawień motywu"
+
+#~ msgid "Failed to save progress, but you can continue"
+#~ msgstr "Nie udało się zapisać postępów, ale możesz kontynuować"
+
+#~ msgid "Failed to update reviewers"
+#~ msgstr "Nie udało się zaktualizować ról użytkowników"
+
+#~ msgid "Filter Status:"
+#~ msgstr "Filtruj według statusu"
+
+#~ msgid "found"
+#~ msgstr "znaleziono"
+
+#~ msgid "Go Back"
+#~ msgstr "Wstecz"
+
+#~ msgid "Image uploaded successfully"
+#~ msgstr "Przesłanie obrazu pomyślnie"
+
+#~ msgid "Invalid format. Expected: SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr ""
+#~ "Nieprawidłowy format klucza licencyjnego. Oczekiwany format: WPABS-XXXX-"
+#~ "XXXX-XXXX-XXXX"
+
+#~ msgid ""
+#~ "Invalid license key format. Expected format: SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr ""
+#~ "Nieprawidłowy format klucza licencyjnego. Oczekiwany format: WPABS-XXXX-"
+#~ "XXXX-XXXX-XXXX"
+
+#~ msgid "Invalid response from server"
+#~ msgstr "Nieprawidłowa odpowiedź z serwera"
+
+#~ msgid "Layout"
+#~ msgstr "Układ"
+
+#~ msgid "License deactivated."
+#~ msgstr "Licencja dezaktywowana."
+
+#~ msgid "License:"
+#~ msgstr "Licencja:"
+
+#~ msgid "Live Preview"
+#~ msgstr "Podgląd na żywo"
+
+#~ msgid "Loading assignments..."
+#~ msgstr "Ładowanie plików..."
+
+#~ msgid "Loading files..."
+#~ msgstr "Ładowanie plików..."
+
+#~ msgid "Manage your"
+#~ msgstr "Zarządzaj swoim"
+
+#~ msgid "My"
+#~ msgstr "Moje"
+
+#~ msgid "My Track"
+#~ msgstr "Śledź"
+
+#~ msgid "My Tracks"
+#~ msgstr "Śledź"
+
+#~ msgid "Name:"
+#~ msgstr "Nazwa:"
+
+#~ msgid "New installations have a 30-day trial period"
+#~ msgstr "Nowe instalacje objęte są 30-dniowym okresem próbnym"
+
+#~ msgid "New Track"
+#~ msgstr "Nowy tor"
+
+#~ msgid "No chairs assigned"
+#~ msgstr "Nie przydzielono żadnych krzesła"
+
+#~ msgid "No matching users found"
+#~ msgstr "Nie znaleziono dopasowanych użytkowników"
+
+#~ msgid "No reviewers currently assigned."
+#~ msgstr "Wybierz recenzentów do przypisania"
+
+#~ msgid "No tracks assigned"
+#~ msgstr "Nie przydzielono żadnych krzesła"
+
+#~ msgid "No users with track_chair role found."
+#~ msgstr "Nie znaleziono użytkowników z track_chair rolą."
+
+#~ msgid "Notification Settings"
+#~ msgstr "Ustawienia powiadomień"
+
+#~ msgid "Other"
+#~ msgstr "Inne"
+
+#~ msgid "Overview"
+#~ msgstr "Opinia"
+
+#~ msgid "Payments Add-On"
+#~ msgstr "Płatności"
+
+#~ msgid "Pending"
+#~ msgstr "Oczekujące"
+
+#~ msgid "Pending %s"
+#~ msgstr "Oczekujące"
+
+#~ msgid "Pending Review"
+#~ msgstr "Oczekujące Weryfikacji"
+
+#~ msgid "Please assign track_chair role to users first."
+#~ msgstr "Prosimy najpierw przypisać track_chair rolę użytkownikom."
+
+#~ msgid "Please enable the Reviews add-on to manage reviewers."
+#~ msgstr ""
+#~ "Prosimy o zainstalowanie i aktywację dodatku Recenzje, aby przypisywać "
+#~ "recenzentów i zarządzać recenzjami."
+
+#~ msgid "Please enter a username"
+#~ msgstr "Proszę wprowadzić nazwę użytkownika"
+
+#~ msgid "Please select at least one reviewer"
+#~ msgstr "Prosimy wybrać przynajmniej jednego recenzenta"
+
+#~ msgid "Please select at least one track chair"
+#~ msgstr "Proszę wybrać przynajmniej jedno krzesło lekkoatletyczne"
+
+#~ msgid "Poster"
+#~ msgstr "Plakat"
+
+#~ msgid "Presentation"
+#~ msgstr "Prezentacja"
+
+#~ msgid "Priority Support"
+#~ msgstr "Wsparcie priorytetowe"
+
+#~ msgid "Private"
+#~ msgstr "Prywatny"
+
+#~ msgid "Pro Features:"
+#~ msgstr "Funkcje Pro:"
+
+#~ msgid "Professional"
+#~ msgstr "Professional"
+
+#~ msgid "Public"
+#~ msgstr "Publiczny"
+
+#~ msgid "Recently"
+#~ msgstr "Ostatni"
+
+#~ msgid "Recover unsaved work?"
+#~ msgstr "Odzyskać niezapisane prace?"
+
+#~ msgid "Registration successful! Please check your email to confirm."
+#~ msgstr ""
+#~ "Rejestracja zakończona! Proszę sprawdzić swoją pocztę e-mail, aby się "
+#~ "upewnić."
+
+#~ msgid "Rejected"
+#~ msgstr "Odrzucone"
+
+#~ msgid "Retry"
+#~ msgstr "Spróbuj ponownie"
+
+#~ msgid "Review Progress"
+#~ msgstr "Wszyscy oceniający"
+
+#~ msgid "Review submissions as needed"
+#~ msgstr "Przeglądaj zgłoszenia w razie potrzeby"
+
+#~ msgid "Reviewer Health"
+#~ msgstr "Oceniający"
+
+#~ msgid "Reviewers Only"
+#~ msgstr "Wszyscy oceniający"
+
+#~ msgid "reviews, and profile from your personalized dashboard."
+#~ msgstr "Recenzje i profil z Twojego spersonalizowanego pulpitu."
+
+#~ msgid "Save Theme Settings"
+#~ msgstr "Zapisz ustawienia motywu"
+
+#~ msgid "Schedules Add-On"
+#~ msgstr "Dodatek Schedules Builder"
+
+#~ msgid "Schedules Builder"
+#~ msgstr "Builder rozkładów"
+
+#~ msgid "Search"
+#~ msgstr "Szukaj"
+
+#~ msgid "Search by Email"
+#~ msgstr "Wyszukaj adres mailowy"
+
+#~ msgid "Search by title or author..."
+#~ msgstr "Nazwa użytkownika lub email"
+
+#~ msgid "Select one or more reviewers"
+#~ msgstr "Wybierz jedno lub więcej krzeseł torowych"
+
+#~ msgid "Select one or more track chairs"
+#~ msgstr "Wybierz jedno lub więcej krzeseł torowych"
+
+#~ msgid "Select presentation roles for this author:"
+#~ msgstr "Wybierz role dla tego użytkownika:"
+
+#~ msgid "Select Reviewers"
+#~ msgstr "Wszyscy oceniający"
+
+#~ msgid "Select reviewers to assign"
+#~ msgstr "Wybierz recenzentów do przypisania"
+
+#~ msgid "Select Reviewers:"
+#~ msgstr "Wszyscy oceniający"
+
+#~ msgid "Select track chairs"
+#~ msgstr "Wybrane krzesła lekkoatletyczne"
+
+#~ msgid "Select Track Chairs"
+#~ msgstr "Wybrane krzesła lekkoatletyczne"
+
+#~ msgid ""
+#~ "Select track chairs to assign to all {selectedRowKeys.length} selected "
+#~ "tracks. The selected chairs will be added to all tracks."
+#~ msgstr ""
+#~ "Wybierz krzesła torowe, które przypiszesz do wszystkich "
+#~ "{selectedRowKeys.length} wybranych torów. Wybrane krzesła zostaną dodane do "
+#~ "wszystkich ścieżek."
+
+#~ msgid "Select users to assign as track chairs for this track."
+#~ msgstr ""
+#~ "Wybierz użytkowników, których przypiszesz do przypisania jako krzeseł na "
+#~ "torze."
+
+#~ msgid "Server returned invalid response (not JSON)"
+#~ msgstr "Serwer zwrócił nieprawidłową odpowiedź (nie JSON)"
+
+#~ msgid "Showing {trackChairUsers.length} user(s) with track_chair role"
+#~ msgstr ""
+#~ "Pokazywanie {trackChairUsers.length} użytkownika/użytkowników z track_chair "
+#~ "rolą"
+
+#~ msgid "SIMPLYCONF-XXXX-XXXX-XXXX-XXXX"
+#~ msgstr "WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid "Submit and manage your abstracts"
+#~ msgstr "Przesyłaj i zarządzaj swoimi streszczeniami"
+
+#~ msgid ""
+#~ "Successfully assigned {bulkSelectedChairs.length} chair(s) to "
+#~ "{selectedRowKeys.length} track(s)"
+#~ msgstr ""
+#~ "Pomyślnie przydzielono {bulkSelectedChairs.length} przewodniczącego do "
+#~ "{selectedRowKeys.length} toru(ów)"
+
+#~ msgid ""
+#~ "Successfully assigned {selectedReviewers.length} reviewer(s) to "
+#~ "{selectedRowKeys.length} abstract(s)"
+#~ msgstr ""
+#~ "Pomyślnie przydzielono {selectedReviewers.length} recenzentów do "
+#~ "{selectedRowKeys.length} streszczenia."
+
+#~ msgid "Supporting Doc"
+#~ msgstr "Dokument wspierający"
+
+#~ msgid "There was an error updating the settings. Please try again."
+#~ msgstr "Nie udało się usunąć zgłoszenia. Proszę, spróbuj ponownie."
+
+#~ msgid "Track chairs updated successfully"
+#~ msgstr "Krzesła torowe zaktualizowane pomyślnie"
+
+#~ msgid "Track your conference progress"
+#~ msgstr "Śledź postępy swojej konferencji"
+
+#~ msgid "Try adjusting your search or filters"
+#~ msgstr "Spróbuj dostosować wyszukiwanie lub filtry"
+
+#~ msgid "Unknown Author"
+#~ msgstr "Nieznany"
+
+#~ msgid "Unsaved Changes"
+#~ msgstr "Zapisz zmiany"
+
+#~ msgid ""
+#~ "Upload documents for your abstract. Your draft has been created and you can "
+#~ "now manage files."
+#~ msgstr ""
+#~ "Prześlij dokumenty do swojego streszczenia. Twój szkic został utworzony i "
+#~ "możesz teraz zarządzać plikami."
+
+#~ msgid "User %s"
+#~ msgstr "Użytkownik %s"
+
+#~ msgid "User created successfully"
+#~ msgstr "Użytkownicy ususzczeni pomyślnie"
+
+#~ msgid "Username can only contain letters, numbers, and underscores"
+#~ msgstr "Nazwa użytkownika może zawierać jedynie litery, cyfry i podkreślenia"
+
+#~ msgid "Username:"
+#~ msgstr "Nazwa użytkownika:"
+
+#~ msgid "View Details"
+#~ msgstr "Szczegóły"
+
+#~ msgid "We found an unsaved draft. Would you like to recover it?"
+#~ msgstr "Znaleźliśmy niezapisany szkic. Chciałbyś go odzyskać?"
+
+#~ msgid "WPA-PRO-XXXX-XXXX-XXXX"
+#~ msgstr "WPABS-XXXX-XXXX-XXXX-XXXX"
+
+#~ msgid ""
+#~ "You can upload documents for your abstract. Changes will be saved "
+#~ "automatically."
+#~ msgstr ""
+#~ "Możesz przesłać dokumenty do swojego streszczenia. Zmiany będą zapisywane "
+#~ "automatycznie."
+
+#~ msgid "You do not have permission to assign reviewers"
+#~ msgstr "Nie masz zgody na przypisywanie recenzentów do tego zgłoszenia"
+
+#~ msgid "You have unsaved changes"
+#~ msgstr "Masz niezapisane zmiany"
+
+#~ msgid "You have unsaved changes. Are you sure you want to leave?"
+#~ msgstr "Czy jesteś pewien, że chcesz usunąć"
+
+#~ msgid "Your logo will appear here in the live preview"
+#~ msgstr "Twoje logo pojawi się tutaj w podglądzie na żywo"
+
+#~ msgid "your@email.com"
+#~ msgstr "twój@email.com"
+
+#~ msgid "%s: Licensed"
+#~ msgstr "%s: Licencjonowany"
+
+#~ msgid "Activate your license"
+#~ msgstr "Aktywowanie licencji"
+
+#~ msgid "Activation failed. Please check your license key and try again."
+#~ msgstr ""
+#~ "Aktywacja się nie powiodła. Proszę sprawdzić swój klucz licencyjny i "
+#~ "spróbować ponownie."
+
+#~ msgid "Allow submitters to select their preferred presentation format"
+#~ msgstr "Pozwól zgłaszającym wybrać preferowany format prezentacji"
+
+#~ msgid "Approved"
+#~ msgstr "Zatwierdzone"
+
+#~ msgid "Assign Reviewers - %s"
+#~ msgstr "Przydziel recenzentów"
+
+#~ msgid "Connection error: %s"
+#~ msgstr "Błąd połączenia: %s"
+
+#~ msgid "contact support"
+#~ msgstr "Skontaktuj się z pomocą techniczną"
+
+#~ msgid "Current Reviewers:"
+#~ msgstr "Wszyscy oceniający"
+
+#~ msgid "Default Status for New Submissions"
+#~ msgstr "Domyślny status nowych zgłoszeń"
+
+#~ msgid "Enable Presenter Preferences"
+#~ msgstr "Włącz preferencje prezentera"
+
+#~ msgid "Field Configuration"
+#~ msgstr "Konfiguracja"
+
+#~ msgid "Field Settings"
+#~ msgstr "Ustawienia pól"
+
+#~ msgid "for assistance."
+#~ msgstr "do pomocy."
+
+#~ msgid "Include Co-Authors in Notifications"
+#~ msgstr "Uwzględnij współautorów w powiadomieniach"
+
+#~ msgid "Invalid API response"
+#~ msgstr "Nieprawidłowa odpowiedź API"
+
+#~ msgid "License activated successfully"
+#~ msgstr "Licencja aktywowana pomyślnie"
+
+#~ msgid "License deactivated successfully"
+#~ msgstr "Licencja dezaktywowana pomyślnie"
+
+#~ msgid "Loading user information..."
+#~ msgstr "Ładowanie niestandardowych pól..."
+
+#~ msgid "Make affiliation field mandatory for all authors"
+#~ msgstr "Uczyń pole afiliacji obowiązkowym dla wszystkich autorów"
+
+#~ msgid "Make ORCID field mandatory for all authors"
+#~ msgstr "Uczyń pole ORCID obowiązkowym dla wszystkich autorów"
+
+#~ msgid "No abstract provided"
+#~ msgstr "Nie podano"
+
+#~ msgid "No keywords provided"
+#~ msgstr "Nie podano"
+
+#~ msgid "No license activated"
+#~ msgstr "Nie aktywowano licencji"
+
+#~ msgid "No license found to deactivate"
+#~ msgstr "Nie znaleziono licencji na dezaktywację"
+
+#~ msgid "No license key found"
+#~ msgstr "Nie znaleziono klucza licencyjnego"
+
+#~ msgid "No submissions found for your assigned tracks."
+#~ msgstr "Nie znaleziono żadnych zgłoszeń dla przypisanych ci utworów."
+
+#~ msgid "Once Daily (SimplyConf)"
+#~ msgstr "Once Daily (streszczenia WP)"
+
+#~ msgid "Renew your license"
+#~ msgstr "Odnów swoją licencję"
+
+#~ msgid "Require Affiliation"
+#~ msgstr "Wymagaj afiliacji"
+
+#~ msgid "Require one author to be designated as the presenter"
+#~ msgstr "Wymagaj, aby jeden autor był wyznaczony jako prowadzący"
+
+#~ msgid "Require ORCID"
+#~ msgstr "Wymagane"
+
+#~ msgid "Require Presenter Designation"
+#~ msgstr "Wymagaj oznaczenia prezentera"
+
+#~ msgid "Show Terms & Conditions"
+#~ msgstr "Wyświetl regulamin"
+
+#~ msgid "Status automatically assigned to new submissions"
+#~ msgstr "Status automatycznie przypisany nowym zgłoszeniom"
+
+#~ msgid ""
+#~ "Successfully migrated address data for %d events to new structured format."
+#~ msgstr ""
+#~ "Pomyślnie przeniesiono dane adresowe dla %d zdarzeń do nowego, "
+#~ "ustrukturyzowanego formatu."
+
+#~ msgid "Under Review"
+#~ msgstr "W trakcie sprawdzania"
+
+#~ msgid "Using cached status (API unavailable)"
+#~ msgstr "Używanie statusu buforowanego (API niedostępne)"
+
+#~ msgid ""
+#~ "When enabled, all co-authors will receive email notifications about abstract"
+#~ " status changes"
+#~ msgstr ""
+#~ "Po włączeniu wszyscy współautorzy będą otrzymywać powiadomienia e-mail o "
+#~ "zmianach statusu abstrakcji"
+
+#~ msgid "You do not have permission to manage reviewers for this submission"
+#~ msgstr "Nie masz zgody na zarządzanie recenzentami tego zgłoszenia"
+
+#~ msgid "You have %d days remaining in your trial period."
+#~ msgstr "Masz %d dni do końca okresu próbnego."
+
+#~ msgid "Your license has expired."
+#~ msgstr "Twoje prawo jazdy wygasło."
+
+#~ msgid "Your license is invalid or has been suspended."
+#~ msgstr "Twoje prawo jazdy jest nieważne lub zostało zawieszone."
+
+#~ msgid "Your trial period has expired."
+#~ msgstr "Twój okres próbny się skończył."

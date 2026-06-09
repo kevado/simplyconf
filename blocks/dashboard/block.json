@@ -1,0 +1,32 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 3,
+	"name": "simplyconf/dashboard",
+	"version": "1.0.0",
+	"title": "SimplyConf Dashboard",
+	"category": "widgets",
+	"icon": "screenoptions",
+	"description": "Frontend dashboard for conference participants to manage their submissions and registrations.",
+	"keywords": ["simplyconf", "dashboard", "conference"],
+	"textdomain": "simplyconf",
+	"supports": {
+		"align": ["full"],
+		"reusable": false,
+		"html": false,
+		"customClassName": false
+	},
+	"attributes": {
+		"align": {
+			"type": "string",
+			"default": "full"
+		},
+		"eventId": {
+			"type": "number",
+			"default": 1
+		},
+		"hideTitle": {
+			"type": "boolean",
+			"default": false
+		}
+	}
+}
