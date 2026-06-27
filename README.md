@@ -134,7 +134,8 @@ npm run i18n:build
 
 ### Community
 - [WordPress.org Support Forum](https://wordpress.org/support/plugin/simplyconf/)
-- [GitHub Issues](https://github.com/simplyconf/simplyconf/issues)
+- [GitHub Repository](https://github.com/kevado/simplyconf)
+- [GitHub Issues](https://github.com/kevado/simplyconf/issues)
 
 ## Changelog
 

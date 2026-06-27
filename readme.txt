@@ -36,6 +36,8 @@ Extend SimplyConf with premium add-ons available at [simplyconf.com](https://sim
 * **Schedules** — Visual schedule builder, multi-track sessions, room management
 * **Exports** — CSV exports, PDF abstract book generation, conference program PDFs
 
+The full source code is publicly available on GitHub: [https://github.com/kevado/simplyconf](https://github.com/kevado/simplyconf)
+
 == External Services ==
 
 = Google reCAPTCHA =
@@ -56,6 +58,8 @@ No data is sent to Google unless reCAPTCHA has been explicitly enabled by the si
 * API endpoint called: https://www.google.com/recaptcha/api/siteverify
 
 == Source Code ==
+
+The full source code for SimplyConf is publicly available on GitHub: https://github.com/kevado/simplyconf
 
 SimplyConf is built using React and webpack. The compiled files in the `dist/` directory are generated from source files located in the `src/` directory. The full human-readable source code — including all React components, Redux state, and build configuration — is included in the plugin package under `src/`, `webpack.config.js`, and `package.json`.
 
